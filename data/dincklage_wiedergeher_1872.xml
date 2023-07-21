@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Wiedergeher</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_wiedergeher_1872</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Die Wiedergeher, 1872.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die Wiedergeher</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1872</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 1–53</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die Wiedergeher</titlePart>
+         </docTitle>
+         <docAuthor>Emmy von Dincklage</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0015" n="1" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=15"/>Die Wiedergeher.<lb/>I.<lb/>Samson.<lb/>Mar’ Joſef, Mann, ſo komm'<lb/>doch herauf und laß den Pe-<lb/>ter weiter zapfen, ich bin in<lb/>einer Angſt, ich weiß nicht<lb/>wo mir der Kopf ſteht!“ Die<lb/>Wirthin hatte die Thür des<lb/>Kellers aufgeriſſen und dieſe<lb/>Worte, in einem ängſtlichen, faſt ſchreienden Ge-<lb/>flüſter, dem Bier zapfenden Eheherrn vernehmlich<lb/>gemacht. Mit ihr drang ein Lichtſtrahl in die<lb/>Tiefe und der ſchrille Ton einer Violine, neben<lb/>welcher eine, offenbar ſehr übel berathene Baß-<lb/>geige ſummſte und knurrte.<lb/>
+               <pb facs="#0018" n="4" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=18"/>„Was giebt es denn wieder, Lisbeth?“ fragte<lb/>der Wirth, die Treppe emporſteigend. Er hatte<lb/>keinen Rock an, ſondern präſentirte ſich in den<lb/>Aermeln einer blauen Friesjacke, über welche er<lb/>die Weſte gezogen hatte.<lb/>
+            </p>
+            <p> <lb/>„Der rothe Steffen iſt da,“ flüſterte die Frau;<lb/>„er iſt heute wilder denn je und hat eben einen<lb/>harten Thaler hingelegt, nun müſſen die Muſi-<lb/>kanten für ihn ganz allein ein Spiel aufſtreichen<lb/>und darf Keiner tanzen außer ihm. Die anderen<lb/>Burſche ſtecken ſchon die Köpfe zuſammen — Gott<lb/>im Himmel, das wird heute blutige Schädel ſetzen,<lb/>wenn die ſchon ſo anfangen ! Wenn der Steffen<lb/>auf ein Bier kommt, dann weiß man vor dem<lb/>Beginn das Ende!“<lb/>
+            </p>
+            <p> <lb/>„Für <hi rendition="#g">welche</hi> hat er denn aufgelegt?“ fragte<lb/>der Wirth und kratzte ſich hinter den Ohren.<lb/>
+            </p>
+            <p> <lb/>„Für die vom Tungenhofe.“<lb/>
+            </p>
+            <p> <lb/>„Die vom Tungenhofe — iſt das eine alberne<lb/>Antwort, weiß ich denn nun, ob die Arme oder die<lb/>Reiche —? und das iſt ein verfluchter Unterſchied!“<lb/>
+            </p>
+            <p> <lb/>„Ich habe geſagt <hi rendition="#g">die vom Tungenhofe</hi>,“<lb/>rief die Wirthin herausfordernd, „und ſage es noch<lb/>einmal, denn er tanzt mit <hi rendition="#g">beiden</hi> Mädchen, bald<lb/>mit der Marianne, bald mit der Thekla — heili-<lb/>
+               <pb facs="#0019" n="5" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=19"/>ger Chriſtof, da geht's ſchon los, verſchließ wenig-<lb/>ſtens dem Steffen ſeine Flinte, ſie ſteht da neben<lb/>dem Laden!“<lb/>
+            </p>
+            <p> <lb/>„Aufhören, aufhören!“ ſchrieen die Burſche<lb/>drinnen.<lb/>
+            </p>
+            <p> <lb/>„Juch — weiter tanzen!“ ſchrie der rothe<lb/>Steffen und ſchwenkte die dralle Thekla, daß die<lb/>Schleifen an ihrer Haube wie Flügel in der Luft<lb/>ſchwammen.<lb/>
+            </p>
+            <p> <lb/>„Laß mich, Steffen, die Jungen lärmen ſo und<lb/>ich bin müde!“ bat geängſtigt die Tänzerin.<lb/>
+            </p>
+            <p> <lb/>Steffen ließ ſie mitten in der Tanzkammer<lb/>los und ſagte mit einem böſen Lachen: „Du fürch-<lb/>teſt Dich —pah, ſollteſt doch wiſſen, wie viel meine<lb/>Fäuſte im Emslande wiegen. Komm her, Mari-<lb/>anne — oder haſt Du auch Schrecken?“<lb/>
+            </p>
+            <p> <lb/>„Schrecken habe ich nicht, aber auch keine<lb/>Freude; haben meine Freundinnen ihre Schuhe<lb/>geſchmiert, um auf der Bank zu ſitzen und uns<lb/>tanzen zu ſehen?“<lb/>
+            </p>
+            <p> <lb/>„Haſt Recht, Marianne,“ lachte Steffen, „ob-<lb/>wohl Du nur deshalb ſo klug redeſt, weil Dir ein<lb/>Anderer lieber iſt als ich — o <hi rendition="#g">Du!</hi>“<lb/>
+            </p>
+            <p> <lb/>„Nun, und iſt Dir die Thekla nicht auch lieber<lb/>als ich?“<lb/>
+               <pb facs="#0020" n="6" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=20"/>„Blitzmädchen, wer ſagt, daß mir die Thekla<lb/>lieber iſt als Du? Ich nehme Dich für den ganzen<lb/>Abend, und wenn der letzte Strich geſpielt iſt,<lb/>wirſt Du mir ſagen, wen ich am liebſten hab'!“<lb/>
+            </p>
+            <p> <lb/>„Ich laſſe mich nicht nehmen von einem Jungen,<lb/>der das Meſſer im Wamſe trägt !“<lb/>
+            </p>
+            <p> <lb/>Steffen zog das Meſſer aus der linken Bruſt-<lb/>taſche und zerbrach es in drei Stücke, erſt die<lb/>Klinge, die von Schmiedeeiſen war, dann den<lb/>ſtarken Holzgriff. „Hurrah!“ ſchrieen die anderen<lb/>Burſche, denn jeder geſunde Menſch ſieht gern<lb/>eine ungewöhnliche Kraft.<lb/>
+            </p>
+            <p> <lb/>„Da —!“ ſagte Steffen und reichte ihr die<lb/>halbe Meſſerklinge, indem er die andere Hälfte<lb/>ſelbſt in die Taſche ſchob. „Jetzt, Marianne, wiſſen<lb/>wir, wie es mit uns <hi rendition="#g">anfing</hi>, und es muß ſich<lb/>zeigen, wie es <hi rendition="#g">endet</hi>! Komm' her, tanz mit mir,<lb/>Du kannſt mir befehlen Alles was ich thun ſoll,<lb/>nur darfſt Du Dich nicht fürchten — dann iſt's<lb/>aus. Alles fürchet ſich vor mir, ſogar die böſen<lb/>Hunde, das giebt mir einen Grimm, ich möchte<lb/>wie toll dreinſchlagen und thue es auch, Gott<lb/>ſei's geklagt. Wenn ſie ſich nicht fürchteten, Du<lb/>ſiehſt es, ich würde ſein wie ein Lamm!“<lb/>
+            </p>
+            <p> <lb/>Thekla ging hinaus in die Küche und ſetzte<lb/>
+               <pb facs="#0021" n="7" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=21"/>ſich neben das Feuer, als wollte ſie ſich die Füße<lb/>wärmen, die Wirthin ſah es aber wohl, daß ſie<lb/>Thränen in den Augen hatte und nicht reden<lb/>konnte, ſo ſehr war ihr Herz vor Kummer ge-<lb/>ſchwollen.<lb/>
+            </p>
+            <p> <lb/>„Willſt Du mir den Torfkorb anfaſſen helfen?“<lb/>fragte die gutmüthige Wirthin und ging hinaus<lb/>in die dunkle Diele; die Dunkelheit iſt für den<lb/>Schmerz wie eine Schweſter, die ihn liebend in die<lb/>Arme zieht. Die Wirthin benutzte einen matten<lb/>Schimmer, welcher durch eine Dachluke fiel, ih-<lb/>ren Korb zu füllen, und ſagte dann: „Du ſollteſt<lb/>nicht um den Steffen weinen, Thekla, Kind, das<lb/>überlaſſe Derjenigen, die ſeine Frau wird!“<lb/>
+            </p>
+            <p> <lb/>„Ja, wenn ich Marianne ihr Geld hätte,“<lb/>ſchluchzte Thekla, „wahrhaftig, er würde mich nicht<lb/>ſo mitten in der Tanzkammer ſtehen laſſen! Aber<lb/>alles Unglück kommt auf mich. Mein Vater ver-<lb/>zürnt ſich mit meinem Großvater, und der vermacht<lb/>Haus und Hof auf Marianne, als ob er nicht<lb/>eben ſo gut Großvater über mich wäre! Was<lb/>habe ich gethan, daß <hi rendition="#g">ich</hi> eine Magd bin und <hi rendition="#g">ſie</hi>
+               <lb/>eine Bäuerin iſt? Nichts, nichts, ich lag noch in<lb/>der Wiege, als mir mein Erbe genommen wurde.<lb/>Dann, als wir Beide groß waren, kam Clas Gröne<lb/>
+               <pb facs="#0022" n="8" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=22"/>auf den Hof und half mit zimmern an der neuen<lb/>Scheune. Clas iſt ein ſo guter, ſtiller Junge als<lb/>nur einer, wir gingen eine Zeit lang mit einander,<lb/>auf einmal war's aus, Marianne ſagte ihm hier<lb/>und da ein gutes Wort und bei der Tafel ſahen<lb/>ſie ſich an, na — <hi rendition="#g">ihre</hi> Alte wollte nichts davon<lb/>wiſſen, aber Marianne ſagte mir, ſie würde den<lb/>Clas heirathen und zum Bauern machen. Der<lb/>Vormund verlangt, ſie muß warten bis ſie mündig<lb/>iſt, und ſo ging Clas Gröne in der Maizeit nach<lb/>Holland, wo er den ganzen Sommer auf Zimmerei<lb/>blieb. Ich habe nichts zu Clas Gröne geſagt, er<lb/>muß ſehen, daß er in der Welt zurecht kommt,<lb/>ich bin arm und bringe ihm nichts von dem Tun-<lb/>genhof als eine Ausrüſtung und die goldene Kette;<lb/>mit Marianne wird er ein Großer in der Ge-<lb/>meinde. Arme Leute müſſen gehen, wo ſie den<lb/>Brodſchrank finden. Aber der rothe Steffen hat<lb/>ſelbſt ſeine Plaatze und zwei Spann Pferde, er,<lb/>der ſich vor Niemand bückt, braucht ſich auch nicht<lb/>vor dem Gelde zu bücken! So iſt es, Möke!“ ſchloß<lb/>Thekla ihre heftige Rede. Möke oder Tante iſt<lb/>ein verwandtſchaftlicher Ehrentitel, den im Ems-<lb/>lande jüngere Leute älteren Frauen geben, auch<lb/>wenn ſie nicht zur Blutsfreundſchaft gehören.<lb/>
+               <pb facs="#0023" n="9" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=23"/>„Gieb Dich zufrieden, Kind,“ ermahnte die<lb/>Wirthin und ſchob ihr den Henkel des Torfkorbes<lb/>hin. „Wenn ſie den Clas ſitzen läßt und den<lb/>Steffen nimmt, ſo geht die Reue mit ihr zu<lb/>Bett und ſteht der Kummer mit ihr auf.“<lb/>
+            </p>
+            <p> <lb/>Während Thekla ihre Couſine ſo bitter an-<lb/>klagte, ſaß dieſe erhobenen Hauptes neben dem<lb/>rothen Steffen in der Tanzkammer, und vor ihnen,<lb/>auf einem Tiſche, ſtand eine Flaſche Wein mit<lb/>zwei Gläſern, eine rieſenhafte Butter, Roggen-<lb/>brod, gekochter Schinken und holländiſcher Käſe.<lb/>Dies iſt die Bewirthung, die ein ordentlicher<lb/>Bauer ſeiner Tänzerin, welche er für den ganzen<lb/>Abend engagirt, vorzuſetzen pflegt, indeß eine<lb/>beſcheidenere Menſchenſorte ihr Gefühl durch Kaf-<lb/>fee, Bier oder Schnaps verſtändlich macht.<lb/>
+            </p>
+            <p> <lb/>Marianne und Thekla glichen ſich äußerlich<lb/>ſehr, ihre Väter waren Brüder und bei conſerva-<lb/>tiven Volksſtämmen bleiben auch die Phyſiogno-<lb/>mien conſervativ und familienhaft. Beide waren<lb/>hübſche, blühende Mädchen von zwanzig Jahren,<lb/>Marianne, die Erbin, ſah muthiger aus als<lb/>Thekla, welche ſich von klein auf als eine un-<lb/>gerecht Uebervortheilte betrachten mußte. Sie<lb/>gingen innerlich in vielen Dingen ſehr ausein-<lb/>
+               <pb facs="#0024" n="10" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=24"/>ander, obwohl ſie gleich Schweſtern erzogen<lb/>waren, nur in Herzensangelegenheiten begegneten<lb/>ſie ſich zu Thekla's Unglück; Letztere war nicht<lb/>nur die ärmere, ſondern auch die ernſtere von<lb/>beiden Mädchen, und eine ehrbare Heiterkeit übt<lb/>in allen Ständen eine anziehende Wirkung.<lb/>
+            </p>
+            <p> <lb/>Ehrbar iſt die Bäuerin des Emslandes; als<lb/>der rothe Steffen ſich jetzt den Mund auf ſeinem<lb/>Aermel gewiſcht hatte und ſeinen ſtarken und<lb/>gefürchteten Arm um Marianne legen wollte,<lb/>blickte ſie ihm in die lichtbraunen, funkelnden<lb/>Augen und ſagte: „Laß das, Steffen, Du weißt<lb/>ja, daß ich dem Clas gehöre!“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß, daß Du ihm <hi rendition="#g">nicht</hi> gehörſt!“ ſagte<lb/>Steffen und faßte ſie feſter in ſeinen Arm, „das<lb/>Weibchen des Sperbers blickt nicht auf den Tau-<lb/>ber in Liebe und verſteht ſein Gurren nicht; Kind,<lb/>nimm Dir keinen Jaſager, keinen Mann, der<lb/>ſchweigen <hi rendition="#g">muß</hi>, wenn Du redeſt, weil Du ſtolz,<lb/>reich und klug biſt, und er Alles <hi rendition="#g">von Dir</hi> hat<lb/>und Nichts von <hi rendition="#g">ſich</hi>. Nichts will hinunter wach-<lb/>ſen auf dem Felde, Alles in die Höhe, und die<lb/>Liebe will auch in die Höhe wachſen, ſonſt fault<lb/>und verkommt ſie am Boden und die Leute treten<lb/>darauf. <hi rendition="#g">Du gehörſt ihm nicht!</hi>“<lb/>
+               <pb facs="#0025" n="11" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=25"/>„Schäme Dich, Steffen,“ rief das Mädchen<lb/>unwillig, „einen Jungen zu beleidigen, der ſich<lb/>nicht wehren kann! Niemand vermag ein böſes<lb/>Wort über Clas Gröne zu ſagen, aber jedes Kind<lb/>weiß eine ſchlimme Geſchichte von dem rothen<lb/>Steffen, und wenn die Kleinen nicht gut thun<lb/>wollen, ſo wird ihnen mit Dir gedroht.“<lb/>
+            </p>
+            <p> <lb/>„Ja, ſo iſt es!“ ſagte der Burſche ſtolz und<lb/>ſtrich über ſein friſches, faſt mädchenhaftes Ge-<lb/>ſicht, das jene angemalten Farben zeigte, die ſich<lb/>gern dem krauſen und ſtraffen rothen Haar<lb/>geſellen.<lb/>
+            </p>
+            <p> <lb/>„Laß mich los!“ gebot Marianne.<lb/>
+            </p>
+            <p> <lb/>„Nie !“ entgegnete Steffen, und eine leiden-<lb/>ſchaftliche Gluth überflog ſein Antlitz bis an die<lb/>Haarwurzeln, ſo daß es ausſah, als züngelte<lb/>plötzlich eine Flamme empor, die in den rothen<lb/>Haaren fortloderte.<lb/>
+            </p>
+            <p> <lb/>Mariannens Herzſchlag ſtockte einen Moment,<lb/>ſie fühlte, als wären ihr Stricke um Hände und<lb/>Füße gelegt, aber ſich gewaltſam ermannend, mur-<lb/>melte ſie: „Du willſt alſo an Clas, der mein<lb/>Verlobter iſt, zum Diebe werden?“<lb/>
+            </p>
+            <p> <lb/>„Oho, Schatz, Clas wurde zum Diebe an mir,<lb/>als er ſeine Zimmermannsfauſt nach Dir aus-<lb/>
+               <pb facs="#0026" n="12" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=26"/>ſtreckte. Du gehörſt mir von Natur, mein Kind,<lb/>freue Dich, daß ich den Clas nicht erſt bei Seite<lb/>ſchaffen muß um zu Dir zu kommen — denn<lb/>Dich haben <hi rendition="#g">muß</hi> ich! Am kommenden Sonntag<lb/>iſt der Verſpruch!“<lb/>
+            </p>
+            <p> <lb/>Während Steffen die Worte „bei Seite<lb/>ſchaffen“ langſam und faſt ziſchend ausſprach,<lb/>indem er ſich flüſternd ihrem Ohre zuneigte, glitt<lb/>ſeine freie Hand über diejenige Taſche ſeines<lb/>Wamſes, in welcher er das zerbrochene Meſſer<lb/>verwahrte. Marianne hatte das Stück Meſſerklinge,<lb/>welches er ihr gab, in ihr Bruſttuch geſchoben, und<lb/>ſie glaubte jetzt die Kälte des Eiſens bis auf die<lb/>Haut zu empfinden.<lb/>
+            </p>
+            <p> <lb/>„Er wird Dir fluchen, Dir und mir!“ ſagte<lb/>das Mädchen vor innerem Entſetzen.<lb/>
+            </p>
+            <p> <lb/>„Ha! ha! ha! armer Junge, iſt das ſeine<lb/>einzige Waffe — pah, die fürchtet der rothe<lb/>Steffen nicht!“ Er zog Marianne neben ſich in<lb/>die Höhe und ſchlug an's Glas, als ob er eine<lb/>Geſundheit ausbringen wollte. Die Tänzer, welche<lb/>das Paar bereits beobachtet hatten, blieben neu-<lb/>gierig ſtehen, Violine und Baßgeige brachen mit<lb/>einem ſchrillen Mißtone ab und es entſtand eine<lb/>ſtille Pauſe in dem eben noch ſo bewegten Kreiſe.<lb/>
+               <pb facs="#0027" n="13" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=27"/>Die Staubwolken, welche die düſteren Lampen an<lb/>der Wand verſchleiert hatten, ſenkten ſich langſam<lb/>dem Fußboden zu.<lb/>
+            </p>
+            <p> <lb/>„Seht hier meine Braut!“ rief Steffen, „ja,<lb/>blickt uns an, wir Zwei fürchten uns nicht, wir<lb/>ſcheuen uns weder vor Lebendigen noch vor<lb/>Todten!“<lb/>
+            </p>
+            <p> <lb/>Ein dumpfes Gemurmel folgte dieſer Mit-<lb/>theilung, die Mädchen bekreuzigten ſich über ihre<lb/>tanzglühenden, erregten Geſichter, und eine von<lb/>ihnen rief: „Jeſus Maria, Du ſcheueſt auch die<lb/>Wiedergeher nicht, die im Grabe keine Ruhe finden<lb/>und Nachts durch verſchloſſene Thüren eintreten?“<lb/>
+            </p>
+            <p> <lb/>„Ha, ha —“ lachte Steffen, „mögen die<lb/>Todten kommen, wenn ſie können, ich und Mari-<lb/>anne, wir haben keinen Schreck ihrethalben.“<lb/>
+            </p>
+            <p> <lb/>„Wer mit dem Teufel im Bunde iſt, der<lb/>fürchtet die Wiedergeher nicht!“ rief der Sohn<lb/>des Müllers.<lb/>
+            </p>
+            <p> <lb/>Steffen fuhr wieder nach der Taſche, ſagte<lb/>aber dann: „Sie hat mich das Meſſer zerbrechen<lb/>laſſen, Du magſt heute ſo hingehen; Jan, Muſi-<lb/>kanten, hier iſt noch ein Thaler, ſpielt mir und<lb/>der Marianne den Brauttanz, und ihr Anderen<lb/>folgt mir, daß es eine Freude iſt!“<lb/>
+               <pb facs="#0028" n="14" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=28"/>Marianne hatte ſich losreißen wollen, aber<lb/>ſie war wie gelähmt, ſie hatte reden, widerſprechen<lb/>wollen, aber ihre Zunge klebte an dem trocknen<lb/>Gaumen, ehe ſie ſich noch regte fühlte ſie Stef-<lb/>fen's brennende Lippen auf den ihrigen, es war<lb/>ein Kuß wie ein feuriges Siegel, und dann<lb/>ſtand ſie auf und ſchritt den Tanzenden voran<lb/>durch die Windungen des Kehraus oder Groß-<lb/>vatertanzes, den Steffen gar zierlich zu führen<lb/>wußte. Zuweilen glaubte Marianne, ſie träume<lb/>nur, bis ſie ſich wieder von Steffen erfaßt und<lb/>umhergewirbelt fühlte. Der Vortänzer verließ<lb/>den Tanzſaal und ging in die Küche, um von da<lb/>die Straße zu erreichen, denn er gedachte durch<lb/>das Dorf und über den Kirchhof zu gehen, hart<lb/>auf ſeinen Ferſen die Geiger und dann die übri-<lb/>gen Tänzer. Es ging mit Juchhe und Geſchrei<lb/>durch die übelgepflaſterten Dorfſtraßen. Dann<lb/>ſchwenkte Steffen links um und die Tänzer ſtanden<lb/>vor dem Kirchhof. Die Thurmuhr ſchlug Mitter-<lb/>nacht — der Geiger ließ den Bogen von den<lb/>ſchwirrenden Saiten gleiten. „Spiel' weiter, oder<lb/>Du biſt ein Kind des Todes! Spiel' weiter, elender<lb/>Lump, ich gebe Dir eine gold'ne Piſtole, wenn<lb/>Du's hübſch luſtig machſt!“ Der Mann ſpielte<lb/>
+               <pb facs="#0029" n="15" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=29"/>mit klappernden Zähnen ſeine luſtigſte Weiſe und<lb/>Steffen ſang dazu:<lb/>
+            </p>
+            <p> <lb/>Haid Windken weih !<lb/>Marianne is de Moje,<lb/>Haid Windken Weih!<lb/>Se hef 'ne moje Krone,<lb/>Haid Windken weih!<lb/>Well sall de Krone winnen?<lb/>Haid Windken weih!<lb/>De Krone de hört Steffen,<lb/>Haid Windken weih!<lb/>
+            </p>
+            <p> <lb/>in der landesüblichen, niederdeutſchen Mundart,<lb/>welche die Mutterſprache der zitternden Tänzer-<lb/>ſchaar war. Der Kirchthür gegenüber ſtand ein<lb/>ſchweres hölzernes Kreuz mit der faſt lebensgroßen<lb/>Figur des Heilandes daran. „Halt!“ donnerte<lb/>Steffen den Nachtänzern zu.<lb/>
+            </p>
+            <p> <lb/>„Habt ihr von dem ſtarken Samſon gehört?“<lb/>fragte der Rothe. „Er hob die Thore einer Stadt<lb/>aus und trug ſie auf einen Berg und riß die<lb/>Säulen eines Tempels ein. Ich werde, Marianne<lb/>meiner Braut zu Ehren, dieſes Kreuz auf mich<lb/>nehmen. Wer hat es denn geſetzt?“<lb/>
+            </p>
+            <p> <lb/>„Der Zimmermann Clas Gröne!“ entgegnete<lb/>Jemand.<lb/>
+            </p>
+            <p> <lb/>„Nun, da wird's nicht allzu tief ſtehen, was<lb/>kann ein ſolches Kaninchen denn Großes geleiſtet<lb/>
+               <pb facs="#0030" n="16" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=30"/>haben —? Marianne, paß auf — eins — zwei<lb/>— drei —“<lb/>
+            </p>
+            <p> <lb/>Er ſtreifte ſeine Aermel auf und ſtürzte ſich<lb/>auf das Crucifix. Plötzlich ertönte ein Angſtſchrei,<lb/>hinter dem Stamm des Kreuzes erhob ſich eine<lb/>dunkle Geſtalt und eilte haſtig an der Friedhofs-<lb/>mauer entlang von dannen.<lb/>
+            </p>
+            <p> <lb/>„Oho!“ rief Steffen durch die Stille des all-<lb/>gemeinen Entſetzens, „beteſt Du hier um Mitter-<lb/>nacht? Das iſt eine üble Stunde, geh' ſchlafen,<lb/>Thekla, geh' ſchlafen!“<lb/>
+            </p>
+            <p> <lb/>Dann faßte er das Kreuz, das einige Se-<lb/>cunden ſeinen gewaltſamen Angriffen widerſtand,<lb/>man ſah den Gekreuzigten, der ſich deutlich im<lb/>Zwielicht von dem dunkleren Hintergrund ab-<lb/>hob, hin und her ſchwanken, und endlich neigte er<lb/>ſich ganz auf die Seite, der Erde zu. Die Mäd-<lb/>chen ſchrieen auf und entflohen, die Burſchen mur-<lb/>melten, ſie hätten keine Luſt wegen Frevels an ge-<lb/>weihtem Kirchengut vor Gericht zu ſtehen, und<lb/>drückten ſich dem Wirthshauſe zu, der Violiniſt<lb/>fürchtete ſich zu ſehr vor Steffen um zu ent-<lb/>fliehen, er kniete neben Marianne, die ſtill und<lb/>regungslos dem Gebaren ihres neuen Verlobten<lb/>zuſchaute. Sie war oft vorüber gegangen, als<lb/>
+               <pb facs="#0031" n="17" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=31"/>Clas Gröne das heilige Zeichen hier aufrichtete<lb/>und davor den Betſchemel einrammte; wenn ſie dann<lb/>neben ihm ſtill ſtand, hatte er ſeine milden blauen<lb/>Augen auf ſie gerichtet und mit ſeinem ehrlichen<lb/>Lächeln einige freundliche Worte geſagt. Einmal<lb/>ſprach er: „Während ich das da aufgeſtellt habe,<lb/>dachte ich immer an Dich, Marianne, nun iſt<lb/>mir's, als müßten Alle, die hier künftig nieder-<lb/>knieen, in ihrem Gebete Deiner gedenken!“<lb/>
+            </p>
+            <p> <lb/>Marianne fühlte wieder das kalte Eiſen auf<lb/>ihrer Bruſt, bis in's innerſte Leben hinein —<lb/>wär's nicht beſſer, ſie erklärte jetzt Steffen, daß<lb/>ſie ihn doch nicht wolle? oder am allerbeſten, ſie<lb/>ſtürzte ſich in die Ems, die tiefblau und murmelnd<lb/>zwiſchen den nächtlich dunklen Ufern dahin zog?<lb/>— Was war denn nun ihre Zukunft — wenn ſie<lb/>ſich für Clas erklärte ? konnte der Sanfte ſie den<lb/>ſprühenden, wilden Steffen vergeſſen machen? Und<lb/>ward ſie Steffen's Frau — wie würde Clas den<lb/>Schlag ertragen, wie würde ſie ſelbſt den Liebes-<lb/>traum begraben können, der ſie dem jungen, tief-<lb/>fühlenden Manne verband?<lb/>
+            </p>
+            <p> <lb/>„Wohin willſt Du, daß ich das Kreuz trage?“<lb/>fragte Steffen.<lb/>
+            </p>
+            <p> <lb/>Marianne wähnte, es redete eine fremde Stimme<lb/>
+               <pb facs="#0032" n="18" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=32"/>aus ihr, als ſie erwiderte: „Leg' es dorthin, rechts<lb/>neben die Sakriſteithür, dort iſt meines Vaters<lb/>Grab !“<lb/>
+            </p>
+            <p> <lb/>Steffen hob das ſchwere Kreuz auf und trug<lb/>es auf den bezeichneten Platz: „Dein Vater lernt<lb/>mich heute als ſeinen Schwiegerſohn kennen —<lb/>willſt Du ein Gebet ſprechen? Ich gehe langſam<lb/>mit dem Muſikanten vorauf!“ Er faßte den Kunſt-<lb/>jünger, der ſeines Zeichens ein Schneider war,<lb/>am Kragen und zog ihn mit ſich. Marianne<lb/>kniete eine Zeit lang nieder, ihre Stirn ſank auf<lb/>die Füße des Heilandes, aber ſie betete nicht, ſie<lb/>glaubte nie mehr beten zu können wie früher.<lb/>Ihre harmloſe Zufriedenheit war dahin, und wo-<lb/>hin ſie blickte glaubte ſie Steffen's funkelnden<lb/>Augen zu begegnen.<lb/>
+            </p>
+            <p> <lb/>Die Geſtalt, welche hinter dem Kreuze verſteckt<lb/>emporſchreckte, war wirklich Thekla. Das arme<lb/>Mädchen hatte den bittern Kelch des Neides und<lb/>der Eiferſucht bis auf die Hefe ausgekoſtet und<lb/>das Liebespaar, ohne von dieſem bemerkt zu wer-<lb/>den, beobachtet. Um ihr Geſpräch zu belauſchen,<lb/>hatte ſie ſich im Dunkeln an Steffen und Marianne<lb/>herangeſchlichen und ſich hier und da verſteckt —<lb/>wie hätte denn auch ſie ſich in die Reihen der<lb/>
+               <pb facs="#0033" n="19" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=33"/>Tanzenden miſchen mögen, ſie, deren Herz ſo ſchwer<lb/>war? Von was ſollte ſie mit ihren Kameradinnen<lb/>reden und was erzählten ihr dieſe ? O, es war ja<lb/>immer daſſelbe eine ſchreckliche Thema — Steffen's<lb/>unheimliche Brautwerbung. Als Thekla erſchreckt<lb/>und allein dahin eilte, da hemmte ſie plötzlich ihren<lb/>Schritt, ſie fragte ſich, ob Marianne recht wählte,<lb/>wenn ſie Steffen dem ſtillen Clas vorziehe —<lb/>„Nein, tauſendmal nein!“ rief ſie. „Clas iſt kein<lb/>Bauer, aber glücklich die Frau, die ihn zum Manne<lb/>hat — und jetzt iſt er ja frei — wenn — —“<lb/>Es brach eine ſehr beruhigende Gedankenfolge über<lb/>Thekla herein. Jetzt, wo ſie Steffen nicht mehr<lb/>ſah, wo ihre gekränkte Eitelkeit ſie minder peinigte,<lb/>jetzt begriff ſie nicht, wie ſie hatte ſo unglücklich<lb/>ſein können.<lb/>
+            </p>
+            <p> <lb/>Der Pfarrer reichte alsbald eine Klage wegen<lb/>der nächtlichen Ruheſtörung auf dem Friedhofe<lb/>und Verletzung geweihter Gegenſtände ein, er<lb/>nannte den rothen Steffen als den vermuthlichen<lb/>Thäter. Steffen verlangte die Zeugen ſeiner That,<lb/>ehe er irgend eine Ausſage machte, zu ſehen und<lb/>— es fand ſich <hi rendition="#g">kein</hi> Zeuge, auch <hi rendition="#g">kein einziger</hi>!<lb/>Das Kreuz hätte ſich eben ſo gut ſelbſtſtändig<lb/>neben die Thür der Sakriſtei auf die Erde legen<lb/>
+               <pb facs="#0034" n="20" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=34"/>können, denn außer dieſer Thatſache konnte keine<lb/>andere conſtatirt werden.<lb/>
+            </p>
+            <p> <lb/>Steffen lachte in's Fäuſtchen und ſagte trium-<lb/>phirend: „Sie fürchten mich mehr als das Gericht,<lb/>die Polizei läßt ſie nach einem Verhör einſperren,<lb/>wenn ſie ſich gegen die Geſetze vergangen haben,<lb/>ich aber mache es wie Samſon und ſchlage ſie<lb/>ohne Verhör mit dem Eſelskinnbacken zu Boden<lb/>— zehn Schulmeiſter könnten mich nicht <hi rendition="#g">das</hi> lehren,<lb/>was ich von dieſem einen Samſon gelernt habe!“<lb/>II.<lb/>Abel.<lb/>
+            </p>
+            <p> <lb/>Am Sonntage nach jenem verhängnißvollen<lb/>Bier ſtellte ſich Steffen zum „Verſpruch“, zur<lb/>feierlichen Verlobung und Feſtſtellung der Ehe-<lb/>pacten ein. Mariannens Mutter hätte ſich zwar<lb/>einen lieberen Schwiegerſohn gewünſcht als den<lb/>wilden Rothkopf, aber immerhin, ſagte ſie ihrer<lb/>Baſe, ſei ihr <hi rendition="#g">dieſer</hi> noch lieber als der Zimmer-<lb/>mann Clas Gröne, ſeiner Abſtammung wegen.<lb/>Bei der Verſchreibung war der gewaltthätige<lb/>Freiersmann kurz und ſorglos wie immer: „Ich<lb/>ſchenke und vermache Alles was ich habe meiner<lb/>Frau, wenn ich todtgeſchlagen werde ſo lange ſie<lb/>noch lebt —!“ das war Alles. An einen natür-<lb/>lichen, vorzeitigen Tod dachte Steffen nicht und<lb/>auch hierin war Samſon ſein Muſter. — Mari-<lb/>annens Seelſorger that ſein Möglichſtes, die bei-<lb/>
+               <pb facs="#0036" n="22" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=36"/>den Frauen vor einem Manne zu warnen, wel-<lb/>cher in dem Rufe der Gottloſigkeit ſtand, aber der<lb/>brave Geiſtliche fand ſie wie hinter einer chineſiſchen<lb/>Mauer verrammelt. „Er iſt doch von gutem Her-<lb/>kommen!“ ſagte die Mutter. „<hi rendition="#g">Ihr redet gegen</hi>
+               <lb/>Steffen wegen des Kreuzes, Herr Ohm!“ er-<lb/>widerte die Tochter.<lb/>
+            </p>
+            <p> <lb/>Von dem Tage der Verlobung an war ein<lb/>neuer Geiſt über die zwei Mädchen auf dem<lb/>Tungenhofe gekommen. Marianne war ernſt<lb/>und übernahm ſtets den ſchwerſten Theil aller ge-<lb/>meinſamen Arbeiten, Thekla ward aufgeweckt im<lb/>Antriebe einer heimlichen Schadenfreude über<lb/>Mariannens Schickſal, und ſie ließ es ſich bei<lb/>der Arbeit eben nicht ſehr angelegen ſein, mit<lb/>Mariannen und den Mägden Schlag und Schritt<lb/>zu halten. Beide Mädchen vermieden es, ein-<lb/>gehend über die Angelegenheit zu reden, daran ſie<lb/>doch unausgeſetzt denken mußten. Die Mutter<lb/>Mariannens wollte ſich auf die Leibzucht begeben,<lb/>und Thekla, als ihre Adoptiv- und Pflegetochter,<lb/>zog mit ihr, indeß Steffen und Marianne den<lb/>Tungenhof bewirthſchafteten, da Steffen's Eltern<lb/>„noch Manns genug“ waren, wie ſich der Sohn<lb/>ausdrückte, mit den jüngeren Geſchwiſtern ſein<lb/>
+               <pb facs="#0037" n="23" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=37"/>Erbtheil zu verwalten. Steffen verfehlte nicht<lb/>ſeine Braut mit allen möglichen Geſchenken zu<lb/>überſchütten, er hatte ſtets eine ſehr offene Hand.<lb/>Ohne ſonderliche Freude verwahrte Marianne<lb/>dieſelben in der Beilade ihrer großen, mit<lb/>kunſtvollem Eiſenbeſchlag verſehenen Kiſte, welche<lb/>irgend eine Urahne mit in die Ausſteuer bekom-<lb/>men hatte. In der Ecke dieſer Beilade lag ein<lb/>Gebetbuch und ein Ring — die Geſchenke Clas<lb/>Gröne's, welche ſie ihm, wenn er kam, zurückgeben<lb/>wollte. Sie konnte eines Tages doch nicht wider-<lb/>ſtehen, den Ring auf den Finger zu ſchieben und<lb/>das Gebetbuch aufzuſchlagen. Ein Bildchen war<lb/>in die Blätter eingeſchoben, es ſtellte Kain und<lb/>Abel vor. Kain hatte die mörderiſche Keule be-<lb/>reits über den betenden Bruder erhoben, vor welchem<lb/>ein unnatürlich flammendes Feuer jene Opferdüfte<lb/>emporſteigen läßt, die Kain ſo anſtößig waren.<lb/>Clas hatte ſeiner untreuen Verlobten dieſes Bild-<lb/>chen geſchenkt, weil ſie fand, Abel gliche ihm<lb/>ſelbſt im Geſichte und im „Uutkiek“, wörtlich<lb/>„Ausblick“. Ein leiſer Schrei entfloh Marian-<lb/>nens Lippen, als ſie jetzt das Bildchen anſah —<lb/>ja, Abel glich Clas, aber der muskulöſe Kain glich<lb/>Steffen, und auch hier war das Mienenſpiel zu-<lb/>
+               <pb facs="#0038" n="24" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=38"/>treffend und ein leiſer Schauder durchrieſelte<lb/>Mariannens Glieder. Da lag ja auch, hart<lb/>neben den neuen Ohrgehängen, die zerbrochene<lb/>Klinge. Armer Abel — armer Clas!<lb/>
+            </p>
+            <p> <lb/>Seit einiger Zeit legte ſich Marianne, wenn<lb/>ſie in den Bruch hinausging zum Melken, das<lb/>Joch, an welchem die Milcheimer getragen wur-<lb/>den, <hi rendition="#g">ſelbſt</hi> auf die Schultern. „Ich arbeite jetzt<lb/>für mein Eigen!“ ſagte ſie der Magd. Aber ſie<lb/>hatte ja ſonſt nicht für Fremde gearbeitet und es<lb/>verſchlug nichts, ob ſie oder die Viehmeierin die<lb/>Milch hereintrug. Indeß es war ſo, daß Mari-<lb/>anne das Schwerſte auf ſich nahm. Es iſt nicht<lb/>eben leicht, mit zwei gefüllten großen Eimern einen<lb/>ſchmalen und unebenen Pfad im Holze zu ver-<lb/>folgen, aber Mariannens Schritt war feſt und<lb/>ſicher. Die Magd blieb zurück, um die Kälber<lb/>heimzutreiben, welche an der andern Seite der<lb/>Wieſe umherſprangen. Zwei Minuten mochte<lb/>das Mädchen ſo gegangen ſein, da löſte ſich eine<lb/>männliche Geſtalt von einer Eiche los, an welcher<lb/>ſie gelehnt hatte, und vor ihr ſtand Clas.<lb/>
+            </p>
+            <p> <lb/>„Marianne,“ ſprach der junge Mann, der<lb/>bleich und traurig ausſah, „was hatte ich Dir<lb/>
+               <pb facs="#0039" n="25" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=39"/>Böſes gethan, daß Du mich verrathen und ver-<lb/>laſſen haſt?“<lb/>
+            </p>
+            <p> <lb/>„Du, Böſes?“ fragte Marianne bitter. „Du<lb/>haſt mir nie etwas Böſes gethan und wirſt nur<lb/>Gutes thun, ſo lange Deine Augen offen ſtehen —,<lb/>aber ich, ich war ſchlecht und untreu, alle Schuld<lb/>liegt auf mir!“<lb/>
+            </p>
+            <p> <lb/>„Thateſt Du es Deiner Mutter zu Liebe?“<lb/>fragte Clas befremdet über ihre Selbſtanklage.<lb/>
+            </p>
+            <p> <lb/>„O nein, ich habe meiner Mutter noch kein<lb/>Opfer gebracht, ich that es — weil ich nicht<lb/>anders konnte! Sag' mir nicht, daß ich un-<lb/>ehrlich handelte, mach' mir keine Vorwürfe, Du<lb/>kannſt ſie mir doch nicht ſo ſcharf in's Geſicht<lb/>werfen, als ich es ſelbſt gethan habe. Ich gebe<lb/>Dir Deine Geſchenke wieder, Clas, nur um Eins bitte<lb/>ich Dich, mir das Bild von Kain und Abel zu<lb/>laſſen!“<lb/>
+            </p>
+            <p> <lb/>„Man denkt nicht an dieſe Dinge, Marianne,<lb/>wenn man ein Herzeleid hat gleich mir!“<lb/>
+            </p>
+            <p> <lb/>Marianne ſetzte die Eimer hin, legte die Hände<lb/>faltend auf die Bruſt und flüſterte: „Lieber Clas,<lb/>ich habe noch eine Bitte!“<lb/>
+            </p>
+            <p> <lb/>„Sag' ſie, Marianne, ich kann ja Alles tragen,<lb/>wenn Du zufrieden biſt!“<lb/>
+               <pb facs="#0040" n="26" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=40"/>„Mir ſcheint, ich würde etwas zufriedener ſein —“<lb/>ſprach ſie zögernd — „wenn Du mich jetzt beim<lb/>Gerichte wegen eines gebrochenen Eheverſprechens<lb/>anklagteſt, ich kann nichts leugnen und Zeugen<lb/>haſt Du auch — Du würdeſt mit ein paar tau-<lb/>ſend Gulden abgefunden und könnteſt ruhig<lb/>leben!“<lb/>
+            </p>
+            <p> <lb/>„Ruhig leben — Mädchen, wenn ich eine<lb/>Unehre auf Dich gebracht habe —? nein, armes<lb/>Kind, ich halte, es iſt beſſer Unrecht leiden als<lb/>Unrecht thun!“<lb/>
+            </p>
+            <p> <lb/>„Du bringſt keine Schande über mich, wenn<lb/>Du mich verklagſt, ſie liegt ſchon auf mir, Clas,<lb/>weshalb ſoll ich nicht vor den Leuten verbüßen,<lb/>was ich vor Dir und Gott verdient habe?“<lb/>
+            </p>
+            <p> <lb/>„Jeder trägt die eigene Verantwortung und<lb/>nicht die des Andern — was würde Steffen<lb/>ſagen, wenn ich ſeine Braut in's Gerede brächte?“<lb/>
+            </p>
+            <p> <lb/>Marianne nahm die Eimer wieder auf, denn<lb/>ſie hörte die Magd mit den Kälbern kommen,<lb/>die ungeſchickt durch's Gebüſch brachen.<lb/>
+            </p>
+            <p> <lb/>„Steffen,“ entgegnete ſie, als ſie wieder allein<lb/>waren, „wird mich hochhalten, <hi rendition="#g">was</hi> ich auch thue,<lb/>hochhalten ſo lange ich lebe und vielleicht auch<lb/>noch, wenn er mich in einem Zorne gemordet<lb/>
+               <pb facs="#0041" n="27" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=41"/>hat, nach meinem Tode — es iſt ſchon Alles<lb/>eins und auf's Geld ſieht er nicht!“<lb/>
+            </p>
+            <p> <lb/>„Herr des Himmels! und fürchteſt Du Dich<lb/>nicht vor ihm?“<lb/>
+            </p>
+            <p> <lb/>„Nein, wenn er mir ſelbſt ſagte er werde mich<lb/>einſt todtſtechen, ich müßte ihn doch nehmen!“<lb/>
+            </p>
+            <p> <lb/>„Marianne, kannſt Du an Gott denken und<lb/>ſo reden!“<lb/>
+            </p>
+            <p> <lb/>„Ich dachte von klein auf an Gott — und es<lb/>kam doch Alles ſo, jetzt laß ich's gehen und halte<lb/>an Steffen ohne nach rechts und links zu ſehen!“<lb/>
+            </p>
+            <p> <lb/>Als die Magd mit ihrer Schaar auf dem Hofe<lb/>anlangte, fand ſie Steffen und Thekla nach dem<lb/>Wege hinausſchauend, Erſterer fragte ungeſtüm<lb/>nach Marianne. „Wird ſchon kommen,“ meinte<lb/>die Magd boshaft, „ſie hält ſich noch im Bruch<lb/>mit dem Clas Gröne auf, der heute von Holland<lb/>zurückgekommen iſt!“<lb/>
+            </p>
+            <p> <lb/>Ein heißes Roth ſchoß über Steffen's Geſicht;<lb/>ohne weiter ein Wort zu reden ſchritt er den Weg<lb/>entlang, welchen Marianne kommen mußte. Er<lb/>pflanzte ſich mit gekreuzten Armen dem Paare in<lb/>den Weg. Marianne ſah ihrem Verlobten voll<lb/>in's Geſicht und ſprach:<lb/>
+            </p>
+            <p> <lb/>„Steffen, hier iſt Clas, dem ich Deinethalben<lb/>
+               <pb facs="#0042" n="28" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=42"/>ſo ſchweres Unrecht that, er hat mir vergeben! Clas,<lb/>willſt Du mir zu Liebe Steffen die Hand reichen!“<lb/>
+            </p>
+            <p> <lb/>„Mir iſt, Dir zu Liebe, nichts zu ſchwer!“<lb/>entgegnete Clas und ſtreckte dem Nebenbuhler die<lb/>Hand entgegen, welche dieſer nach einigem Zaudern<lb/>ergriff. „Wenn Du etwas brauchſt,“ ſprach Steffen,<lb/>„das ich habe, und wär's das Wams vom Leibe, for-<lb/>dere es, Clas, aber hüte Dich die Marianne auch nur<lb/>mit der Fingerſpitze anzutaſten, wo ich das merke,<lb/>bin ich kein Menſch, ſondern ein toller Hund!“<lb/>
+            </p>
+            <p> <lb/>Vor einer Minute war der Vergleich zwiſchen<lb/>dem edelherzigen Clas und Steffen zum Vortheil<lb/>des Erſteren ausgefallen, aber die Worte Steffen's<lb/>und ſeine drohende Kainsmiene überrieſelten ſie<lb/>mit einem wonnigen Schauer — Clas konnte ihr<lb/>
+               <hi rendition="#g">entſagen</hi>, er liebte ſie folglich nicht wie ſie von<lb/>Steffen geliebt wurde.<lb/>
+            </p>
+            <p> <lb/>„Komm mit uns auf den Hof zum Abendbrod,<lb/>Clas,“ bat Marianne, „damit alles Volk ſieht,<lb/>daß wir keine Feindſchaft haben!“<lb/>
+            </p>
+            <p> <lb/>„Wenn es Dir am beſten dünkt, ſo will ich<lb/>kommen.“<lb/>
+            </p>
+            <p> <lb/>Thekla ſah die Drei mit großer Befriedigung<lb/>herannahen, es kam ihr Claſens Gegenwart als<lb/>eine höchſt unerwartete Unterſtützung ihrer Pläne.<lb/>
+               <pb facs="#0043" n="29" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=43"/>Sie reichte ihm, dem Manne, den ſie in der letz-<lb/>ten Zeit äußerſt kühl und empfindlich behandelt<lb/>hatte, mit einem Ausdruck des Mitleids die Hand,<lb/>und als ſie mit ihm allein war, ſagte ſie traurig:<lb/>„Ach Clas, ich weiß wie unglücklich Du biſt, denn<lb/>ich dachte nicht anders als daß Steffen <hi rendition="#g">mich</hi> zur<lb/>Frau gekürt hätte, bis — bis Marianne Dir un-<lb/>treu wurde! Aber Du biſt ein Mann, Du kannſt<lb/>hin gehen wohin Du magſt und findeſt überall<lb/>Brod und Arbeit — wer wird aber ein armes<lb/>Mädchen nehmen wollen, von der die Leute ſagen:<lb/>Einer nach dem Andern hat ſie ſitzen laſſen und<lb/>ihr die Reiche vorgezogen! — Mir geht Alles un-<lb/>glücklich — enterbt, verlaſſen — und jetzt ſoll ich<lb/>auch zum Hauſe hinaus und mit der Möke (Tante)<lb/>auf die Leibzucht — o die Marianne braucht nicht<lb/>zu fürchten, ich ſehe den untreuen Fuchs von einem<lb/>Steffen noch mit einem einzigen guten Blicke an,<lb/>dazu bin ich zu ſtolz!“<lb/>
+            </p>
+            <p> <lb/>Sie wiſchte ſich die Augen mit der Schürze.<lb/>
+            </p>
+            <p> <lb/>„Wir müſſen auf uns nehmen, was unſer<lb/>Stand mit ſich bringt!“ redete ihr Clas zu. „Wä-<lb/>ren wir vermögliche Bauern, ſo könnten wir nach<lb/>unſerem Herzen gehen, aber Gott hat es anders<lb/>beſtimmt, und es hilft nichts, ja es iſt Unrecht,<lb/>
+               <pb facs="#0044" n="30" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=44"/>ſich um Güter zu grämen, die uns nicht gegeben<lb/>ſind!“<lb/>
+            </p>
+            <p> <lb/>„Ja, wenn Du ſo redeſt, Clas, dann ſcheint mir<lb/>Alles recht und leicht, aber wenn ich <hi rendition="#g">allein</hi> bin,<lb/>da kommt der Verdruß, und ich armes Mädchen<lb/>habe ja auch Niemanden, zu dem ich von meinem<lb/>Kummer reden könnte!“<lb/>
+            </p>
+            <p> <lb/>Marianne, die ihn verlaſſen hatte, war bis<lb/>in's innerſte Herz aufrichtig gegen Clas geweſen.<lb/>Thekla, die ihn feſſeln wollte und wirklich feſſelte,<lb/>belog ihn, denn ihre erheuchelten Thränen und<lb/>künſtlichen Seufzer waren nichts als Schlingen<lb/>für das ehrliche Herz des nur zu mitfühlenden<lb/>Burſchen. Es rührte ihn, als endlich Thekla ge-<lb/>ſtand, auch auf ihn habe ſie einſt ihres Herzens<lb/>Hoffnung geſetzt, aber ihm, ſeinem Glücke zu Liebe,<lb/>entſagt. Er erinnerte ſich, daß ſie ihm wohl ge-<lb/>fallen hatte, nun ſie davon redete.<lb/>
+            </p>
+            <p> <lb/>Noch war Mariannens Hochzeit nicht gefeiert,<lb/>als Thekla ihr zuflüſterte, ſie ſei die Braut Clas<lb/>Gröne's —. Ein ſtrafender, ſchwerer Blick Mari-<lb/>annens ruhte auf der erröthenden Thekla. „Ich<lb/>wollte, ich könnte Dir einen Vorwurf darüber<lb/>machen, daß Du ihm die Hand reichteſt, da er<lb/>am Boden lag, um ihn hinterliſtig zu binden —<lb/>
+               <pb facs="#0045" n="31" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=45"/>es iſt nicht ſchwer, ſich in das Haus deſſen, der<lb/>krank liegt, einzuſchleichen — da es aber geſchehen<lb/>iſt, ſo werden Steffen und ich für Euch ſorgen<lb/>und Ihr könnt in die Leibzucht zur Mutter ein-<lb/>heirathen, ſo braucht Ihr von Haus und Garten<lb/>keine Heuer (Miethe) zu geben und könnt vor-<lb/>wärts kommen!“<lb/>
+            </p>
+            <p> <lb/>„Und bleiben in Eurer Nähe!“ ſetzte Thekla<lb/>lauernd hinzu. Wenn ſie ſchon im höchſten Grade<lb/>eiferſüchtig auf die von Clas noch immer über<lb/>Alles geliebte Marianne war, ſo verdroß es ſie jetzt<lb/>nicht wenig, von ihrer Verwandtin ſo durchſchaut<lb/>zu werden. Ja ſie hatte ſich in das Herz deſſen<lb/>eingeſchlichen, der krank lag, und auf ihre Klage<lb/>hatte er ihr edelmüthig den Reſt von dem was<lb/>ihm geblieben war hingegeben. Thekla hatte im-<lb/>merhin einige Aehnlichkeit mit Marianne und ſie<lb/>trugen denſelben Familiennamen. Das wußte<lb/>Thekla: weder Clas noch Marianne waren jemals<lb/>im Stande, ihre eheliche Pflicht zu verletzen, aber<lb/>im Stillen lieben konnten ſie ſich ja doch.<lb/>
+            </p>
+            <p> <lb/>Es fand zuerſt Mariannens Hochzeit ſtatt, acht<lb/>Tage darauf heiratheten Clas und Thekla und<lb/>zogen in das Leibzuchthaus, zweihundert Schritt<lb/>vom Hofe entfernt. Steffen war in dem erſten<lb/>
+               <pb facs="#0046" n="32" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=46"/>Jahre ſeiner Ehe, wie er es vorausgeſagt, ein<lb/>folgſamer Gatte, er hielt ſich, einzelne Ausbrüche<lb/>ſeines Temperaments abgerechnet, recht brav. So<lb/>wie er in Zorn gerieth, mußte ihm Marianne be-<lb/>ſchwichtigend entgegentreten, und er beruhigte ſich,<lb/>ſobald er ſah, ſie fürchte ihn nicht. Sein wildes<lb/>Temperament beugte ſich, wie dasjenige gefährlicher<lb/>Thiere, der geiſtigen Ueberlegenheit, die ihm muthig<lb/>entgegentrat. Daß er ſchon ein <hi rendition="#g">ungefährlicher</hi>
+               <lb/>Staatsbürger geworden wäre, iſt nicht zu behaup-<lb/>ten, aber ſeine Streiche waren, mit den früheren<lb/>zuſammen gehalten, harmloſer Natur und man ver-<lb/>zieh ihm dieſelben, weil er ja viel böſere hätte<lb/>ausführen können. Die Welt urtheilt ſo, wie man<lb/>ſie zu urtheilen gewöhnt. In der Kirche war<lb/>Steffen ein ſeltener Gaſt, er meinte, der liebe Gott<lb/>könne wohl zufrieden ſein, wenn er zu den hohen<lb/>Feſten den Gottesdienſt beſuche — „wir ſind nicht<lb/>ſo genau bekannt,“ ſagte er ſcherzend, ,,daß ich ihm<lb/>täglich oder auch nur alle acht Tage in’s Haus<lb/>rennen ſollte!“<lb/>
+            </p>
+            <p> <lb/>Clas war ein fleißiger, pflichttreuer Zimmer-<lb/>mann und man verlangte in gar entfernten Dör-<lb/>fern nach ſeiner Arbeit und Hülfe. Die Zimmer-<lb/>leute im Emslande ſind nämlich auch zugleich<lb/>
+               <pb facs="#0047" n="33" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=47"/>Maurer und nicht ſelten Radmacher. Da die<lb/>Mehrzahl der Häuſer aus Fachwerk mit Ziegelſtei-<lb/>nen oder auch nur aus Holz mit Lehmfüllung be-<lb/>ſtehen, ſo greift das Zimmern und Mauern eng<lb/>in einander. Oft bedünkte es Thekla, er zöge die<lb/>Aufträge in der Ferne denen in der Nähe vor. —<lb/>Während er wieder einmal auf längere Zeit ab-<lb/>weſend war, feierte die junge Frau im Leibzucht-<lb/>hauſe den erſten und größten Triumph über die<lb/>bevorzugte Marianne — ſie wurde Mutter eines<lb/>geſunden Knaben. Sogleich ſandte Steffen Wagen<lb/>und Pferde über Land, um den glücklichen Vater<lb/>des Neugeborenen herbei zu holen. Als Clas un-<lb/>geſäumt erſchien, trug Marianne ihm ſein Knäb-<lb/>lein an die Thürſchwelle entgegen. Der Zimmer-<lb/>mann war bleich vor Erregung, ein erſtgeborenes<lb/>Kind iſt ja von allen Familienereigniſſen das<lb/>wichtigſte, ſelbſt wichtiger als der <hi rendition="#g">Tod</hi>, der nur<lb/>
+               <hi rendition="#g">nimmt</hi>, wo das Geboren werden <hi rendition="#g">giebt</hi>.<lb/>
+            </p>
+            <p> <lb/>Als er das kleine zappelnde Weſen auf die<lb/>Arme nahm und betrachtete, glitt ſein Blick zu der<lb/>vor ihm ſtehenden Marianne hinüber, er legte<lb/>ſeine Hand auf ihre Schulter und ſprach: „Arme<lb/>Marianne, es wäre wohl beſſer, dieſes Kind wäre<lb/>
+               <pb facs="#0048" n="34" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=48"/>Dir und Steffen geſchenkt, Du brauchteſt dann<lb/>nicht ſo viel allein zu ſein!“<lb/>
+            </p>
+            <p> <lb/>Thekla hörte ſeine Rede und ſie fiel ihr heiß<lb/>auf's Herz — es hatte ſich alſo nichts verändert,<lb/>Clas war bereit, Alles für Mariannens Glück zu<lb/>opfern, ſelbſt ſein eigenes Kind, er wußte, daß<lb/>ſie ſich vereinſamt fühle — weshalb vereinſamt?<lb/>Weil <hi rendition="#g">Clas</hi> nicht da war, denn Steffen verließ<lb/>ſelten auf längere Zeit den Hof. Ahnte Thekla<lb/>nicht, es gebe eine furchtbarere Vereinſamung als<lb/>die äußerliche?<lb/>
+            </p>
+            <p> <lb/>Steffen, als das Oberhaupt der Familie, trug<lb/>am nächſten Morgen den kleinen Staatsbürger<lb/>zur Taufe und ſteckte ihm zwei Goldſtücke in die<lb/>Windeln, ehe er ihn der Mutter zurückgab. Aber<lb/>Thekla's Gedanken waren keine goldenen, ſie dankte<lb/>Steffen und fügte verbittert hinzu:<lb/>
+            </p>
+            <p> <lb/>„Wenn Marianne ein Kind hätte, mein Mann<lb/>würde ſich mehr darüber freuen, als über den<lb/>Jungen da, für Clas giebt es keine Freude, wenn<lb/>ſie nicht von Marianne ausgeht!“<lb/>
+            </p>
+            <p> <lb/>„Ein Erbe wäre mir auch recht,“ erwiderte<lb/>Steffen, „aber andere Leute brauchen ſich nicht um<lb/>das zu kümmern, was Marianne angeht, ſie hat<lb/>
+               <pb facs="#0049" n="35" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=49"/>ein gutes Leben auch ohne ſo einen kleinen Schrei-<lb/>hals wie der da!“<lb/>
+            </p>
+            <p> <lb/>Inzwiſchen wurmten ihn Thekla's Worte doch<lb/>und er kam an dieſem Abend zum erſten Male<lb/>ſeit ſeiner Verheirathung arg betrunken nach Hauſe.<lb/>Am nächſten Morgen war er in der übelſten Stim-<lb/>mung und verbot Marianne, ſich mit dem Kinde im<lb/>Leibzuchthauſe zu befaſſen. Marianne entgegnete ihm,<lb/>ſie werde Thekla und das Kind pflegen wie es Recht<lb/>und Pflicht ſei und er könne ihr das nicht verbieten.<lb/>Steffen verließ den Hof und kam erſt am dritten Tage<lb/>wieder, er hatte mit Wilderern und Landſtreichern<lb/>gezecht und ſah wilder und verwahrloſter aus denn je.<lb/>
+            </p>
+            <p> <lb/>Von da ab wechſelte ſein Betragen zwiſchen<lb/>der mißtrauiſchſten Beobachtung ſeiner Frau und<lb/>gänzlicher Vernachläſſigung derſelben. Wenn<lb/>ſie ihm Vorwürfe machte, ſagte er: „Was ſoll<lb/>ich zu Haus ſein? Mich entbehrt Niemand, für<lb/>Clas iſt das was Anderes, ſeine Frau und<lb/>Du <hi rendition="#g">freut</hi> Euch, wenn er heimkehrt, und ſein<lb/>Junge lacht ihm entgegen, um mich kümmert ſich<lb/>Niemand als mein Jagdhund!“<lb/>
+            </p>
+            <p> <lb/>Er übertrieb was er ſagte, aber doch lag un-<lb/>abweisbare Wahrheit zum Grunde; auf dem Tungen-<lb/>hofe war keine häusliche Wärme, denn Marianne<lb/>
+               <pb facs="#0050" n="36" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=50"/>ſelbſt war kühl und innerlich ſtarr, aber im Leib-<lb/>zuchthauſe, da waren die Großmutter und das<lb/>Kind und der ſtets gütige Clas und die fleißige<lb/>Thekla, dort ſah man nichts von Sorge oder<lb/>ſchweren Gedanken.<lb/>
+            </p>
+            <p> <lb/>Steffen verſuchte mitunter in ſeinem trunkenen<lb/>Muthe Marianne zu ängſtigen, aber ſie fürchtete<lb/>ſich nicht, und als Clas nach einer ſolchen Scene<lb/>ſagte: „Marianne, Du biſt ein beherztes Weib,<lb/>es giebt nicht drei Männer im Kirchſpiel, welche<lb/>ſich Steffen, gleich Dir, in den Weg geſtellt<lb/>hätten!“ Da blickte ſie ihn mit ihren beinah<lb/>ſtarren Augen an und entgegnete: „Wer nichts<lb/>zu verlieren hat, der hat nichts zu fürchten!“<lb/>
+            </p>
+            <p> <lb/>Die Worte trafen Clas wie ein Dolchſtoß, aber<lb/>er wagte keine Aeußerung der Theilnahme, Ma-<lb/>rianne verlangte ſie auch nicht, ja würde ſie nicht<lb/>geduldet haben. Sonderbarer Weiſe legte Steffen,<lb/>ob nüchtern, ob berauſcht, immer eine gewiſſe<lb/>Rückſicht gegen den Mann an den Tag, dem er<lb/>von Allen am feindlichſten geſinnt war; ja der<lb/>ſanfte Clas war es, der zuerſt die Rede auf jenes<lb/>frühere Verhältniß brachte, welches Steffen, ſeit<lb/>er ſich in ſeiner unheimlichen Art mit Marianne<lb/>verlobt hatte, ein Dorn im Auge war. Das ge-<lb/>
+               <pb facs="#0051" n="37" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=51"/>ſchah, als man die Taufe eines zweiten Söhnchens<lb/>bei Clas feierte. Da ſich der Zimmermann Gröne<lb/>ſehr gut ſtand und es allen Anſchein hatte, er<lb/>würde ein vermöglicher Mann werden, konnte er<lb/>es ſich ſchon geſtatten, eine ſeiner fetten Haid-<lb/>ſchnucken zu ſchlachten und einen beſcheidenen<lb/>Schmaus zum Beſten zu geben. Steffen war ſehr<lb/>gereizt und ſtichelte fortwährend auf Marianne.<lb/>Endlich ſagte Clas: „Weißt Du, Steffen, ich hätte<lb/>Deine Heirath verhindern können, ich hatte das<lb/>Recht dazu, heute thut's mir leid, daß ich's nicht<lb/>gethan habe, denn mir iſt's, als trüge ich die<lb/>Schuld an Mariannens Unglück, ſie hätte keinen<lb/>Andern heirathen können, der ſie ſo gemartert ha-<lb/>ben würde, als Du es thuſt!“<lb/>
+            </p>
+            <p> <lb/>Steffen's Augen glühten auf Clas und er ſagte,<lb/>vor Wuth ſtammelnd: „Habt ihr Zwei jetzt ein<lb/>Complot gegen mich gemacht?“<lb/>
+            </p>
+            <p> <lb/>„Wenn Du ein Complot ſiehſt, dann iſt das<lb/>ganze Dorf, die ganze Gemeinde mit darin, nur<lb/>ſchweigt man vor Dir, weil man Dich fürchtet!“<lb/>
+            </p>
+            <p> <lb/>„Und Du, Du ſanftes Kaninchen, fürchteſt<lb/>Dich nicht?“<lb/>
+            </p>
+            <p> <lb/>„Nein, Menſchen fürchte ich nicht, aber ich<lb/>
+               <pb facs="#0052" n="38" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=52"/>fürchte die Verantwortung, wenn ich noch länger<lb/>ſchweige, wo ich reden ſollte!“<lb/>
+            </p>
+            <p> <lb/>„Reden ſollte?“ rief Steffen verblüfft. „Wer<lb/>giebt Dir das Recht zu reden?“<lb/>
+            </p>
+            <p> <lb/>„Ich bin Mariannens nächſter männlicher Ver-<lb/>wandter, der Mann ihrer rechten Nichte, und dann<lb/>haſt Du Marianne von <hi rendition="#g">mir</hi> — das iſt auch ein<lb/>Anſpruch!“<lb/>
+            </p>
+            <p> <lb/>Steffen legte ſein Geſicht in die Hände und<lb/>murmelte dumpf: „Kinder habe ich nicht, nun<lb/>habe ich wohl auch keine Frau mehr — willſt Du<lb/>noch weiter mit mir abrechnen, Clas, oder ſchwant<lb/>Dir's, <hi rendition="#g">wer</hi> zu kurz gekommen iſt von uns<lb/>
+               <hi rendition="#g">Zweien</hi>?“<lb/>
+            </p>
+            <p> <lb/>„Ich bin bereit,“ ſagte Clas feierlich, „mich<lb/>hier unten vor Dir und da oben vor Gott zu ver-<lb/>antworten! Wenn mein Gewiſſen nicht frei wäre,<lb/>ich würde mich hüten vor Dir und den Frauen,<lb/>Deiner und meiner, Dich zum Rechten zu er-<lb/>mahnen, ja Dir zu drohen, denn ſollteſt Du je-<lb/>mals Deine Hand gegen Marianne aufheben, dann<lb/>bleibt Einer von uns Zweien liegen und vergißt<lb/>das Aufſtehen!“ Clas ſah edel und doch beinah<lb/>furchtbar aus bei dieſen Worten. Steffen ſtierte<lb/>zu ihm herüber, ballte die Fäuſte und lachte wild.<lb/>
+               <pb facs="#0053" n="39" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=53"/>„Komm,“ ſagte Marianne, ſein Handgelenk<lb/>kräftig erfaſſend, „wir friedloſen Leute bringen<lb/>nur Zwieſpalt, wo immer wir uns nieder-<lb/>laſſen. Clas, wenn er mich in dieſer Nacht todt-<lb/>ſchlägt, dann weißt Du, daß ich Dir mit meinem<lb/>letzten Athemzug danke für Deine Liebe — ich<lb/>ſterbe gern!“<lb/>
+            </p>
+            <p> <lb/>Aber Marianne wurde in dieſer Nacht nicht<lb/>erſchlagen. Steffen hatte ſein Haus gar nicht be-<lb/>treten, ſondern war, ohne eine Silbe zu reden,<lb/>hinausgegangen in’s Weite.<lb/>
+            </p>
+            <p> <lb/>Sechs Tage verfloſſen, ſo lange war Steffen<lb/>noch nie fortgeblieben, und noch dazu in einer<lb/>Jahreszeit, wo der Landmann ſich ungern auch<lb/>nur eine Stunde abmüßigt. Marianne wurde<lb/>unruhig, ja ſie empfand eine Sehnſucht nach ihrem<lb/>Manne, denn ſie glaubte ein Mittel zu ſeiner Be-<lb/>ſänftigung gefunden zu haben, und außerdem —<lb/>war denn ſein Fehler nicht das Ergebniß ſeiner<lb/>allzu leidenſchaftlichen Liebe für ſie? Ach, ſie hätte<lb/>Schlimmeres als ſeine zornigen Anwandlungen<lb/>ertragen und vergeben — wenn er nur zurückkäme.<lb/>
+            </p>
+            <p> <lb/>Manchmal ſtand ſie Nachts auf und blickte<lb/>hinaus in das Dunkel und lauſchte, ob ſie Schritte<lb/>höre — aber es war nichts von Steffen zu hören<lb/>
+               <pb facs="#0054" n="40" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=54"/>und zu ſehen. Die ſiebente Nacht war diejenige<lb/>vom Donnerſtag auf den Freitag. Marianne fühlte<lb/>ſich zum Tode bedrückt und beängſtet, hätte ſie<lb/>gewußt, <hi rendition="#g">wo</hi> Steffen ſei, ſie würde ſich aufgemacht<lb/>haben, ihn zu ſuchen, auch Clas war dieſe Woche<lb/>wegen eines drängenden Baues, etwa zwei Stun-<lb/>den weit von der Heimath entfernt, abweſend und<lb/>ſollte erſt Sonnabend ſpät wiederkehren. Marianne<lb/>ließ das Licht in ihrer Kammer brennen, und ſie<lb/>hatte wohl Recht gehabt, angekleidet zu bleiben,<lb/>denn gegen Mitternacht pochte es vernehmlich an<lb/>die Thür. Sie eilte zu öffnen und ſetzte die Lampe<lb/>auf einen fernen Tiſch, damit der Zugwind ſie<lb/>nicht verlöſchen möge, und ſiehe, da ſtand ja eine<lb/>männliche Geſtalt vor dem Fenſter und blickte von<lb/>außen hinein, ihrer harrend.<lb/>
+            </p>
+            <p> <lb/>Die Thür flog auf, aber der Mann rührte<lb/>ſich nicht.<lb/>
+            </p>
+            <p> <lb/>„Gott ſei gelobt, daß Du da biſt, Steffen,<lb/>ach wie ſehnlich habe ich Dich erwartet, Du ſollſt<lb/>nun <hi rendition="#g">nie</hi> mehr im Zorne gehen, und die Heiligen<lb/>werden mir beiſtehen, Dir dieſes Haus lieb und<lb/>vertraut zu machen!“<lb/>
+            </p>
+            <p> <lb/>Sie hatte raſch, mit fliegenden Worten ge-<lb/>ſprochen, aber immer noch blieb der Mann am<lb/>
+               <pb facs="#0055" n="41" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=55"/>Fenſter unbeweglich. Zum erſten Male fürchtete<lb/>ſie ſich vor Steffen, ſie trat zagend herzu und<lb/>faßte ſeine Hand — Gott im Himmel, es war<lb/>eine ſchwere, kalte Todtenhand! Mit einem Schrei<lb/>ließ ſie dieſelbe fahren, floh in das Haus, ergriff<lb/>die Lampe und ſtellte ſie auf die Fenſterbank.<lb/>Sie zwang ihre ſich verdunkelnden Augen, in das<lb/>weiße Antlitz jenſeits der Scheiben zu blicken —<lb/>alle guten Geiſter loben Gott! das war nicht<lb/>Steffen's Geſicht, das war das Todtenantlitz des<lb/>armen Clas, welches mit verglaſten Augen herein-<lb/>ſtarrte. Ueber dieſen einſt ſo milden, ſchönen<lb/>Augen aber lag, quer über der Stirn, eine tiefe,<lb/>klaffende Wunde, und einige Blutstropfen hatten,<lb/>gleich blutigen Thränen, über die weißen Wangen<lb/>hernieder ihre dunkle Spur gezogen. Marianne<lb/>brach in die Kniee vor dieſem Anblick, aber ſie<lb/>konnte ihre Blicke nicht von der ſchrecklichen Er-<lb/>ſcheinung losreißen, ſie konnte keinen klaren Ge-<lb/>danken faſſen und ſich nicht bewegen. Mitunter<lb/>drohte ihre Beſinnung gänzlich zu entfliehen,<lb/>aber ſie widerſtand dieſer Schwäche mit Aufgebot<lb/>aller Körper- und Seelenkräfte. Wie lange, wie<lb/>kurz ſie da lag, Auge in Auge mit dem Todten —<lb/>wer könnte es ſagen? Vielleicht durch Stunden,<lb/>
+               <pb facs="#0056" n="42" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=56"/>vielleicht waren es nur wenige ewig lange,<lb/>ſchauerliche Minuten — da durchblitzte ſie ein<lb/>Gedanke, ein Gedanke, gegen den das Geſpenſt<lb/>am Fenſter nur ein leichtes Spiel der Phan-<lb/>taſie war.<lb/>
+            </p>
+            <p> <lb/>„Abel!“ ſchrie ſie, daß es durch das Haus<lb/>gellte und die erſchreckten Schläfer wie die Stimme<lb/>wilden Wahnſinns vom Lager riß. „Abel!“<lb/>
+            </p>
+            <p> <lb/>Man kam, man trug die Beſinnungsloſe in<lb/>ihr Bett und verſcheuchte die tiefe Ohnmacht, in<lb/>welche ſie gefallen war.<lb/>
+            </p>
+            <p> <lb/>„Habt Ihr ihn geſehen?“ klang Mariannens<lb/>zitternde Frage beim Erwachen.<lb/>
+            </p>
+            <p> <lb/>„Nein, der Bauer iſt nicht gekommen!“ er-<lb/>widerte die Magd gelaſſen.<lb/>
+            </p>
+            <p> <lb/>Wie ruhig die Menſchen alle ausſahen — o<lb/>welch' ein rettender Hoffnungsſtrahl! Sollte Ma-<lb/>rianne Alles geträumt haben?<lb/>
+            </p>
+            <p> <lb/>„Wie ſpät iſt es?“ — „Vier Uhr.“ — „War<lb/>Einer von Euch geſtern Abend im Leibzucht-<lb/>hauſe?“ — „Ja,“ entgegnete die Magd, „ich<lb/>brachte das Brod zurück, das wir geliehen<lb/>haben.“ — „Waren Alle wohl — meine Mutter —<lb/>Thekla — die Kinder?“ — „O, wie die Fiſche<lb/>im Waſſer!“ — Nach dieſen raſchen Fragen und<lb/>
+               <pb facs="#0057" n="43" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=57"/>Antworten drehte ſich Marianne gegen die Wand<lb/>um, ihre zuckenden Pulsſchläge wurden gleich-<lb/>mäßiger, und mit den Worten: „Gott, ich danke<lb/>Dir!“ ſank ſie in den Schlummer tiefſter Ab-<lb/>ſpannung.<lb/>
+            </p>
+            <p> <lb/>Beim Erwachen fand ſie ihre Mutter mit dem<lb/>kleinen Steffen, der Kürze wegen Steffenmann<lb/>genannt, an ihrem Bette. Die Alte hatte von<lb/>dem plötzlichen Unwohlſein gehört und erbot ſich<lb/>zu ihrer Pflege. „Geht es der Thekla und —<lb/>Euch gut?“ — fragte Marianne unruhig.<lb/>
+            </p>
+            <p> <lb/>„O, recht gut, Gott ſei Dank!“<lb/>
+            </p>
+            <p> <lb/>„Gott ſei Dank!“ erwiderte Marianne —<lb/>wie hatte ſie nur ſo entſetzlich träumen können?<lb/>
+            </p>
+            <p> <lb/>Armes Weib — drei Stunden ſpäter kam ein<lb/>Ackerwagen daher, über deſſen Leitern ein weißes<lb/>Tuch gedeckt war, unter dem Tuche lag die Leiche<lb/>Clas Gröne's. Er war, ſeiner Gewohnheit nach,<lb/>in aller Frühe an die Arbeit gegangen, ſein Ge-<lb/>hülfe vernahm des Verſtorbenen Schritt unter<lb/>dem Fenſter, als die Thurmuhr Vier ſchlug, Clas<lb/>mußte auf das Baugerüſte geſtiegen und von<lb/>den thaufeuchten Balken abgeglitten ſein, denn<lb/>eine halbe Stunde ſpäter fand man ihn todt<lb/>und kalt da liegen, über der Stirn zog ſich die<lb/>
+               <pb facs="#0058" n="44" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=58"/>breite Wunde, welche er ſich im Fallen an dem<lb/>Eckſtänder geſchlagen hatte, neben welchem er lag.<lb/>Der Sachverhalt war ein durchaus klarer, der<lb/>nächſte Arzt und der Gensdarm hatten die Leiche<lb/>beſchaut und den Befund zu Protokoll gegeben —<lb/>es war nichts weiter zu machen. —<lb/>
+            </p>
+            <p> <lb/>Marianne verfiel in ein hitziges Fieber und<lb/>man fürchtete für ihr Leben. Jetzt erſchien auch<lb/>Steffen wieder, die kranke Frau erkannte ihn<lb/>nicht, ſie phantaſirte in unheimlichſter Weiſe.<lb/>Der wilde Steffen ſaß Nacht und Tag geduldig<lb/>neben ihrem Bette und pflegte ſein Weib trotz<lb/>der ſorglichſten Krankenwärterin, er bot dem<lb/>Doctor jede beliebige Summe, wenn er für<lb/>Mariannens Leben einſtünde, aber der alte Herr<lb/>entgegnete, dieſe Entſcheidung ſtehe nicht in eines<lb/>Menſchen, ſondern in Gottes Hand! worauf<lb/>Steffen ſehr zornig wurde und alle Aerzte ver-<lb/>fluchte.<lb/>
+            </p>
+            <p> <lb/>Indeß, Mariannens rüſtige Natur ſiegte, ſie<lb/>erholte ſich, wenn auch ſehr langſam; zwar blieb<lb/>ſie bleich und wie verſtummt, aber ſie klagte über<lb/>nichts. Steffen benahm ſich, der trübſinnigen<lb/>Reconvalescentin gegenüber, muſterhaft. Wenn<lb/>ſie ihn manchmal mit ihren unheimlichen Augen<lb/>
+               <pb facs="#0059" n="45" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=59"/>anſtierte, als dächte ſie ihn bis in's Innerſte zu<lb/>durchſchauen, dann wurde er weich wie ein Kind<lb/>und fragte: „Marianne, bin ich Dir nicht das<lb/>Liebſte auf der Welt?“ und ſie entgegnete:<lb/>„Ja!“ — was war ihr denn überhaupt dieſe<lb/>Welt?<lb/>
+            </p>
+            <p> <lb/>Endlich kam ein hochwichtiger Tag für den<lb/>Tungenhof — Marianne ſchenkte ihm einen<lb/>Erben. Ein zartes zierliches Knäblein, aber, wie<lb/>ſich die Nachbarinnen ausdrückten, „munter und<lb/>flügge“. Als Marianne ihr Söhnchen glücklich<lb/>lächelnd betrachtete und befahl, man ſolle die<lb/>Fenſtergardinen zurückſchlagen — da entfuhr ihr<lb/>plötzlich ein gellender Schrei und ſie gab das<lb/>Kind ſchaudernd ſeiner Großmutter zurück. Quer<lb/>über die Stirn des Knaben zog ſich ein rothes<lb/>Muttermal gleich einer friſchen Wunde.<lb/>
+            </p>
+            <p> <lb/>„Geht Alle hinaus! Ruft mir Steffen!“<lb/>heiſchte Marianne. Steffen kam.<lb/>
+            </p>
+            <p> <lb/>„Haſt Du das Kind angeſehen, Steffen?“<lb/>
+            </p>
+            <p> <lb/>Steffen ſchwieg.<lb/>
+            </p>
+            <p> <lb/>„Auf ſeiner Stirn ſteht — daß ſein Vater<lb/>ein <hi rendition="#g">Mörder</hi> iſt! Ich habe Tag für Tag, Woche<lb/>um Woche, Monat um Monat mit dem Gedanken<lb/>gekämpft, daß der arme Clas <hi rendition="#g">meinetwegen</hi>
+               <lb/>
+               <pb facs="#0060" n="46" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=60"/>ſterben mußte — jetzt hat Gott mir die Gewiß-<lb/>heit gegeben! Es wäre eine Gnade, wenn mein<lb/>armes, fluchbeladenes Kindlein niemals die<lb/>Augen zum Tageslicht aufgeſchlagen hätte, es<lb/>wird bald keine Mutter mehr haben und einen<lb/>Vater — welcher ein Feind Gottes und ſeiner<lb/>Gebote iſt — geh’, Steffen, ich ſterbe durch Dich,<lb/>wie Clas geſtorben iſt!“<lb/>
+            </p>
+            <p> <lb/>Steffen war wie zerſchmettert, er aß und trank<lb/>nicht; als er zum hundertſten Mal auf ſeine<lb/>Bitte Marianne zu ſehen die Antwort erhielt,<lb/>ſie ſei zu krank, um Jemanden zu ſprechen, da<lb/>geberdete ſich der ſonſt ſo furchtloſe Recke wie ein<lb/>Verzweifelnder, die Knechte hielten ihn, daß er<lb/>ſich kein Leid anthue, und man rief den Pfar-<lb/>rer zu Hülfe. „Laßt ihn los!“ ſprach der geiſt-<lb/>liche Herr, „ich will mit ihm allein bleiben!“<lb/>
+            </p>
+            <p> <lb/>Den Hausgenoſſen wurde angſt und bange,<lb/>als durch zwei Stunden das Zimmer, in welchem<lb/>der Paſtor und der Hausherr weilten, verſchloſſen<lb/>blieb. Nimand hat erfahren, was in der Putz-<lb/>und Viſitenſtube auf dem Tungenhofe zwiſchen<lb/>den Zweien geredet wurde, aber als die Männer<lb/>heraustraten, ſtützte ſich der rieſenhafte Steffen<lb/>auf den magern Seelſorger, welcher jetzt an das<lb/>
+               <pb facs="#0061" n="47" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=61"/>Bett der kranken Frau geführt wurde. Alsbald<lb/>rief man auch Steffen:<lb/>
+            </p>
+            <p> <lb/>„Ihr ſollt zur Frau kommen, Bauer, ſie<lb/>will ſterben!“ — Steffen ging hinein. Er kniete<lb/>neben dem Bette nieder und erfaßte Mariannens<lb/>todesfeuchte Hand, indem er murmelte: „Ja,<lb/>ich erſchlug ihn, er ſtellte mich zur Rede Deinet-<lb/>wegen und ich konnte es nicht ertragen, es ſtehe<lb/>Einer zwiſchen Dir und mir. Jede Nacht ging<lb/>ich hier um mein Haus und wußte, daß Du<lb/>verſchiedene Male nach mir hinauszuſchauen pfleg-<lb/>teſt. Ich trug die Leiche zwei Stunden weit auf<lb/>meinen Schultern durch's Moor, damit Du Dich<lb/>vor dem entſetzen ſollteſt, der Dir beſſer zu ſein<lb/>däuchte als ich; als Du ohnmächtig da lagſt, trug<lb/>ich den Todten zurück, ich glaubte, ſobald Du Dich<lb/>fürchteteſt, würdeſt Du keine Gewalt mehr über<lb/>mich haben. — Aber Du ſagteſt Worte in jener<lb/>Nacht, die mich, als ich hinter dem Holzſtoß<lb/>lauſchte, einſehen ließen, Dein Sinn hinge <hi rendition="#g">doch</hi>
+               <lb/>an mir. Ich bereute es, Clas am Abend vorher<lb/>erſchlagen zu haben, und beſchloß, die Sache ſollte<lb/>vor Dir geheim bleiben. Narr, der ich war —<lb/>Blut fordert Blut, und ich opferte mein Liebſtes —<lb/>Dich! Ich weiß, Du kannſt mir nie vergeben!“<lb/>
+               <pb facs="#0062" n="48" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=62"/>„Ich kann Dir vergeben, und thue es —<lb/>aber trachte, daß Dir Gott vergebe, und erziehe<lb/>das Kind zu einem Chriſten. Wir fürchteten<lb/>nichts auf Erden und gingen verloren — denn<lb/>wir <hi rendition="#g">ſollen</hi> fürchten, wir <hi rendition="#g">ſollen</hi> Gott fürch-<lb/>ten —!“ Marianne ſprach ſehr matt, die beiden<lb/>Anweſenden, der Geiſtliche und Steffen, konnten<lb/>die Worte kaum verſtehen, dennoch fielen ſie wie<lb/>brennender Zunder auf das Herz des gottloſen,<lb/>ſchuldbelaſteten Mannes. Im Morgengrauen<lb/>ſtarb Marianne, die Nachbarinnen zogen ihr das<lb/>Leichenhemd an, bahrten ſie in der Putzſtube<lb/>auf und zündeten neben der Leiche zwei geweihte<lb/>Kerzen an.<lb/>
+            </p>
+            <p> <lb/>Man hatte ſehr gefürchtet, Steffen würde in<lb/>eine Art Raſerei ausbrechen, aber er war un-<lb/>heimlich gelaſſen und bekümmerte ſich ſogar um<lb/>die Dorfbewohner, welche kamen, neben der<lb/>Todten zu beten und den Lebenden ihr Beileid<lb/>auszuſprechen.<lb/>
+            </p>
+            <p> <lb/>Der Großknecht kam vielleicht der Wahrheit<lb/>am nächſten, als er ſagte: „Unſer Bauer iſt ſo<lb/>ruhig, weil er daran denkt ſich das Leben zu<lb/>nehmen, wenn ſie begraben iſt!“ Steffen rang<lb/>mit ſeiner übermächtigen Natur und kam immer<lb/>
+               <pb facs="#0063" n="49" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=63"/>von Neuem zu dem Schluß: „Ich fürchte nichts,<lb/>deshalb habe ich nicht die Geduld zu <hi rendition="#g">leiden</hi>,<lb/>nur den Muth zu <hi rendition="#g">handeln</hi>.“<lb/>
+            </p>
+            <p> <lb/>Abends verlangte er die Wiege mit dem Kinde<lb/>ſolle vor die Thür der Putzſtube und Leichenkammer<lb/>geſtellt werden, und er ſelbſt poſtirte ſich daneben,<lb/>„weil ſie bei <hi rendition="#g">ihr</hi> bleiben müßten, ihr Mann und<lb/>ihr Kind,“ ſagte er. Wer hätte den Gefürchteten<lb/>hindern mögen, zu thun wie ihm beliebte? Er<lb/>ſaß alſo die ganze Nacht da und blickte die Thür<lb/>an. Am folgenden Abend ſpät brachten die<lb/>Tiſchler den Sarg — Niemand durfte die Leiche<lb/>anrühren als Steffen, welcher ſie ſelbſt in die<lb/>leiſe raſchelnden Hobelſpäne legte, um ſich dann<lb/>wieder auf ſeinen Wachtpoſten, die Wiege neben<lb/>ſich, hin zu ſetzen. Die Leute wunderten ſich, wie<lb/>ein kräftiger Mann, gleich Steffen, derart und in<lb/>ſo kurzer Zeit verfallen könne, als es bei Steffen<lb/>geſchah. Er ſaß mager und hohläugig da, immer<lb/>als ob er in höchſter Spannung blicke und lauſche.<lb/>Alles ſtill, lautlos — was war das? In der<lb/>Todtenkammer raſchelten wieder die Hobelſpäne und<lb/>es klang wie ein tiefer Seufzer. Die Thür<lb/>zwiſchen beiden Räumen war nur angelehnt, und<lb/>noch dazu eine Glasthür mit einer weißen Gardine.<lb/>
+               <pb facs="#0064" n="50" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=64"/>Auf dieſer Gardine zeigte ſich jetzt ein menſch-<lb/>licher Schatten, als ob eine Geſtalt zwiſchen ſie<lb/>und die geweihten Kerzen trete, der Schatten<lb/>wechſelte ſeine Stellung, jetzt bewegte ſich die<lb/>Gardine und ein weißes Geſicht ſchaute auf<lb/>Steffen und die Wiege. War es Clas — war<lb/>es Marianne —? Der Mann, der wie der Kalk<lb/>an der Wand erbleichte, konnte keinen zweiten<lb/>Blick nach dem Schreckensbilde werfen, er ver-<lb/>hüllte ſein Geſicht, ſtürzte hinaus und ſchrie um<lb/>Hülfe. Die Leute ſprangen entſetzt aus den<lb/>Betten, und als ſie den zähneklappernden, todes-<lb/>beklommenen Mann erblickten, da erinnerten ſie<lb/>ſich des Gerüchtes, das von einer Spukerſcheinung<lb/>munkelte, damals als Clas ſich zu Tode fiel.<lb/>Niemand wagte vom Fleck zu gehen, bis die Groß-<lb/>mutter kam und in der Art alter, kühler Men-<lb/>ſchen ſagte: „In <hi rendition="#g">dieſem</hi> Hauſe hat es noch nie<lb/>geſpukt!“ indem ſie zugleich die Thür aufriß.<lb/>
+            </p>
+            <p> <lb/>Was ſie erblickte war geeignet, ihre eben aus-<lb/>geſprochene Ueberzeugung gründlich zu untergraben.<lb/>Neben der Wiege ſtand die todte Marianne. Sie<lb/>hatte ſich über das Kind gebeugt und richtete ſich<lb/>jetzt langſam in die Höhe. „Liebe Mutter,“ ſagte<lb/>ſie matt und traurig, „ich bin nicht todt!“<lb/>
+               <pb facs="#0065" n="51" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=65"/>Niemand rührte ſich — wer glaubt einem Ge-<lb/>ſpenſte! Nur die Mutter ſchritt auf ſie los und<lb/>faßte die Auferſtandene in die Arme. „O, ich<lb/>wußte es,“ rief die Alte, mit dem Unverſtande,<lb/>der unſere Zunge gewöhnlich in überwältigenden<lb/>Momenten lenkt — „ich wußte es, hier im Hauſe<lb/>ſpukt es nicht!“<lb/>
+            </p>
+            <p> <lb/>„Bringt mich zu Bett und holt den Doctor,“<lb/>bat Marianne, „wo iſt Steffen, er ſoll mich hin-<lb/>tragen!“<lb/>
+            </p>
+            <p> <lb/>Mit einem unartikulirten Schrei lag Steffen<lb/>vor ihr auf der Erde, küßte ihre Füße, ihre Hände<lb/>und erwärmte ſie an ſeiner Bruſt. Die Erſtarrung<lb/>war von den Zuſchauern genommen, Alles lief<lb/>um warme Umſchläge und Getränke, der Knecht<lb/>jagte mit verhängtem Zügel zum Arzt, die Leute<lb/>im Dorfe weckten einander, als wenn Feuer aus-<lb/>gebrochen wäre, der Pfarrer ſtand auf und ging<lb/>in die Kirche, er betete ein lautes Dankgebet, und<lb/>mehr und mehr Beter antworteten ihm einſtimmend<lb/>aus dem Dunkel der Kirche.<lb/>
+            </p>
+            <p> <lb/>Der Tod ließ Marianne nicht leichten Kaufes<lb/>fahren, aber Steffen ging ſo fleißig zur Kirche<lb/>und betete ſo eifrig, daß ſie ihm doch erhalten<lb/>wurde und ſie, mit einem Herzen voll Hoffnung,<lb/>
+               <pb facs="#0066" n="52" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=66"/>wieder in's Leben blickte. Das Kind gedieh,<lb/>Thekla ernährte es mit dem ihrigen. Da die Mutter<lb/>zur Pflege auf dem Hofe war, ſo ſtand, wie in<lb/>alter Zeit, das Leibzuchthaus wieder leer. Der<lb/>Arzt kam zum letzten Male hergeritten, und als er<lb/>den kleinen Erben betrachtete, ſagte er: „Das Mal-<lb/>zeichen auf ſeiner Stirn iſt viel blaſſer geworden,<lb/>es wird ſich <hi rendition="#g">ganz</hi> verwachſen und nur hervor-<lb/>treten, wenn er aufgeregt oder zornig iſt!“<lb/>
+            </p>
+            <p> <lb/>Marianne legte, als ſie mit ihrem Manne<lb/>allein war, ihre Arme um ſeinen Hals, ſeit langer,<lb/>langer, ſchwerer Zeit zum erſten Male wieder,<lb/>und ſprach:<lb/>
+            </p>
+            <p> <lb/>„Steffen, Gott will unſere Reue annehmen;<lb/>wir wollen unſer Kind in der Furcht aufziehen<lb/>und zum Geiſtlichen machen, die Söhne des armen<lb/>Clas ſollen unſere Erben ſein!“<lb/>
+            </p>
+            <p> <lb/>Steffen ſchwankte doch einen Augenblick, es<lb/>war ſchwer, ſein Fleiſch und Blut gewiſſermaßen<lb/>zu enterben.<lb/>
+            </p>
+            <p> <lb/>„Müſſen uns die Todten noch ein drittes Mal<lb/>mahnen?“ fragte Marianne.<lb/>
+            </p>
+            <p> <lb/>„Nein,“ ſagte Steffen feſt, „ſie ſollen ruhen<lb/>und ich nehme meine Reue auf mich!“<lb/>
+            </p>
+            <p> <lb/>Es geſchah, wie Marianne geſagt hatte. Steffen's<lb/>
+               <pb facs="#0067" n="53" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=67"/>Kraft war gebändigt, gleich der des Samſon nach-<lb/>dem ſeine Locken gefallen waren — nur ging er<lb/>nicht gern im Dunkeln allein, er fürchtete ſich!<lb/>Er iſt jetzt ein ſo guter Chriſt wie nur Einer im<lb/>Kirchſpiel. Einige Leute zucken zwar die Achſeln,<lb/>wenn von dem Tode Clas Gröne's die Rede iſt,<lb/>aber man fürchtet den gebeſſerten Steffen im Ge-<lb/>heimen immer noch und läßt um ſo lieber Gras<lb/>darüber wachſen, als die Söhne des verſtorbenen<lb/>Clas die Erben des Tungenhofes werden.<lb/>
+            </p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

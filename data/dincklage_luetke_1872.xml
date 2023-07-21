@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lütke Lü</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_luetke_1872</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Lütke Lü, 1872.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Lütke Lü</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1872</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 55–106</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Lütke Lü</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0069" n="55" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=69"/>
+            </p>
+            <p> <lb/>Lütke Lü.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0070" n="56" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=70"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0071" n="57" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=71"/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#in">B</hi>ildung macht frei, Genialität<lb/>nicht minder, das Freiwerden<lb/>macht originell. Der Dorf-<lb/>ſchneider Sievert Janſen war<lb/>gebildet, genial und ward durch<lb/>ſeine Eigenartigkeit der Held dieſer höchſt glaub-<lb/>würdigen Geſchichte. Nur gedankenloſe Leſer zucken<lb/>die Achſeln bei der Ausſicht, die Erlebniſſe eines<lb/>Schneiders verfolgen zu ſollen: wer aber die Welt-<lb/>geſchichte kennt, erinnert ſich ahnungsvoll aller<lb/>hiſtoriſchen Schneider und harrt, daß ſich vor ſeinen<lb/>Blicken die Tiefen einer der Welt noch unbekann-<lb/>ten Schneiderſeele aufthun. Die Weltgeſchichte ver-<lb/>zeichnet uns, ſeit dem Münſterſchen Wiedertäufer<lb/>Johann von Leyden, deſſen eiſerner Käfig zu Schreck<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0072" n="58" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=72"/>
+            </p>
+            <p> <lb/>und Wahrzeichen der Nachwelt daſelbſt am Lam-<lb/>berti-Thurme hängt, viele berühmte Schneider, ſo-<lb/>wohl auf dem Gebiete der Gelehrſamkeit als in-<lb/>mitten der Kriegs- und Staatsmänner. Heinrich<lb/>Wild lehrte um 1720 zu Oxford orientaliſche<lb/>Sprachen und ſein glorreiches Andenken lebt un-<lb/>ter dem Namen „des arabiſchen Schneiders“ fort.<lb/>Robert Will, Schneider in Buckingham, hatte es<lb/>
+               <hi rendition="#g">ohne</hi> Hülfe eines Lehrers im Lateiniſchen, Grie-<lb/>chiſchen und Hebräiſchen ſo weit gebracht, daß der<lb/>Italiener Magliabecchi zwiſchen ihm und Spener<lb/>(1759) eine Parallele ſchrieb. Schon vor dieſen<lb/>großen Engländern hatte der preußiſche General<lb/>Dörfling ſich unter Wilhelm von Brandenburg<lb/>vom Schneidertiſch zu den höchſten militäriſchen<lb/>Ehren aufgeſchwungen und ſich (1665) gegen die<lb/>Schweden rühmlichſt ausgezeichnet. Johnſon, der<lb/>1868 viel beſprochene Präſident der Vereinigten<lb/>Staaten in Amerika, war ſeines Berufes — ein<lb/>Schneider. Das Regiſter der Nadelhelden ließe<lb/>ſich wohl noch um ein Erkleckliches ausdehnen,<lb/>doch Sievert Janſen iſt mit keinem der bis jetzt<lb/>berühmt gewordenen Schneider zu vergleichen;<lb/>dennoch war er ein großer, obzwar von den Sei-<lb/>nen nie als ſolcher anerkannter Mann. Schon in<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0073" n="59" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=73"/>
+            </p>
+            <p> <lb/>zarteſter Jugend beſtimmten zwei Einflüſſe ſeine<lb/>ganze ſpätere Richtung. Der erſtere ging von ſei-<lb/>ner Großmutter aus und blieb handgreiflicher Na-<lb/>tur; der zweite war einer Brücke in's Geiſterreich,<lb/>einem Hellſeherblick in die verborgenſten Geheim-<lb/>niſſe der Natur gleich, und knüpfte ſich an eine<lb/>kleine irdene <hi rendition="#g">Pfeife</hi>, die Sievert in ſeinem<lb/>neunten Jahre beim Schafhüten fand.<lb/>
+            </p>
+            <p> <lb/>Erſt in reiferem Alter, als Sievert's grübeln-<lb/>der Geiſt ſich, namentlich bei der langen geraden<lb/>Rückennaht in den bäuriſchen Mannsröcken, gern<lb/>in ernſte Betrachtungen verſenkte, fragte ſich unſer<lb/>Schneider, ob er wohl jemals Eltern gehabt habe<lb/>und wie dieſelben etwa geweſen ſein möchten? Seit<lb/>er ſelbſt zu denken vermochte, waren dieſelben todt;<lb/>ihre Grabſtellen auf dem Dorfkirchhofe wurden<lb/>nach fünfzehn bis ſiebzehn Jahren von anderen<lb/>Todten bezogen und Alles was von ihnen, außer<lb/>Sievert ſelbſt, blieb, waren zwei vergilbte Namen<lb/>im Kirchenbuche. Wenn man ſich bückte, um die-<lb/>ſelben zu leſen, athmete man einen unheimlichen<lb/>Modergeruch ein; die Kirche war nämlich feucht,<lb/>weil ſie in einer Niederung und hart am Ufer<lb/>des Fluſſes gebaut war, den man früher mit: Ami-<lb/>ſia und jetzt als: Ems bezeichnet; derſelbe er-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0074" n="60" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=74"/>
+            </p>
+            <p> <lb/>gießt ſich, zehn bis zwölf Meilen weiter herunter,<lb/>in den Dollart. Da Sievert keine Geſchwiſter<lb/>hatte, verblieb ihm von ſeinen Eltern ungetheilt<lb/>die Erbſünde, die plattdeutſche Mutterſprache und<lb/>ein gewiſſer feierlicher Mutterwitz. Auf das ihm<lb/>gleichfalls überkommene Vaterland that er ſich nicht<lb/>viel zugute. Es war ſein Stolz, in Münſter ge-<lb/>arbeitet und ſich gebildet zu haben, ja er hatte ſo-<lb/>gar einmal den Plan gefaßt nach Trier zu gehen,<lb/>woran er zwar durch das kalte Fieber verhindert<lb/>wurde, doch blieb ihm Trier ſeitdem immer ſo<lb/>vertraut, als ob er wirklich da geweſen wäre. Wegen<lb/>ſeines gänzlichen Eltern- und ſonſtigen Mangels<lb/>wurde Sievert von ſeiner Großmutter, Janſen<lb/>ſelige Witfrau, erzogen. Großmütter ſind gegen<lb/>ihre Enkel entweder zu weich oder zu ſtrenge, die<lb/>Mitteltöne ſind ſchon bei den eigenen Kindern ab-<lb/>genutzt. Sievert war kein beſtechender Säugling,<lb/>und ſeine Großmutter, „Beſtmoder“ oder „Böppe“<lb/>in der Landesſprache, erzog ihn mit der Energie<lb/>einer ſchon ſeit zwanzig Jahren einſam lebenden<lb/>Wittib. Wenn die Matrone von ihm ſprach, ſo<lb/>nannte ſie ihn nur „mein Knecht“, ſelbſt da ſchon,<lb/>als er noch an ihrem Vortuchzipfel Gehübungen<lb/>anſtellte, und dieſe Bezeichnung deutete genugſam<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0075" n="61" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=75"/>
+            </p>
+            <p> <lb/>die abhängige Stellung des verwaiſten Sievert an.<lb/>Indeß, fern ſei es, Böppe's Ruf im ſandigen<lb/>Grabe noch anzutaſten; ſie pflegte ihren Enkel<lb/>ganz ſo ſorgſam, wie ihre Kuh, ihre zwei Schweine<lb/>und ihre zehn Haidſchnucken — ſo viel waren es<lb/>nämlich im Winter, aber im Frühjahr wurden es<lb/>bedeutend mehr. Böppe war eine höchſt ehren-<lb/>werthe Frau, zu deren Urtheil man allgemein un-<lb/>bedingtes Vertrauen hatte, namentlich bei Heira-<lb/>then und Viehkrankheiten. Ihre Erſcheinung war<lb/>die einer großen, naturfarbigen Holzfigur, mager<lb/>und eckig wie die vor-Dürer'ſchen Schnitzereien.<lb/>Trotzdem erfreute ſie ſich eines bedeutenden drama-<lb/>tiſchen Talentes, welches ihr in der ganzen Um-<lb/>gegend das Ehrenamt eintrug, bei Hochzeiten die<lb/>Ausſteuern auswärtiger Bräute zu beſchimpfen.<lb/>Wie pochte des kleinen Sievert Herz, wenn ſie den<lb/>Knaben wuſch und ſein hellblondes Haar rechte,<lb/>um ihn mit ſich zu einer Hochzeit zu nehmen!<lb/>Seine kleine Hand klammerte ſich an ihre feſten,<lb/>hauswebenen Röcke, damit er nicht zu Boden falle,<lb/>während die waſſerblauen, runden Kinderaugen<lb/>ſcheu und doch begierig das Gedränge der Hoch-<lb/>zeitsleute muſterten. Großer Himmel, wer war<lb/>nicht Alles auf dieſer Tanztenne! Und die Leute<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0076" n="62" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=76"/>
+            </p>
+            <p> <lb/>ſahen ſo fremd und anders aus wie ſonſt, mit<lb/>ihren grünen Zweigen an den Hüten und ihrem<lb/>Durſt und der wunderlichen Luſtigkeit. Nach und<lb/>nach erkannte man ſie zwar: der Dorfſchulze mit<lb/>ſeiner ſilberbeſchlagenen Pfeife und ſeinem langen<lb/>Rocke, und ſein Sohn der Schiffer in der Fries-<lb/>jacke und ſeine Frau mit den anderen Kindern<lb/>neben ihr und der kleinen Lena, welche angſtvoll<lb/>weinte, auf dem Arme; ſie waren Alle da, und<lb/>Sievert lachte über die Furcht der kleinen<lb/>dummen Lena. Nun kam der Zimmermann und<lb/>der Küper und der Wirth vom „Weißen Roß“<lb/>und der Nachbar und —: „Ah, ſieh da, Knecht,<lb/>biſt Du auch hier?“ fragte freundlich der dicke<lb/>Pfarrherr, ſo unvermuthet als wäre er aus der<lb/>Heuluke über ſeinem Kopfe vom Boden hernieder<lb/>gefallen. Böppe lächelte, ſo gut ein hölzernes Ge-<lb/>ſicht lächeln kann, und bückte ſich, um mit ihrer<lb/>Schürze dem Jungen die Naſe zu wiſchen. Jetzt<lb/>trat eine dicke Bäuerin auf Sievert’s Fuß, welcher<lb/>in den erſten Stiefeln ſteckte; der Junge ſchrie und<lb/>Böppe gab ihm eine Ohrfeige, weil es unanſtän-<lb/>dig iſt auf Hochzeiten zu ſchreien. Ach — es <hi rendition="#g">waren</hi>
+               <lb/>goldene, erinnerungsreiche Stunden, dieſe Hoch-<lb/>zeitsgänge; aber das Beſte und Ergreifendſte ging<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0077" n="63" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=77"/>
+            </p>
+            <p> <lb/>erſt los, wenn der Kiſtenwagen mit der Ausrüſtung<lb/>der Braut kam. Kein Menſch kann ſagen, was<lb/>Alles dieſe Brautwagen herbeiführten, Sievert's<lb/>Faſſungskraft war ganz bemeiſtert; und wie auf-<lb/>fallend, daß der dicke Rocken des „Wheels“ (Spinn-<lb/>rades) mit Goldpapier und rothen Bändern um-<lb/>wunden war — wie viel rothe Bänder gab es<lb/>wohl in der Welt? Sogar die Pferde hatten<lb/>welche an ſich, und der Burſche, der auf den Pfer-<lb/>den ſaß, trug ein langes Band um die „Kippe“<lb/>(Mütze) gewunden, welches hinter ihm drein flat-<lb/>tern ſollte und nur deshalb ſeinen Zweck verfehlte,<lb/>weil es ſich fortwährend in die Peitſchenſchnur<lb/>verwickelte und dieſe am Knallen und Schnalzen<lb/>verhinderte. Das Bunteſte aber war die Braut-<lb/>kiſte, welche hoch über die Wagenleitern hinaus-<lb/>ragte; ſie prunkte in Oelfarbe, mit Tulpen und<lb/>anderen, jetzt unbekannten, wahrſcheinlich durch<lb/>die verſchiedenen Schöpfungsperioden untergegan-<lb/>genen Blumen bemalt. Auf der Brautkiſte aber<lb/>thronten ernſt und feierlich „Schnieder und Nei-<lb/>ſter“, der Schneider und die Nähterin, als gei-<lb/>ſtige Eltern und Urheber der ganzen Mitgift. Wer<lb/>muß es dem Knaben nicht nachempfinden, wenn<lb/>bei dieſem Anblick ſein unbeirrtes Kinderherz die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0078" n="64" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=78"/>
+            </p>
+            <p> <lb/>erſten verhängnißvollen Begriffe ſeines künftigen<lb/>Berufes in ſich aufkeimen fühlte? Die Haupt-<lb/>perſon bei Dorfhochzeiten iſt nun einmal ohne<lb/>Frage der Schneider; er brachte und nähte die<lb/>Brautleute zuſammen, er half, beredten Wortes,<lb/>etwaige Hinderniſſe ſchlichten, er verdoppelte —<lb/>das heißt mit Worten — die Mitgift der Braut,<lb/>zu großem Ruhme ihrer ganzen Freundſchaft, mit<lb/>
+               <hi rendition="#g">ihm</hi> kam nun die ganze Herrlichkeit, und eine<lb/>Violine ſpielte für <hi rendition="#g">ihn</hi> und die Kiſte und die<lb/>Nähterin ganz allein: „O du lieber Auguſtin“ rc.<lb/>Das Brautpaar hatte zu ſchweigen, der Bräuti-<lb/>gam mußte ſogar die angeſehenſten Gäſte bei Tiſche<lb/>bedienen – aber der Schneider ſprach, er <hi rendition="#g">befahl</hi>
+               <lb/>ſogar, denn er iſt Ceremonienmeiſter auf allen<lb/>ordentlichen Bauernhochzeiten. Jetzt winkte Böppe<lb/>einigen alten Frauen, und die Greiſinnen blickten<lb/>ſich verſtändnißinnig an, überall zwiſchen den jungen<lb/>luſtigen Geſichtern tauchten alte, ernſte Frauen-<lb/>köpfe auf und bildeten den Kreis um Sievert und<lb/>ſeine Ahne. Er ſah nun gar nichts mehr, bis der<lb/>Ruf: „Platz, Platz!“ den Chor der Mütter zur<lb/>Seite und Sievert zwiſchen die Hörner einer Kuh<lb/>drängte, denn „der Rinder breitgeſtirnte, glatte<lb/>Schaaren“ füllten zu beiden Seiten der Diele,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0079" n="65" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=79"/>
+            </p>
+            <p> <lb/>vulgo Tanzſaal, ihre gewohnten Ställe. Das war<lb/>der Hochzeitbitter, der ſo branntweinſtimmig:<lb/>„Platz, Platz!“ gerufen hatte; man erkannte ihn<lb/>ſofort, als er ſeinen Stock mit den vielen bunten<lb/>Seidenbändern ſchwang, denn jedes junge Mäd-<lb/>chen, das zur Hochzeit genöthigt wird, knüpft dem<lb/>Boten für ſeinen „Riemelreih“ ein ſeidenes Band<lb/>an ſeinen Wanderſtab. Sievert ſah nun, nachdem<lb/>die Leute Platz gemacht hatten, die große bunte<lb/>Kiſte vorübertragen, welcher die übrigen Geräthe<lb/>des Brautwagens folgten.<lb/>
+            </p>
+            <p> <lb/>„Knecht,“ ſprach die Großmutter, „nimm Dich<lb/>in Acht, daß Du mir nicht in die Füße kommſt,<lb/>ſonſt ſperre ich Dich in den Kälberſtall und Du<lb/>bekommſt kein Schinken-Butterbrod!“<lb/>
+            </p>
+            <p> <lb/>Gleich darauf zeigte ſich der Schneider und<lb/>ſagte in ſehr ſchönen Worten, die Gefreundeten<lb/>und Nachbarinnen der Braut wären bereit, den<lb/>Hausfrauen hieſiger Bauerſchaft die Ausrüſtung<lb/>ihrer neuen Nachbarin in der Kammer vorzulegen<lb/>und zu überreichen.<lb/>
+            </p>
+            <p> <lb/>Böppe warf einen wilden Blick auf die Matri-<lb/>archinnen, welche ſie umſtanden, und ſchritt in der<lb/>Haltung einer Bradamante der Kammer zu, indeß<lb/>der Schneider den kleinen zitternden Knecht, welcher<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0080" n="66" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=80"/>
+            </p>
+            <p> <lb/>ganz überwältigt das Schlepptau des hauswebenen<lb/>Rockes fahren ließ, auf den Arm nahm und in<lb/>der Kammer auf einen Tiſch ſtellte. Zu beiden<lb/>Seiten dieſes Tiſches waren die einheimiſchen und<lb/>fremden Matronen in zwei drohenden Haufen<lb/>vertheilt, die Anführerin der Auswärtigen, eine<lb/>behäbige Alte, ergriff, die dumpfe Stille des ſchwach<lb/>beleuchteten Gemaches unterbrechend, das Wort:<lb/>
+            </p>
+            <p> <lb/>„Mütter!“ begann ſie. „Jetzt werdet Ihr ſehen,<lb/>was Eure Augen nimmer nicht geſehen haben!<lb/>Ihr ſollt Euch miſerabel verwundern, und wenn<lb/>Ihr ſelbſt längſt in der Kuhle (im Grabe) liegt,<lb/>ſo werden Eure Kindeskinder noch über die Aus-<lb/>rüſtung pochen, die Schohmakers Ete Euch in die<lb/>Bauerſchaft gebracht hat!“<lb/>
+            </p>
+            <p> <lb/>Böppe's Geſicht nahm einen fanatiſchen, blut-<lb/>dürſtigen Ausdruck an, ihre Ellbogen ſtellten ſich,<lb/>wie die eines Automaten, mit langſamer Bewegung<lb/>nach aufwärts, der ganzen Welt ſpitz und ſcharf-<lb/>winklig entgegen, indeß ihre Hände ſich über den<lb/>Gurt ihrer breiten Schürze ſpreizten.<lb/>
+            </p>
+            <p> <lb/>„Das wäre doch das erſte Mal, ſo lange die<lb/>Welt ſteht, daß ein Kiſtenwagen durch unſern<lb/>Eſch fährt, der uns Beſſeres in's Dorf bringt, als<lb/>unſere Bräute hinausnehmen!“ entgegnete die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0081" n="67" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=81"/>
+            </p>
+            <p> <lb/>Großmutter. „Es klänge bedauerlich, wenn wir<lb/>in unſerem Dorfe noch von Euch was lernen<lb/>müßten! Was unſer Dorf und was Korffeldshof<lb/>zu ſagen hat, das wiſſen alle Menſchen, und Schoh-<lb/>makers Ete mag ſich kreuzigen und ſegnen, in ein<lb/>ſolches Dorf und in ſolches Haus zu kommen.“<lb/>
+            </p>
+            <p> <lb/>Dieſer Particularismus erzürnte die dicke Frau<lb/>auf's Aeußerſte; ſie griff einen Arm voll Leinen-<lb/>zeug aus der bunten Kiſte und ſchleuderte ihn auf<lb/>den Tiſch, daß es förmlich knallte, unglücklicher<lb/>Weiſe aber auch auf des kleinen Sievert dünne<lb/>Beinchen, denn er hatte ſich geſetzt, um ſeinen<lb/>Kopf vor den Geſticulationen der fremden Bäuerin<lb/>zu ſchützen. Die Thränen kamen ihm in die<lb/>Augen und ſeine Lippen zitterten heftig; aber<lb/>ſein frühreifer Heldenmuth und der Gedanke an<lb/>den Kälberſtall erſtickten ſeine Seufzer; er wiſchte<lb/>ſich mit einer in ſeinem zarten Alter bewunderungs-<lb/>werthen Geiſtesgegewart die Naſe mit dem Aermel,<lb/>um zugleich die thränengeblendeten Augen zu<lb/>trocknen. Keine Folter hätte vermocht, ihm in<lb/>Gegenwart des Schneiders und der alten Frauen<lb/>einen Schmerzensſchrei zu entreißen.<lb/>
+            </p>
+            <p> <lb/>„Seht her!“ rief die Gegnerin der Großmutter,<lb/>„kann man beſſeres flächſen Leinen finden —<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0082" n="68" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=82"/>
+            </p>
+            <p> <lb/>was ſagt Ihr zu den Kanten an den Betttüchern?<lb/>Echte Kanten, zwei Daum breit um den Saum, es<lb/>iſt ein miſerabler Staat, und das geht nach Du-<lb/>tzenden, als wenn's kein Ende nehmen wollte —<lb/>ja ja, wir zu Haus verſtehen uns auf den Leinbau!“<lb/>
+            </p>
+            <p> <lb/>„Aber nicht auf's Spinnen!“ war die giftige<lb/>Antwort. „Iſt das ein Draht oder ein Kabeltau?<lb/>Wenn das Eure feinſte Leinewand iſt, da will ich<lb/>die grobe gar nicht ſehen; Kanten kann Jeder für<lb/>Geld kaufen, aber eine gute Leinwand ſcheeren —<lb/>das iſt ein Anderes!“<lb/>
+            </p>
+            <p> <lb/>Die alten Frauen waren jetzt ſo erregt, daß<lb/>Sievert unwillkürlich den Kopf zwiſchen die Schul-<lb/>tern zog, in der Erwartung, ſie würden einander<lb/>in die grauen Haare fahren. Da trat der Schneider<lb/>zwiſchen die kämpfenden Parteien, eine zinnerne<lb/>Schale in der Hand. Dieſelbe war mit Brannt-<lb/>wein gefüllt, der mit Syrup verſüßt war, und<lb/>wenn man mit dem kleinen runden Löffel rührte,<lb/>fand ſich ein Bodenſatz von Roſinen. Der kleine<lb/>Held ſah das ſehr genau, als Böppe auch ihn<lb/>trinken ließ und ihm einige Südfrüchte ausfiſchte.<lb/>Mit dieſem Nektar, der eine Erinnerung an den<lb/>Meth unſerer in den Hünengräbern ruhenden<lb/>Vorfahren ſein mag, ſtand der alte Ceremonien-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0083" n="69" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=83"/>
+            </p>
+            <p> <lb/>meiſter alſo zwiſchen den Duellantinnen und den<lb/>beiden Chören, die ſich durch Brummſtimmen am<lb/>Kampfe betheiligten: „Euch iſt ſicher die Kehle<lb/>was trocken geworden, Ihr habt es gut gemacht,<lb/>helft Euch zu einem Trunk!“<lb/>
+            </p>
+            <p> <lb/>Böppe nahm die Schaale, that einen Zug und<lb/>reichte ſie liebevoll der Gegnerin: „Ich trinke<lb/>Dir's zu, Marianne Holtkamp,“ ſprach ſie „mögen<lb/>wir noch über manche Mitgift einander gegenüber<lb/>ſtehen und mag es Dir und all Deinen Leuten gut<lb/>gehen und Gott Dir ein ſeliges Ende verleihen!“<lb/>
+            </p>
+            <p> <lb/>„Ich freue mich immer, wenn ich Dich ſehe,<lb/>Lisbeth Janſen,“ entgegnete Marianne. „Du ver-<lb/>änderſt Dich nicht ein Bischen und mir denkt im-<lb/>mer, wie wir als Mädchen in der Kinderlehre<lb/>ſaßen; wir konnten mit Niemand ſo gut auskom-<lb/>men als ich mit Dir und Du mit mir!“<lb/>
+            </p>
+            <p> <lb/>Es bleibt eine Frage offen, ob Großmutter<lb/>wirklich ſchon damals ſo braun und hölzern aus-<lb/>ſah, oder ob fünfzig im Torfrauch verlebte Jahre<lb/>doch ihr Recht übten — genug, man ſchüttelte ſich<lb/>die Hände und dem Kleinen ward's leicht um's<lb/>Herz in der Hoffnung, Alles ſei vorbei. Er war<lb/>eben ein Kind und hielt den erſten Act des Dra-<lb/>mas für das Ganze!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0084" n="70" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=84"/>
+            </p>
+            <p> <lb/>Schrecklich wurde ſein Wahn zerſtört, als un-<lb/>vermuthet ein rieſiges Federbett über ſeinen Kopf<lb/>dahinflog und hinter demſelben die anpreiſende<lb/>Rede Mariannens. Böppe ſchleuderte verächtlich<lb/>das Bettſtück auf demſelben, nicht mehr ungewöhn-<lb/>lichen Wege über das Haupt des Enkels zurück<lb/>und ſchrie: „Iſt das ein Pfühl? Sind da Federn<lb/>drin? Ihr habt wohl Krammetsvögel, ſtatt der<lb/>Gänſe —? Das Ding wiegt ja kaum zehn Pfund,<lb/>das weht der erſte Wind zum Fenſter hinaus; da<lb/>haben wir's nun, wie viel Ihr davon verſteht. —“<lb/>In dieſem Tone zankte es hin und wieder, indeß<lb/>in der Thür, Kopf an Kopf gedrängt, das junge<lb/>Volk lauſchte und mit Lachen und eingeſtreuten<lb/>Bemerkungen humoriſtiſcher Art dem erhebenden<lb/>Schauſpiel beiwohnte. Ein nicht enden wollendes<lb/>Gelächter erfolgte aber, als Sievert von Aufre-<lb/>gung, Müdigkeit und Branntwein bemeiſtert mit<lb/>Gepolter vom Tiſche fiel, zum Glück auf den Berg<lb/>der ſoeben beſchimpften Bettſtücke. Da er ſich durch-<lb/>aus nicht ermuntern konnte, legte man ihn auf<lb/>etwas Stroh unter den Muſikantentiſch, und ſpäter<lb/>kam ſeine Großmutter, nahm ihn auf den Rücken<lb/>und trug ihn nach Hauſe.<lb/>
+            </p>
+            <p> <lb/>Von dieſem Tage an verlor Sievert's Geiſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0085" n="71" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=85"/>
+            </p>
+            <p> <lb/>die ſchneeweißen Flügel kindlicher Unbefangenheit;<lb/>die Begriffe von irdiſcher Größe, Ehre und Macht<lb/>wuchſen vor ſeiner erwachenden Phantaſie gleich<lb/>koloſſalen Erzſphynxen empor, ſie lagen ſchwei-<lb/>gend und faſt drohend da und ſtarrten den Kna-<lb/>ben bei Tag und bei Nacht an. Wunderbar, ſie<lb/>hatten die Geſichter des Schneiders und der Groß-<lb/>mutter. Sievert beſaß ein ſehr ſchönes, viel-<lb/>beneidetes Spielzeug. Ein Handelsjude hatte es<lb/>ihm auf der Kirchmeß geſchenkt, als Großmutter<lb/>in der Bude des Letzteren einige Gegenſtände ſo<lb/>billig kaufte, daß er, der Jude, den größten Scha-<lb/>den dabei hatte. Das Spielzeug beſtand aus zwei<lb/>Brettchen, die durch ein Leder verbunden waren.<lb/>Auf dem oberen Brett war eine Art Paradiesvogel<lb/>abgebildet, der Jude aber ſagte, es wäre ein Kukuk.<lb/>Und er mochte wohl Recht haben; denn wenn man<lb/>die Brettchen aufeinander drückte, rief eine Stimme<lb/>von innen: Kukuk! und das wohl fünfzigmal, ſo<lb/>oft man drückte. Allein der Kukuk hatte jetzt allen<lb/>Reiz für Sievert verloren. Der Knabe erſehnte<lb/>nur das Eine: groß zu werden! und ſtreckte und<lb/>reckte ſich fleißig, um zu wachſen. Als der Kaplan<lb/>ihm eines Tages ſagte: „Junge, Du wächſt ja<lb/>wie Kohl!“ da war der Kleine ſo glücklich, daß<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0086" n="72" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=86"/>
+            </p>
+            <p> <lb/>ihn am folgenden Tage eine Inſpiration überkam.<lb/>Er zerſchnitt eigenhändig und eigenmächtig drei<lb/>Ellen Fries; als er aber ſeiner Großmutter freude-<lb/>glühend ſein improviſirtes Meiſterſtück vorlegte<lb/>und dazu mit Würde ſprach: „Beſtmutter, ich bin<lb/>jetzt auch ein Schneider!“ — da erwiderte ſie ihm<lb/>mit zwei furchtbaren Ohrfeigen. „Ein Unglücks-<lb/>kind biſt Du, weiter nichts,“ fügte ſie hinzu, faßte<lb/>ihn am Kragen und ſperrte ihn in den Torf-<lb/>ſchuppen. Ja, er war ein Unglückskind, er fühlte<lb/>das zwiſchen den ſchwarzen Torfwänden mit ſchnei-<lb/>dendem Weh, ſein kurzer, ſchöner, verführeriſcher<lb/>Jugendtraum war zerronnen, ſeine goldenen<lb/>Schlöſſer geſchleift und zertreten — er konnte nie<lb/>— nie Schneider werden.<lb/>
+            </p>
+            <p> <lb/>Ein Stein hätte ſich erbarmen mögen. Aber<lb/>weder Steine noch Törfe zeigten ſich zum Mit-<lb/>gefühl geneigt, ſelbſt dann nicht, als ein ſtarker<lb/>Oelgeruch verkündete, Böppe ſei drinnen beſchäftigt,<lb/>Buchweizen-Pfannkuchen zu backen, ein köſtlicher<lb/>Geruch — das war aber auch Alles für dieſen<lb/>Mittag, die Hausgeſellſchaft aß, ſelbſt der Hund<lb/>ward gefüttert, aber Sievert bekam nichts. Die<lb/>tiefſten Abgründe grenzen an die ſteilſten Höhen!<lb/>Die Genialität hat ihr Fegefeuer, um geläutert<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0087" n="73" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=87"/>
+            </p>
+            <p> <lb/>aus demſelben hervorzugehen! — Als nichts auf<lb/>der Welt ſich unſeres Helden erbarmte, da thaten<lb/>ihm die Geiſter ihr geheimnißvolles Reich auf und<lb/>ſchickten ihm Brudergruß und Friedenspfeife.<lb/>
+            </p>
+            <p> <lb/>Das ereignete ſich folgendermaßen: Böppe<lb/>öffnete den Torfſchuppen, um den jungen Ver-<lb/>brecher zu entlaſſen und ihn mit den Schafen auf<lb/>die Haide und Weide zu ſchicken. Letztere kam<lb/>allerdings nur den Haidſchnucken zugute. Da es<lb/>nach Regen ausſah, band Großmutter ihm ihre<lb/>große Schürze von naturbraunem Schutegut als<lb/>Mantel um den Hals. Der feuchte Wind blähte<lb/>die Schürze wie ein Segel auf, in der Hand trug<lb/>Sievert die Wurfſchaufel, auf ſeinem Herzen un-<lb/>gelöſte Lebensfragen, vor ihm her gingen die<lb/>Schafe, hinter ihm der Spitz und die trübe Er-<lb/>fahrung — ſo erreichte Sievert die Haide. Bald<lb/>klatſchten die erſten ſchweren Regentropfen auf das<lb/>zähe Gewebe der Schürze und weckten den Knaben<lb/>aus ſeinen hungrigen Träumereien. Da kam ihm<lb/>Das, was den Menſchen allein, auch in der furcht-<lb/>barſten Lage, retten kann — der Gedanke ſich ſelbſt<lb/>zu helfen! Er beſchloß ſich eine Höhle in die Sand-<lb/>düne zu graben und ging ſofort tapfer an’s Werk.<lb/>Spitz blickte ihn verſtändnißvoll an, knurrte freudig<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0088" n="74" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=88"/>
+            </p>
+            <p> <lb/>und begann dann auch ſeinestheils den gelben<lb/>groben Sand herauszukratzen. Nach einer Stunde<lb/>konnte Sievert ſchon den ganzen Kopf und die<lb/>Schultern in die Grube hineinſtecken. Es ſah<lb/>drin ganz wohnlich aus; oben die gewölbte Decke<lb/>von graugelbem Sande, unten der dunkle feſte<lb/>Haideboden, welcher hart und trocken zum Fußboden<lb/>geſchaffen ſchien. Der talentvolle Knabe kam auf<lb/>den Gedanken, den Eingang eng zu laſſen und<lb/>innen eine geräumige Halle auszugraben. Seine<lb/>Idee war eine jener Erfindungen, die ſchon<lb/>millionenmal gemacht wurden und immer von<lb/>Neuem dem Entdecker Freude und Nutzen bereiten.<lb/>Wie Sievert in den Sand, ſo grub ſich der Stamm-<lb/>vater der Skrälinger in den Schnee ein, unbe-<lb/>kümmert und ohne Ahnung, daß ſeine Menſchen-<lb/>brüder in Griechenland ewig ſchöne Tempel auf<lb/>luftige Höhen bauten, daß in Egypten das Wunder<lb/>der Pyramiden, ein Monument menſchlicher Kraft<lb/>und Ausdauer, erſtand. Unter der heißen in-<lb/>diſchen Sonne aber bettete man wiederum gigan-<lb/>tiſche Werke in den Felſenſchooß der Erde, Tempel<lb/>und Städte verbargen ſich unter der Oberfläche,<lb/>welche der lichte Sonnenſchein küßt, und die Re-<lb/>ligion, die da unten ihr Reich beherrſchte, war<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0089" n="75" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=89"/>
+            </p>
+            <p> <lb/>dunkel und freudlos, wie ihre Tempel. Sievert<lb/>wußte und verſtand nichts von dem Allen, aber<lb/>er ahnte Ungeheures, ſein Magen war leer, aber<lb/>ſein Kopf wimmelte von großen werdenden Ge-<lb/>danken. So grub er. Spitz grub auch, aber ihm<lb/>ſtieg nur eine Frage auf: ob ein Maulwurf da<lb/>drinnen ſei oder nicht? Spitz hatte eine natürliche<lb/>Abneigung gegen Maulwürfe.<lb/>
+            </p>
+            <p> <lb/>Was wirklich drin war in dem ſchwarzen Haide-<lb/>boden, und zwar ſeit Jahrhunderten dort ruhte,<lb/>das ahnten Beide nicht, bis ſie es fanden und<lb/>ſtaunend betrachteten. Es war eine kleine Thon-<lb/>pfeife, nicht größer als unſere Cigarrenſpitzen,<lb/>außen mit einem bärtigen Kopfe geziert, innen<lb/>noch ſchwarz vom Gebrauche. Obwohl Spitz die<lb/>größeren Rechte an dem Fund hatte, maßte der<lb/>Junge ſich denſelben doch unbedenklich an und<lb/>ſtand dem Hunde in ſeiner Würde als Menſch<lb/>ſiegreich gegenüber.<lb/>
+            </p>
+            <p> <lb/>Am ſelben ereignißvollen Tage — die Ereigniſſe<lb/>ziehen wie die Bienen in Schwärmen ein — war<lb/>im Nachbarhauſe, d. h. unter einem Strohdache<lb/>neben Großmutters Strohdach, Kilber, hochdeutſch:<lb/>Kindelbier. Der Kaffee floß in braunen, geiſer-<lb/>artig dampfenden Strömen. Die Theilnehmerinnen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0090" n="76" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=90"/>
+            </p>
+            <p> <lb/>welche ihren guten Willen mit einem Dutzend<lb/>Schalen bethätigt hatten, wurden nicht gebeten,<lb/>ſondern gezwungen, der Gaſtfreundſchaft die Ehre<lb/>zu geben und ſich in das zweite Dutzend hinein<lb/>zu trinken und zu reden. Alle glühten wie die<lb/>Pfingſtroſen, außer Böppe, welche nur ein tieferes<lb/>Holzbraun zur Schau trug. Gegen Abend ver-<lb/>abſchiedete ſich der Chor der Mütter, um noch ein<lb/>wenig bei Böppe einzuſprechen, allwo man eine<lb/>Kritik der eben beendeten Feſtlichkeit auszutauſchen<lb/>dachte und zugleich die Ferkel der Matrone be-<lb/>trachten wollte. Die Ferkel, „Biggen“, waren den<lb/>würdigen Hausfrauen bei Weitem intereſſanter,<lb/>als der ſoeben in ihren Kreis aufgenommene<lb/>Säugling. Während man unzählige Bemerkungen<lb/>über die neun — d. h. die Ferken — machte,<lb/>ward nur beiläufig über den Säugling geſagt:<lb/>,,Schon wieder ein Mädchen, da wäre ein Junge<lb/>doch auch am Platz geweſen!“ Eine ſehr einfältige<lb/>und unzweckmäßige Behauptung, denn eben dieſes<lb/>kleine Mädchen, Valburga getauft, Wübke ge-<lb/>nannt, war beſtimmt Sievert’s künftige Gattin zu<lb/>werden.<lb/>
+            </p>
+            <p> <lb/>Als die Frauen ſich um das Feuer nieder-<lb/>gelaſſen hatten, und niederlaſſen muß ſich jeder<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0091" n="77" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=91"/>
+            </p>
+            <p> <lb/>ordentliche Chriſtenmenſch, wenn er über eine<lb/>Schwelle ſtapft, um die Ruhe des Hauſes nicht<lb/>mit ſich fortzunehmen — als ſie alſo kaum da<lb/>ſaßen, kam der kleine Schafhirt zurück, durchſchritt<lb/>die Küche und legte mit ſtolzem Schweigen das<lb/>Pfeifchen auf den Tiſch. Die Unterhaltung ver-<lb/>ſtummte, aller Augen hafteten an der Pfeife, und<lb/>die Worte „Olkes Pipe“ und „Lütke Lü!“ wurden<lb/>leiſe hin und her geflüſtert. Wer kannte nicht<lb/>dieſe kleinen thönernen Dinger, welche hier und<lb/>da in irgend einer tieferen Erdſchicht gefunden<lb/>werden? Die Bauern nennen ſie „Alraunenpfeifen“<lb/>und wiſſen, daß dieſelben eine Nachlaſſenſchaft der<lb/>„Kleinen Leute“ (lütke Lü) oder Erdgeiſter ſind,<lb/>welche früher ſichtbar umherwandelten, jetzt aber<lb/>verborgen leben und nur Bevorzugten mitunter<lb/>ein Zeichen ihrer Exiſtenz zukommen laſſen. Groß-<lb/>mutter mußte den zerſchnittenen Stoff von heute<lb/>Morgen ganz vergeſſen haben; ſie ſtand auf, band<lb/>dem Jungen die durchnäßte Schürze vom Halſe,<lb/>nahm ihm die Mütze ab und ſagte: „So, ſo,<lb/>mein Sohn, Du wirſt Schmacht (Hunger) haben,<lb/>ich will Dir ein paar Eier kochen!“ Niemals noch<lb/>hatte Großmutter „mein Sohn“ geſagt, und we-<lb/>nig hatte es ſie gekümmert, ob er, außer der her-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0092" n="78" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=92"/>
+            </p>
+            <p> <lb/>gebrachten Eſſenszeit, Hunger habe oder nicht.<lb/>Heute ging ihre Zärtlichkeit ſo weit, daß ſie ihm<lb/>ihren eigenen Binſenſtuhl an den Tiſch ſchob, ihn<lb/>am Kragen faßte und auf den Stuhl hinſetzte;<lb/>ja, noch mehr, ſie ſagte: „Mit Schein wird Sievert<lb/>noch mal ein ordentlicher Schneider werden!“<lb/>und dann kochte ſie ihm die Eier.<lb/>
+            </p>
+            <p> <lb/>Unter dem Schutze ſeiner dreifachen Ideale,<lb/>der Großmutter, des Schneiders und der „lütken<lb/>Lü“ wurde Sievert ein Jüngling und ein Schneider.<lb/>Als Lehrjunge gab man ihm die dem Zerreißen<lb/>am meiſten ausgeſetzten Kleidungsſtücke der Dorf-<lb/>jungen auszubeſſern, und er „lappte“ Ellbogen- und<lb/>Knieſtücke in ſinnreichſter Weiſe wieder zuſammen.<lb/>Später vertraute man ihm ganz neue Stoffe an.<lb/>Was ſeine Geſellen- und Wanderzeit anlangt, ſo<lb/>hatte Sievert ſich niemals die Größe der Erde<lb/>durch Ziffern beſtimmen laſſen; wäre das auch<lb/>der Fall geweſen, er würde dieſen Zahlen mißtraut<lb/>haben, denn er war kein blinder Nachbeter und<lb/>verließ ſich einzig auf ſein eigenes Urtheil. Er<lb/>wußte nun auch ohne Zahlen, daß die Erde ſehr<lb/>groß ſei, und bewies ihre Größe überzeugend genug<lb/>dadurch, daß er einſt zwei Tage ununterbrochen<lb/>über Land ging, ohne die Stelle zu erreichen, wo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0093" n="79" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=93"/>
+            </p>
+            <p> <lb/>das Himmelsgewölbe auf der Erde ruht; ſtets lag<lb/>dieſer Berührungspunkt in gleicher Entfernung<lb/>vor ihm. Trotzdem ging er auf die Wanderſchaft,<lb/>ohne Furcht ſich zu verirren, vertrauend ſeinem<lb/>Sterne und ſeinem gewitzten Kopfe, überzeugt, er<lb/>ſei dieſe Rückſicht ſeinen Schutzpatronen, den kleinen<lb/>Leuten, ſchuldig.<lb/>
+            </p>
+            <p> <lb/>Sievert kam zwar nicht weiter als bis nach<lb/>Münſter; allein das iſt doch auch in ihrer Art<lb/>eine ſchöne Stadt, und ohne die verehrende Liebe<lb/>zu ſeiner Großmutter und das kalte Fieber würde<lb/>er gewiß nicht daran gedacht haben dieſelbe wieder<lb/>zu verlaſſen, um in die ungebildete, beſonders in<lb/>Männerkleidern altmodiſche Heimath zurückzukehren.<lb/>Allein da ihm keine Wahl blieb, ſo ging er nach<lb/>einigen Jahren zurück zu ihr, wie in eine Ge-<lb/>fangenſchaft, nachdem er ſich in der That Manches<lb/>angeeignet hatte, was man nur in den großen<lb/>Städten lernen kann. Er hatte nicht ohne Nutzen<lb/>das Sommertheater beſucht und in der Leih-<lb/>bibliothek allerlei Bücher geleſen, beſonders die-<lb/>jenigen, welche von ſchönen Frauen handeln, wie<lb/>z. B. die Geſchichte von Venus und Tannhäuſer<lb/>und der ſchönen Meluſine. Er trug ſich nach der<lb/>Mode, konnte hochdeutſch reden und wußte mit<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0094" n="80" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=94"/>
+            </p>
+            <p> <lb/>Leuten von Stand umzugehen; er hatte ſich näm-<lb/>lich, obzwar ein Bauer von Geburt, edelmänniſche<lb/>Sitten angeeignet, als er für einen Baron Klei-<lb/>dungsſtücke aus Gichtflanell anfertigte, die öfters<lb/>anprobirt werden mußten, weil man den nobeln<lb/>Schnitt nicht gleich das erſte Mal trifft. Alſo<lb/>ausgerüſtet näherte er ſich, nach vollbrachten Wan-<lb/>derjahren, ſeiner Heimath wieder.<lb/>
+            </p>
+            <p> <lb/>Wenn Sievert zu irgend einer That, einem<lb/>neuen Ereigniſſe entgegen ſchritt, ſuchte und fand<lb/>er allemal die Fingerzeige ſeiner kleinen Freunde;<lb/>was Wunder, daß es ihn ernſtlich beſchäftigte, wer<lb/>aus dem Heimathsdorfe, das er mit Bildung zu<lb/>beglücken kam, ihm den erſten Gruß böte. Ihn<lb/>ſchauderte, wenn er dachte, es könne Böppe ſein!<lb/>Doch der Weg blieb leer. Auf der Gemeindeweide,<lb/>zur Seite des ſandigen Dammes, balgten ſich einige<lb/>Buben, ohne ihn zu beachten, ganz fern auf dem<lb/>Roggeneſch ackerten bedächtige Bauersleute, aber<lb/>Keiner kam ihn zu grüßen. Des Weges entlang<lb/>zog ſich ein Waſſergraben, welcher der Winterfluth<lb/>als Abzugskanal und zur Trockenlegung des Weges<lb/>diente, nebenbei hatte hier das Vieh ſeine Schwemme<lb/>und Tränke. Erlen und Weidenbüſche ſtanden zu<lb/>beiden Seiten zu Nutz und Frommen unzähliger<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0095" n="81" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=95"/>
+            </p>
+            <p> <lb/>Froſch- und Mückenſchaaren. Sievert erblickte be-<lb/>reits die erſten Häuſer und noch immer kein Gruß.<lb/>Mit einem Male erhob ſich zwiſchen den Erlen<lb/>eine helle, ſchmetternde Mädchenſtimme und die<lb/>ſang:<lb/>
+            </p>
+            <p> <lb/>„Zehntauſend Ducaten, das iſt viel ſchönes Geld,<lb/>Mein Schatz iſt mir lieber als halber die Welt!“<lb/>
+            </p>
+            <p> <lb/>Der Schneider hemmte den Schritt, bog vor-<lb/>ſichtig die tiefgrünen Zweige auseinander und ſah<lb/>die Sängerin mit aufgeſchürzten Kleidern barfuß<lb/>im Waſſer ſtehen und Wäſche ſpülen.<lb/>
+            </p>
+            <p> <lb/>So erblickte einſt Odyſſeus die Prinzeſſin<lb/>Nauſikaa, als Augen- und Herzenstroſt auf langer<lb/>Irrfahrt, und der größte Dichter Griechenlands<lb/>begeiſterte ſich an dem Bilde der Wäſche ſpülen-<lb/>den Königstochter. So ſtand unſere nordiſche<lb/>Nauſikaa, Gudrun, die Tochter König Hettel's, da,<lb/>barfuß im Schnee am Meeresufer, die Wäſche<lb/>der böſen Königin Gerlinde reinigend.<lb/>
+            </p>
+            <p> <lb/>Sievert's ſingende Wäſcherin, wiewohl ſie<lb/>Manches mit den holden Königstöchtern gemein<lb/>hatte, war doch keine Prinzeſſin, wie ſich alsbald<lb/>herausſtellen wird.<lb/>
+            </p>
+            <p> <lb/>„Guten Tag!“ rief Sievert vornehm auf<lb/>Hochdeutſch und nahm ſeinen überhohen, ſchwar-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0096" n="82" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=96"/>
+            </p>
+            <p> <lb/>zen Cylinder vom Kopfe, in feiner, großſtädti-<lb/>ſcher Art.<lb/>
+            </p>
+            <p> <lb/>„Gooden dag ook!“ entgegnete das Mädchen<lb/>tief erröthend, in einem Dialekt, welcher dem der<lb/>„armen Gudrun“ nicht unähnlich war.<lb/>
+            </p>
+            <p> <lb/>„Wer biſt Du denn?“ fragte Sievert und<lb/>muſterte die kleine runde, roſige Dirne mit un-<lb/>ſäglichem Wohlgefallen. Das Mädchen entgeg-<lb/>nete noch etwas ſchämerlich, ſie ſei „Sand Gert's<lb/>lütke Wübke“, die jüngſte von ihren fünf älteren<lb/>Schweſtern.<lb/>
+            </p>
+            <p> <lb/>„So, ſo,“ entgegnete der Schneider mit über-<lb/>raſchender Geiſtesgegenwart und lehnte ſich vorn-<lb/>über, daß die Erlenzweige krachten. „Wenn Sand<lb/>Gert's Töchter alle ſo ſind wie Du, dann ſind<lb/>ſechs ſolch „lütke Lü“ nicht zu viel!“ Dieſe hüb-<lb/>ſche und paſſende Bemerkung machte Sievert in<lb/>ſeiner plattdeutſchen Mutterſprache, und das Mäd-<lb/>chen richtete ſich auf, ſtemmte die Arme in die<lb/>Seiten und rief: „Sievert!“ ihn erkennend.<lb/>
+            </p>
+            <p> <lb/>Sievert's äußere Erſcheinung war durch einen<lb/>lebhaften ſchottiſchen Sommerſtoff und gelben<lb/>Nanking auf's Beſte gehoben. Was ſeine ſonſtige<lb/>Figur anbetrifft, ſo war er mittelgroß (große<lb/>Männer ſind ſelten von bedeutender Körperlänge),<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0097" n="83" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=97"/>
+            </p>
+            <p> <lb/>und ſein kleiner ſchmaler Kopf blond und blaß.<lb/>Das lichte, dünne Haar hing ſo welk und unbe-<lb/>weglich hernieder, als ob es eben naßgeregnet<lb/>wäre.<lb/>
+            </p>
+            <p> <lb/>Das ganze Dorf verſammelte ſich Abends,<lb/>um den Schneider zu ſehen und ihm Mittel<lb/>gegen das kalte Fieber zu empfehlen, er aber ſah<lb/>von allen Bewohnern des Dorfes nur die kleine<lb/>dicke Wübke und fühlte ſein Fieber nehme einen<lb/>andern Charakter an, auch ohne Beſprechung von<lb/>Seiten der Großmutter, oder vergrabene Stroh-<lb/>halme, oder um den Finger gewickelte Eierſchalen,<lb/>oder eins der vielen untrüglichen Geheimmittel,<lb/>welche nie helfen.<lb/>
+            </p>
+            <p> <lb/>Die „lütken Lü“ hatten alſo wieder einmal<lb/>darin vollkommen Recht gehabt, daß ſie, als ſiche-<lb/>res Vorzeichen, unſerem Helden Wübke Sand<lb/>Gert's ſechſte Tochter zur Gattin entgegengeführten!<lb/>Sie lachte freilich anfangs viel über ihn; als<lb/>ihr aber Vater Sand Gert klar machte, daß kein<lb/>erfreulicherer Fall für ihn denkbar ſei, als <hi rendition="#g">eine</hi>
+               <lb/>aus dem halben Dutzend unter die Haube zu<lb/>bringen, da rechte ſie ſich das Haar, ſpendelte ihr<lb/>geblümtes Tuch ſo breit als möglich um die<lb/>Taille und ging mit kurzen, knappen Schritten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0098" n="84" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=98"/>
+            </p>
+            <p> <lb/>hinter ihren Haidſchnucken drein, in die für Sie-<lb/>vert ſo verhängnißvollen Haidhügel, wohl wiſſend,<lb/>daß der Schneider, von zarter Sehnſucht geleitet,<lb/>bereits alldort auf einem Haufen Erdſoden ſitzend,<lb/>ſie erharrte. So war es denn auch. Wübke<lb/>wartete nicht erſt das Ende der ſchönen Rede ab,<lb/>die ihr Bewerber hielt. Sie kreuzte gemächlich<lb/>die Arme und ſprach: „Weißt Du, Sievert, Deine<lb/>vornehme Sprecherei kannſt Du Dir beſparen,<lb/>das mag doch kein vernünftiger Menſch nicht ver-<lb/>ſtehen. Deine Beſtmutter hat mir ſchon geſagt, daß<lb/>ſie Jemand in’s Haus zur Arbeit braucht und<lb/>daß Ihr deshalb um mich dächtet; ſo denn weiß<lb/>ich das! Wo ſechs Mädchen zu Mittag in den<lb/>Brei langen, als wir bei Sand Gert, da kann<lb/>leicht <hi rendition="#g">eine</hi> gemißt werden; und ſoviel Euer Land<lb/>und Bauerei angeht, bin ich mir auch nichts<lb/>Beſſeres wünſchen, und was eine Andere arbeitet,<lb/>das arbeite ich auch und laſſe mich nicht lumpen.<lb/>Von wegen Deiner Perſon, ſo haſt Du keinen heißen<lb/>Kopf und das iſt die Hauptſache; übrigens kann<lb/>ich Dich ganz ſo gut nehmen als jeden Andern,<lb/>der mir kommt. Iſt mir es auch anſtändig mit<lb/>Dir, denn ich ſpinne fix; aber das Nähen, was<lb/>ich thue, iſt nicht viel. Aber das ſteht mir ſehr<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0099" n="85" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=99"/>
+            </p>
+            <p> <lb/>entgegen, daß Du ſo miſerabel klug biſt, Sievert,<lb/>weil die Leute das hier gar nicht kennen. So<lb/>wollt' ich Dich wahrſchauen, es iſt am beſten, Du<lb/>thuſt ganz wie die anderen Bauern, Jeder nach<lb/>ſeinem Stande, und ſagſt wie ſie, wobei auch die<lb/>Aermel, die Du in der Frauensleute Kleider<lb/>nähſt, nicht gut ſitzen und zu viel von der Schulter<lb/>fallen. Deshalb dachte ich, Du müßteſt Dich in<lb/>dieſen Stücken umthun, und will ich denn ehrlich<lb/>und fleißig mit Dir leben, ſo lange unſer Herr<lb/>Gott uns bei einander läßt!“<lb/>
+            </p>
+            <p> <lb/>Im zweiten Theater und in ſeinen literari-<lb/>ſchen Unterhaltungen hatte freilich der Schneider<lb/>ſich von einer ſolchen Art von Schäferſtunden<lb/>nichts träumen laſſen; in Anbetracht der Haide-<lb/>kraut knuspernden Schnucken konnte er ſich indeß<lb/>nicht verhehlen, daß die ſeinige wohl die richtige<lb/>ſein mußte:<lb/>
+            </p>
+            <p> <lb/>„Du haſt Recht, Kind!“ ließ ſich daher der<lb/>Verlobte nach einigem Beſinnen vernehmen und<lb/>erfaßte mit ſeinen langen dünnen Fingern ihre<lb/>kurzen rundlichen; „das Landvolk verſteht mich<lb/>nicht, ſelbſt ſtudirte Leute begreifen nichts, aber<lb/>das betrübt mich nicht. Genug, wenn ich es<lb/>weiß und der Geſell und der Lehrjunge, den wir<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0100" n="86" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=100"/>
+            </p>
+            <p> <lb/>auch zu Martini auf die Koſt bekommen. Du<lb/>ſollſt in meinen Erfindungen und hinſichtlich<lb/>meiner vornehmen Sprache Deinen Willen haben;<lb/>aber das ärgert mich, Wübke, daß die Frauens-<lb/>leute abſolut hohe Schultern haben wollen, wo<lb/>es ihnen beſſer geboten wird. Wenn Du hierdurch<lb/>meine Braut biſt, ſo komm und gieb mir einen<lb/>Kuß!“<lb/>
+            </p>
+            <p> <lb/>Wübke neigte ſich über den Schneider und die<lb/>Haidſoden und bot dem Erſtern ihre Lippen dar.<lb/>„Ja, Wübke,“ meinte Sievert ſinnend, nach-<lb/>dem er ſie geküßt hatte; „Du kannſt zufrieden<lb/>ſein, Du haſt es gut getroffen mit der Freierei!“<lb/>
+            </p>
+            <p> <lb/>Böppe war entſchieden Neptuniſtin, ſie ließ<lb/>jede neue Aera aus dem Waſſer emporſteigen.<lb/>Vor der Hochzeit ihres Enkels ſchwamm das ganze<lb/>Haus, und Großmutter war der einzige trockene<lb/>Gegenſtand in demſelben. Bereits hatte der Lehr-<lb/>ling die Wände der Küche vergißmeinnichtblau<lb/>angetüncht, wozu ſich die von dem Geſellen hübſch<lb/>ochſenblutfarben überſtrichenen Thüren vortrefflich<lb/>ausnahmen. Alles glänzte und roch ganz wie<lb/>neu. Natürlich Böppe blieb die Alte, und das<lb/>war ein Glück; denn ſie war eine höchſt recht-<lb/>ſchaffene und thätige Frau.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0101" n="87" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=101"/>
+            </p>
+            <p> <lb/>Als Alles in Ordnung war, kaufte man<lb/>Reis, Pflaumen, Kaffee, Zucker und Zwieback,<lb/>backte Brod und ſetzte einen großen Schinken<lb/>zum Feuer, nicht von der Kalbfleiſchſuppe zu<lb/>reden. So konnte denn die Hochzeit vor ſich<lb/>gehen, keine drei Tage dauernde große Bauern-<lb/>hochzeit, zu der Hunderte von Theilnehmern ge-<lb/>laden worden, nein, beſcheiden wie es dem ge-<lb/>ringen Manne ziemt, aber doch ſehr ſchön. Man<lb/>tanzte auch Nachmittags und der Lehrling ſpielte<lb/>dazu die Geige! Wenn der jugendliche Virtuoſe<lb/>hier und da unerwartete Kunſtpauſen entſtehen<lb/>ließ, ſo pfiffen einige der Burſchen wieder, bis<lb/>er ſich auf ſeiner „Viole“ wiederfand, oder die<lb/>Mädchen ſangen mit ihren hellen, ſchmetternden<lb/>Stimmen. Es war eine ſehr hübſche Hochzeit,<lb/>Niemand tanzte beſſer als das junge Ehepaar,<lb/>
+               <hi rendition="#g">ſie</hi> konnte ſich in einem Anlauf dreimal um<lb/>ihren Abſatz drehen, und wie <hi rendition="#g">er</hi> ſich erſt ſchwenkte<lb/>und die neuen Stiefeln warf und die Hacken<lb/>aneinander wirbelte — es war zum Staunen.<lb/>Alle lernten nun von ihm, wie man in fremden<lb/>Landen tanze.<lb/>
+            </p>
+            <p> <lb/>Mag es Sievert dereinſt verantworten, daß<lb/>er eine ſehr glückliche und zufriedene Ehe führte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0102" n="88" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=102"/>
+            </p>
+            <p> <lb/>in einer Zeit, wo nichts moderner und roman-<lb/>tiſcher iſt als bodenlos unglückliche Ehen.<lb/>
+            </p>
+            <p> <lb/>Keine von den unzähligen Prüfungen, welchen<lb/>die Sterblichen ausgeſetzt, traf unſer junges<lb/>Paar während eines vollen Jahres; Sievert kam<lb/>nicht einmal unter den Pantoffel, denn Wübke<lb/>machte die vielen kleinen Schritte ihres Tage-<lb/>werks durch die Woche in Holzſchuhen, am<lb/>Sonntage in feſten, geſchmierten Lederſchuhen.<lb/>Ordnungsliebend, wie Wübke war, hielt ſie auch<lb/>ihren Schneider in Ordnung, und mit wenig<lb/>Worten verſtand ſie es, ſeinem Benehmen die ge-<lb/>wünſchte „Richtung“ zu geben. Eine Tochter der<lb/>Stuarts, die unglückliche Winterkönigin, führte<lb/>ihr Haus in's Verderben, indem ſie ihrem Ge-<lb/>mahl zurief: „Du haſt eine Königstochter ge-<lb/>heirathet und beſinnſt Dich, eine Krone anzu-<lb/>nehmen?“ — Wübke fragte mit entſchieden beſſerem<lb/>Erfolg: „Du haſt ein Bauermädchen geheirathet<lb/>und ſchämſt Dich, ein Bauer zu ſein?“ Die<lb/>Weiber bleiben ſich am Ende überall gleich, unter<lb/>Thronhimmeln und Strohdächern.<lb/>
+            </p>
+            <p> <lb/>Nach Ablauf des erſten Jahres drangen ent-<lb/>ſetzliche Laute aus des Schneiders Haus bis auf<lb/>die Straße; dem „Grunzen“ am ähnlichſten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0103" n="89" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=103"/>
+            </p>
+            <p> <lb/>ſchien es doch menſchliche Vocalmuſik zu ſein,<lb/>wiewohl Niemand ihren Grund errathen hätte,<lb/>der nicht hineinging und nun erfuhr: das un-<lb/>heimliche Geräuſch ſei Böppe's Geſang. Böppe<lb/>ſchwenkte eine Wiege. In der Wiege arbeitete<lb/>ein lächerliches Durcheinander von winzig kleinen<lb/>Armen und Händen und zwei kugelrunde Köpf-<lb/>chen; mit dem Ausdrucke tiefſter Unzufriedenheit<lb/>verſuchten ſie ſich auf dem Kiſſen hin und her zu<lb/>drehen. Es waren Wübke's Zwillingsöchter, die<lb/>ihr eben ſo ſehr glichen als die kleinen beweglichen<lb/>Feldhühner ihrer Mama. Sievert meinte: „Wenn<lb/>eins von ihnen ein Junge wäre, ſo ſollte er weit<lb/>in die Welt reiſen und lernen ſich vor den Leuten<lb/>benehmen und ſo bekannt werden, daß man von<lb/>ihm in den Zeitungen läſe!“ Aber es war kein<lb/>Junge da, um des Schneiders eigene ehrgeizige<lb/>Jugendträume zu verwirklichen. Den zwei Mäd-<lb/>chen ſchien es aber eben recht wie es war, ſie<lb/>ſöhnten ſich alsbald mit dem Erdendaſein aus und<lb/>gediehen und lachten und kreiſchten und hatten<lb/>Wangen wie Paradiesäpfel. Sie fügten ſich in<lb/>die Ordnung der Dinge, und der Haushalt ging<lb/>fleißig und beſtimmt wie früher weiter. Wenn<lb/>die Zwillinge wuchſen, ſo will das ſagen: ſie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0104" n="90" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=104"/>
+            </p>
+            <p> <lb/>waren etwas weniger klein; das hinderte ſie aber<lb/>nicht, ſich kecklich auf die kleinen Holzſchuhe mit<lb/>den noch kleineren Füßen darin, erſtere mit einem<lb/>Bindfaden an die letzteren feſtgebunden, zu ſtellen<lb/>und die erſten verhängnißvollen Schritte zu<lb/>machen. Wieder bewährte ſich Böppe's haus-<lb/>webener Rock auf's Beſte, und die kleinen Kobolde<lb/>klapperten und taumelten unverdroſſen an dieſer<lb/>ſichern Handhabe neben ihr her. Eines Tages<lb/>legte Großmutter aber die beiden Schweſterchen<lb/>nicht, wie bisher, an dem Kopfende der Wiege<lb/>zur Ruhe, ſondern am Fußende derſelben; das<lb/>kam, weil am Kopfende ſchon ein noch kleineres,<lb/>drittes Schweſterchen lag.<lb/>
+            </p>
+            <p> <lb/>Sievert beſchaute ſich auch dieſen Ankömm-<lb/>ling in voller Freude und Liebe. „Wenn es ein<lb/>Junge wäre,“ ſagte er dann, „ſo ſollte er weit<lb/>in die Welt hinausreiſen und lernen ſich vor<lb/>den Leuten benehmen und ſo bekannt werden, daß<lb/>man von ihm in den Zeitungen läſe!“<lb/>
+            </p>
+            <p> <lb/>„Na,“ bemerkte Böppe mit leiſem Tadel, „es<lb/>iſt ein geſundes Kind und ſieht aus wie unſere<lb/>Wübke; damit können wir zufrieden ſein!“<lb/>
+            </p>
+            <p> <lb/>Trotz dieſer Zurechtweiſung wiederholte Sievert<lb/>noch zweimal ſeine Phraſe, bei der Geburt des<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0105" n="91" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=105"/>
+            </p>
+            <p> <lb/>vierten und fünften Töchterchens; war es doch<lb/>ſein glühendſter Wunſch, einen weitgereiſten, welt-<lb/>erfahrenen vielbekannten Sohn zu haben. Die<lb/>ſechſte Tochter wurde aber aufgenommen, als<lb/>wäre ſie wirklich der längſt erhoffte Sohn ge-<lb/>weſen. „Weine doch nicht, Wübke,“ tröſtete er<lb/>ſeine Frau, „jetzt kannſt Du ſehen, daß die<lb/>kleinen Leute auf mich hören; habe ich Dir nicht,<lb/>als ich Dich zuerſt begrüßte, geſagt: Sechs ſolche<lb/>wie Du ſind nicht zu viel? — Siehſt Du, nun<lb/>haben wir ſechs und ganz wie Du, wir wollen<lb/>ſie nun in Frieden und Liebe aufziehen!“<lb/>
+            </p>
+            <p> <lb/>So viel edle Reſignation blieb nicht unbelohnt;<lb/>aber der Lohn war trotzdem nicht ganz den Er-<lb/>wartungen angemeſſen. Das Söhnchen wurde<lb/>geboren, Böppe hielt es dem Vater mit jenem<lb/>grimmigen Geſichtsausdrucke hin, mit welchem ſie<lb/>die Ausſteuern zu beſchimpfen pflegte, und ſprach<lb/>dazu tief und grollend: „Da haſt Du Deinen<lb/>Jungen, ſieh’ nun zu, ob er bald auf Reiſen<lb/>gehen und in die Zeitungen geſchrieben werden<lb/>mag!“<lb/>
+            </p>
+            <p> <lb/>Wohl ſelten hat ein Familienvater ſeinen<lb/>Stammhalter mit ſo maßloßem Erſtaunen an-<lb/>geblickt, als der Schneider den ſeinigen. Derſelbe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0106" n="92" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=106"/>
+            </p>
+            <p> <lb/>war ſo unerhört klein, daß die Zwillinge ſich vor<lb/>ihm noch immerhin mit ihrer Größe hätten brüſten<lb/>können, damals, als Großmutter ſie in dieſelbe<lb/>Wiege legte, in welcher man jetzt, nach einigem<lb/>Umherſchauen, ein puppenartig kleines Gnomen-<lb/>gebilde fand — den Sohn des großen Mannes.<lb/>
+            </p>
+            <p> <lb/>Sievert alſo beſtaunte ſeinen Sohn, deſſen<lb/>körperliche Kleinheit ein ſo allgemeines Klagen<lb/>und Schluchzen hervorrief, wie, glücklicher Weiſe!<lb/>— gewöhnliche Unbedeutendheit ſie ſelten verurſacht.<lb/>Nicht nur Wübke weinte und ihre ſechs Töchter<lb/>weinten, auch die Nachbarinnen kamen und wein-<lb/>ten. Allgemein ward erklärt, das Kind ſei zu<lb/>klein um leben zu können, und man packte es<lb/>demgemäß ungeſäumt in Kiſſen und trug es im<lb/>Sturmſchritt zur Kirche, wo es in aller Eile ge-<lb/>tauft wurde und den Namen Gerhardus, nach ſei-<lb/>nem Großvater Sand Gert, erhielt. Als man den<lb/>„Speerfeſten, Tapfern“ über den Kirchhof in<lb/>etwas ruhigerer Art zurücktrug aus dem Gottes-<lb/>hauſe, ſagte eine Nachbarin, auf ein offenes Grab<lb/>deutend: „Wir könnten ihn nur gleich hier laſſen<lb/>und in einer Zeitung begraben — der Schneider<lb/>will ja, er ſoll in die Zeitung kommen, wie ein<lb/>Pfund Kaffeebohnen beim Kaufmann!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0107" n="93" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=107"/>
+            </p>
+            <p> <lb/>Alle lachten, und während des Heimweges winkte<lb/>man den Leuten auf dem Felde, damit ſie her-<lb/>beikämen und das wunderliche Menſchenkind an-<lb/>ſähen.<lb/>
+            </p>
+            <p> <lb/>In ſelber Stunde blickte Wübke ihren Gatten<lb/>an und fragte ernſt und unabweisbar, wie Gret-<lb/>chen den Fauſt: „Iſt es denn wahr, was die Leute<lb/>ſagen, der Antichriſt hätte Dir ein Handgeld ge-<lb/>geben — und dafür — —“ ſie verhüllte ihr Geſicht.<lb/>
+            </p>
+            <p> <lb/>„Nun dafür?“ forſchte Sievert voll wiſſen-<lb/>ſchaftlichem Eifer.<lb/>
+            </p>
+            <p> <lb/>„Dafür muß er Dir geben, was Du von ihm<lb/>verlangſt? Du wollteſt einen Sohn, Du haſt ihn<lb/>— <hi rendition="#g">dieſen</hi>!“ Und wieder verhüllte ſie ihr Ge-<lb/>ſicht und ſchluchzte bitterlich.<lb/>
+            </p>
+            <p> <lb/>„Alſo das ſagen die Leute?“ murmelte Sievert<lb/>vor ſich hin, nicht etwa gekränkt, o nein, im Ge-<lb/>gentheil geſchmeichelt, daß er endlich doch der ganz<lb/>beſondere, unvergleichliche Mann wäre, um den<lb/>ſich ſelbſt die Hölle keine Mühe verdrießen ließ.<lb/>„Wenn die Leute ſagen,“ fuhr er dann fort, „ich<lb/>hätte das Handgeld genommen, dann muß es wohl<lb/>ſo ſein! Sobald der Junge laufen kann, dann<lb/>gehe ich mit ihm in die weite Welt!“<lb/>
+            </p>
+            <p> <lb/>Von dieſem Tage an war der Schneider wie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0108" n="94" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=108"/>
+            </p>
+            <p> <lb/>verwandelt, was um ihn her geſchah, ſchien ihm<lb/>vollſtändig gleichgültig; nur für den Jungen hatte<lb/>er noch einiges Intereſſe. Derſelbe ſtarb, trotz<lb/>der Nachbarinnen, durchaus nicht, ſondern nahm<lb/>ſichtbar zu an Weisheit und Verſtand, wenn auch<lb/>nur unmerklich an Körperlänge. Sievert beach-<lb/>tete es nicht, daß Wübke's roſige Wangen bleich<lb/>und ſchmal wurden und ihr blühender, geſchwätzi-<lb/>ger Mund ſchweigſam und leidvoll; es fiel ihm<lb/>nicht auf, daß die ſechs Mädchen ihn ſcheu mieden<lb/>und Böppe unaufhörlich knurrte. Ja, es beun-<lb/>ruhigte ihn nicht einmal, daß ſich ſeine Kunden,<lb/>einer nach dem andern, von ihm abwandten; die-<lb/>jenigen natürlich zuerſt, welche einſt den meiſten<lb/>Werth auf den Schutz der „lütken Lü“ zu legen<lb/>ſchienen. Wübke ging viel zur Kirche und zur<lb/>Pfarre, um ſo fleißiger, als ihr Mann dieſe Pflich-<lb/>ten mehr und mehr verabſäumte. Die arme kleine<lb/>Frau war ganz verirrt und verwirrt von all' ihren<lb/>trübſeligen Gedanken. Welch' eine Aufgabe, die<lb/>Seele ihres Mannes zu retten, die Mutter eines<lb/>Hexenkindes zu ſein und dabei die Angſt, eines<lb/>Tages Vater und Sohn in die weite Welt ziehen<lb/>zu ſehen — wozu? wohin? Sie wußte es nicht.<lb/>Im Stillen hoffte ſie faſt, ihr Unglückskind werde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0109" n="95" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=109"/>
+            </p>
+            <p> <lb/>auf ſo jämmerlichen Beinchen und Füßchen nie<lb/>laufen lernen, auch nahm ſich der junge Mann<lb/>etwas lange Zeit dazu und übte ſich einſtweilen im<lb/>Reden, daß es zum Staunen war, wie das kleine<lb/>Weſen gleich einem Papagei ſchwatzte und lernte,<lb/>was ihm vorgeſprochen wurde. Nebenbei kroch er<lb/>mit merkwürdiger Geſchwindigkeit im Hauſe und<lb/>auf der Straße umher, ſo daß ſich die Nachbarinnen<lb/>wunderten. Endlich ſtellte er ſich denn doch auf<lb/>die Füße und der Vater redete ihn nicht mehr<lb/>Gerdken, ſondern Gerhardus an. Ach, dieſen erſten<lb/>Schritten konnte kein tiefer Fall folgen. Die Ver-<lb/>hältniſſe geſtatteten kaum noch ein weiteres Sin-<lb/>ken. Im Hauſe war Trübſal und Krankheit, Groß-<lb/>mutter war bettlägerig ſeit Langem, vor der Thür<lb/>Armuth und Noth. Betrübte das Sievert, oder<lb/>nicht? Er äußerte ſich nicht darüber, ſondern war<lb/>beſchäftigt, ſeinem Erbprinzen einen hübſchen Tuch-<lb/>anzug zu nähen, der nach dem Schnitte für Er-<lb/>wachſene angefertigt war. Wübke hielt das Kind<lb/>die ganze Nacht in furchtbarer Angſt an ſich ge-<lb/>preßt, als der Anzug fertig war, und bei Tage<lb/>band ſie ſich die kleine Bürde auf den Rücken.<lb/>So ging das die ganze Woche; als ſie aber Sonn-<lb/>tags angſt- und ahnungsvoll, halb todt gehetzt vor<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0110" n="96" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=110"/>
+            </p>
+            <p> <lb/>Beſorgniß aus der Kirche zurückkam — da waren<lb/>Sievert und das Knäbchen verſchwunden.<lb/>
+            </p>
+            <p> <lb/>Jahr und Tag vergingen. Böppe ſtarb, Wübke<lb/>und ihre Töchter arbeiteten ſich wieder ein wenig<lb/>empor und lebten gar fromm und fleißig. Da<lb/>langte eines Tages ein Geldbrief an. Fünf Gold-<lb/>ſtücke waren in ein gedrucktes Papier eingeſchlagen.<lb/>Auf dem Papier ſtand in rieſigen Buchſtaben:<lb/>„Gerhardus Janſen, das Wunder der Welt, ein<lb/>Zwerg von noch nie dageweſener Kleinheit, wird<lb/>während des ganzen Schützenfeſtes von Nachmit-<lb/>tags vier bis Abends zehn Uhr ſeine höchſt über-<lb/>raſchenden Vorſtellungen geben. Dieſelben bieten<lb/>eine reiche Abwechſelung von Declamationen, Ge-<lb/>ſangsvorträgen, Nationaltänzen u. dgl. mehr. So-<lb/>dann wird das berühmte Wunderkind in verſchie-<lb/>denen Coſtümen naturgetreu darſtellen: <hi rendition="#g">Napo-</hi>
+               <lb/>
+               <hi rendition="#g">leon I.</hi>, die Völkerſchlacht bei Leipzig commandi-<lb/>rend, <hi rendition="#g">Ritter Toggenburg</hi>, von ſeiner Burg<lb/>Rolandseck auf die Inſel Nonnenwerth im Rhein<lb/>hinabſchauend, <hi rendition="#g">Oliver Cromwell</hi>, das Todes-<lb/>urtheil König Karl's I. von England unterſchrei-<lb/>bend, <hi rendition="#g">Andreas Hofer</hi>, der tyroler Held, im<lb/>Moment, wo er ſtandrechtlich erſchoſſen wird,<lb/>
+               <hi rendition="#g">Othello</hi>, der Mohr von Venedig, indem er ſeine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0111" n="97" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=111"/>
+            </p>
+            <p> <lb/>Gemahlin Desdemona mit einem Kopfkiſſen er-<lb/>ſtickt, <hi rendition="#g">Erdgeiſt</hi> (auch Gnome oder Alraune), in<lb/>den Tiefen der Erde goldene Geräthe ſchmiedend.<lb/>Hierzu bengaliſche Flammen.<lb/>
+            </p>
+            <p> <lb/>„Endlich wird Gerhardus Janſen einige vom<lb/>Publikum zu beſtimmende Anweſende, auch ſolche,<lb/>die er nie zuvor geſehen hat, mit Kohle ſprechend<lb/>ähnlich portraitiren.“<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>Wübke verſtand wenig von alle dem und doch<lb/>das Schrecklichſte, daß ihr Kind wie ein Kameel<lb/>gezeigt wurde; daß das zarte, fünfjährige Geſchöpf<lb/>ſechs Stunden täglich ſeine unheimlichen Künſte<lb/>machen mußte, und keine Mutterhand war ihm<lb/>nahe, um ihn zu liebkoſen und zu pflegen!<lb/>
+            </p>
+            <p> <lb/>Die arme Frau ahnte natürlich nichts von dem<lb/>Geiſte der Reclame und glaubte wörtlich Alles,<lb/>was da ſtand; zumal fiel ſie in den gewöhnlichen<lb/>Fehler der Frauen, ihrem Manne, weil er einige<lb/>ſchlimme Eigenſchaften beſaß, gar keine guten mehr<lb/>zuzutrauen. In der That aber hing Sievert mit<lb/>unbegrenzter Zärtlichkeit und unbegrenzten Hoff-<lb/>nungen an ſeinem Zwerglein und hegte und pflegte<lb/>ihn wie er nur konnte. Der Kleine war ſelbſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0112" n="98" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=112"/>
+            </p>
+            <p> <lb/>ehrgeizig und brauchte zu keiner Anſtrengung über-<lb/>redet zu werden. Mehrere herumziehende Truppen<lb/>hatten Gerhardus für ſich erwerben wollen, aber<lb/>mit gerechtem Stolz wies Sievert ſolche Anerbie-<lb/>tungen zurück, die ihm nur Hemmniſſe der Ge-<lb/>nialität dünkten. Sehr wurden ſeine Verhältniſſe<lb/>gefördert durch einen herabgekommenen Schau-<lb/>ſpieler, der ſich ihm, unverſtanden und etwas<lb/>trunkfällig, zugeſellte und die großen Gedanken<lb/>realiſirte, die allerdings Sievert mit ſich herum-<lb/>trug. Man arbeitete jetzt mehr in's dramatiſche<lb/>Fach, und während der Schauſpieler für ſchöne<lb/>Scenen und effectvolle Stellungen ſorgte, nähte<lb/>Sievert an den Coſtümen und war unſäglich er-<lb/>finderiſch in Beſchaffung der Requiſiten. Ueberall,<lb/>wo ſeine Phantaſie Spielraum hatte, war der<lb/>Schneider unerreichbar, er ſagte mit jenem großen<lb/>Staatsmanne: Hinderniſſe ſind da, um überwun-<lb/>den zu werden! — Sievert’s Kopf war ein förm-<lb/>liches Arſenal von den wunderlichſten Gegenſtänden,<lb/>und er ſchien ſie, wenn dieſelben gefordert wurden,<lb/>herauszuziehen, wie ſie Peter Schlemil aus ſeinen ge-<lb/>heimnißvollen Rocktaſchen zog. Aber ſchattenlos war<lb/>der Schneider nicht, trotz ſeines Teufelspactes; der<lb/>trunkfällige Mime konnte manchmal förmlich über<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0113" n="99" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=113"/>
+            </p>
+            <p> <lb/>ihn in Wuth gerathen: „Ihre Fehler werden uns<lb/>noch ruiniren und all' die brillanten Erfolge,<lb/>welche wir, ich und der verehrte Gerhardus, auf<lb/>der Künſtlerlaufbahn erreichen, vernichten. Für<lb/>Unſereinen exiſtirt keine verderblichere Charakter-<lb/>eigenſchaft, als wenn wir <hi rendition="#g">nobel</hi> ſind; und Sie<lb/>ſind <hi rendition="#g">nobel</hi>, Freund Janſen! Statt anderen Leu-<lb/>ten das Geld aus der Taſche zu ziehen, laſſen Sie<lb/>ſich das Ihrige abſchwindeln, abſtehlen oder ab-<lb/>betteln. Solche Schwachheiten ſind für den Theil-<lb/>haber eines Compagniegeſchäfts nicht mehr Fehler,<lb/>ſondern Verbrechen und reiner Diebſtahl. Ich<lb/>habe wahrlich ganz andere Leute gekannt als Sie;<lb/>Leute, die mit Vorreiter und Nachreiter durch die<lb/>Straßen kutſchirten und denen es nicht einfiel<lb/>nobel zu ſein!“<lb/>
+            </p>
+            <p> <lb/>Solche Vorwürfe beugten den Schneider, aber<lb/>ſie beſſerten ihn nicht. Seine Hand und ſeine<lb/>Phantaſie ließen ſich nicht verriegeln, er nahm an<lb/>einem Abende manchmal Summen ein, für welche<lb/>er früher wohl ein halbes Jahr mit gekreuzten<lb/>Beinen und gekrümmtem Rücken von früh bis<lb/>ſpät ſticheln mußte — ach, und doch war jene<lb/>Zeit heiter und ſorglos! Er fädelte an jedem Mor-<lb/>gen mit dem gewichſten Zwirn ſeine Illuſionen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0114" n="100" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=114"/>
+            </p>
+            <p> <lb/>ein, und ſeine Reiſeerinnerungen glätteten ihm die<lb/>gefurchte Stirn raſcher als das glühende Bügel-<lb/>eiſen die widerſpenſtigen Tuchnähte. Seitdem<lb/>war die Welt da draußen ganz anders geworden;<lb/>er kannte ſelbſt Münſter kaum wieder. Es waren<lb/>dieſelben Häuſer, aber ſie machten ein anderes<lb/>Geſicht. Manchmal ging es auch ſchlecht mit den<lb/>Vorſtellungen, und Arbeit wie Erleuchtung mußten<lb/>für einige Buben und Köchinnen verſchwendet<lb/>werden. Dann fluchte der trunkfällige Künſtler<lb/>entſetzlich. Dazu noch der laſtende Selbſtvorwurf<lb/>des Zwergvaters, <hi rendition="#g">nobel</hi> zu ſein. Nobel, das<lb/>war nämlich ſo: „Wenn Sie die Einnahme ſehen,<lb/>Freund Janſen, ſo denken Sie nicht an die ver-<lb/>gangenen und zukünftigen Ausgaben, nicht an die<lb/>Mißerfolge, nicht an Sparen, ſondern Sie denken,<lb/>ich habe ſo viel, warum ſollen Andere nicht auch<lb/>ihren Theil daran haben? Sie ſind wie eine Ein-<lb/>tagsfliege, geſtern und morgen iſt nicht für Sie<lb/>vorhanden!“ Sievert ſenkte den kahlen, von Ge-<lb/>danken überbürdeten Kopf und ſchwieg; er konnte<lb/>mehr Dinge dichten, als der Schauſpieler, aber<lb/>dieſer konnte viel mehr fertig bekommen und aus-<lb/>ſprechen. Das Zwerglein Gerhardus wurde ſich<lb/>indeß mehr und mehr ſeiner ungeheuren Wichtig-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0115" n="101" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=115"/>
+            </p>
+            <p> <lb/>keit bewußt; ein Wunder, daß er noch den Fracht-<lb/>wagen auf der Straße aus dem Wege ging und<lb/>nicht verlangte und erwartete, ſie ſollten ihm aus-<lb/>weichen. Sein kleiner tyranniſcher Kopf war voll-<lb/>gepfropft wie die Boutique eines Trödlers; was<lb/>darin ſteckte, war eben ſo zuſammenhangslos. Aber<lb/>unbegrenzt war Sievert’s Bewunderung für ſeinen<lb/>Sohn. War dieſer doch berühmt in den Zeitungen,<lb/>klatſchte ihm doch die Menge Beifall, der ſich nicht<lb/>wenig ſteigerte, als auch noch ein ſehr kleines Pony<lb/>mit auftrat. Nur ein einziges Mal offenbarte ſich<lb/>eine ſelbſtſtändige Regung in Gerhardus: er zeichnete<lb/>mit Kohle das Geſicht ſeines Vaters an eine Thür;<lb/>nicht gerade geſchmeichelt, aber doch kenntlich. Es<lb/>wurde ihm leicht, auch andere Perſonen in dieſer<lb/>Weiſe zu treffen. Der Mime war ſehr entzückt<lb/>und ſetzte ſofort eine Erweiterung des Programms<lb/>in’s Werk. Seitdem ward der Zwerg noch auf-<lb/>geblaſener.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>Wübke und ihre Töchter gewöhnten ſich an den<lb/>Stand der Dinge, als Jahr auf Jahr verging<lb/>und keine Nachricht von den Flüchtlingen kam;<lb/>nur dann und wann eine Geldſendung, von einer<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0116" n="102" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=116"/>
+            </p>
+            <p> <lb/>Zeitung oder einem Anſchlagzettel begleitet. Die<lb/>Strohwitwe ließ Meſſen leſen und ging viel in<lb/>die Kirche, übrigens verbeſſerten ſich ihre Ver-<lb/>hältniſſe und man konnte kaum eine arbeitſamere<lb/>Wirthſchaft ſehen, als dieſe vaterloſe. Während<lb/>eines Tages die Hausleute um die Tafel gereiht<lb/>ſaßen und eben ihr Tiſchgebet ſprachen, ſchritt<lb/>Sievert, nach fünfjähriger Abweſenheit, über ſeine<lb/>Schwelle und — zählte ſtumm die Häupter ſeiner<lb/>Lieben. Böppe fehlte; ſtatt deren waren zwei<lb/>junge Männer da. Der Schneider ging um den<lb/>Tiſch und legte die Hand wie ſegnend auf die<lb/>ſechs blonden Köpfe der Töchter, dann ſtand er<lb/>vor der Frau.<lb/>
+            </p>
+            <p> <lb/>„Wo — wo iſt das Kind?“ preßte dieſe endlich<lb/>zwiſchen den erbleichenden Lippen hervor.<lb/>
+            </p>
+            <p> <lb/>„Er liegt auf dem Kirchhof zu Linz am<lb/>Rhein!“ entgegnete Sievert ernſt.<lb/>
+            </p>
+            <p> <lb/>„Als Gaukelſpieler geſtorben!“ jammerte Wübke<lb/>und ſchlug die Hände vor's Geſicht.<lb/>
+            </p>
+            <p> <lb/>Der Andere ſchüttelte den Kopf. „Geſtorben,<lb/>wie Dein Sohn ſterben mußte!“ ſprach er und<lb/>zog eine Rolle aus der Rocktaſche, die nach vielen<lb/>Umhüllungen eine Malerei auf einem Bogen<lb/>Kanzleipapier ſehen ließ. „Das hat er auf dem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0117" n="103" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=117"/>
+            </p>
+            <p> <lb/>Todtenbette für ſeine ferne Mutter mit ſeinen<lb/>eigenen kleinen Händen gefertigt!“<lb/>
+            </p>
+            <p> <lb/>Wübke gab ſich alle Mühe, das Bild recht<lb/>deutlich zu ſehen; aber die Thränen ſchoſſen immer<lb/>von Neuem hervor und verdunkelten ihre Augen.<lb/>Endlich erkannte ſie es. Es war die Gottesmutter<lb/>mit dem Kinde. Beide hatten die rötheſten Wangen<lb/>von der Welt, waren in alle nur möglichen Farben<lb/>gekleidet und ſaßen inmitten eines großen Heiligen-<lb/>ſcheines wie auf einem hochgelben Präſentirteller.<lb/>Und doch, es lag etwas Eigenthümliches in dieſen<lb/>Geſichtern, eine Seele. Die Linien waren alle<lb/>verzeichnet, aber der fromme Ausdruck war ge-<lb/>blieben. Die Mutter verſtand nichts von den<lb/>erſteren, aber den letzteren erfaßte ſie. Ihrem<lb/>Manne die Hand reichend, ſagte ſie: „Du kommſt<lb/>mit Gott, Sievert, ſo ſei willkommen, ich betete<lb/>und wußte, Du würdeſt den rechten Weg finden!“<lb/>
+            </p>
+            <p> <lb/>Die ſechs Töchter kamen mit ſechs Stühlen<lb/>herbeigelaufen, damit der Vater ſich ſetzen und eſſen<lb/>möge. Eine der Zwillingstöchter, Trinchen, deutete<lb/>auf einen der anweſenden Burſchen und ſagte:<lb/>„Vater, das iſt mein Mann, er iſt auch Schneider<lb/>und wir ſind eingeheirathet!“<lb/>
+            </p>
+            <p> <lb/>„Ja, es iſt ein gutes Handwerk!“ bemerkte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0118" n="104" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=118"/>
+            </p>
+            <p> <lb/>Sievert in ſeiner weichen, gelaſſenen Art und<lb/>reichte dem Schwiegerſohne die Hand.<lb/>
+            </p>
+            <p> <lb/>Des fahrenden Schneiders äußere Lebensge-<lb/>ſchichte iſt leicht nachzuholen. Gerhardus erkrankte,<lb/>der Geſchäftscompagnon, als ſchlagender Beweis, daß<lb/>er nicht nobel ſei, betrog und beſtahl ſeinen Freund<lb/>Janſen um einen guten Theil der Kaſſe. Ger-<lb/>hardus ſiechte dahin, und an ſeinem Krankenlager<lb/>ſaß eine barmherzige Schweſter. Sie legte ihre<lb/>milde Hand auf die wüſten Erinnerungen ſeiner<lb/>kurzen Pilgerfahrt und erzählte ihm durch die<lb/>langen ſchlafloſen Nächte Legenden von all' den<lb/>Schwachen, Hülfloſen, welche doch um Gottes<lb/>willen ſo ſtark und unerſchütterlich waren. Wenn<lb/>die Schmerzen des Kindes groß wurden, dann<lb/>gedachte man des heiligen Vitus, der als zwölf-<lb/>jähriger Knabe in ſiedendem Oel gekocht wurde.<lb/>Die vierzehn Engel, zu denen Schweſter Roberta<lb/>ſo gern betete, wohnten an dem Sterbebette des<lb/>Zwerges, „zu ſeinen Häupten, zu ſeinen Füßen,<lb/>ihn zu grüßen, ihn zu decken, ihn zu wecken<lb/>und ihn zu tragen in's Paradies“. Es geſchah ſo.<lb/>Der Arzt hätte gar zu gern die Leiche beſeſſen,<lb/>welche ihm wichtiger war als die von vierzehn<lb/>Engeln gerettete Seele; aber er fand Sievert<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0119" n="105" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=119"/>
+            </p>
+            <p> <lb/>unerbittlich und keinen Verſprechungen zugänglich.<lb/>Da deutete der erzürnte Gelehrte auf das Bild,<lb/>welches der Kleine in der langen Krankenzeit ge-<lb/>fertigt hatte, und ſagte: „Wenn Ihr ſeine Nerven<lb/>nicht gewaltſam aufgerieben hättet, ſo wäre aus dem<lb/>Jungen ein tüchtiger Maler geworden!“ Roberta<lb/>zog dem Kinde das Todtenhemdchen an, welches<lb/>ſie und Sievert in der Nacht genäht hatten. Sie<lb/>zeigte auf die gefalteten abgezehrten Händchen<lb/>und ſagte milde: „Er iſt mehr als ein großer<lb/>Maler, er iſt ein Engel Gottes!“ Da rann die<lb/>erſte Thräne über Sievert’s hohle Wangen und<lb/>ein tiefer Frieden zog in ſein Herz, die vierzehn<lb/>Engel hatten auch ihn geweckt. — Eine ſchön-<lb/>geiſtige Dame, welche in der Nähe lebte und dem<lb/>Siebengebirge bewegliche Romane abrang, ſchickte<lb/>ein Lorbeerkränzchen für das todte Wunderkind;<lb/>mit dem angethan liegt er im Grabe, oben darauf<lb/>ein Kreuz, der Reſt des Ertrages aus Sievert's<lb/>Künſtlerlaufbahn. Dieſer aber ging heim, arm,<lb/>wie er ſein Dorf verlaſſen, und lebt nun dort in<lb/>ſeiner Weiſe, ſelbſt eine Legende, ſtill, freundlich<lb/>und andächtig. „Er iſt gut wie ein Schaf!“<lb/>ſagte Wübke gerührt und dankbar. Er ſpricht<lb/>nicht viel und nie mit irdiſchem Ehrgeiz, wenn<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0120" n="106" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=120"/>
+            </p>
+            <p> <lb/>er aber redet, ſo beginnt ſeine Geſchichte: „Sie<lb/>haben mir Alles gegeben von klein auf und ich<lb/>weiß aus mir, daß ſie <hi rendition="#g">gute</hi> Geiſter ſind, warum<lb/>ſollte Gott nicht auch kleine wunderliche Engel<lb/>geſchaffen haben? Ich habe Alles gehabt auf<lb/>Erden, was ich wünſchen konnte, ſo danke ich jetzt<lb/>Gott und <hi rendition="#g">ihnen</hi> dafür!“<lb/>
+            </p>
+            <p> <lb/>Wer ſind denn <hi rendition="#g">ſie</hi>? — Nun natürlich die<lb/>„<hi rendition="#g">lütken Lü</hi>!“ — Um ganz dem beſchaulichen<lb/>Leben anzugehören, that Sievert noch einen letzten<lb/>Schritt: er entſagte der Scheere und der Nadel und<lb/>wurde — Todtengräber! War es das alte Trog-<lb/>lodytengelüſte, oder war es eine Aufmerkſamkeit<lb/>gegen die Erdgeiſter? Wer weiß es! Er ſelbſt<lb/>wirft bedächtig die Erde heraus und ſagt: „Der<lb/>Tod iſt ein ſchönes Ding!“ Wer vermöchte einen<lb/>Phantaſten zu ergründen? — Solche Naturen<lb/>ſind die Molltonleitern in der großen Schöpfungs-<lb/>harmonie, die immer anders zurückkommen, als<lb/>ſie gingen.<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Druckfehler:<lb/>
+            </p>
+            <p> <lb/>Seite 89<lb/>
+            </p>
+            <p> <lb/>Zwillingsöchter —&gt; Zwillingstöchter<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

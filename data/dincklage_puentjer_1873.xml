@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Püntjer Dörken</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_puentjer_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Püntjer Dörken, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Püntjer Dörken</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">2</biblScope><biblScope unit="pages"/></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Püntjer Dörken</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p/>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p>
+               
+                  <hi rendition="#c #larger">Püntjer Dörken.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0012" n="2" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=12"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0013" n="3" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=13"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p/>
+         </div>
+         <div>
+            <p/>
+            <p> <lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#in">V</hi>or dem Gaſthause „Zur guten<lb/>Böskup“ hielt der Einſpänner<lb/>der Firma „Maibaum und<lb/>Moor“. Der Wirth der „Gu-<lb/>ten Botſchaft“ kam in Holz-<lb/>ſchuhen heraus, faßte die Zü-<lb/>gel des alten Schimmels und<lb/>ſagte, dem Handelsreiſenden zunickend: „Na, Herr<lb/>Maibaum und Moor, Ihr kommt gerade recht,<lb/>eine Viertelſtunde ſpäter und Ihr ſammt Eurem<lb/>Schimmel hättet ein Höllenwetter auf den Rücken<lb/>gekriegt, der „Grummel“ (Gewitter) blüht von<lb/>allen Seiten und zieht gegen den Wind auf!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0014" n="4" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=14"/>
+            </p>
+            <p> <lb/>Indeß er die Stränge losmachte und den Schim-<lb/>mel, der erwartungsvoll die Ohren ſpitzte, dem<lb/>Stalle zuführte, war der Inſaſſe des Wagens mit<lb/>einem leichten Sprung neben ihm auf flacher<lb/>Erde, und präſentirte ſich als ein ſehr kräftiger,<lb/>gut ausſehender Mann von etwa dreiundzwanzig<lb/>bis fünfundzwanzig Jahren.<lb/>
+            </p>
+            <p> <lb/>Die Firma „Maibaum und Moor“ war nicht<lb/>gerade eine weltbekannte, ihr Klang machte weder<lb/>Millionen flüſſig, noch erweckte er den Neid der<lb/>Börſenmänner von Profeſſion; aber trotzdem war<lb/>es eine ungemein ſolide Firma, die ſich auf min-<lb/>deſtens zwanzig Meilen in der Runde die größte<lb/>Achtung verſchaffte. Ja, wenn auch wirklich Die-<lb/>ſer oder Jener auf Maibaum und Moor ſauer<lb/>drein geſehen oder die Naſe gerümpft hätte, ſo<lb/>war das ſehr erklärlich, denn Maibaum und Moor<lb/>machten in <hi rendition="#g">Eſſig</hi> und <hi rendition="#g">Schnupftabak</hi>. <hi rendition="#g">Mach-</hi>
+               <lb/>
+               <hi rendition="#g">ten</hi> im verwegenſten Sinne; denn die Firma<lb/>braute und bereitete ihre Artikel höchſteigenhändig<lb/>und roch ſo kräftig nach Säure, daß ihre bloße<lb/>Gegenwart die Luft von einer Epidemie zu reini-<lb/>gen oder wenigſtens den Anſteckungsſtoff derſelben<lb/>zurückſcheuchen konnte.<lb/>
+            </p>
+            <p> <lb/>Der Reiſende vor der „Guten Böskup“ war<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0015" n="5" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=15"/>
+            </p>
+            <p> <lb/>der Sohn und das einzige Kind Maibaum's, Na-<lb/>mens Heinrich. Moor hatte Maibaum's Schweſter<lb/>geheirathet und dieſe rüſtige Dame beſorgte das<lb/>Hausweſen der Firma nebſt Garten und dazu ge-<lb/>hörigem Ackerland ſo muſterhaft, daß der Verdienſt<lb/>des Geſchäfts ungeſchmälert zurückgelegt und die<lb/>Familie bald zu den wohlhabendſten des Städt-<lb/>chens gezählt werden konnte.<lb/>
+            </p>
+            <p> <lb/>„Kommen Sie doch herein, Herr Maibaum<lb/>und Moor!“ rief die Wirthin der „Guten Bot-<lb/>ſchaft“, in der Thür erſcheinend. Hinter den Fal-<lb/>ten des mütterlichen Rockes vom landesüblichen<lb/>Schutegut (Stoff von Haideſchnuckenwolle und<lb/>Hedengarn gewebt, naturbrauner Farbe) ſchauten<lb/>vier bis fünf ſchelmiſche Flachsköpfe hervor, alle<lb/>noch ganz naß von einer zu Ehren des Gaſtes<lb/>eiligſt am Brunneneimer vorgenommenen Wa-<lb/>ſchung.<lb/>
+            </p>
+            <p> <lb/>Der Reiſende, welcher den verfinſterten Him-<lb/>mel und die dunkelgrau gefärbten, erregten Wogen<lb/>des ſonſt ſo ruhigen Emsſtroms beobachtet hatte,<lb/>nickte der Wirthin, die mit eingeſtemmten Armen<lb/>und nichts weniger denn ein Bild pedantiſcher<lb/>Sauberkeit daſtand, und rief dann den Kindern<lb/>zu: „Kommt her, ihr kleinen Banditen, faßt ein-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0016" n="6" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=16"/>
+            </p>
+            <p> <lb/>mal in die Speichen, daß wir den Wagen auf die<lb/>Dreſchtenne ſchieben, ehe es losgeht — hernach<lb/>werde ich ſehen, ob etwas für Eure Schnäbel in<lb/>meiner Reiſetaſche ſteckt.“<lb/>
+            </p>
+            <p> <lb/>Mit lautem Hurrah brachen die Buben her-<lb/>vor, auch die Wirthin legte mit Hand an, und ſo<lb/>gelangte das Wägelchen in ſchlankem Trabe auf<lb/>die Lehmdiele, eben als die erſten Regentropfen<lb/>in die Gewäſſer der Ems klatſchten und drüben<lb/>über dem weiten Torfmoor, der holländiſchen<lb/>Grenze zu, ein dumpfer Donner hörbar wurde.<lb/>
+            </p>
+            <p> <lb/>Heinrich Maibaum ergriff ſeine Reiſetaſche,<lb/>faßte das kleinſte Mädchen, dem ein Paar winzige<lb/>Holzſchuh mit Bindfaden an die Füßchen gebun-<lb/>waren, und ſchwenkte daſſelbe in der Luft umher,<lb/>daß die ganze kleine Bande jauchzte und dann<lb/>zogen Alle in die Küche, die zugleich den Laden<lb/>für allerhand Colonialwaaren, die Schänkſtube,<lb/>das Wohnzimmer und die Kinderſtube bildete.<lb/>Der Gaſthof zur „Guten Böskup“ war merkwür-<lb/>diger Weiſe neu und doch wie verfallen, oder gar<lb/>nicht fertig geworden: es war Alles noch in der<lb/>Grundfarbe, die bereits wieder abgegriffen worden<lb/>und ſich durch Fett, Rauch, Staub — oder was<lb/>eben anklebte oder anflog, erſetzt hatte. Die „Gute<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0017" n="7" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=17"/>
+            </p>
+            <p> <lb/>Böskup“ galt, ſelbſt in ihrem Kirchdorfe mit etwa<lb/>dreißig Herdſtellen, nicht als der erſte Gaſthof,<lb/>ſondern diente hauptſächlich den Emsſchiffern, die<lb/>man nach ihrem flachen Fahrzeuge „Pünte“,<lb/>
+               <hi rendition="#g">Püntjer</hi> nennt, als Vergnügungslocal. Der<lb/>Lage unmittelbar am Fluß wegen geeignet als<lb/>Niederlage für diejenigen Frachtgüter, die von hier<lb/>aus zu Wagen, zu Schiebkarren oder per Hucke-<lb/>pack weiter in's Land expedirt werden ſollten, kam<lb/>dem Hauſe auch dieſe zugute. Zugleich war in<lb/>der „Guten Böskup“ ein Kleinhandel von Eſſig<lb/>eröffnet und ſomit „Maibaum und Moor“ an den<lb/>Quell dieſer Verzapfung naturgemäß verwieſen.<lb/>
+            </p>
+            <p> <lb/>Der Reiſende hatte ſich nicht geirrt, wenn er<lb/>vermuthete, ſeine Taſche enthalte etwas Süßes für<lb/>die kleinen „Zuckerſchnuten“; es fand ſich richtig<lb/>ein ganzes Packet „Küßkes“ oder „Lickedinger“,<lb/>die in der großen Welt ſo undeutſch „Bonbons“<lb/>genannt werden. Die Vertheilung war eine höchſt<lb/>gewiſſenhafte und regelte ſich nach der Ancienne-<lb/>tät, doch wurde für jedes fehlerlos geſprochene<lb/>Gebet und jedes richtig geſungene Lied eine Gra-<lb/>tification in Gnaden bewilligt.<lb/>
+            </p>
+            <p> <lb/>Die Wirthin ſchob den Kaffeekocher in die Aſche<lb/>und ſetzte die „Köpkes und Schöttelkes“ zum Kaffee-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0018" n="8" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=18"/>
+            </p>
+            <p> <lb/>trinken auf den mit einem Schüſſeltuch in beſter<lb/>Abſicht geklärten Tiſch, indem ſie voll Mutter-<lb/>ſtolz mit ihren ſchmutzfarbenen Händen im Vor-<lb/>beigehen wohlgefällig über ein paar Flachsköpfe<lb/>fuhr.<lb/>
+            </p>
+            <p> <lb/>„Ihr habt wohl auch noch jüngere Geſchwiſter,<lb/>Herr Maibaum und Moor?“ ſagte das Weib und<lb/>ſchleuderte Candiszucker auf eine Zinnſchaale.<lb/>
+            </p>
+            <p> <lb/>„Nein, nein, ich habe nie Geſchwiſter gehabt!“<lb/>
+            </p>
+            <p> <lb/>„O ſo!“ wunderte ſich die Wirthin und goß<lb/>mit erhobener Hand den Kaffee in den kupfernen<lb/>Keſſel. „Mit Verlaub, dann iſt Eure Mutter<lb/>wohl früh geſtorben?“<lb/>
+            </p>
+            <p> <lb/>„Jawohl!“ erwiederte der Andere; als er es<lb/>aber kaum ausgeſprochen, lief ein tiefes Roth<lb/>über Stirn und Wangen und er fügte mit einiger<lb/>Haſt hinzu: „das heißt, ich habe ſie nie gekannt,<lb/>mein Vater wohnte früher in einer andern<lb/>Gegend!“<lb/>
+            </p>
+            <p> <lb/>„So — ſo!“ Die Wirthin ſchenkte ein. „Je-<lb/>ſus Mar’ Joſeph — war das ein Schlag —<lb/>Kinder, wir wollen die geweihte Kerze anſtecken,<lb/>knieet nieder und betet!“<lb/>
+            </p>
+            <p> <lb/>Die älteren Kinder gehorchten erſchreckt der<lb/>mütterlichen Mahnung, das Kleinſte aber weinte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0019" n="9" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=19"/>
+            </p>
+            <p> <lb/>jämmerlich und wollte ſich auf keine Weiſe beru-<lb/>higen laſſen. Der Wirth und der Knecht traten<lb/>gleichfalls ein, entblößten ihre Häupter und grif-<lb/>fen nach den Gebetbüchern. Das Murmeln der<lb/>Betenden wurde durch mächtige Wetterſchläge und<lb/>haſtiges Aufſchreien des Kindes unterbrochen, Him-<lb/>mel und Erde lagen wie in einem Trauermantel<lb/>da. Plötzlich ein greller Sonnenſtrahl und man<lb/>ſah über den ſandigen Kirchhof den Pfarrherrn<lb/>der Kirche zuſchreiten.<lb/>
+            </p>
+            <p> <lb/>„Kinder!“ ſagte die Wirthin, „da geht Herr<lb/>Ohm in die Kirche; macht, daß Ihr auch hinein<lb/>kommt, da trifft Euch kein Blitz, geht und betet,<lb/>was Ihr könnt!“<lb/>
+            </p>
+            <p> <lb/>Die Jungen platſchten ſofort über die naſſe<lb/>Straße und der Reiſende, gleich ihnen nach einer<lb/>Abwechſelung begierig und des Kindergeſchreis<lb/>müde, folgte ihnen. Die Kirche lag auf dem<lb/>höchſten Punkte des regellos gebauten Dorfes,<lb/>rechts das Pfarrhaus, links der Fluß, neben<lb/>ihren Grundmauern die Todten und zu beiden<lb/>Seiten Branntweinſchänken und Kramläden.<lb/>
+            </p>
+            <p> <lb/>Heinrich trat in die faſt dunkle Kirche und<lb/>folgte den Buben bis vor einen Seitenaltar, wo<lb/>er niederknieete und in jener dumpfen Erwartung<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0020" n="10" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=20"/>
+            </p>
+            <p> <lb/>verharrte, die bei einem ſchweren Gewitter ſo<lb/>leicht unſere Nerven niederdrückt. Auf einmal<lb/>ward die ganze Kirche hell, es ſchien, als träten<lb/>die Figuren des Altarbildes aus ihrem Rahmen<lb/>heraus. Heinrich war zwar kein Kunſtkenner,<lb/>doch ein Etwas überraſchte ihn in dem Gemälde<lb/>vor ihm, ein Etwas, das nicht eben von der<lb/>meiſterhaften Ausführung der Darſtellung her-<lb/>rührte, ſondern vielmehr auf der Naturwahrheit<lb/>der einzelnen Geſichter beruhte. Er verſtand<lb/>keineswegs die Idee des Künſtlers, im Gegentheil,<lb/>die Gruppe von Heiligen machte den Eindruck<lb/>einer verkleideten Geſellſchaft, mit mehr oder min-<lb/>der großen goldenen Heiligenſcheinen angethan.<lb/>Bei jedem neuen Blitzſtrahl drängten ſich die Ge-<lb/>ſtalten dem Beſchauer feſſelnder auf. Inmitten<lb/>des Bildes ſaß eine ſchmale, blaſſe Mädchengeſtalt,<lb/>mit vorwärtsgeneigten, ſchwindſüchtigen Schultern<lb/>und großen, kranken Augen; ſie trug Ringe auf<lb/>den dünnen Fingern und ein weißes, anliegendes<lb/>Kleid, das neben der bläulichen Haut etwas in's<lb/>Gelbliche fiel. Ihr Geſichtsausdruck verrieth nichts,<lb/>als höchſtens die Anſtrengung, mit welcher ſie einen<lb/>ungemein dicken Jungen auf ihren Knieen feſt-<lb/>hielt; es blieb zweifelhaft, ob die zarte Jungfrau<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0021" n="11" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=21"/>
+            </p>
+            <p> <lb/>im Stande ſein würde, den kräftigen Säugling<lb/>auch nur zehn Schritte auf dem Arme fortzutra-<lb/>gen, ohne zuſammenzubrechen. Um ſo beruhigender<lb/>wirkte die Nähe der Mutter Anna, deren Glorie<lb/>um zwei Finger breit ſchmaler als die ihrige er-<lb/>ſchien. Die heilige Anna ging in ſchwarzem<lb/>Sammet und hatte einen ungemein gutmüthigen<lb/>Geſichtsausdruck. Beide blickten gleichſam in's<lb/>Blaue zum Bilde heraus. Lobeſamer zeigte ſich<lb/>der heilige Joſeph, der eine Axt in der Hand<lb/>hielt, einen etwas kahlen Kopf und ein nicht un-<lb/>bedeutendes Embonpoint beſaß. Er trug eine Art<lb/>grünen Jagdrock und recht gut gearbeitete Stiefel<lb/>an den Füßen. Dieſe Vier bildeten eine Mittel-<lb/>gruppe; links knieete noch ein Heiliger, deſſen<lb/>Haupt ein beſcheidener Schein umſäumte, vielleicht<lb/>der heilige Auguſtin oder ſonſt ein frommer Mann.<lb/>Nur <hi rendition="#g">eine</hi> Geſtalt hatte <hi rendition="#g">keinen</hi> Heiligenſchein;<lb/>ſie war dagegen die einzige, welche die Abſicht<lb/>des Malers einigermaßen veranſchaulichte — eine<lb/>büßende Magdalena, Todtenkopf und Kreuz lagen<lb/>in ihren Händen und zwei ſchöne braune Augen<lb/>blickten zum Himmel hinauf, wie mit einer Frage<lb/>an die Zukunft. Geſicht und Geſtalt waren noch<lb/>kindlich jung, ja lebenskräftig, die weichen Züge<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0022" n="12" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=22"/>
+            </p>
+            <p> <lb/>ſagten Nichts von <hi rendition="#g">beſiegter</hi> Leidenſchaft, die<lb/>Energie des geſchweiften Mundes, das Feuer der<lb/>ſchönen Augen ſchlummerten noch; wenn die<lb/>Hände Kreuz und Todtenſchädel ergriffen hatten,<lb/>ſo geſchah dies nicht mit dem Gedanken, allem<lb/>Irdiſchen ein Ende und Ziel zu ſetzen, ſondern<lb/>mehr mit jener kindiſchen Neugier, welche die<lb/>Kluft zwiſchen Leben und Tod, zwiſchen Himmel<lb/>und Hölle noch nie ermeſſen hat. —<lb/>
+            </p>
+            <p> <lb/>Ob jemals ein anderer Beſchauer das Bild<lb/>mit dieſen Gefühlen betrachtet hatte? — Der<lb/>junge Eſſigreiſende wußte es nicht. Sein Leben<lb/>war unter der ſtrengen Zucht eines raſtlos thäti-<lb/>gen Vaters, der nahezu ein Menſchenhaſſer war,<lb/>verfloſſen. Ihn beſchäftigten mitunter Gedanken<lb/>und Bilder, für die er keine Anknüpfungspunkte<lb/>und Originale kannte; es war ihm dann ſo, als<lb/>ſei er, vielleicht in der früheſten Jugend, in einem<lb/>ganz andern Lande geweſen, wo die Wolken und<lb/>die Bäume und die Vögel und die Menſchen ſo<lb/>waren, wie er ſie nie wiederfinden konnte. Wenn<lb/>er manchmal im Mondenſchein, von ſeinem Schim-<lb/>mel gezogen, dahinrollte, dann kam ihm die Frage,<lb/>ob es vielleicht der <hi rendition="#g">Mond</hi> ſei, auf dem alle dieſe<lb/>traumartigen Gebilde lebten? Aber es ließ ſich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0023" n="13" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=23"/>
+            </p>
+            <p> <lb/>eben nichts erweiſen. Zum erſten Mal im Leben<lb/>fand er ein Abbild jener Traumgeſtalten und zwar<lb/>in der büßenden Magdalena; je länger er ſie an-<lb/>ſchaute, deſto bekannter und ſchöner erſchien ſie<lb/>ihm in ihrer ſtattlichen, feſten Haltung. Hätte<lb/>ſie nur ein einziges Mal die Augen auf ihn rich-<lb/>ten wollen, er wäre ſchon dahinter gekommen;<lb/>aber ſie ſah unabläſſig in den furchtbar blauen<lb/>Himmel. Wenn ſie wirklich auf dem Monde<lb/>lebte, kein Wunder, daß ſie lieber empor, als auf<lb/>die nach Torfrauch riechende Dorfgemeinde herab-<lb/>blickte.<lb/>
+            </p>
+            <p> <lb/>Das Gewitter hatte inzwiſchen ausgetobt, die<lb/>Sprößlinge der „Guten Botſchaft“ erinnerten ſich<lb/>ihres verſäumten Vesperbrodes und ihr einmüthi-<lb/>ger, lebhafter Aufbruch weckte auch den Eſſig-<lb/>reiſenden aus ſeinen Träumereien. Sein Blick<lb/>begegnete dem wohlwollenden des Pfarrers, wel-<lb/>cher Letztere ihn von dieſem Tage an ſtets „den<lb/>andächtigen jungen Menſchen“ nannte.<lb/>
+            </p>
+            <p> <lb/>Drückender als die Gewitterſchwüle war dem<lb/>Haupte der „Guten Botſchaft“ die nun erfolgende<lb/>Abrechnung mit der Firma. Die leeren Eſſig-<lb/>fäſſer waren ſämmtlich und vollzählig zur Rück-<lb/>ſendung bereit, mit der Zahlung des dereinſtigen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0024" n="14" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=24"/>
+            </p>
+            <p> <lb/>Inhalts dagegen ſah es weniger gut aus. — Der<lb/>Wirth erklärte nicht ohne Selbſtgenügen, er werde<lb/>den empfangenen Schnupftabak auf der Stelle<lb/>baar bezahlen; da die Sorte indeß noch unter<lb/>„Doppelmops“ blieb und die Firma <hi rendition="#g">ſelbſt</hi> von<lb/>„King's morning snuff“ und allen den in Blech-<lb/>büchſen verwahrten edleren Artikeln keine Ahnung<lb/>hatte, ſo belief ſich dieſe Baareinnahme ungemein<lb/>niedrig. Es zeigte ſich wieder, wie Recht der alte,<lb/>leicht irritirte Maibaum hatte, wenn er behauptete,<lb/>Heinrich ſei in Gottes Zorn „Reiſender“ gewor-<lb/>den; in der That, er hatte weder die Gabe, den<lb/>Abnehmern die Waare <hi rendition="#g">aufzuſchwatzen</hi>, noch<lb/>den Abnehmern das Geld <hi rendition="#g">abzuſchwatzen</hi>. Der<lb/>Wirth zeigte ſich übrigens erkenntlich für die<lb/>Stundung des ſauer erworbenen Kapitals und die<lb/>beſſere Hälfte der „Guten Böskup“ verſchloß ihr<lb/>Ohr dem mörderiſchen Geſchrei des Neſtheckchens,<lb/>um das Beſte zu kochen und zu braten, was die<lb/>Wirthſchaft bot. Heinrich hätte ſich heute —<lb/>was leider der Wirth nicht ahnte — um noch<lb/>größere Summen beſchwindeln laſſen, als die-<lb/>jenigen, welche auf der „Botſchaft“ ruhten; denn<lb/>ſein ganzes Weſen war von der büßenden Magda-<lb/>lena gefangen genommen: wohin er auch blickte,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0025" n="15" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=25"/>
+            </p>
+            <p> <lb/>überall glaubte er ihre Geſtalt vor ſich zu<lb/>ſehen.<lb/>
+            </p>
+            <p> <lb/>Sobald es der kleine Schreihals geſtattete,<lb/>richtete er daher eine Frage, das Gemälde über<lb/>dem Seitenaltar betreffend, an die Wirthin.<lb/>Dieſe zeigte zwei Reihen kerngeſunder Zähne,<lb/>ſtemmte die unſauberen Hände auf ihr Schürzen-<lb/>queder und ſagte: „Ja, iſt das nicht eine miſerabel<lb/>ſchöne Schilderei und wie getroffen!“<lb/>
+            </p>
+            <p> <lb/>„Getroffen — wer iſt getroffen, die Mutter<lb/>Gottes und Joſeph? Wie könnt Ihr denn wiſſen,<lb/>ob ſie getroffen ſind?“<lb/>
+            </p>
+            <p> <lb/>„Meine Zeit! ich habe ſie ja ſehr gut gekannt,<lb/>es iſt ja kaum dicke zwanzig Jahre oder höchſtens<lb/>dreißig Jahre her — wie lang iſt es denn, Jan<lb/>Berend?“<lb/>
+            </p>
+            <p> <lb/>„Warte mal — ja, ich diente dazumal auf<lb/>dem Sandhofe!“<lb/>
+            </p>
+            <p> <lb/>Dieſe Erklärung des biedern Emsländers warf<lb/>freilich wenig Licht auf den geheimnißvollen That-<lb/>beſtand und Heinrich ſtarrte das Paar verwundert an.<lb/>
+            </p>
+            <p> <lb/>„Fräulein Fieken,“ nahm die Wirthin den Fa-<lb/>den wieder auf, „hatte ſchon damals die Zehrung,<lb/>alle Leute ſahen es ein, nur der Baron und die<lb/>gnä Frau nicht, ſie ließen das arme Kind nicht<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0026" n="16" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=26"/>
+            </p>
+            <p> <lb/>einmal ruhig ſterben, ſondern tourten noch mit<lb/>ihr nach Clima. Na, in Clima iſt es wol nicht<lb/>anders als bei uns im Emslande auch, denn<lb/>Fieken ſtarb und es koſtete ein Uebeles für die<lb/>Reiſe. <hi rendition="#g">Der</hi> an der Ecke, das iſt Onkel Peter,<lb/>wo ſie auch Kammerherr gegen ſagten, und die An-<lb/>dere mit dem alten Todtenkopfe, das iſt Püntjer Dör-<lb/>ken, die ging zu jener Zeit auch mit nach Clima,<lb/>geſtorben iſt ſie nicht — blos einmal ſagten die<lb/>Leute etwas — wie war das doch, Jan Berend?“<lb/>
+            </p>
+            <p> <lb/>„Ach, die Leute wollen immer was zu ſagen<lb/>haben,“ knurrte Jan Berend, „Dörken war ein<lb/>gutes, luſtiges Mädchen und der Püntjer Manns<lb/>ein braver Junge; ſie werden wohl Beide ſtill ge-<lb/>nug in der Erde liegen, ſonſt wären ſie ja doch<lb/>zurückgekommen. Wer mit Emswaſſer getauft iſt,<lb/>der ſucht ſeinen Sand und ſeine Art wieder auf,<lb/>wo er auch hingeräth auf der Welt!“<lb/>
+            </p>
+            <p> <lb/>„Hatte Fieken noch einen andern Namen?“<lb/>fragte der Reiſende vorſichtig. Man ſchien ja<lb/>anzunehmen, die ganze Welt müßte dieſe Begeben-<lb/>heiten beſſer kennen, als die bibliſche Geſchichte,<lb/>in welche ſie ſich noch nachträglich eindrängten.<lb/>
+            </p>
+            <p> <lb/>„Nun natürlich, ſie war ein gnä Frölen und<lb/>ſchrieb ſich Sophie von Oſſewiſch. Ihre Alten<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0027" n="17" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=27"/>
+            </p>
+            <p> <lb/>hatten einen Hof, den die Leute auch wohl ſo<lb/>Rittergut nennen, dort hinter der großen Weide<lb/>im Holze. Sind jetzt Alle todt!“<lb/>
+            </p>
+            <p> <lb/>„Und ſie ließen ſich auf ein Altarbild malen?“<lb/>
+            </p>
+            <p> <lb/>„Ja, das hat Frölen Fieken der Kirche zum<lb/>Andenken geſchenkt, eh’r ſie nach Clima ging. Alle<lb/>Leute verwunderten ſich, daß man Edelmanns und<lb/>Dörken ſo ſchön herausnehmen konnte!“<lb/>
+            </p>
+            <p> <lb/>„Und war Dörken mit Edelmanns verwandt?“<lb/>wagte der Eſſigreiſende zu forſchen.<lb/>
+            </p>
+            <p> <lb/>„Bei Leibe nicht! Sie war die Halbſchweſter<lb/>von Paſtor ſeligen und Paſtor ſeliger unterrichtete<lb/>die Frölen und Dörken mit einander, ſo waren ſie<lb/>auch zuſammen wie Spielkameraden, obwohl Dörken,<lb/>gleich uns, in Bauernzeug ging und von Bauern<lb/>zu Haus war. Denkt Dir's noch, Jan Berend,<lb/>wie luſtig ſie auf den Kirmſen tanzte und wie die<lb/>Jungen geck nach ihr waren? — Du wohl auch,<lb/>Jan Berend?“<lb/>
+            </p>
+            <p> <lb/>„Kein Gedanke!“ wehrte Jan Berend mit<lb/>ſolchem Eifer ab, daß doch ein gewiſſes Mißtrauen<lb/>über ſeine „Geckheit“ ſehr am Platze ſchien.<lb/>
+            </p>
+            <p> <lb/>„Nun ich war damals noch im ABC-Buch!“<lb/>begütigte ſeine beſſere Hälfte.<lb/>
+            </p>
+            <p> <lb/>„Wie konnte dann Dörken aber ſo ganz und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0028" n="18" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=28"/>
+            </p>
+            <p> <lb/>gar verſchwinden?“ wandte der Gaſt ein, als ob<lb/>er noch zweifelte.<lb/>
+            </p>
+            <p> <lb/>„Zuerſt verſchwand ſie nicht,“ erklärte kopf-<lb/>ſchüttelnd die Hausfrau, „ſie ſchrieb noch aus<lb/>Clima an ihren Bruder, unſern Paſtor ſeliger,<lb/>das mögen wohl ſo ein fünf bis ſechs Briefe ge-<lb/>weſen ſein, ich rechne denn, Eins mit dem Andern,<lb/>in drei Jahren; dann ſtarb Paſtor ſeliger und<lb/>man hörte nichts mehr von ihr — nicht wahr, Jan<lb/>Berend?“<lb/>
+            </p>
+            <p> <lb/>„Was weiß ich davon!“ brummte der Eheherr.<lb/>
+            </p>
+            <p> <lb/>„Weshalb nanntet Ihr ſie denn aber Püntjer<lb/>Dörken?“ forſchte der Fremde.<lb/>
+            </p>
+            <p> <lb/>„Nun,“ die Frau zeigte wieder ihr beneidens-<lb/>werthes Gebiß und ſagte, in ſich hineinlachend:<lb/>„Sehen Sie, Herr Maibaum und Moor, wenn<lb/>hier in unſerm Kirchdorfe Jemand einen Namen<lb/>bekommt, dann hat er eine Geſchichte. Wir denken<lb/>uns keine Namen aus, aber wer ihn ſich holt, der<lb/>hat ihn. Was kann ein Ding von ſiebzehn Jahren<lb/>für eine Geſchichte haben, wenn es nicht von Freie-<lb/>rei herkommt, und der Püntjer Manns war Dör-<lb/>ken's Freier, das ſteht feſt! — Die Zwei machten<lb/>ja Augen wie Kohlen, ſo glühig aufeinander, nicht<lb/>blos beim Bier in der Tanzkammer oder Abends<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0029" n="19" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=29"/>
+            </p>
+            <p> <lb/>bei der Uhlenflucht (Dämmerungszeit, wo die Leute<lb/>gern in’s Freie gehen zu kurzer Arbeitsraſt), nein,<lb/>auch in der Kirche, das kann die ganze Gemeinde<lb/>bezeugen, iſt's nicht ſo, Jan Berend?“<lb/>
+            </p>
+            <p> <lb/>„Warum ſollte es nicht ſo ſein?“ erwiederte<lb/>der Beſitzer der „Guten Botſchaft“. „Dörken war ein<lb/>Frauensmenſch mit hochaufgeſchoſſenem Sinn; ſie<lb/>ging gegen Wind und Strom; ſie hätte mit ihren<lb/>Augen einen tollen Hund zwingen können — in<lb/>der Kirche iſt der Menſch kein anderer, als auf dem<lb/>Tanzboden, Orgel oder Viole — der Sinn, den<lb/>wir von Natur haben, treibt doch oben auf!“<lb/>***<lb/>„O, Jan Berend!“ rief die „Gute Botſchafterin“,<lb/>„gottesfürchtige Menſchen denken in der Kirche nicht<lb/>an Freierei; haben wir uns denn ſo angeglupt,<lb/>als wir zu unſerer Zeit jung waren, noch dazu in<lb/>der Kirche?“<lb/>
+            </p>
+            <p> <lb/>„Nein, aber wir ließen es nicht aus Gottes-<lb/>furcht, ſondern der Leute wegen — Dörken fragte<lb/>nichts nach den Leuten!“<lb/>
+            </p>
+            <p> <lb/>„Ja,“ nahm die Wirthin bitter das Wort,<lb/>„ſie fragte nichts nach den Leuten und das gefällt<lb/>den Freiern, aber nachher in der Ehe, da ſoll die<lb/>Frau ſich bücken und biegen, dann iſt es nicht<lb/>mehr ſchön! Nun, der Püntjer hat ſie nicht gehei-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0030" n="20" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=30"/>
+            </p>
+            <p> <lb/>rathet, Paſtor ſeliger, Dörken's Halbbruder, wollte<lb/>ſie nicht einem Menſchen geben, der immer auf<lb/>der Ems lag und nichts hatte und nichts weiter<lb/>konnte!“<lb/>
+            </p>
+            <p> <lb/>„Nun, gekonnt hat Hermannus doch wohl was,“<lb/>warf der Wirth ein; „als er aus Verdruß über<lb/>dieſe Freierei wegging, da kam er ein ſechs Jahr<lb/>ſpäter wieder und hatte Geld genug und ging an-<lb/>zuſehen gekleidet wie ein wirklicher Herren-Mann;<lb/>aber er blieb nicht, weil die Dörken fort war, mag<lb/>Gott wiſſen, ob ſie noch in Clima lebte oder in der<lb/>Erde lag!“<lb/>
+            </p>
+            <p> <lb/>„Alſo Dörken hielt viel von dieſem Hermannus,“<lb/>erkundigte ſich der Reiſende beſcheiden.<lb/>
+            </p>
+            <p> <lb/>„Hielt viel von ihm? — Na, ob! ſie hatte<lb/>keinen andern Gedanken und wir glaubten auch,<lb/>ſie würde wohl mit dem Jungen ausreißen, aber<lb/>Paſtor ſeliger bedrohte ſie ſtark und dann ging ſie<lb/>mit Edelmanns nach Clima. Fieken hatte viel ge-<lb/>weint und um Gotteswillen gebeten, Dörken ſolle<lb/>ſie nicht in ihrer Schwachheit und bei dem ſchweren<lb/>Gebrech verlaſſen! Dörken hatte aber ſchon <hi rendition="#g">vor</hi>
+               <lb/>dieſer Zeit den Namen Püntjer Dörken, dazumal<lb/>als ſie noch ſo gut wie ein Kind war. Wir hatten<lb/>in den Tagen 'mal eine frühe Herbſtfluth, Weg<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0031" n="21" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=31"/>
+            </p>
+            <p> <lb/>und Steg waren unter Waſſer. Mir denkt's wie<lb/>heute, Mutter ſelig nahm mich und meine Brüder<lb/>und Schweſtern zwei Tage gar nicht aus dem Bette,<lb/>weil wohl zwei Spanne hoch Waſſer in unſerem<lb/>Hauſe ſtand. Mutter ſelig zog die Stiefeln vom<lb/>Vater ſeliger an und ſteckte ſich die Schürzen in<lb/>die Höhe. Wir ſahen ihr aus der Wandbettſtelle<lb/>zu, wie ſie im Waſſer ging und dann in einem<lb/>eiſernen Topf Torf anzündete, den Topf auf die<lb/>Kiſte ſtellte und den Keſſel und das Mittagsbrod<lb/>auf dieſe Heizerei zum Kochen. Wir Blagen hatten<lb/>eine Freude daran, aber Mutter weinte, weil nun<lb/>die Erdäpfel in der Grube, der Kohl im Garten<lb/>und ſo viele Sachen verdürben und wir nicht zu<lb/>anderen Leuten kommen konnten, denn ein Schiff<lb/>hatten wir nicht. Den zweiten Tag, da lachten<lb/>wir auch nicht mehr, ſondern weinten mit Mutter<lb/>ſelig, es war bitter kalt geworden und wir mochten<lb/>nicht mehr mit uns fünfen in der Wandbettſtelle<lb/>aushalten! Du kannſt auch von der Zeit erzählen,<lb/>Jan Berend?“<lb/>
+            </p>
+            <p> <lb/>„Herr Maibaum und Moor will nichts vom<lb/>Waſſer, ſondern von Dörken wiſſen, Grete!“<lb/>
+            </p>
+            <p> <lb/>„Wie's beliebt! Dörken befiel gerade in jener<lb/>Nacht eine ſehr ſchlimme Krankheit; die Doctors<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0032" n="22" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=32"/>
+            </p>
+            <p> <lb/>nennen ſie Bräune und viele Kinder ſtarben in<lb/>dem Umgang dieſes Siechthums. Dörken bekam<lb/>es auch. Paſtor ſelig lief in der kalten, dunklen<lb/>Nacht mit bloßem Kopfe auf die Straße, um einen<lb/>Boten nach Doctor und Apotheker zu finden —<lb/>ja, die Leute wollten wohl gern helfen, aber wer<lb/>traute ſich Wege zu gehen, über die das Waſſer<lb/>mit einer Gewalt ſtürzte, daß es Flintſteine (Kieſel)<lb/>mitnahm, noch dazu in der Nacht und bei Sturm<lb/>und Kälte? Paſtor ſeliger gab das Fragen zuletzt<lb/>auf, er konnte es nicht verantworten, um Dörken's<lb/>Leben ein anderes Leben zu wagen. Da klopfte<lb/>es an ſeine Blendläden und der Püntjer Manns,<lb/>der mit ſeinem Vater fuhr und gerade am Dorfe<lb/>lag, erbot ſich, den Gang um Gotteswillen zu machen.<lb/>Angenommen hat er dafür auch keinen Deut, Herr<lb/>Maibaum und Moor; denn ſehen Sie, ſein Leben<lb/>und ſeinen guten Willen konnte ihm doch Keiner<lb/>bezahlen. Manns brachte denn, als es Morgen<lb/>wurde, ein Pulver aus der Apotheke und Dörken<lb/>wurde wieder beſſer, ſie war Eine, bei der Tod<lb/>und Leben dicht bei einander liegen. Seit jenem<lb/>Tage gingen die Zwei zuſammen und ſie hat ſich<lb/>nie nach anderen Jungens umgeſchaut, obzwar ſie<lb/>hätte eine gute Heirath oder zwei thun können,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0033" n="23" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=33"/>
+            </p>
+            <p> <lb/>da ſie das Anſehen hatte. Paſtor ſeliger hat ſich<lb/>viel an dieſen Dingen geärgert, es war ſein Ver-<lb/>drieß, daß Dörken nicht zurechte kam. Paſtor ſeliger<lb/>hatte ſchon vor Jahren einen ſchlimmen Huſten<lb/>und —“<lb/>
+            </p>
+            <p> <lb/>Das Neſtheckchen mußte einen böſen Traum ge-<lb/>habt oder etwas Unverdauliches gegeſſen haben,<lb/>denn es begann ſo laut zu ſchreien, daß alle Schei-<lb/>ben in der „Guten Böskup“ klirrten und der Rei-<lb/>ſende es vorzog, einen Abendbeſuch in der Pfarre<lb/>abzuſtatten.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0034" n="24" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=34"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p/>
+         </div>
+         <div>
+            <p/>
+            <p> <lb/>Am nächſten Morgen beſuchte Heinrich Mai-<lb/>baum noch die Meſſe und knieete in tiefer Andacht<lb/>vor dem Seitenaltar. Heute in der ruhigen Morgen-<lb/>beleuchtung kam ihm die Magdalena noch bei Weitem<lb/>anziehender vor, als am Abend vorher. Ja, dieſe<lb/>feurigen Augen unter den ſcharf gezeichneten Bogen,<lb/>dieſe feſt angelegte Naſe mit den leicht beweglichen<lb/>Naſenflügeln, der geſchwungene volle Mund — ſie<lb/>deuteten auf ein heißes Herz, auf einen Sinn,<lb/>„der <hi rendition="#g">gegen</hi> Strom und Wind geht“, auf eine<lb/>Lebenskraft, die ungebrochen entweder vollaus leben<lb/>oder heldenhaft ſterben will. O, dieſe einfache<lb/>Bauernſprache; ſie ſagt doch mehr als all' die lieb-<lb/>lichen, duftigen Romanredensarten, welche uns die<lb/>Heldin von lichten Stoffen umflattert, von märchen-<lb/>haften Phantaſien umgaukelt ſchildern!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0035" n="25" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=35"/>
+            </p>
+            <p> <lb/>Als die Meſſe aus war, wurde der Schimmel<lb/>in die Gabel geſpannt und die Bewohner der „Guten<lb/>Botſchaft“ meinten, Herr Maibaum und Moor<lb/>werde mit dem Tage zum Ziele ſeiner Reiſe kom-<lb/>men und wünſchten ihm Glück auf die Fahrt.<lb/>Wirklich verſtrich der Tag ſo gut wie er auf ein-<lb/>ſamen Steinſtraßen, die ſich anſcheinend endlos<lb/>durch Torfmoor und Haide ziehen, verſtreichen kann.<lb/>Der geſtrige Regen hatte den Staub gelöſcht, über<lb/>den weiten Strecken ſchien Ruhe und Friede aus-<lb/>gebreitet. In jedem der ziemlich dünn geſäeten<lb/>Dörfer erhielt der Schimmel ſein Futter und der<lb/>Reiſende ſein Geld, Niemand verſuchte ferner einen<lb/>Abzug oder wünſchte eine Stundung, denn in<lb/>Gegenden, wo die Bevölkerung hart um ihr Brod<lb/>arbeiten muß, hat man Achtung vor dem Beſitz,<lb/>vor dem eigenen wie dem fremden. Durch das<lb/>Abenddämmern erblickte Heinrich endlich die beiden<lb/>unſchönen und ſtylloſen Thürme ſeines Vater-<lb/>ſtädtchens, der Schimmel wurde auf einmal ganz<lb/>muthwillig, indeß ſein Lenker leiſe anfing zu pfei-<lb/>fen. Das Pflaſter des Städtchens kann kecklich<lb/>zu den holperigſten gerechnet werden, die überhaupt<lb/>exiſtiren oder jemals exiſtiren können. Langſam<lb/>ging's weiter. Vor einem Hauſe ſtanden zwei Lin-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0036" n="26" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=36"/>
+            </p>
+            <p> <lb/>den, darunter eine Bank, man konnte ſie gut ſehen,<lb/>denn Licht fiel durch die weißen kurzen Blend-<lb/>gardinchen der Fenſter.<lb/>
+            </p>
+            <p> <lb/>„Eliſe hat ſchon Licht angezündet!“ murmelte<lb/>Heinrich und verſuchte von ſeinem erhöhten Stand-<lb/>punkte im Wagen aus in das Zimmer zu blicken.<lb/>Zugleich ſtand aber auch ſchon an der nächſten Thür<lb/>der Schimmel ſtill, denn hier war die Wohnung<lb/>der Firma Maibaum und Moor.<lb/>
+            </p>
+            <p> <lb/>Niemand empfing den Heimkehrenden. In der<lb/>Küche ſagte die Tante gleichgültig: „Biſt Du wieder<lb/>da?“ Der Vater ſchob, von ſeiner Schreiberei —<lb/>die er neben einer düſtern Lampe beſorgte — auf-<lb/>blickend, ſeine Brille auf die Stirn und knurrte:<lb/>„Haſt Dich gewiß wieder tüchtig anſchmieren laſſen<lb/>— o Du kennſt die Welt und die Menſchen noch<lb/>nicht!“<lb/>
+            </p>
+            <p> <lb/>Heinrich erwiederte nichts — er fragte ſich mit-<lb/>unter, weshalb er der nächſte Angehörige eines<lb/>Mannes ſei, dem Niemand in der Welt ſo läſtig<lb/>und unliebſam zu ſein ſchien, als eben ſein Sohn?<lb/>Er hatte verſucht, der überwuchtigen väterlichen<lb/>Strenge und Härte einigen Widerſtand entgegen<lb/>zu ſetzen; aber das gute Herz des Sohnes ertrug<lb/>einen Zuſtand der Spannung nicht, welcher an dem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0037" n="27" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=37"/>
+            </p>
+            <p> <lb/>Alten faſt unbemerkt vorüberzugehen ſchien. Man<lb/>gewöhnt ſich nicht an Unfreundlichkeit, wenn das<lb/>eigene Gemüth liebebedürftig und gefühlstief iſt.<lb/>— Heinrich kränkte ſich jeden Tag von Neuem<lb/>über das kalte, freudloſe Weſen ſeines Vaters.<lb/>
+            </p>
+            <p> <lb/>Mit verdüſterter Stirn ſchritt er in den Pferde-<lb/>ſtall und beobachtete, wie ein kleines, verkrüppeltes<lb/>Männchen, das Factotum des Hauſes, Namens<lb/>Gert, den Schimmel ausſchirrte und ihm Futter<lb/>in die Raufe und die Krippe ſchüttete. Eine ſehr<lb/>matte Laterne leuchtete dazu, ſo daß der kleine<lb/>Knecht koboldartig anzuſchauen war.<lb/>
+            </p>
+            <p> <lb/>„Ich rechne,“ knurrte das kleine Individium<lb/>nach einer Weile frech, „ich rechne, ich werde den<lb/>Schimmel auch ohne Aufſicht füttern können, in<lb/>den letzten zehn Jahren hat es ihm an nichts ge-<lb/>fehlt — denke ich?“<lb/>
+            </p>
+            <p> <lb/>Heinrich's Augen blitzten einen Moment auf.<lb/>Weshalb hatte er denn <hi rendition="#g">nur</hi> Feindliches unter<lb/>dieſem Dache zu hören? Dann aber lächelte er und<lb/>trat durch die offene Thür in den Garten, welcher<lb/>im Mondlichte des erſten Viertels da lag und die<lb/>Eſſigfabrik mit ihrem Geheimniß umſchloß. Die<lb/>Firma Maibaum und Moor behauptete nämlich,<lb/>ein beſonderes Eſſiggeheimniß zu beſitzen, Gert<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0038" n="28" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=38"/>
+            </p>
+            <p> <lb/>war auch eingeweiht und wußte, daß man ihn<lb/>weder entbehren noch entlaſſen konnte, weshalb<lb/>er ein Recht hatte, impertinent zu ſein. Endlich<lb/>entfernte ſich das kleine Ungeheuer auf Klapppan-<lb/>toffeln aus dem Stalle und Heinrich ſprang raſch<lb/>hinein, um dreimal langſam und vernehmlich auf<lb/>einen beſtimmten Stein zu klopfen. Nach zwei<lb/>Minuten wiederholte er dieſelbe Operation und,<lb/>ſiehe da, es erfolgte eine Antwort, ein Geiſter-<lb/>klopfen, ſo daß der Schimmel mißtrauiſch die Ohren<lb/>ſpitzte und aufhörte mit ſeinen alten Zähnen den<lb/>Hafer in der Krippe zu zermalmen. Heinrich<lb/>ſchlüpfte wieder in den Garten, drückte ſich an<lb/>der Hecke entlang und war dann mit einem kecken<lb/>Sprung über dieſelbe hinweg im Nachbargarten.<lb/>Raſche Schritte eilten den ſchmalen Pfad hinab<lb/>ihm entgegen und er ſchloß eine weibliche Geſtalt<lb/>in die Arme, welche ſich mädchenhaft, in ſcheuer<lb/>Hingabe, an ihn ſchmiegte. — „Heinrich!“ „Eliſe!“<lb/>flüſterte es hin und wieder: „Haſt Du mich er-<lb/>wartet, Eliſe?“<lb/>
+            </p>
+            <p> <lb/>„Du weißt,“ entgegnete ſie halb vorwurfsvoll,<lb/>„daß ich im Leben und vom Leben nie etwas An-<lb/>deres erwartet habe als Dich, und nie etwas An-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0039" n="29" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=39"/>
+            </p>
+            <p> <lb/>deres erwarten werde — was könnte ich wohl ſonſt<lb/>erwarten?“<lb/>
+            </p>
+            <p> <lb/>„Wie geht es Deiner Alten, hat ſie Dich ſehr<lb/>gequält, Eliſe?“<lb/>
+            </p>
+            <p> <lb/>„Sprich nicht ſo, ſie hatte ſo viele Schmerzen,<lb/>dabei konnte ſie nicht luſtig ſein!“<lb/>
+            </p>
+            <p> <lb/>„Luſtig — Deine Großmutter und mein Vater<lb/>ſind niemals luſtig geweſen! Sieh, Eliſe, wenn<lb/>Du nicht ſo eigenſinnig wärſt, wir heiratheten uns<lb/>auf der Stelle und all' die Scheererei wäre mit<lb/>einem Male zu Ende; wir könnten es ſo gut<lb/>haben, und haben es ſo ſchlecht!“<lb/>
+            </p>
+            <p> <lb/>Eliſe bemühte ſich, ihre Stimme klar zu machen,<lb/>dann ſagte ſie mit heimlichem Beben: „O, Hein-<lb/>rich, das iſt kein Eigenſinn, was wir auf uns<lb/>nehmen wie ein ſchweres Kreuz, ich trage es für<lb/>mich und für Dich, aber Du weißt, Großmutter<lb/>wollte nie davon hören, daß ich heirathe — wie<lb/>könnte ich glücklich ſein, wo ich weiß, <hi rendition="#g">ſie</hi> kann<lb/>mich keine halbe Stunde entbehren — wenn ich es<lb/>ihr ſagte, ich glaube, ſie würde mich enterben?“<lb/>
+            </p>
+            <p> <lb/>„Nun und was weiter? Bin ich denn etwa<lb/>ein Bettler, der ſeine Frau hungern laſſen muß?“<lb/>fragte der Reiſende halb gerührt, halb trotzig.<lb/>
+            </p>
+            <p> <lb/>„Nein, Du wirſt nie Jemanden hungern laſſen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0040" n="30" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=40"/>
+            </p>
+            <p> <lb/>dem Du helfen kannſt; aber, Heinrich, ich würde<lb/>Deiner Familie ein Dorn im Auge ſein, wenn ich<lb/>arm in ihr Haus käme, Du weißt es — Du weißt<lb/>es! Wenn ich Dir dieſe Wartenszeit erſparen<lb/>könnte, ich trüge ſie gern, tauſendmal gern doppelt,<lb/>aber es geht nicht!“<lb/>
+            </p>
+            <p> <lb/>„Sie wird wohl nicht allzu lange mehr leben“.<lb/>— — Er wollte noch etwas hinzufügen, das er<lb/>verſchluckte.<lb/>
+            </p>
+            <p> <lb/>„Bitte, bitte, rede nicht ſo, als wünſchteſt Du<lb/>deren Tod, die meines Vaters Mutter iſt; ich<lb/>wäre ohne ſie doch ganz verwaiſt geweſen und wenn<lb/>ſie es nicht immer nach meinem Sinn einrichtete,<lb/>ſie hatte doch keine üble Abſicht dabei, es traf ſich<lb/>ſchlimm, daß ich eine ſo verſchiedene Art mit ihr<lb/>habe!“<lb/>
+            </p>
+            <p> <lb/>„Du biſt gut, Du biſt gut, Eliſe, deshalb<lb/>kann ich es ihr nicht verzeihen, daß ſie Dich ſo<lb/>hart — —“<lb/>
+            </p>
+            <p> <lb/>„Bitte, bitte, rede nicht davon, ich habe ja ſo<lb/>viel, ich habe Dich und wenn ich Dich nicht ſehe,<lb/>kann ich immer an Dich denken, da iſt noch Schlim-<lb/>meres zu ertragen!“<lb/>
+            </p>
+            <p> <lb/>Er wandte ihr Geſicht dem Mondlicht zu und<lb/>ſtrich über ihr ſehr hellblondes Haar. Ja, das<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0041" n="31" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=41"/>
+            </p>
+            <p> <lb/>war ein rührendes, mildes, bleiches, überwachtes<lb/>Geſicht, nicht alt zwar, aber ohne Jugendfriſche,<lb/>die Züge waren unbedeutend, wie ausgewiſcht,<lb/>Alles wie verblaßt, aber rein, aber fromm, aber<lb/>erdenfremd!<lb/>
+            </p>
+            <p> <lb/>„Du,“ ſprach er etwas lauter und ſeine leicht<lb/>beweglichen Mienen nahmen einen belebtern Aus-<lb/>druck an, „Du, Eliſe, ich habe mich auf der Reiſe<lb/>in ein ſchönes Mädchen verliebt!“<lb/>
+            </p>
+            <p> <lb/>Sie legte die ſchmalen weißen Hände in ein-<lb/>ander und ſagte leiſe: „Bitte, bitte, ſcherze nicht<lb/>mit etwas ſo Traurigem!“<lb/>
+            </p>
+            <p> <lb/>„Es iſt ja nicht ſo traurig, Du gutes Kind, es<lb/>war nur ein gemaltes Mädchen, das vor dreißig<lb/>Jahren gelebt hat, die Püntjer Dörken — o, die<lb/>hat ein Geſicht, die würde Großmutters Selbſt-<lb/>ſucht nicht ſo lammfromm ertragen!“<lb/>
+            </p>
+            <p> <lb/>„Wirklich, Heinrich, ich <hi rendition="#g">kann</hi> nicht anders als<lb/>Großmutter gehorchen, es iſt dies Dein ewiger<lb/>Verdruß, aber wenn es mich Alles — wenn es<lb/>mich Deine Liebe koſtete, ich müßte ſterben; doch<lb/>ſo lange ſie lebt, müßte ich meine Pflicht gegen ſie<lb/>thun; weshalb quälſt Du mich nur jedes Mal da-<lb/>mit, wo ich einen Augenblick bei Dir ſein darf?<lb/>Ich <hi rendition="#g">kann</hi> nicht anders!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0042" n="32" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=42"/>
+            </p>
+            <p> <lb/>„Um Alles in der Welt, weine nur nicht,<lb/>Eliſe!“<lb/>
+            </p>
+            <p> <lb/>„Nein, mein Heinrich, ich weine nicht, Du haſt<lb/>es mir ja ſo oft verboten!“<lb/>
+            </p>
+            <p> <lb/>„Sieh, wenn wir verheirathet wären, all'<lb/>dieſer Verdruß — —“<lb/>
+            </p>
+            <p> <lb/>Eine laute Schelle tönte im Hauſe. Eliſe<lb/>ſchrak zuſammen und ſtrebte ſich loszumachen: „Um<lb/>Gottes Willen, Heinrich, laß mich gehen, ſie hat<lb/>geſchellt!“<lb/>
+            </p>
+            <p> <lb/>„Du biſt <hi rendition="#g">meine</hi> Braut, nicht <hi rendition="#g">ihre</hi> Sclavin?“<lb/>
+            </p>
+            <p> <lb/>„Heinrich, Heinrich!“<lb/>
+            </p>
+            <p> <lb/>„Geh' denn — Du liebſt ſie mehr als mich;<lb/>Dörken fragte nach Niemanden anders, als nach<lb/>ihrem Püntjer, ja wenn die — —“<lb/>
+            </p>
+            <p> <lb/>Eliſe war längſt in's Haus geeilt und Heinrich<lb/>vollendete den Satz und den Gedanken nicht, ſein<lb/>Herz war voller Groll. Er hätte in die Welt<lb/>hinausſtürmen mögen, um Liebe zu ſuchen, und<lb/>vergaß wie viel Liebe ihm eigen war; aber Eliſen's<lb/>Liebe war eine Dulderliebe und die Wirthin zur<lb/>„Guten Botſchaft“ hatte es wohl geſagt: als Lieb-<lb/>haber will der Mann ein neues friſches Weſen<lb/>gewinnen, ſo ſehr er in der Ehe die rückſichtsvolle,<lb/>hingebende Gattin zu forden ſich berechtigt glaubt!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0043" n="33" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=43"/>
+            </p>
+            <p> <lb/>— Heinrich hatte ſich, was ſein Gemüth anlangte,<lb/>ſelbſt erzogen. Da das <hi rendition="#g">Gefühl</hi> im Vaterhauſe<lb/>keine Rolle ſpielte, ſo hatte man ihn nicht ge-<lb/>lehrt ſich über daſſelbe Rechenſchaft zu geben —<lb/>ihm ſchien, es ſei genug über eine Erregung ent-<lb/>weder zu reden oder zu ſchweigen; ein inneres Ab-<lb/>wägen glaubte er ſich nicht ſchuldig zu ſein. Des-<lb/>halb blieb der junge Mann den ganzen Abend eben<lb/>ſo wortkarg und ungeſellig als ſeine übrigen Fa-<lb/>milienmitglieder und legte ſich zur Ruhe, grollend,<lb/>daß Eliſe die Großmutter über den Verlobten<lb/>ſtelle!<lb/>
+            </p>
+            <p> <lb/>Andern Tags grollte Heinrich nicht mehr, aber<lb/>das war nicht ſein Verdienſt, denn über Nacht<lb/>hatte ſich Vieles verändert. Zuvörderſt war mäch-<lb/>tig an die Hausthür der Firma „Maibaum und<lb/>Moor“ geklopft worden. Die Magd hatte geöffnet<lb/>und war zu „Madam“ hinein gegangen, dann<lb/>wanderte „Madam“ mit der lärmenden Rückſichts-<lb/>loſigkeit egoiſtiſcher Menſchen gegen Schlafende<lb/>im Hauſe umher, um ſchließlich daſſelbe zu ver-<lb/>laſſen. Als Gert Morgens die Stiefel zum Wichſen<lb/>holte, ſagte er: „Die alte reiche Frau Nachbarin<lb/>iſt denn dieſe Nacht auch geſtorben!“<lb/>
+            </p>
+            <p> <lb/>Ein Paar trübe alte Augen geſchloſſen — und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0044" n="34" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=44"/>
+            </p>
+            <p> <lb/>welch' ein Umſchwung in Heinrich's ganzem Weſen!<lb/>Er fühlte mit Stolz, mit Entzücken, daß er jetzt<lb/>Eliſen Alles ſein mußte, ihre Zuflucht, ihre Hei-<lb/>mat, daß er ihr all' die freudlos neben der Alten<lb/>verlebten Jugendjahre einbringen müſſe. Im An-<lb/>triebe dieſes mannhaften Impulſes zog er ſofort<lb/>ſeinen Sonntagsrock an und rückte, nach dem in<lb/>der großen Küche gemeinſchaftlich genoſſenen Fa-<lb/>milienfrühſtück, ſeinem Vater in das ſogenannte<lb/>Bureau, einem triſten, freudloſen und engen Raum,<lb/>deſſen öde Wände ſeit Jahren kein Lachen gehört,<lb/>über die kein anderes Wort als ſtreng geſchäftliche<lb/>dahingeglitten war. Der alte Maibaum ſchien<lb/>ſeinen Sohn anfangs nicht zu ſehen und wandte<lb/>ihm den Kopf erſt langſam zu, als der Letztere<lb/>ſagte: „Vater, ich wollte Ihnen die Abrechnung<lb/>meiner Einkaſſirungen vorlegen und habe eine<lb/>Bitte auszuſprechen.“<lb/>
+            </p>
+            <p> <lb/>Maibaum senior muſterte eine Rechnung nach<lb/>der andern, ſchüttelte den Kopf bei dem Rückſtande<lb/>des Wirthes zur „Guten Botſchaft“ und ging dann<lb/>die Notirungen auf neue Lieferungen durch. „Wie<lb/>ſteht's mit den Fäſſern?“<lb/>
+            </p>
+            <p> <lb/>Heinrich ſtattete Bericht ab. Der Alte räumte<lb/>dann ſorgſam die Papiere in ihre verſchiedenen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0045" n="35" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=45"/>
+            </p>
+            <p> <lb/>Auszüge und ſagte endlich unfreundlich: „Brauchſt<lb/>Du einen neuen Rock oder prickelt Dich der Hoch-<lb/>muthsteufel um eine goldene Uhr?“<lb/>
+            </p>
+            <p> <lb/>„Nein, Vater, ich will nur heirathen!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Nur</hi> heirathen —? <hi rendition="#g">Nur</hi> heirathen? — Und<lb/>was kann man denn noch etwa Thörichteres wol-<lb/>len, als heirathen?“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß es nicht, Vater, höchſtens man iſt<lb/>ſo thöricht: traurig und freudlos dahin zu leben,<lb/>wie wir in dieſem Hauſe!“<lb/>
+            </p>
+            <p> <lb/>„So — ſo, junger Herr! Man hält alſo die<lb/>Ehe für einen ſehr freudigen, beglückenden Zu-<lb/>ſtand?“<lb/>
+            </p>
+            <p> <lb/>„Ich hoffe, die meinige wird das ſein!“<lb/>
+            </p>
+            <p> <lb/>„Hoffen — hoffen — nur Narren hoffen ſo<lb/>Etwas, erfahrene Leute — — aber wer hat das<lb/>Glück, Deinem Herzen ſo viele ſchöne Hoffnung<lb/>vorzugaukeln?“<lb/>
+            </p>
+            <p> <lb/>„Eliſe Grütter!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Das</hi> kranke Huhn? Du denkſt wohl an ihre<lb/>Thaler, die Alte iſt ja todt —? Speculirſt doch<lb/>beſſer, als ich Dir's zutraute!“<lb/>
+            </p>
+            <p> <lb/>„An ihre Thaler dachte ich nicht, ſie iſt ein<lb/>frommes, treues Mädchen!“<lb/>
+            </p>
+            <p> <lb/>„Weibertreue — pah —! Wenn ich Du wäre,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0046" n="36" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=46"/>
+            </p>
+            <p> <lb/>ich ſchlüge mir dieſe Heirathsgedanken lieber heute<lb/>als morgen aus dem Kopfe!“<lb/>
+            </p>
+            <p> <lb/>„Möglich — ich aber denke Eliſe glücklich zu<lb/>machen!“<lb/>
+            </p>
+            <p> <lb/>Maibaum senior rückte an ſeinem Käppchen,<lb/>fühlte in beide Weſtentaſchen, als ſuche er nach<lb/>Etwas, Heinrich zu beſtechen, und murmelte dann<lb/>mit unſicherer Stimme: „Mein Sohn, Du wirſt<lb/>betrogen werden!“<lb/>
+            </p>
+            <p> <lb/>„Vater!“ rief Heinrich, „Du beleidigſt Eliſe<lb/>und mich — Du, Du mit Deinem entehren-<lb/>den Mißtrauen kannſt allerdings <hi rendition="#g">nie geliebt</hi>
+               <lb/>haben!“<lb/>
+            </p>
+            <p> <lb/>Der Kopf des alten Eſſigfabrikanten ſank ſchwer<lb/>in ſeine Hände; ein Laut, wie erſticktes Schluchzen,<lb/>entrang ſich ſeinen Lippen, er winkte, ohne aufzu-<lb/>blicken, Heinrich ſolle gehen —: „Entſcheide nichts<lb/>bis zum Abend,“ preßte er mühſam hervor — „ich<lb/>will Dir's erzählen, o Gott — daß ein ſolcher<lb/>Tag kommen mußte!“<lb/>
+            </p>
+            <p> <lb/>Zum erſten Male in ſeinem Leben drängte es<lb/>Heinrich, ſeinem Vater ein liebevolles Wort zu<lb/>ſagen; aber die Gewohnheit fehlte, er erröthete,<lb/>fand keines und entfernte ſich ſchweigend.<lb/>
+            </p>
+            <p> <lb/>Der alte Maibaum verließ den ganzen Tag ſein<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0047" n="37" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=47"/>
+            </p>
+            <p> <lb/>Comptoir nicht und wies Speiſe und Trank in<lb/>ſeiner harten Manier zurück. Heinrich indeſſen<lb/>wanderte unruhig umher. Im Nachbarhauſe ging<lb/>es ſo lebendig zu, als ſolle für eine Hochzeit ge-<lb/>rüſtet werden. Die Verwandtſchaft, welche nicht<lb/>eben großmüthig von der Verſtorbenen behandelt<lb/>war, drängte ſich jetzt mit Kind und Kegel herzu,<lb/>um ſich, auf Koſten des Nachlaſſes und unter dem<lb/>Deckmantel der Trauer, noch einmal recht gütlich<lb/>zu thun; es war ein Rachebeſuch bei den Manen<lb/>der ſparſamen Greiſin, ein Zweck- und Wetteſſen<lb/>und -Trinken, das Eliſe den ganzen langen Tag<lb/>an den Herd feſſelte. Mitunter trocknete ſie ver-<lb/>ſtohlen eine Thräne mit der Schürze von ihrem<lb/>milden, ergebenen Angeſicht, dann aber bemühte<lb/>ſie ſich auf die Mittheilungen einer rüſtigen Cou-<lb/>ſine zu lauſchen, welche neben dem Herde ſaß,<lb/>ihren Säugling wartete und eine Feuerkieke unter<lb/>den Füßen hatte.<lb/>
+            </p>
+            <p> <lb/>„Wirklich, er hat ſchon vier Zähne?“ fragte<lb/>Eliſe gutmüthig und verſuchte den gezähnten Säug-<lb/>ling anzulächeln.<lb/>
+            </p>
+            <p> <lb/>„Das iſt doch kein Wunder!“ rief die Cou-<lb/>ſine. „Du weißt, Dietrich bekam die erſten Zähne<lb/>volle drei Wochen früher, und Anna hatte ſie auch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0048" n="38" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=48"/>
+            </p>
+            <p> <lb/>ſchnell genug. Ja, Du kannſt Dich freuen, Eliſe,<lb/>Du haſt für keinen Haushalt und keine Kinder<lb/>zu ſorgen gehabt, Du konnteſt gemächlich daſitzen,<lb/>wenn wir Verheiratheten uns plagten!“<lb/>
+            </p>
+            <p> <lb/>Eliſe warf einen kummervollen Blick auf die<lb/>rüſtige Couſine und den fetten Säugling, ſie<lb/>dachte daran, wie viel freundlicher ſolch’ ein Kinder-<lb/>ſtimmchen riefe, als das belfernde, unzufriedene<lb/>Organ der alten Großmutter, welches ſie Nacht<lb/>für Nacht, Stunde für Stunde hetzte und weckte<lb/>durch all' die Jahre ihres Lebens,<lb/>
+            </p>
+            <p> <lb/>„Ich meine das nicht,“ antwortete Eliſe in<lb/>ihrer ſchüchternen und doch entſchiedenen Art.<lb/>„Sobald die tiefe Trauer vorüber iſt, habe ich<lb/>den Vorſatz mich auch zu verheirathen, wenn es<lb/>Gottes Wille iſt!“<lb/>
+            </p>
+            <p> <lb/>Der Säugling ſchrie plötzlich auf, weniger aus<lb/>Theilnahme für Eliſens Heirath, als weil die ſor-<lb/>gende Mutter höchſt unſanft ſeine prallen klei-<lb/>nen Waden berührt hatte. Die ſorgende Mutter<lb/>war nach Beſchwichtigung des in ſeiner Ruhe ge-<lb/>ſtörten Kleinen ſo weit wieder Herrin ihrer zor-<lb/>nigen Aufwallung, daß ſie entgegnen konnte: „<hi rendition="#g">Wir</hi>
+               <lb/>können Dich ja nicht verhindern und Du mußt<lb/>es ſelbſt entſcheiden; aber Du weißt, daß Du nicht<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0049" n="39" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=49"/>
+            </p>
+            <p> <lb/>hübſch biſt, daß Du keine ſchwere Arbeit gewohnt<lb/>biſt, einige Leute wollen auch wiſſen, Du bekämſt<lb/>noch einmal ein Zehrfieber — ſieh’, nun iſt keine<lb/>Frage, <hi rendition="#g">was</hi> der Mann haben will, der Dich be-<lb/>gehrt, und ſo wie ich ſprechen ſie Alle, Du biſt ja<lb/>ſelbſt alt genug, um das einzuſehen.“<lb/>***<lb/>Eliſe ſetzte ſich auf den nächſten Binſenſtuhl;<lb/>ſie wußte, was dieſes <hi rendition="#g">wir</hi> bedeutete, dahinter ver-<lb/>ſteckte ſich die ganze Sippe, der es recht gelegen<lb/>kam, wenn Eliſe die alte läſtige Großmutter pflegte<lb/>und ihre ganze Jugend darüber verkümmerte,<lb/>höchſt ungelegen aber war es der verbündeten<lb/>Verwandtſchaft, wenn Eliſe jetzt die Erbſchaft für<lb/>ſich allein behielt. Mit Spannung erwartete des-<lb/>halb die Couſine, was Eliſe auf dieſe nieder-<lb/>ſchmetternden Wahrheiten entgegnen würde, ſie<lb/>war auf einen Zornausbruch gefaßt und bereit<lb/>auch die lachende Seite der Erbtantenexiſtenz zu<lb/>entrollen. Aber das arme geduldige Kind wußte<lb/>nichts von Zorn; ihr reines und weiches Gemüth<lb/>war an unverdiente Kränkungen gewöhnt worden,<lb/>nicht indem es ſich gegen dieſelben verhärtete,<lb/>ſondern dadurch, daß es ſeine innere Stimme<lb/>ſiegreich gegen die äußere erhob. So ſprudelt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0050" n="40" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=50"/>
+            </p>
+            <p> <lb/>das lautere Bergwaſſer ungetrübt von der Höhe<lb/>über alle Hemmungen und Hinderniſſe.<lb/>
+            </p>
+            <p> <lb/>„Du haſt in Allem Recht, was mich anlangt;<lb/>aber Unrecht in dem, was Heinrich betrifft,“ ſprach<lb/>Eliſe. „Er iſt von Klein auf an mein Anſehen<lb/>gewöhnt und wenn Gott mir eine tödtliche Krank-<lb/>heit ſenden will, ſo ſoll Heinrich ſo wenig als<lb/>möglich darunter leiden. Wir bauen unſer Haus<lb/>miteinander und nehmen unſer Schickſal mitein-<lb/>ander. Wenn ich arm wäre, ich dürfte nicht ſeine<lb/>Frau werden, nun ich Vermögen habe, kann ich<lb/>ohne Schönheit, ohne große Arbeitskraft doch<lb/>meine Hand in die ſeinige legen!“<lb/>
+            </p>
+            <p> <lb/>Die Couſine ſchüttelte den Kopf. Eliſe kam<lb/>ihr ganz verrückt vor; muß denn nicht ein <hi rendition="#g">armes</hi>
+               <lb/>Mädchen doppelt geſchwind zugreifen? „Hör', Eliſe,“<lb/>rief ſie verweiſend, „dieſe Dinge müſſen wir<lb/>beſſer verſtehen als Du, die nichts von der Welt<lb/>weiß!“<lb/>
+            </p>
+            <p> <lb/>„Nein,“ erwiederte die Andere entſchieden,<lb/>„dieſe Dinge verſteht die <hi rendition="#g">Welt</hi> nicht, ſondern<lb/>das <hi rendition="#g">Herz</hi>! Gieb Dir keine Mühe, Couſine, es<lb/>giebt nur <hi rendition="#g">einen</hi> Menſchen, der mich bereden<lb/>könnte von Heinrich zu laſſen, und das iſt er<lb/>ſelbſt — Ihr könnt es nicht!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0051" n="41" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=51"/>
+            </p>
+            <p> <lb/>Sie erhob ſich und ging in das halbdunkle<lb/>kellerartige Gaſtzimmer des Hauſes, wo neben<lb/>einer ängſtlich brennenden geweihten Kerze der<lb/>Tod zu Gaſte war. Eliſe dankte der Großmutter,<lb/>daß dieſe nie verſucht hatte, Heinrich herabzuziehen.<lb/>Jetzt war ihr die Todte noch die einzige Befreun-<lb/>dete unter dieſem liebeleeren, ſchwerdrückenden Dache.<lb/>Eliſe ſeufzte und klagte nicht, ſie wartete auf<lb/>Gottes Fügung, wie ſie ſeit Jahren geduldig ge-<lb/>wartet hatte. Die Greiſin, welche in ihrer Ju-<lb/>gend eine große Schönheit geweſen war, ſah jetzt,<lb/>im Tode, ehrwürdig und friedlich aus. Arme Eliſe,<lb/>was flüſterſt Du, wohin iſt denn Deine fröhliche<lb/>Zuverſicht? — Ach, jedes liebende Weib iſt im<lb/>Grunde wie das Andere; ein Gifttropfen war in<lb/>die fromme Mädchenſeele gefallen, ſie murmelte:<lb/>„Großmutter, Dein Streben war das Geld — o<lb/>hätteſt Du mir ſtatt deſſen Schönheit und Ge-<lb/>ſundheit und eine ſorgloſe Jugend vererbt, wie<lb/>anders könnte ich Dir danken.“<lb/>
+            </p>
+            <p> <lb/>In derſelben Stunde, wo Eliſe mit der Tod-<lb/>ten Abrechnung hielt, wurde Heinrich von ſeinem<lb/>Vater zu einem Spaziergang aufgefordert. Keiner<lb/>der beiden Männer redete; endlich fragte der Sohn:<lb/>„Vater, Sie haben den ganzen Tag nichts ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0052" n="42" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=52"/>
+            </p>
+            <p> <lb/>geſſen; wäre es nicht beſſer, Sie genöſſen Etwas,<lb/>ehe wir fortgehen?“<lb/>
+            </p>
+            <p> <lb/>„Nein!“<lb/>
+            </p>
+            <p> <lb/>Lange gingen ſie ſchweigend, bis tief in das<lb/>Kieferngehölz, das ſich mühſam aus ſandigen Dü-<lb/>nen emporarbeitete. Plötzlich blieb der Vater<lb/>ſtehen, richtete ſeinen ſcharfen Blick auf Heinrich<lb/>und ſprach: „Was weißt Du von Deiner Mutter?“<lb/>
+            </p>
+            <p> <lb/>Heinrich erröthete: „Ich hielt ſie für geſtor-<lb/>ben,“ ſtotterte er, „bis eines Tages Tante Moor<lb/>mir verbot, anderen Leuten zu erzählen, meine<lb/>Mutter ſei todt!“<lb/>
+            </p>
+            <p> <lb/>„So?“ ſagte der Alte gedehnt, „alſo Tante<lb/>Moor weiß, daß Deine Mutter noch lebt oder<lb/>noch leben kann — —! Um ſo beſſer, es wird<lb/>Dich die Laſt weniger niederbeugen, da Du vor-<lb/>bereitet biſt, als mich, dem ſie unvorbereitet auf-<lb/>gebürdet wurde. Nichts drückt ſo ſchwer als eine<lb/>Schande, Heinrich, und die Frau, die ich mehr<lb/>liebte als mein Leben, hat dieſes Leben mit Schmach<lb/>und Schande beladen bis über's Grab hinaus.<lb/>Sie war ein ſchlichtes Bauernmädchen, ich ließ ihr<lb/>für Geiſt und Körper geben, was immer ſie be-<lb/>gehrte; ſie war geehrt, geliebt, ſchön, geſund,<lb/>wohlhabend, wohnte in einem hübſchen Häuschen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0053" n="43" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=53"/>
+            </p>
+            <p> <lb/>vor ſich eins der ſchönſten Thäler auf Erden, ſie<lb/>hatte einen braven Mann und ein blühendes Kind<lb/>— Alles, Alles das verließ ſie und entfloh mit<lb/>einem Andern! Du weißt, was mit mir wurde;<lb/>was aus ihr geworden — ich habe es nicht er-<lb/>fahren können, obwohl — ja Heinrich! obwohl<lb/>ich nicht aufhören konnte ſie zu lieben, als ſie<lb/>längſt meiner Liebe unwürdig war! Sag' mir<lb/>morgen früh, ob Du bei der Abſicht verharrſt,<lb/>zu heirathen; ſprich aber nie mehr von Deiner<lb/>Mutter, weder zu mir noch zu ſonſt Jemanden, ſo<lb/>lange meine Augen noch offen ſtehen. Geh' jetzt,<lb/>ich kann Dir nicht mehr über das Vergangene<lb/>ſagen — was die Zukunft anlangt, ſo haſt Du<lb/>zwar keine ſorgende Mutter, Dir Dein Haus zu<lb/>ſchmücken, aber einen getreuen Vater!“<lb/>
+            </p>
+            <p> <lb/>Heinrich ſank an ſeine Bruſt und weinte heiße,<lb/>ſchmerzliche Thränen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0054" n="44" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=54"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p/>
+         </div>
+         <div>
+            <p/>
+            <p> <lb/>Herr Maibaum senior mußte am nächſten Mor-<lb/>gen gewahren, daß fremde Erfahrungen der Ju-<lb/>gend ſehr wenig helfen, indem ſie darauf beſteht,<lb/>dieſelben an ſich ſelbſt zu erproben. Heinrich be-<lb/>harrte auf ſeinem Heirathsbeſchluß und die Firma<lb/>geſtattete ihm, ſich etwa acht Meilen von der ihri-<lb/>gen entfernt eine zweite Eſſigfabrik zu gründen,<lb/>die als eine Vergrößerung des gemeinſamen Ge-<lb/>ſchäfts betrachtet wurde.<lb/>
+            </p>
+            <p> <lb/>Heinrich’s und Eliſens künftige Heimat war<lb/>ſehr freundlich an einem bewaldeten Bergrücken<lb/>gelegen; ein hübſches Wohnhaus vor dem Thore<lb/>der alten Stadt, von einem Blumengärtchen um-<lb/>geben, mit der Ausſicht auf eine alte, noch wohl-<lb/>erhaltene Burg, in welcher einſt ein Fürſten-<lb/>geſchlecht reſidirt hatte. Hinter dem Hauſe wurde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0055" n="45" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=55"/>
+            </p>
+            <p> <lb/>die neue Fabrik gebaut und ſobald die Fabrik<lb/>fertig war, ſollte die Hochzeit ſein. Heinrich be-<lb/>trieb den Bau mit einer Energie, die ihm ſein<lb/>eigener Vater nie zugetraut hatte, vielleicht der<lb/>junge Mann kaum ſich ſelbſt; er ſagte ſich gern:<lb/>„Es muß Alles raſch in Ordnung kommen, damit<lb/>ich Eliſe holen kann!“<lb/>
+            </p>
+            <p> <lb/>Eliſe nähte inzwiſchen an ihrer Ausſteuer und<lb/>trotzdem die Couſine ſie häßlich und kränklich ge-<lb/>nannt hatte mit jener unumſtößlichen Sicherheit,<lb/>die man gern im Urtheil über nahe Angehörige<lb/>an den Tag legt, ſo verſchönte das Glück ſie ſo<lb/>ſehr, daß es wie ein leiſer, rother Blüthenduft<lb/>auf ihren Wangen lag und ihre hagere Geſtalt<lb/>gerundeter und elaſtiſcher wurde, bis ſie beinahe<lb/>angenehm und gewiß geſund zu nennen war. Die<lb/>Verwandten erblickten auf den zart gerötheten<lb/>Wangen der Braut zwar noch immer die erſten<lb/>Roſen des Zehrfiebers, konnten aber nicht erwar-<lb/>ten, daſſelbe werde ihnen ſchon <hi rendition="#g">vor</hi> Eliſens Ver-<lb/>heirathung die Erbſchaft zuſpielen; denn nachher<lb/>war es leider zu ſpät!<lb/>
+            </p>
+            <p> <lb/>Heinrich wollte, ſeine Frau ſolle in ein ganz<lb/>eingerichtetes Haus kommen, und wunderte ſich,<lb/>als nun ein Möbel nach dem andern in den<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0056" n="46" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=56"/>
+            </p>
+            <p> <lb/>heiter tapezirten Räumen Platz fand, daß Tiſche,<lb/>Stühle und Schränke ein ſolches Intereſſe für ihn<lb/>haben konnten — „es iſt Eliſens halber!“ — er-<lb/>klärte er ſich daſſelbe und lächelte, wie er nun<lb/>gewahrte, daß zwei Vögel in der Linde vor der<lb/>Hausthür ihr Neſt bauten, es war ganz daſſelbe!<lb/>In der That ſchien ihm ſein friſches Neſt ſo un-<lb/>übertrefflich, ja, ſo zauberhaft im Vergleich zu den<lb/>finſteren Häuſern ſeiner Vaterſtadt, unter deren<lb/>Schutz das Brautpaar aufgewachſen war, daß er<lb/>einige ihm bekannte Damen der Stadt, die Gat-<lb/>tinnen des Branntweinbrenners und des Gaſt-<lb/>wirthes, einlud, ſeine geſchmackvolle Einrichtung<lb/>in Augenſchein zu nehmen. Die Damen erſchie-<lb/>nen pünktlich und voller Neugier. Leider waren<lb/>dieſelben nicht ſo entzückt, als ſie es hätten ſein<lb/>ſollen. Die Wirthin ſagte, es wäre unverant-<lb/>lich, den Sophatiſch nicht ſo zu ſtellen, daß er<lb/>ſich dem Spiegel <hi rendition="#aq">vis-à-vis</hi> befinde; denn Abends<lb/>bei Licht ſei dadurch das Zimmer noch einmal<lb/>ſo hell.<lb/>
+            </p>
+            <p> <lb/>„Sie müſſen Gardinen haben, die ganze Welt<lb/>ſieht ja ſonſt, was Sie in den Zimmern treiben!“<lb/>rief die Branntweinbrennerin.<lb/>
+            </p>
+            <p> <lb/>„Keine Fußmatte im ganzen Hauſe!“ klagte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0057" n="47" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=57"/>
+            </p>
+            <p> <lb/>die Wirthin. „Wollen Sie denn allen Straßen-<lb/>ſchmutz in die Zimmer getreten haben?“<lb/>
+            </p>
+            <p> <lb/>So ging das weiter, bis Heinrich ganz trau-<lb/>rig wurde und nicht einſah, wie er all' die noth-<lb/>wendigen, ganz unentbehrlichen Verbeſſerungen zu<lb/>Stande bringen ſolle.<lb/>
+            </p>
+            <p> <lb/>„Ich will Ihnen was ſagen!“ tröſtete die<lb/>Wirthin, „ich ſchicke Ihnen die Jenny, die macht<lb/>das in ein paar Tagen fix und fertig; die Jenny<lb/>verſteht Alles, die Badegäſte am Brunnen, eine<lb/>Stunde von hier, können gar nicht fertig werden<lb/>ohne die Jenny — danke, danke, ich trinke keinen<lb/>Wein mehr!“<lb/>
+            </p>
+            <p> <lb/>„O bitte, noch ein halbes Glas mit etwas Zucker!“<lb/>
+            </p>
+            <p> <lb/>Heinrich kannte ſeine Pflichten als gaſtfreier<lb/>Hausherr.<lb/>
+            </p>
+            <p> <lb/>„Recht ſchön, wer iſt denn dieſe Jenny?“<lb/>
+            </p>
+            <p> <lb/>„O, Jenny iſt ein ſehr gebildetes Mädchen!“<lb/>verſicherte die Branntweinfabrikantin. „Ich laſſe<lb/>meine Töchter ſehr gern mit ihr umgehen, ich<lb/>glaube, es giebt Nichts, das Jenny nicht gelernt<lb/>hat, ſehen Sie, obwohl ihre Mutter nur eine<lb/>Waſchfrau iſt!“<lb/>
+            </p>
+            <p> <lb/>„Na, ſie brauchte nicht zu waſchen, gar nicht!“<lb/>rief die Wirthin, „Frau Dierkſen hat ein hüb-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0058" n="48" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=58"/>
+            </p>
+            <p> <lb/>ſches Vermögen; wenn Jenny wollte, könnte ſie<lb/>in ſeidenen Kleidern gehen, aber ſie will es nicht.<lb/>Wenn nicht Das mit der Mutter wäre, ich glaube,<lb/>Jenny würde längſt Nonne geworden ſein!“<lb/>
+            </p>
+            <p> <lb/>„Was iſt mit der Mutter?“ forſchte Heinrich.<lb/>
+            </p>
+            <p> <lb/>Die Damen blickten ſich an und lächelten.<lb/>
+            </p>
+            <p> <lb/>„Sehen Sie,“ ſagte die Branntweinbrennerin,<lb/>„Frau Dierkſen iſt in Amerika geweſen, wo auch<lb/>ihr Mann ſtarb; in Amerika iſt es nun ſehr kalt<lb/>und ſchon kleine Kinder werden in Felle genäht,<lb/>ſomit hat ſich Frau Dierkſen das Trinken etwas<lb/>angewöhnt, aber immer nur <hi rendition="#g">nach</hi> der Arbeit, und<lb/>ſie arbeitet wie keine Andere in der Stadt, ob-<lb/>wohl ſie es nicht nöthig hat!“<lb/>
+            </p>
+            <p> <lb/>„Sie iſt eine ſehr ehrbare und gottesfürchtige<lb/>Frau, die jeden Monat zur Beichte geht, denn ſie<lb/>iſt katholiſch,“ erzählte die Wirthin weiter; „aber<lb/>das Trinken muß einmal in ihrer Natur ſein.<lb/>Frau Dierkſen ſagte mir übrigens nichts von der<lb/>Kälte in Amerika, ſondern ſie glaubt, ſie hätte<lb/>ſich die Flaſche vor Kummer angewöhnt!“<lb/>
+            </p>
+            <p> <lb/>„Ich behaupte vor <hi rendition="#g">Kälte</hi>,“ beharrte die An-<lb/>dere; „eine kräftige, wohlhabende Perſon mit einer<lb/>ſolchen Tochter, die wie in weißen Schuhen groß<lb/>geworden iſt, ſo tadellos, wird doch keinen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0059" n="49" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=59"/>
+            </p>
+            <p> <lb/>Kummer haben — nein, die Kälte, die Kälte<lb/>that es!“<lb/>
+            </p>
+            <p> <lb/>„Vielleicht hat ſie auch das Heimweh gehabt<lb/>da drüben, ſie iſt eine Deutſche von Geburt!“<lb/>
+            </p>
+            <p> <lb/>„Ich bitte Sie, Frau Meyer, das Heimweh!<lb/>Sie war nur fünf oder ſechs Jahre in Amerika;<lb/>an Heimweh glaube ich gar nicht, aber die Kälte,<lb/>die Kälte, die kann den Menſchen zu etwas Er-<lb/>wärmendem treiben!“<lb/>
+            </p>
+            <p> <lb/>Gegen Abend entfernten ſich die beiden Damen<lb/>mit dem Verſprechen, Jenny Dierkſen zu ſchicken,<lb/>und Heinrich konnte ſeine ganze Aufmerkſamkeit,<lb/>in Erwartung der hülfreichen Jenny, wieder dem<lb/>Bau der Fabrik zuwenden, welcher demnächſt das<lb/>Eſſiggeheimniß zugute kommen ſollte. Da auch<lb/>der Garten, ſo viel es der Bau erlaubte, in<lb/>Stand und Schmuck geſetzt werden ſollte — denn<lb/>es war Frühling — ſo hing der junge Hausherr<lb/>den Rock über ein Geländer und pflanzte und<lb/>rechte mit dem Tagelöhner um die Wette, indem<lb/>er dann und wann den Maurern ein ermuntern-<lb/>des Wort zurief.<lb/>
+            </p>
+            <p> <lb/>Eines Morgens ſchellte es an der Hausthür.<lb/>Heinrich, mit von der Arbeit gerötheten Wangen,<lb/>warf raſch ſeinen Rock über und öffnete. Ein<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0060" n="50" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=60"/>
+            </p>
+            <p> <lb/>breiter Sonnenſtreif drang herein und in dem<lb/>Sonnenſtreif ſtand ein junges Mädchen, das<lb/>Heinrich mit ſprachloſem Erſtaunen betrachtete.<lb/>
+            </p>
+            <p> <lb/>„Ich bin Jenny Dierkſen,“ ſagte die Fremde,<lb/>durch ſein Anſchauen verwirrt, „ich komme wegen<lb/>der Gardinen und — —“<lb/>
+            </p>
+            <p> <lb/>Heinrich athmete tief auf. „Mein Gott,“<lb/>ſtammelte er, „ſind Sie nicht Püntjer Dörken —<lb/>und jetzt haben Sie ja auch einen Heiligenſchein!“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß nicht, was Sie meinen, Herr Mai-<lb/>baum!“<lb/>
+            </p>
+            <p> <lb/>„O, ich weiß es ſelbſt nicht!“ rief Heinrich<lb/>und warf ſich auf einen Stuhl, „ich weiß es ſelbſt<lb/>nicht, verzeihen Sie mir — es iſt die große Aehn-<lb/>lichkeit mit der büßenden Magdalena!“<lb/>
+            </p>
+            <p> <lb/>Das Mädchen ſchlug die großen, feuchten, licht-<lb/>braunen Augen auf, langſam erhoben ſich dieſelben<lb/>zur Decke und ſie ſprach leiſe und feierlich: „Ja,<lb/>ja, ich bin eine Büßende, ich hoffe und glaube,<lb/>Gott wird das Opfer meiner Buße annehmen!“<lb/>
+            </p>
+            <p> <lb/>Heinrich ſprang auf, um ſich zu überzeugen,<lb/>dies Alles ſei Wirklichkeit, und die jungen Leute<lb/>ſahen ſich an, wie aus einem Traume erwachend.<lb/>
+            </p>
+            <p> <lb/>„Ich entſinne mich jetzt,“ ſagte Heinrich ver-<lb/>legen, „Sie ſind die Jenny, welche meine Gar-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0061" n="51" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=61"/>
+            </p>
+            <p> <lb/>dinen aufſtecken und mir ſagen wollte, wo der<lb/>Spiegel hängen muß und wie Alles ſtehen und<lb/>liegen ſoll!“<lb/>
+            </p>
+            <p> <lb/>„So gut ich es verſtehe — gern!“ ſagte ſie einfach.<lb/>
+            </p>
+            <p> <lb/>„Die Damen ſagten, Sie verſtänden Alles.“<lb/>
+            </p>
+            <p> <lb/>„Ich habe Manches verſtehen lernen müſſen,<lb/>Herr Maibaum!“<lb/>
+            </p>
+            <p> <lb/>„Und das macht Sie traurig?“<lb/>
+            </p>
+            <p> <lb/>„Gewiß; je mehr wir verſtehen, deſto größer<lb/>wird der Riß in unſerer Kindeseinfalt, deſto<lb/>raſcher ſchmilzt der Schnee hinweg, unter dem un-<lb/>ſere unſchuldige Seele geborgen lag. — Wollen<lb/>Sie,“ fügte ſie, ſich beſinnend, hinzu, „den ge-<lb/>blümten oder den geſtreiften Stoff hier? Der ge-<lb/>blümte koſtet die Elle drei Groſchen mehr.“<lb/>
+            </p>
+            <p> <lb/>„Nehmen Sie, welchen Sie wollen, Jenny, und<lb/>bitte, ſagen Sie mir, ob Sie nie Etwas von Püntjer<lb/>Dörken gehört haben?“<lb/>
+            </p>
+            <p> <lb/>„Niemals!“<lb/>
+            </p>
+            <p> <lb/>„Sie wurde als büßende Magdalena gemalt<lb/>und gleicht Ihnen ſehr, nur ſind Sie etwas zarter,<lb/>Ihre Augen ſind ernſter — aber wenn Sie das<lb/>Kreuz in der Hand hielten —!“<lb/>
+            </p>
+            <p> <lb/>„O, ich halte es, Herr Maibaum, es iſt nur<lb/>unſichtbar!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0062" n="52" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=62"/>
+            </p>
+            <p> <lb/>„Unmöglich — auf dieſer Stirn kann keine<lb/>Schuld ruhen, die zu einer weltentſagenden Buße<lb/>führt!“<lb/>
+            </p>
+            <p> <lb/>„Und wenn mein Daſein ſchon eine Schuld<lb/>wäre?“ rief Jenny erregt.<lb/>
+            </p>
+            <p> <lb/>„Dem iſt nicht ſo, Jenny; wer Ihnen geſagt<lb/>hat, Sie müßten eine ſchwere Schuld abbüßen, der<lb/>ſucht Sie irre zu führen!“<lb/>
+            </p>
+            <p> <lb/>Jenny’s Augen leuchteten auf wie von innerem<lb/>Feuer. „O, Herr Maibaum, wenn Sie wahr<lb/>ſprächen! Aber nein — Sie reden, was ich nicht<lb/>hören, nicht glauben <hi rendition="#g">darf</hi>! Ich bitte Sie, laſſen<lb/>Sie mich die Gardinen nähen und reden wir<lb/>nicht von dieſen Dingen, die bis heute nur zwi-<lb/>ſchen meinem Beichtvater und mir ausgeſprochen<lb/>ſind.“<lb/>
+            </p>
+            <p> <lb/>Heinrich wiſchte ſich mit ſeinem Taſchentuch die<lb/>Stirn, ihm war doch ſehr warm von der Arbeit,<lb/>oder von der Frühlingsſonne, oder von ſeinen Ge-<lb/>danken. Er eilte wieder in den Garten und ver-<lb/>darb in der Zerſtreuung, was er am Morgen ſo<lb/>hübſch angelegt hatte.<lb/>
+            </p>
+            <p> <lb/>Weshalb ſah Jenny aus wie Püntjer Dörken?<lb/>Welche Schuld wollte Jenny abbüßen, vielleicht<lb/>die Trunkfälligkeit ihrer Mutter? Was konnte nur<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0063" n="53" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=63"/>
+            </p>
+            <p> <lb/>die Mutter einer ſolchen Tochter an den Trunk<lb/>gebracht haben?<lb/>
+            </p>
+            <p> <lb/>Als um Mittag die Arbeiter nach Hauſe gingen,<lb/>dachte Heinrich den großen Spiegel umzuhängen<lb/>und trat mit Hammer und Kneifzange zu Jenny<lb/>in's Zimmer. Sie ſaß zwiſchen den weißen Gar-<lb/>dinen wie in einer Wolke.<lb/>
+            </p>
+            <p> <lb/>„Frau Meyer behauptete, der Spiegel müſſe<lb/>dem Sophatiſch gegenüber hängen; wollten Sie ihn<lb/>anfaſſen helfen und mir ſagen, wohin er jetzt kom-<lb/>men ſoll?“<lb/>
+            </p>
+            <p> <lb/>„Ich finde, der Spiegel hängt vortrefflich; man<lb/>erblickt in demſelben den Bergrücken, die Burg<lb/>und das Feld. Schöneres kann er nicht wieder-<lb/>geben!“<lb/>
+            </p>
+            <p> <lb/>„Wie gut von Ihnen, Jenny, daß Sie die-<lb/>ſelben Gedanken hatten wie ich — freilich, wo<lb/>Sie ſitzen, müſſen Sie die ganze Landſchaft ſehen!“<lb/>
+            </p>
+            <p> <lb/>Er ſtellte ſich hinter ſie, um auch in den Spiegel<lb/>zu blicken, auf einmal aber begegneten ſich ihre<lb/>Augen in dem Glaſe.<lb/>
+            </p>
+            <p> <lb/>„Mein Gott!“ rief Jenny und erblaßte.<lb/>
+            </p>
+            <p> <lb/>„Was iſt Ihnen, Jenny?“<lb/>
+            </p>
+            <p> <lb/>„Glauben Sie nicht,“ ſtammelte das zitternde<lb/>Mädchen, „daß — daß Ihre Züge den meinigen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0064" n="54" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=64"/>
+            </p>
+            <p> <lb/>ſehr gleichen? Dieſelbe braune Haarfarbe, dieſelbe<lb/>Stirn, dieſelbe Naſe — nur daß Ihre Augen blau<lb/>ſind — daher war mir's, als müßte ich Sie ſchon<lb/>geſehen haben!“<lb/>
+            </p>
+            <p> <lb/>„So auffallend iſt das doch nicht, obſchon aller-<lb/>dings eine Aehnlichkeit ſtattfindet; das iſt wohl<lb/>nur, liebe Jenny, damit wir ein Merkzeichen haben,<lb/>daß wir uns auf einander verlaſſen können. Wie<lb/>hübſch, wenn man ſich ſchon auf den erſten Blick<lb/>kennt!'“<lb/>
+            </p>
+            <p> <lb/>Jenny ſah trüb vor ſich nieder. „Es wäre<lb/>wohl beſſer, Herr Maibaum, ich wäre heute Morgen<lb/>nicht hierher gekommen, denn ich bin bemüht und<lb/>verbunden, meine Gedanken mit ihren Wurzeln<lb/>aus dieſer Welt loszureißen und ſie einem höhern<lb/>Dienſt zu weihen; — mich feſſelt nichts mehr, als<lb/>meine arme Mutter.“<lb/>
+            </p>
+            <p> <lb/>„O, wenn Sie wüßten, Jenny, wie ſchrecklich,<lb/>wie unnatürlich mir Ihre Worte vorkommen —<lb/>haben Sie denn nie daran gedacht, einen Mann<lb/>zu lieben und zu beglücken?“<lb/>
+            </p>
+            <p> <lb/>„Nein, weil es unmöglich iſt, daß ich einen<lb/>Mann beglücke, und wäre er mir lieber als mein<lb/>Leben!“<lb/>
+            </p>
+            <p> <lb/>„Jenny — Jenny — was iſt dies mit Ihnen?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0065" n="55" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=65"/>
+            </p>
+            <p> <lb/>Heinrich ergriff mit ſeinen beiden Händen ihre<lb/>Rechte und hielt ſie angſtvoll feſt.<lb/>
+            </p>
+            <p> <lb/>„Dringen Sie nicht in mich, Herr Maibaum,<lb/>ich danke Ihnen für Ihren guten Willen — aber<lb/>mir iſt auf Erden nicht zu helfen.“<lb/>
+            </p>
+            <p> <lb/>„Mein Gott, Sie weinen und ich kann Ihre<lb/>Thränen nicht trocknen — wenn Sie wüßten, wie<lb/>ſehr mich das ſchmerzt!“<lb/>
+            </p>
+            <p> <lb/>„Ich ſollte nicht weinen, Herr Maibaum. Ein<lb/>Opfer mit Klagen und Thränen gebracht, iſt keines;<lb/>aber ich bin noch ſo jung und das Leben iſt doch<lb/>auch ſo ſchön für Den, welcher frei daſteht.“<lb/>
+            </p>
+            <p> <lb/>„Wer hindert Sie, frei zu ſein, Jenny?“<lb/>
+            </p>
+            <p> <lb/>„Die Hand von oben! Fragen Sie nicht mehr,<lb/>laſſen Sie mich gehen!“<lb/>
+            </p>
+            <p> <lb/>„Aber Sie kommen wieder, Sie vollenden Ihre<lb/>Arbeit?“ drängte Heinrich mit ungewohntem Eifer.<lb/>
+            </p>
+            <p> <lb/>Jenny kämpfte ſichtbar, der Athem zog raſch<lb/>über die leichtgeöffneten, blühenden Lippen, endlich<lb/>ſagte ſie entſchloſſen: „Ja, ich komme wieder!“ und<lb/>ſchon war ihre liebliche, junge Geſtalt durch die<lb/>Blumenbeete vor der Thür hinaus auf die Straße<lb/>gehuſcht.<lb/>
+            </p>
+            <p> <lb/>O, wie war es Heinrich ſo neu, ſo fremd zu<lb/>Muthe! Er knieete vor dem Platze nieder, auf<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0066" n="56" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=66"/>
+            </p>
+            <p> <lb/>dem ſie geſeſſen; er drückte die Scheere und den<lb/>Garnknäuel an ſeine Bruſt, den ſie berührt hatte;<lb/>er dachte, hörte und ſah nichts Anderes als ſie —<lb/>und wieder ſie, die ſchöne Jenny, die wunderbare<lb/>Püntjer Dörken!<lb/>
+            </p>
+            <p> <lb/>Von dieſer Stunde an konnten die Maurer<lb/>und der Tagelöhner beginnen, was ſie wollten;<lb/>Heinrich blickte nur zerſtreut nach ihnen, er grübelte<lb/>fort und fort über Jenny's Geheimniß und am<lb/>andern Morgen blickte er wohl hundert Mal die<lb/>Straße zum Städtchen hinauf, ob er ſie vielleicht<lb/>kommen ſähe, aber ſie blieb den ganzen Tag aus.<lb/>Heinrich wurde ſehr mißmuthig, ja zornig. Als<lb/>Jenny auch den zweiten Tag nicht kam, rannte er<lb/>durch den Regen zu Frau Meyer und beklagte ſich,<lb/>daß Jenny ihr Verſprechen nicht gehalten habe.<lb/>Frau Meyer aber verſicherte, Jenny halte jedes<lb/>Verſprechen und ſei wahrſcheinlich nur deshalb<lb/>nicht gekommen, weil Frau Dierkſen erkrankt ſei.<lb/>
+            </p>
+            <p> <lb/>Das beruhigte Heinrich. Wirklich erſchien die<lb/>Erſehnte am andern Tage und der junge Haus-<lb/>herr erzählte ihr ſeine ganze Lebensgeſchichte, wäh-<lb/>rend er ihr die Nadeln zum Gardinenaufſtecken eine<lb/>nach der andern hinreichte. Nur zwei weſentliche<lb/>Punkte ſeiner ohnehin einfachen Erlebniſſe über-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0067" n="57" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=67"/>
+            </p>
+            <p> <lb/>ging er — kaum erwähnend ſein langjähriges Ver-<lb/>hältniß zu Eliſen und das Vergehen ſeiner Mutter<lb/>ganz verſchweigend.<lb/>
+            </p>
+            <p> <lb/>Es fanden ſich noch zahlloſe Mängel, denen<lb/>Jenny im Hauſe abhelfen mußte, und Heinrich,<lb/>der doch kürzlich Alles für vollkommen erklärt hatte,<lb/>war jetzt der Erſte, dieſelben zu finden und zu<lb/>rügen. Jenny kam Tag für Tag, jedes Mal von<lb/>Heinrich erwartet, jedes Mal von ihm zur Stadt<lb/>zurückbegleitet. Endlich war Alles fertig, die neue<lb/>Fabrik, der Garten — das Neſt für Eliſe! Als<lb/>Jenny erklärte, es bleibe Nichts mehr zu beſorgen,<lb/>da riß Heinrich ſie in ſeine Arme und rief unter<lb/>fließenden Thränen: „O, Jenny, Jenny — dies<lb/>Haus wird öde wie ein Grab ſein ohne Dich, Du<lb/>biſt mir wie ein Theil meines Herzens und —<lb/>laß mich es nur ein einziges Mal von Deinen<lb/>Lippen hören — ja, Du liebſt mich wieder!“<lb/>
+            </p>
+            <p> <lb/>Das Mädchen machte ſich von ihm los, aus<lb/>ihrem erbleichten Geſicht funkelten zwei unheim-<lb/>lich leuchtende Augen zu ihm empor. „Ja“, ſtieß<lb/>ſie faſt ingrimmig hervor, „ich liebe den <hi rendition="#g">ver-</hi>
+               <lb/>
+               <hi rendition="#g">lobten Bräutigam</hi> eines andern, ſchuldloſen<lb/>Mädchens! Es liegt wie ein Berg von Schuld<lb/>auf mir, der Verrätherin, und ich — ich Elende<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0068" n="58" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=68"/>
+            </p>
+            <p> <lb/>— ich wagte über meine Mutter zu richten und<lb/>bin nun ſelbſt verurtheilt!“ Sie verbarg krampf-<lb/>haft ſchluchzend ihr Antlitz in die Hände.<lb/>
+            </p>
+            <p> <lb/>„Eliſe iſt gut — ſie wird mich frei geben, ver-<lb/>zweifle nicht, Jenny; wir können noch glücklich<lb/>werden!“<lb/>
+            </p>
+            <p> <lb/>„Glücklich —? Haſt Du vergeſſen, daß ich Dir<lb/>ſagte, ich könnte nie einen Mann glücklich machen?<lb/>Und Dich, Dich am wenigſten, der Du einer An-<lb/>dern angehörſt. Die Gewiſſenslaſt iſt ſchon er-<lb/>drückend genug ohne die Schmerzensthränen, die<lb/>Eliſe über meine ſündhafte Schwachheit weint!<lb/>Du kannſt nur Eins thun, Heinrich, vergiß mich!<lb/>— Ich ſelbſt werde fliehen, dahin fliehen, Heinrich,<lb/>wohin die Schuld flüchten muß — in den Schooß<lb/>göttlichen Erbarmens!“<lb/>
+            </p>
+            <p> <lb/>Heinrich wollte ſie nicht gehen laſſen, aber ſie<lb/>gebot ihm, wie eine Königin, ihr nicht wieder<lb/>nahe zu kommen, und ließ ihn dann zerknirſcht und<lb/>einſam zurück.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0069" n="59" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=69"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p/>
+         </div>
+         <div>
+            <p/>
+            <p> <lb/>Der buckelige Knecht der Firma Maibaum und<lb/>Moor war mit einer Sendung in die neue Fabrik<lb/>des jungen Herrn betraut. Als Mitwiſſer des<lb/>Eſſiggeheimniſſes konnte man ihm getroſt alle die<lb/>Gegenſtände anvertrauen, welche zum Beginn des<lb/>Betriebes unerläßlich waren. In nicht allzu langer<lb/>Zeit kam Gert von ſeiner Reiſe zurück, zog den<lb/>Schimmel in den Stall und meldete, daß das erſte<lb/>Gebräu trefflich ausgefallen ſei, im Uebrigen ließ<lb/>er ſich auf keine ferneren Mittheilungen ein. Im<lb/>Halbdunkel indeß ging er in's Nachbarhaus, wo<lb/>Eliſe ihn ſchon ſeit Stunden mit irgendwelchem<lb/>Auftrag ihres Verlobten erwartet hatte. Es war<lb/>lange, ſeit Heinrich Nichts von ſich hören ließ.<lb/>Von einer lebhaften Correſpondenz war nicht etwa<lb/>die Rede, Eliſe wußte ja auch, wie beſchäftigt Hein-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0070" n="60" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=70"/>
+            </p>
+            <p> <lb/>rich ſein mußte; aber die Sehnſucht forderte trotz-<lb/>dem ihren Antheil an ihm und ließ ſich nicht be-<lb/>ſchwichtigen. Endlich ſchlenderte der Buckelige<lb/>herein und ſetzte ſich ohne weitere Aufforderung<lb/>auf einen Stuhl in Eliſen's Nähe. Da er nicht<lb/>zu reden begann fragte das Mädchen: „Was bringſt<lb/>Du mir von Heinrich? Iſt das Haus bald fertig<lb/>und hat er geſagt, wann er mich holen will?“<lb/>
+            </p>
+            <p> <lb/>Gert erhob ſeine knochigen, übergroßen Hände<lb/>und zählte an den Fingern: „Erſtens iſt die Fabrik<lb/>fertig, zweitens der Garten, drittens das Haus —<lb/>viertens hat er nichts vom Holen geſagt und fünf-<lb/>tens denkt er auch nicht daran.“<lb/>
+            </p>
+            <p> <lb/>„Denkt nicht daran?“ fragte Eliſe und ſah in<lb/>ſein garſtiges, boshaftes Geſicht. „Wie kannſt Du<lb/>wiſſen, was Heinrich denkt?“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß, daß er was Anderes denkt und<lb/>weiß deshalb auch, daß er nicht an die Hochzeit<lb/>denkt.“<lb/>
+            </p>
+            <p> <lb/>„Hat er noch ſo viel zu thun?“<lb/>
+            </p>
+            <p> <lb/>„Er thut, was er beſſer nicht thäte.“<lb/>
+            </p>
+            <p> <lb/>„Mein Gott, iſt er krank?“<lb/>
+            </p>
+            <p> <lb/>„Von außen kerngeſund, Mamſell!“<lb/>
+            </p>
+            <p> <lb/>„Ja, aber — was meinſt Du denn eigentlich,<lb/>Gert?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0071" n="61" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=71"/>
+            </p>
+            <p> <lb/>„Ich meine, daß er ſich in ein bildhübſches<lb/>Frauensmenſch vergafft hat, und daß es ſo kommt,<lb/>wie ich immer geſagt habe: Er ſchlägt über die<lb/>Stränge; er muß das von ſeiner Mutter geerbt<lb/>haben, der Vater iſt anders!“<lb/>
+            </p>
+            <p> <lb/>„Ich meinte, Du wärſt zu vernünftig, Gert,<lb/>um auf ſo dummes Geſchwätz zu hören. Wenn<lb/>die fremden Leute über ihn Lügen glauben, das<lb/>iſt kein Wunder; wenn Du ſie aber glaubſt, ſo<lb/>iſt das ſchlecht, denn Du kennſt Heinrich beſſer.“<lb/>
+            </p>
+            <p> <lb/>„Beſſer? Wer kennt einen verliebten Jungen<lb/>beſſer als alle Welt, die ſeine Thorheit erblickt?<lb/>Glaubt die Mamſell, weil der Burſche gewachſen<lb/>iſt wie eine Tanne und braune, lockige Haare und<lb/>ein Puppenangeſicht hat, ein Krüppel, gleich mir,<lb/>müſſe Alles an ihm bewundern? Fehlgeſchoſſen,<lb/>fehlgeſchoſſen — es tröſtet mich, über meinen<lb/>Buckel die Narrheiten der hübſchen Leute zu er-<lb/>blicken, ihnen ihre übermüthigen Blicke und Mienen<lb/>zurückzugeben —! Was Euch betrifft, Mamſell<lb/>Eliſe, ſo habe ich keinen Gotteslohn für meine<lb/>Botſchaft erwartet; ich brachte ſie Euch aus gutem<lb/>Willen, weil ſie wiſſen wollen, die Mamſell wäre<lb/>auch nicht hübſch von Anſehen. Ich wahrſchaue<lb/>Euch, laßt die Sache nicht ſo hingehen, Kind<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0072" n="62" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=72"/>
+            </p>
+            <p> <lb/>Gottes, ſonſt werden Euch die Augen aufgehen,<lb/>wenn es zu ſpät iſt — ich in Eurem Platz würde<lb/>eine tüchtige Abfindung in baarem Gelde heraus-<lb/>ſchlagen.“<lb/>
+            </p>
+            <p> <lb/>Gert konnte Eliſen's Geſicht in der Dunkel-<lb/>heit des Abends und des Zimmers nicht mehr<lb/>unterſcheiden, ſonſt möchte ſelbſt er Mitleid empfun-<lb/>den haben; nach einer kurzen Pauſe ſagte die Un-<lb/>glückliche aber ſanft: „Ich ſehe Deinen guten<lb/>Willen, Gert, und es iſt möglich, daß Du Recht<lb/>haſt. Ich biete Dir kein Geſchenk an für Deine<lb/>Abſicht, mich zu warnen, aber ich bitte Dich, kein<lb/>Gerede unter den Leuten zu machen über dieſe<lb/>Sache. Du weißt, die Menſchen freuen ſich immer,<lb/>wenn Denen, die nicht hübſch ſind, Solchen, wie<lb/>Du und ich, ein Leid widerfährt! “<lb/>
+            </p>
+            <p> <lb/>Die arme Eliſe entwickelte ſelbſt in dieſem<lb/>bitterſten Augenblick ihres Lebens eine harmloſe<lb/>Klugheit, wie dieſelbe ernſten, wortkargen Volks-<lb/>ſtämmen eigen zu ſein pflegt. Der boshafte, kleine<lb/>Knecht nahm ihre Worte wie eine Schmeichelei<lb/>auf und ſagte, ſich erhebend, mit Bewußtſein:<lb/>„Mamſell, ich bin nur ein Krüppel, aber ich weiß,<lb/>was ich unſerer Firma ſchuldig bin. Alle Heim-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0073" n="63" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=73"/>
+            </p>
+            <p> <lb/>lichkeiten und beſonders das Eſſiggeheimniß, liegen<lb/>hinter meiner Zunge wie an eiſernen Ketten. Wer<lb/>nicht ſtark iſt, Mamſell, der muß ſchlau ſein. An<lb/>den Geheimniſſen hält man die Leute; weſſen Ge-<lb/>heimniß ich bewahre, der darf die Hand nicht gegen<lb/>mich aufheben. Wenn ich hundert Jahre alt werde,<lb/>die Firma muß mich wie einen Sohn halten bis<lb/>an's Ende; denn mein Wort giebt ihren Erwerb<lb/>in Jedermanns Hand, wenn ſie mich zum Feinde<lb/>haben. So iſt es; nichts für ungut, Mamſell,<lb/>gute Nacht auch.“<lb/>
+            </p>
+            <p> <lb/>War denn noch Jemand, durch eine lange, todten-<lb/>ſtille Stunde, in Eliſens nachtfinſterer Stube? Ja,<lb/>eine dunkle Geſtalt erhob ſich und ging mit dem<lb/>behutſamen Schritt einer Krankenwärterin der<lb/>Thür zu, dort rief ſie mit ihrer milden Stimme<lb/>nach der alten Magd und redete einige Minuten<lb/>mit derſelben. Hierauf legte Heinrich's Braut<lb/>mehrere Gegenſtände in eine Reiſetaſche, kleidete<lb/>ſich ſelbſt ſorgſam, wie zum Kirchgang, an und<lb/>verließ das Haus durch die Hinterthür. Bis zur<lb/>Gartenpforte ging die Magd mit und ſagte hier<lb/>bedenklich: „Es will mir nicht gefallen, daß Ihr<lb/>in Nacht und Nebel zur kranken Tante lauft, die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0074" n="64" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=74"/>
+            </p>
+            <p> <lb/>hat ſchon zehn Mal ſterben wollen und wird wohl<lb/>dieſes Mal auch noch bis morgen warten.“<lb/>
+            </p>
+            <p> <lb/>„Rede nicht ſo,“ verwies Eliſe, „Gott ſendet<lb/>Tod und Leben, Glück und Unglück und wir dürfen<lb/>nicht zaudern, wenn ſeine Boten, die Engel, an-<lb/>klopfen.“<lb/>
+            </p>
+            <p> <lb/>So ging ſie hinaus durch den Garten, durch<lb/>die Hecken, in's Feld, die Magd blieb kopfſchüt-<lb/>telnd an der Gartenpforte ſtehen. Die nächtliche<lb/>Pilgerin gelangte bis in jene Fichten, wo Herr<lb/>Maibaum ſeinem Sohn von dem Verrath ſeines<lb/>Weibes geſprochen hatte. Still und feierlich war's<lb/>im Walde, wie mit Rieſenfittigen rauſchte der<lb/>Nachtwind über die dunklen Wipfel, durch eine<lb/>Lichtung blickte ein großer, leuchtender Stern auf<lb/>das einſame Mädchen herab. Eliſe öffnete ihre<lb/>Lippen und redete zu Gott und zu der träumen-<lb/>den Erde, was ſie keinem menſchlichen Ohr aus-<lb/>ſprechen konnte: „Wenn Alles wahr iſt, wenn<lb/>Alle ihn verurtheilen, ich will Heinrich vergeben<lb/>um meiner Liebe willen. Wenn eine Andere,<lb/>Schönere, ſein Herz gewonnen hat — <hi rendition="#g">er</hi> ſoll<lb/>glücklich ſein; ich will über ſein Glück wachen,<lb/>wie eine Mutter über ihr Kind; Heinrich, meine<lb/>Lippen haben nur Freundesworte für Dich.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0075" n="65" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=75"/>
+            </p>
+            <p> <lb/>Am Morgen nach Eliſens Flucht brachte der<lb/>Hausknecht der Gaſtwirthin Meyer eine Fremde<lb/>in's Hôtel, die mit der Poſt angelangt war. Die<lb/>Poſt kam regelmäßig Morgens zehn Uhr und ver-<lb/>ſpätete ſich nur unter ſehr glaubwürdigen Ent-<lb/>ſchuldigungen. Die Fremde war in Trauer ge-<lb/>kleidet und man glaubte es ihr, wenn ſie mit-<lb/>theilte, ihre Geſundheit fordere eine Badecur und<lb/>ſie wolle im Meyer'ſchen Gaſthof nur ihr Gepäck<lb/>abwarten. Die Fremde ſah in der That äußerſt<lb/>bleich und traurig aus.<lb/>
+            </p>
+            <p> <lb/>Frau Meyer rieth dringend zu einer Cur im<lb/>benachbarten Bad und hoffte das Beſte von der-<lb/>ſelben; denn ihr, Frau Meyer's, Schwiegerſohn<lb/>hatte die Reſtauration am Schwefelbrunnen ge-<lb/>pachtet. Die gutmüthige Wirthin that mithin<lb/>alles Mögliche zur Unterhaltung der vielverſpre-<lb/>chenden Fremden, ſie ſäumte nicht, dieſelbe mit<lb/>jedem Stadtklatſch bekannt zu machen und bei der<lb/>Gelegenheit Gert's Mittheilungen zu beſtätigen,<lb/>indem Frau Meyer ſich und ihre ſchweigſame, an-<lb/>ſcheinend theilnahmloſe Zuhörerin fragte, was<lb/>denn nun aus dieſer Liebesgeſchichte werden ſollte?<lb/>
+            </p>
+            <p> <lb/>Gegen Abend pochte es an die Thür der Waſch-<lb/>frau Dierkſen; Jenny öffnete und als ſie eine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0076" n="66" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=76"/>
+            </p>
+            <p> <lb/>anſtändig gekleidete Fremde vor ſich ſah, führte<lb/>ſie dieſelbe in das geräumige, gut ausgeſtattete<lb/>Wohnzimmer, das durch Bilder, Topfblumen und<lb/>Vögel in hübſchen Bauern einen außerordentlich<lb/>behaglichen und netten Anſtrich erhielt.<lb/>
+            </p>
+            <p> <lb/>Die Fremde nahm den dargebotenen Stuhl<lb/>nicht an, ſondern betrachtete Jenny, die ihren<lb/>prüfenden Blick mit energiſcher und entſchloſſener<lb/>Haltung aushielt.<lb/>
+            </p>
+            <p> <lb/>„Sie ſind Jenny Dierkſen?“ fragte jetzt die<lb/>Andere; ihre Stimme war mild, aber zitterte ſehr.<lb/>
+            </p>
+            <p> <lb/>Jenny wich einen Schritt zurück und ver-<lb/>färbte ſich.<lb/>
+            </p>
+            <p> <lb/>„O bitte,“ ſprach die Fremde wieder, „er-<lb/>ſchrecken Sie nicht, Gott weiß, daß ich Sie um<lb/>keinen Preis kränken möchte.“ — Sie ſtreckte<lb/>Jenny eine unſichere Hand entgegen, denn ihre<lb/>Augen verdunkelten ſich von Thränen.<lb/>
+            </p>
+            <p> <lb/>Jenny warf die Arme in die Höhe, rang die<lb/>Hände in einander und ſtürzte dann auf die Kniee<lb/>nieder: „Eliſe — Eliſe — verfluche mich nicht!“<lb/>
+            </p>
+            <p> <lb/>Einen Augenblick ſchwindelte der armen Eliſe;<lb/>in Jenny’s flehender Bitte lag ja die Beſtätigung<lb/>der ſchrecklichſten Gewißheit; ihr ſchauderte vor<lb/>der eigenen Verlaſſenheit, und doch ſiegte das<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0077" n="67" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=77"/>
+            </p>
+            <p> <lb/>Mitleid mit dem ſchönen Mädchen, das zu ihren<lb/>Füßen im Staube lag, doch wollte ſie nur Eines<lb/>in's Auge faſſen: <hi rendition="#g">Heinrich’s Glück</hi>!<lb/>
+            </p>
+            <p> <lb/>„Jenny, ſeit ich Dich vor mir ſehe, verſtehe<lb/>ich wohl, daß Heinrich Dich lieben mußte, denn<lb/>Du biſt, wie ich noch kein zweites Weib geſehen<lb/>habe — ich ſelbſt bin ſo einfach, unſchön und<lb/>ſchwächlich, daß ich den Vergleich mit Dir nicht<lb/>aushalte. Wenn Du kannſt, ſo ſag' mir nur,<lb/>wie es zwiſchen Dir und — und <hi rendition="#g">ihm</hi> ſteht, und<lb/>Das, was <hi rendition="#g">ihn</hi> beglückt, das ſoll ihm nicht durch<lb/>mich verwehrt werden!“<lb/>
+            </p>
+            <p> <lb/>„Setz' Deinen Fuß auf mich,“ rief Jenny<lb/>leidenſchaftlich, „eine Treuloſe wie ich, verdient<lb/>nichts Beſſeres, ich darf Dich nicht anblicken,<lb/>nicht berühren, ſo ſchwer habe ich gegen den Him-<lb/>mel und gegen Dich gefrevelt!“<lb/>
+            </p>
+            <p> <lb/>„Beruhige Dich,“ mahnte Eliſe ernſt, „wer<lb/>ſich eines Unrechts bewußt wird, ſoll nicht kindiſch<lb/>klagen und jammern, ſondern aufblicken, um zu<lb/>gewahren, was gut zu machen iſt!“<lb/>
+            </p>
+            <p> <lb/>Jenny erhob ſich und ſtand ſchüchtern, mit<lb/>zuckenden, geſenkten Wimpern und feſt verſchlun-<lb/>genen Händen da.<lb/>
+            </p>
+            <p> <lb/>„Bringe mich zu Deiner Mutter,“ fügte Eliſe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0078" n="68" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=78"/>
+            </p>
+            <p> <lb/>in ihrer milden und doch gemeſſenen Weiſe hinzu.<lb/>„Wir ſind Beide nicht alt und nicht ruhig genug,<lb/>um den rechten und beſten Weg zu finden, wir<lb/>wollen ihr Alles ſagen!“<lb/>
+            </p>
+            <p> <lb/>Jenny ſchrak zuſammen; aber ſie gehorchte<lb/>und öffnete die Thür der benachbarten Kammer.<lb/>
+            </p>
+            <p> <lb/>„Mutter, eine Dame, welche Sie ſprechen<lb/>will!“<lb/>
+            </p>
+            <p> <lb/>Bereits ſtand Eliſe in dem Zimmer der<lb/>Kranken.<lb/>
+            </p>
+            <p> <lb/>Dieſe ſaß, mit der Brille auf der Naſe, in<lb/>einem Lehnſtuhl; obwohl abgezehrt und bleich,<lb/>verrieth nichts ein gefahrvolles Uebel. Das Ant-<lb/>litz mit den ſcharf blickenden, braunen Augen war<lb/>ſogar impoſant zu nennen. Vor ihr auf dem<lb/>Tiſch lagen verſchiedene kleinere und größere Geld-<lb/>ſummen abgezählt, Papiere und Rechnungen wa-<lb/>ren um größere Bücher geordnet, deren Seiten ſich<lb/>mit Zahlenreihen gefüllt zeigten.<lb/>
+            </p>
+            <p> <lb/>„Setzen Sie ſich,“ ſagte die Waſchfrau in<lb/>reinſtem Deutſch und mit dem Anſtand einer Für-<lb/>ſtin, welche Audienz ertheilt. „Was wünſchen Sie,<lb/>mein Fräulein — ich darf bitten, ſich ein wenig<lb/>zu beeilen, denn ich habe nur noch knapp vier-<lb/>undzwanzig Stunden zu leben.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0079" n="69" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=79"/>
+            </p>
+            <p> <lb/>„Ich hoffe, Sie faſſen Ihre Krankheit zu ernſt<lb/>auf,“ meinte Eliſe erſchrocken.<lb/>
+            </p>
+            <p> <lb/>„Ich hoffe aber, daß ich Recht habe, und weiß,<lb/>daß es ſo iſt — endlich, endlich, endlich! wird die<lb/>arme Dorothea heimgerufen, ſie iſt reiſefertig,<lb/>wenn die Stunde ſchlägt, o, o! ich habe manche<lb/>Reiſe angetreten mit Trauer im Herzen, dieſe<lb/>letzte iſt eine freudige Heimkehr! — Mit was<lb/>kann ich noch dienen?“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß nicht, ob ich unter dieſen Umſtän-<lb/>den reden darf — indeß die Sache betrifft Ihre<lb/>Tochter.“<lb/>
+            </p>
+            <p> <lb/>„Warum ſollten Sie nicht reden dürfen, ich<lb/>werde heute noch mit der halben Stadt reden!<lb/>Um Sieben kommen die Hausfrauen, für welche<lb/>ich wuſch, um Acht die Hoſpitalfrauen, denen ich<lb/>gab, ſo viel ein armes Weib geben kann. Um<lb/>Neun die Nachbarn und Handwerker — das geht<lb/>ſo weiter, bis zuletzt der Paſtor, die Leichenfrau<lb/>und der Todtengräber an die Reihe kommen! —<lb/>Alſo, wenn ich bitten darf.“<lb/>
+            </p>
+            <p> <lb/>„Ich heiße Eliſe Grütter. Ein Nachbarsſohn<lb/>und Freund von mir ſiedelte ſich kürzlich hier<lb/>an und — —“<lb/>
+            </p>
+            <p> <lb/>„Mutter, der junge Herr, von dem ſie ſpricht,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0080" n="70" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=80"/>
+            </p>
+            <p> <lb/>war ſeit fünf Jahren ihr Verlobter!“ fiel<lb/>Jenny ein.<lb/>
+            </p>
+            <p> <lb/>„Das heißt, ich war nicht im Stande, mich<lb/>ohne die Einwilligung meiner Großmutter zu ver-<lb/>loben, und Großmutter ſelig verwies mir jeden<lb/>Heirathsgedanken bis an ihr Ende! — Dieſer<lb/>junge Mann nun, der eine unbeſcholtene Ver-<lb/>gangenheit, ein blühendes Geſchäft und ein hüb-<lb/>ſches Vermögen zu bieten hat, faßte eine Neigung<lb/>zu Ihrer Tochter —“<lb/>
+            </p>
+            <p> <lb/>„Reden Sie darüber mit Jenny ſelbſt,“ unter-<lb/>brach die Waſchfrau abweiſend, „meine Tochter<lb/>glaubt mir in ſolchen Angelegenheiten keinen<lb/>Gehorſam ſchuldig zu ſein!“<lb/>
+            </p>
+            <p> <lb/>„O, dann,“ meinte Eliſe, „dann wird ja<lb/>Heinrich glücklich, denn Jenny liebt ihn wie-<lb/>der!“<lb/>
+            </p>
+            <p> <lb/>Ein leiſer, ſchmerzlicher Schrei zog Eliſens<lb/>Blicke auf Jenny, die in ungeheurer Aufregung<lb/>auf ein Bett geſunken war und wie eine Ster-<lb/>bende ächzte, indeß die kranke Mutter ſich halb in<lb/>ihrem Lehnſtuhl aufgerichtet hatte und die Tochter<lb/>mit einem Ausdruck des Triumphes fixirte.<lb/>
+            </p>
+            <p> <lb/>„Gott ſegne Sie!“ wandte ſich dann die Alte<lb/>an Eliſe, die in ängſtlichem Erſtaunen bald die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0081" n="71" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=81"/>
+            </p>
+            <p> <lb/>Mutter, bald die Tochter anſchaute. „Sie haben<lb/>mir die Erde leicht gemacht, Sie gute, aufopfernde<lb/>Seele! Sie führen mir die Tochter wieder zu,<lb/>welche ich verloren hatte. O, o! es iſt ſchwer, von<lb/>ſeinem einzigen Kinde verurtheilt zu werden!<lb/>
+               <hi rendition="#g">Jetzt, jetzt</hi> hat ſie erfahren, <hi rendition="#g">was es iſt mit</hi>
+               <lb/>
+               <hi rendition="#g">dem Herzen</hi> der Frau! Nur wer weiß, was<lb/>
+               <hi rendition="#g">Fehlen</hi> heißt, ſollte <hi rendition="#g">richten</hi> dürfen!“<lb/>
+            </p>
+            <p> <lb/>„Sie ſind alſo einverſtanden, wenn Ihre<lb/>Tochter Heinrich Maibaum's Frau werden will?“<lb/>
+            </p>
+            <p> <lb/>„Wen nennen Sie?“ fragte die Alte ent-<lb/>ſetzt.<lb/>
+            </p>
+            <p> <lb/>„Heinrich Maibaum, Theilhaber der Firma<lb/>Maibaum und Moor — der junge Mann, welcher<lb/>Jenny liebt!“<lb/>
+            </p>
+            <p> <lb/>Die zitternden Hände der Kranken rührten<lb/>Geld und Papiere durcheinander, ſo daß an allen<lb/>Ecken Münzen und Blätter vom Tiſche fielen;<lb/>dann ſank ſie mit einem Seufzer bewußtlos zu-<lb/>ſammen.<lb/>
+            </p>
+            <p> <lb/>„Sie ſtirbt!“ rief Jenny, „ſie ſtirbt, ohne<lb/>ihrer hartherzigen, ungerechten Tochter zu verge-<lb/>ben, o Mutter, herzliebe, liebe Mutter ſchlag’ die<lb/>Augen auf, ſag' mir, daß Du mich ſegneſt, wie<lb/>Du Eliſe geſegnet haſt!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0082" n="72" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=82"/>
+            </p>
+            <p> <lb/>Frau Dierkſen ſchien den Ruf zu vernehmen,<lb/>ſie öffnete wieder ihre Augen, und taſtete nach<lb/>dem Haupte der vor ihr knieenden Tochter:<lb/>„Meine Heimreiſe wird immer fröhlicher,“ mur-<lb/>melte ſie, „ich werde da droben Deinem Vater<lb/>wie eine junge Braut entgegen treten! Wir wol-<lb/>len das Geld und die Papiere wieder ordnen,<lb/>ſogleich kommen die Hausfrauen — hier, dieſe<lb/>Summen ſind zu zahlen, jene da laß einfordern<lb/>und ſag', ſie ſollen ſich eilen damit. Der Bäcker<lb/>ſoll meine zwei Waſchkörbe, die ich ihm lieh, zu-<lb/>rückſchicken und der Herr Paſtor meine Zeuglinie.<lb/>Ein paar Dutzend von den Wäſchklammern dort<lb/>im Korbe gehören der Frau Meyer, ſchicke ſie<lb/>ſogleich wieder hin. So, ſo, nun iſt das Alles<lb/>in Ordnung, ich bitte Sie nun auch, mein Kind,<lb/>wollen Sie heute Abend um Zehn wieder zu<lb/>mir kommen? Meine Dienſtmagd ſoll Sie abho-<lb/>len, bis dahin werden die fremden Leute fort<lb/>ſein und ich werde mich geſammelt und meiner<lb/>Tochter mitgetheilt haben, daß der Name Mai-<lb/>baum mir bereits ſehr — ſehr bekannt war!“<lb/>
+            </p>
+            <p> <lb/>„Recht gern, aber wäre es nicht beſſer, Frau<lb/>Dierkſen, Sie verſuchten zu ſchlafen?“<lb/>
+            </p>
+            <p> <lb/>„Nein, nein, ich lege mich morgen mit der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0083" n="73" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=83"/>
+            </p>
+            <p> <lb/>Sonne ſchlafen, zur langen Ruhe. — Sehen Sie,<lb/>ich habe ſtets die Ordnung geliebt, und in Ord-<lb/>nung mußte immer Alles ſein, ehe ich ſchlafen<lb/>ging. Adieu, bis Zehn heute Abend!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0084" n="74" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=84"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p/>
+         </div>
+         <div>
+            <p/>
+            <p> <lb/>Eliſe hatte zu der von Frau Dierkſen feſtge-<lb/>ſetzten Zeit eine überraſchende Begegnung; im<lb/>Wohnzimmer zwiſchen den Blumen und ſchlafen-<lb/>den Vögeln ſaß Heinrich und traute ſeinen Augen<lb/>nicht, als Eliſe eintrat.<lb/>
+            </p>
+            <p> <lb/>„Wenn Du mich ſprechen wollteſt, Eliſe —,“<lb/>nahm Heinrich das Wort, „weshalb beſtellſt Du<lb/>mich unter einem andern Namen, weshalb eben<lb/>
+               <hi rendition="#g">hierher</hi>!“<lb/>
+            </p>
+            <p> <lb/>„O, Heinrich, Du weißt doch, daß ich nicht<lb/>mit einer Silbe unwahr gegen Dich ſein könnte!<lb/>Ich errathe nicht, weshalb Frau Dierkſen uns<lb/>heute Abend ſehen wollte, wenn nicht — —!“<lb/>
+            </p>
+            <p> <lb/>„Wenn nicht — was?“<lb/>
+            </p>
+            <p> <lb/>„Wenn nicht,“ nahm Eliſe mit innigem Tone<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0085" n="75" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=85"/>
+            </p>
+            <p> <lb/>das Wort, „wenn nicht um Dir ihre Tochter<lb/>Jenny zuzuführen!“<lb/>
+            </p>
+            <p> <lb/>„Eliſe — rede nicht ſo! Es zerreißt mir das<lb/>Herz, es iſt wahr, ich bewundere Jenny, ihre<lb/>Nähe läßt mich Alles vergeſſen, es iſt wie ein<lb/>Rauſch — nun ich Dich aber wiederſehe, Eliſe,<lb/>da weiß ich, daß mich Nichts im Leben freuen<lb/>könnte mit dem Bewußtſein, Dich unglücklich ge-<lb/>macht zu haben — ich kann mir kein Leben ohne<lb/>Dich denken!“<lb/>
+            </p>
+            <p> <lb/>„Ich würde eine andere Heimat finden, Hein-<lb/>rich, Du weißt, ich dachte immer daran, barm-<lb/>herzige Schweſter zu werden, da mich Kranke im-<lb/>mer gern haben, in letzter Zeit hat ſich meine<lb/>Geſundheit ſehr gebeſſert und — —“<lb/>
+            </p>
+            <p> <lb/>Die Thür des Nebenzimmers öffnete ſich. Jenny<lb/>trat zwiſchen das verlobte Paar, ihre Züge waren<lb/>bleich, aber jener unruhige, friedloſe Ausdruck der<lb/>ſie bisher ſo oft überflog, war verſchwunden.<lb/>
+            </p>
+            <p> <lb/>„O, meine Theuren!“ rief Jenny, „ich bin<lb/>ganz mit der Mutter verſöhnt, ſie hat mir heute<lb/>die Namen Derer, die ich ewig lieben werde, <hi rendition="#g">Eure</hi>
+               <lb/>
+               <hi rendition="#g">Namen</hi>, zu eigen gegeben!<lb/>
+            </p>
+            <p> <lb/>Das Mädchen faßte die Hände der Beiden<lb/>und zog ſie in die Kammer. Da ſaß Frau Dierk-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0086" n="76" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=86"/>
+            </p>
+            <p> <lb/>ſen, das abgemagerte Antlitz, wie immer, von<lb/>einer zierlich gefalteten weißen Haube umrahmt,<lb/>vor ihr auf dem weißen Tiſchtuche brannten zwei<lb/>Wachskerzen und zwiſchen ihnen ſtand ein Crucifix.<lb/>
+            </p>
+            <p> <lb/>„Heinrich!“ rief die Kranke mit überwältigen-<lb/>dem Ausdruck und ſtreckte ihm beide Arme ent-<lb/>gegen.<lb/>
+            </p>
+            <p> <lb/>Herr Maibaum trat vor ſie hin nnd blickte in<lb/>die lebensvollen, faſt jugendlichen braunen Augen,<lb/>auf die ſchmalen Wangen, welche ſich rötheten,<lb/>während ſie ſeine Hände in die ihrigen preßte.<lb/>Er mußte nothwendig von dieſem Geſicht geträumt<lb/>haben, oder war ſie eine ſeiner Mondbekannt-<lb/>ſchaften! Plötzlich erkannte er dies Aufblicken,<lb/>dieſe eigenthümliche Haltung des Kopfes und er<lb/>rief: „Püntjer Dörken!“<lb/>
+            </p>
+            <p> <lb/>„Ja,“ ſprach die Kranke bewegt: „Püntjer<lb/>Dörken —! Püntjer-Dörken —! all' das Glück<lb/>und all' das Weh meines Lebens liegt in dieſem<lb/>Namen. Seit achtzehn Jahren hat ihn Niemand<lb/>ausgeſprochen, und nun, an meinem letzten Tage,<lb/>da klingt er wie ein Gruß Deſſen, der meiner<lb/>ſchon ſo lange harrt, da droben!“<lb/>
+            </p>
+            <p> <lb/>Es entſtand eine Pauſe, während welcher die<lb/>Waſchfrau Heinrich liebevoll betrachtete:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0087" n="77" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=87"/>
+            </p>
+            <p> <lb/>„Ich bin gewiß,“ ſagte die Alte mit Ueber-<lb/>zeugung, „daß all' die Herzensfreuden, die wir<lb/>auf Erden verloren und entbehrt haben, uns da<lb/>oben zurückgegeben werden!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ja, ſo iſt es!“ flüſterte Eliſe mit auf-<lb/>leuchtenden Augen.<lb/>
+            </p>
+            <p> <lb/>„Setzt Euch <hi rendition="#g">ſo</hi> vor mich, daß ich Euch Alle<lb/>ſehen kann!“ gebot die Waſchfrau. „Als ich zum<lb/>letzten Mal erwachte, da glaubte ich kinderlos zu<lb/>ſein und jetzt habe ich drei Kinder, ich habe ſie<lb/>und <hi rendition="#g">darf</hi> ſie haben, denn das Leichenhemd deckt<lb/>die Geſetze der Welt zu, als wären ſie nicht vor-<lb/>handen. Mein müde gehetztes Gewiſſen bohrt und<lb/>brennt nicht mehr, wenn ich ſage: Ihr ſeid meine<lb/>Kinder! Ich habe mein irdiſches Fehlen gebüßt<lb/>und ich ergreife das göttliche Erbarmen wie einen<lb/>ſchützenden Mantel, durch den nicht Froſt, nicht<lb/>Gluth dringt. — Nein, nein, Kinder, ich phanta-<lb/>ſire nicht, wenn auch meine Augen ein unendliches<lb/>Licht erſchauen und meine Ohren Klänge ver-<lb/>nehmen, wie den Geſang der Engel — noch ein<lb/>paar Stunden bleibe ich Püntjer Dörken, und<lb/>dieſe Stunden gehören Euch, damit das Bild<lb/>Eurer Mutter mit all' ſeinem Lieben und Kämpfen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0088" n="78" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=88"/>
+            </p>
+            <p> <lb/>Euch zurückbleibt, wenn der müde Leib der Waſch-<lb/>frau tief in der Erde ruht!“<lb/>
+            </p>
+            <p> <lb/>Wieder trat eine Stille im Zimmer ein, daß<lb/>man das leiſe Kniſtern der Wachskerzen vernahm.<lb/>
+            </p>
+            <p> <lb/>„O Freude, o Freude!“ drängte es ſich wie<lb/>ein Jubelruf über die Lippen der Kranken, „mit<lb/>jeder Minute komme ich dem Ende näher und die<lb/>Minuten ſind gezählt. Hier, Angeſichts des Todes,<lb/>ſage ich es Euch: die Menſchen haben mir nicht<lb/>Böſes thun wollen, ich ſelbſt warf den Frieden hin<lb/>um meines eigenen Herzens willen, und wohl mir,<lb/>daß ich ein Herz voll Liebe und Schmerzen in der<lb/>Bruſt trug; denn jede wahre Liebe kommt von<lb/>Gott und zieht zu Gott, es iſt die Liebe, die mich<lb/>den Tod wie einen lieben Bruder begrüßen lehrt,<lb/>die Liebe, welche ſagt, Deine Reue iſt vom HErrn<lb/>HErrn wohl angeſehen! — Ich erinnre mich alles<lb/>Deſſen, was ich, ſo lange ich denken kann, erlebte,<lb/>mit großer Genauigkeit; wie mir das Herz mit<lb/>ſechszehn Jahren pochte, ſo pocht es noch heute,<lb/>die Püntjer Dörken und die alte Frau Dierkſen<lb/>ſind derſelbe Stamm mit denſelben Blättern, wenn<lb/>auch der Sturm die Krone des Baumes zerbrach.<lb/>Es kommt mir nicht allzulange vor, ſeit ich zu<lb/>meinem Stiefbruder, dem Herrn Paſtor, gebracht<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0089" n="79" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=89"/>
+            </p>
+            <p> <lb/>wurde, weil mein Vater eine dritte Frau zu hei-<lb/>rathen beabſichtigte. Mein Vater hatte ſchon graue<lb/>Haare, aber er ſagte, in einem Bauernhauſe müſſe<lb/>eine Frau ſein, ſonſt ſtürben die Kälber, und meine<lb/>Mutter war bereits ein Jahr todt. Der Paſtor,<lb/>mein Bruder, meinte dagegen, dieſe <hi rendition="#g">dritte</hi> Heirath<lb/>ſei eine Thorheit vor den Leuten und ein Dieb-<lb/>ſtahl an ſeinen Kindern; ſo erzürnten ſie ſich mit<lb/>einander und der Paſtor holte mich in die Pfarre,<lb/>als unſeres Vaters neue Ehe zum erſten Male in<lb/>der Kirche angekündigt war. Ich zählte damals<lb/>elf Jahre. Der Bauernhof meines Vaters lag in<lb/>einer hohen und ſandigen Gegend, und ich hatte<lb/>nie einen Fluß geſehen. Wie ſtaunte ich alſo, hart<lb/>neben der Kirche im hohen trockenen Sommer ein<lb/>breites, blaues Waſſer zu finden, und auf der ſtillen<lb/>blauen Fluth kam ein Fahrzeug daher geſchwommen,<lb/>an deſſen Maſt ein großes ſchwarzbraunes Segel<lb/>ausgeſpannt war; noch mehr, von der Spitze des<lb/>Maſtes ging ein Seil aus, an welches ein Pferd<lb/>geſchirrt war, das im Uferſande dahin trabte. Ich<lb/>hielt mich an der Kirchhofmauer feſt, ſo ſonder-<lb/>bar und geſpenſtiſch kam mir das breite Fahrzeug,<lb/>deſſen Bord ſich nur wenig über dem Waſſerſpiegel<lb/>erhob, mit dem wallenden Segel vor. Plötzlich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0090" n="80" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=90"/>
+            </p>
+            <p> <lb/>machte das Schiff eine Schwenkung dem Ufer zu,<lb/>wo ich athemlos ſtand, und legte an. Zu gleicher<lb/>Zeit ſprang der Reiter des Pferdes am andern<lb/>Ufer mit den Füßen auf des Thieres Rücken, knieete<lb/>dort nieder und ließ, in dieſer Stellung ruhig<lb/>und ſicher verharrend, das Pferd zu uns hinüber<lb/>ſchwimmen. Ich mußte wohl ſehr verwundert aus-<lb/>ſehen, denn der Reiter lachte, als er mich erreicht<lb/>hatte, blickte zu mir empor und rief: „Wenn ich<lb/>jenſeits ein hübſches Mädchen ſehe, dann muß der<lb/>Braune mich immer hindurch tragen. Wie heißt<lb/>Du denn?“<lb/>
+            </p>
+            <p> <lb/>„Dörken, ich bin des Herrn Onkels Schweſter!“<lb/>
+            </p>
+            <p> <lb/>„So, ſo, und ich bin der Püntjer Manns und<lb/>fahre mit meinem Vater!“<lb/>
+            </p>
+            <p> <lb/>Das war das erſte Mal, daß ich <hi rendition="#g">ihn</hi> ſah,<lb/>Kinder. Er war ſechs oder ſieben Jahr älter als<lb/>ich, hatte ein hübſches, muthiges, junges Geſicht<lb/>und lange, dunkelblonde Haare.<lb/>
+            </p>
+            <p> <lb/>Mein Bruder ſchickte mich in die Schule, er-<lb/>theilte mir auch ſelbſt Unterricht, ich lernte dann<lb/>mit einem zarten, ſanften Mädchen meines Alters<lb/>gemeinſchaftlich, das Sophie von Oſſewiſch hieß<lb/>und die Tochter unſers Gutsherrn war. Sophie<lb/>hatte keine großen Anlagen und ich war bald<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0091" n="81" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=91"/>
+            </p>
+            <p> <lb/>weiter fortgeſchritten als ſie, aber ſie hatte ein<lb/>ſehr anhängliches Herz und faßte eine Liebe für<lb/>mich, die mir manches Mal recht läſtig wurde,<lb/>denn mich freute es nicht, wie ſie, im Zimmer zu<lb/>ſitzen und mit Puppen zu ſpielen, nachdem ich da-<lb/>heim ſchon meine jüngeren Geſchwiſter wie eine<lb/>Mutter gepflegt und gewartet hatte! Ich weiß<lb/>nicht die Zeit, wo ich etwas Zweckloſes getrieben<lb/>hätte, das mochte auch kommen, weil ich immer<lb/>groß und ſtark war und mich die Leute für älter<lb/>als meine Jahre hielten. Als um ſelbige Zeit<lb/>die Kirmeß in unſerem Dorfe war, da bekam ich,<lb/>gleich den erwachſenen Mädchen, meinen großen<lb/>Kuchen, Hilkemaker genannt, von dem jungen<lb/>Püntjer Manns geſchenkt und wie dankbar iſt ein<lb/>Schulmädchen Dem, der es wie eine fertige Jung-<lb/>frau behandelt! Nun traf es ſich, daß ich eines<lb/>Tages, in Folge einer heftigen Erkältung, die<lb/>Bräune bekam und Manns durch das hohe Waſſer<lb/>mit eigener Lebensgefahr zum Arzte ging, ſo daß<lb/>ich gerettet wurde. Die anderen Schulmädchen<lb/>hatten mich ſchon immer mit dem Püntjer geneckt.<lb/>Als ich nach dieſer Krankheit zum erſten Male<lb/>wieder die chriſtliche Lehre beſuchte, hatte eine von<lb/>ihnen vorn in meinen Katechismus geſchrieben:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0092" n="82" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=92"/>
+            </p>
+            <p> <lb/>„Dies Buch hört Püntjer Dörken, wer es ſtiehlt<lb/>bringe es wieder, das Datum habe ich vergeſſen,<lb/>die Mäuſe haben den Kalender zerfreſſen.“ Ich<lb/>war nie ſehr geduldig und dieſer Scherz brachte<lb/>mich ſo in Zorn, daß ich von da ab nicht anders<lb/>als Püntjer Dörken genannt wurde!<lb/>
+            </p>
+            <p> <lb/>„Ich wuchs heran,“ nahm die Waſchfrau nach<lb/>einer Pauſe mit ernſterm Geſichte das Wort, „mit<lb/>mir wuchs ein gewiſſes Auflehnen gegen jeden<lb/>Zwang und die Neigung für den jungen Schiffer,<lb/>deſſen Kommen und Gehen die einzige Abwechs-<lb/>lung meines einförmigen Daſeins bildete, die<lb/>meine Gedanken beſchäftigte. Hätte mein Bruder<lb/>mich tüchtig arbeiten laſſen — es wäre wohl an-<lb/>ders gekommen, aber ich hatte einen klugen Kopf<lb/>und ſollte „etwas Feineres“ werden; der Paſtor<lb/>war eitel auf meine Bildung, und auch das ließ<lb/>mich zu keiner rechten Beſchäftigung kommen, daß<lb/>jeden Tag Fräulein Fieken nach mir verlangte<lb/>und man ihr, ihrer Kränklichkeit halber, Alles<lb/>was nur möglich war zu Willen that. Ich wäre<lb/>ein tüchtiges Bauermädchen geworden, aber niemals<lb/>eine Dame. Seit Manns mir einmal ſagte, ich<lb/>wäre wohl zu vornehm, um mit ihm zu Tanze zu<lb/>gehen, da ließ ich meinem Bruder keine Ruhe,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0093" n="83" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=93"/>
+            </p>
+            <p> <lb/>mir die Freuden zu geſtatten, welche alle Mädchen<lb/>des Dorfes genoſſen — und er war ſchwach genug<lb/>mir nachzugeben. Kinder, ich zählte ſechzehn Jahre,<lb/>hatte einen feurigen Geiſt, einen prickelnden Thaten-<lb/>durſt und kein Feld dieſelben zu beſchäftigen! —<lb/>Kein Paar in der Tanzkammer tanzte ſo ſchön<lb/>wie der Püntjer und ich —! Wie hätten unſere<lb/>Füße nicht leicht ſein ſollen, da unſere Herzen<lb/>voll Seligkeit und Glücksgedanken ſchlugen? Er<lb/>hatte es mir geſagt: „Dörken, ſagte er, wenn Du<lb/>zu ſtolz biſt, meine Braut zu ſein, dann werde ich<lb/>der ſchlechteſte Kerl, der je auf Schiffsplanken<lb/>getreten hat, und ich ſchlage noch heute Abend<lb/>einer halben Stiege dieſer Flegel hier die Köpfe<lb/>ein, Du weißt, ich ſuche, was die Stärke anlangt,<lb/>meinen Meiſter!“ — Ich bebte vor Freude, als<lb/>er das ſagte und ſeine kräftigen Arme ausreckte,<lb/>und entgegnete ihm in unſerer plattdeutſchen<lb/>Mundart: „Manns, min Hert kump die to<lb/>Möte!“ — Es war ſo, mein Herz kam ihm ent-<lb/>gegen; es hatte ihn gekannt, ehe ich ſelbſt es<lb/>noch kannte. Ich fragte nicht, ob ich etwas Uebles<lb/>thäte, als ich ihm verſprach, ihn immer lieb zu<lb/>haben bis an’s Ende, mehr als ſonſt Jemanden<lb/>in der Welt, ich glaubte es könnte gar nicht an-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0094" n="84" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=94"/>
+            </p>
+            <p> <lb/>ders ſein und war ganz erſchrocken, als mein<lb/>Bruder, der Herr Onkel, mir am andern Mor-<lb/>gen auf meine Mittheilung erwiederte, mein Ver-<lb/>ſpruch ſei eine dumme Kinderei, die ich mir aus<lb/>dem Kopfe ſchlagen müßte. Nichts hätte mich<lb/>tiefer kränken können, als ſein ruhiges Lächeln,<lb/>als ſeine Gewißheit, daß er nur zu befehlen<lb/>brauche und Alles ſei zu Ende! Etwas bedenklicher<lb/>wurde ihm doch, als nun mein Bräutigam ſelbſt<lb/>kam und erklärte, er würde lieber ſeine rechte<lb/>Hand hergeben, lieber das ganze Dorf in Flam-<lb/>men ſetzen, als von Dörken laſſen, die er in allen<lb/>Ehren, aber auch mit aller Gewißheit liebe.<lb/>
+            </p>
+            <p> <lb/>Der Paſtor ſagte, auf dieſe Erklärung hin:<lb/>„Meine Schweſter Dörken erhält eine Mitgift<lb/>von zweitauſend Gulden und eine Ausrüſtung;<lb/>biſt Du im Beſitze eines gleichen Vermögens, ſo<lb/>magſt Du wieder anfragen und Dörken ſoll ihren<lb/>Willen haben. Im Falle Du gedenkſt, wie bis-<lb/>her, hier in der Gegend zu bleiben, ſo bin ich<lb/>entſchloſſen, Dörken zu unſerm Vater zurückzu-<lb/>bringen!“ — „Es gilt!“ rief Manns — „heute<lb/>über acht Tage kommen wir mit der Pünte von<lb/>Friesland zurück und heute über zehn Tage geht<lb/>Hermanns Dierkſen in die Fremde!“ — Er drehte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0095" n="85" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=95"/>
+            </p>
+            <p> <lb/>ſich knapp auf dem Abſatz um, reichte dem Paſtor<lb/>und mir die Hand und ging. Dieſes geſchah in<lb/>der frühen Maizeit, um Mitte März, im Anfang<lb/>
+               <hi rendition="#g">Frühling</hi>, wie es in den Büchern geſchrieben<lb/>wird. Der Küſter unſers Dorfes war alt und<lb/>gebrechlich; wenn ich eben um die Wege war,<lb/>pflegte ich ihm den Schlüſſel abzunehmen, zur<lb/>Zeit des Abendläutens, und ſtatt ſeiner zu<lb/>„kleppen“. So läutete ich auch an jenem Tage<lb/>mein Schickſal ein. Als der letzte Ton über die<lb/>Ems und die Marſch dahingezogen war, da trat<lb/>ich mit Manns, Hand in Hand, vor den Seiten-<lb/>Altar, bis zu welchem das Licht der ewigen Lampe<lb/>nicht reichte, und wir ſchwuren uns Treue, wie<lb/>ſie Eheleute ſich geloben bis zum Tode. Manns<lb/>ſteckte mir einen Ring an die Hand und ſagte:<lb/>„Jetzt biſt Du vor Gott meine Frau und <hi rendition="#g">Den-</hi>
+               <lb/>
+               <hi rendition="#g">jenigen</hi> von uns, welcher, <hi rendition="#g">ſo lange</hi> der <hi rendition="#g">andere</hi>
+               <lb/>noch athmet, ſeinem Schwure abwendig wird, ſoll<lb/>Seelenangſt und Friedloſigkeit verfolgen bis an<lb/>ſeine Todesſtunde!“ Noch einmal drückte er mich<lb/>in ſeine Arme und dann zog er hinaus in die<lb/>dunkle Nacht, hinaus mit ſeinem warmen, red-<lb/>lichen, vertrauenden Herzen!<lb/>
+            </p>
+            <p> <lb/>Ich war wohl noch recht jung, aber ich erfaßte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0096" n="86" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=96"/>
+            </p>
+            <p> <lb/>mein Gelöbniß mit dem ganzen Ernſt einer Seele,<lb/>die noch nicht gelernt hat, wie leicht die Welt<lb/>Schwüre und Verſprechungen vergißt, welche doch<lb/>nur <hi rendition="#g">ein</hi>mal geſprochen und <hi rendition="#g">ein</hi>mal gebrochen<lb/>werden ſollen. — Seit Manns fort war, ſchien<lb/>mir Alles todt und vereinſamt, wenn eine Pünte<lb/>ihre breite Spur durch die Ems zog, dann klang<lb/>es gleich einem hellen Aufſchrei in meiner Bruſt;<lb/>die Freuden der Dorfjugend gewährten mir keine<lb/>Luſt mehr und Fräulein Fiekchen's Stickereien<lb/>und Arbeiten erſt gar nicht. Das änderte ſich,<lb/>als ich eines Tages bei ihr einen Maler fand,<lb/>der ihr Bildniß anfertigen ſollte. Da ging ich<lb/>gern und oft zu ihr, denn ich dachte in meinem<lb/>tiefen Herzen, es ſollte ein Wahrzeichen auf den<lb/>Altar geſetzt werden, vor welchem ſich Manns mir<lb/>zugeſchworen hatte; deshalb beredete ich ſie, uns<lb/>Alle malen zu laſſen, was denn auch geſchah.<lb/>Das gab ein großes Altarbild, auf welchem Edel-<lb/>manns und ich ſo heilig daſtehen, wie der Maler<lb/>es wollte — wird wohl noch heute ſo da ſein.“<lb/>
+            </p>
+            <p> <lb/>„Ja,“ unterbrach Heinrich, „auf dieſem Bilde<lb/>habe ich Püntjer Dörken kennen gelernt und nie<lb/>vergeſſen!“<lb/>
+            </p>
+            <p> <lb/>„Es iſt viel Gnade,“ ſprach die Alte bewegt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0097" n="87" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=97"/>
+            </p>
+            <p> <lb/>„daß in Deinen Gedanken nicht blos die ſterbende<lb/>Sünderin, ſondern auch die makelloſe Jungfrau<lb/>leben darf, ſo oft Dein Sinn an Püntjer Dörken<lb/>haftet. Ja, Heinrich und ich habe noch in einer<lb/>
+               <hi rendition="#g">dritten</hi> Geſtalt vor Dir geſtanden, habe Dich in<lb/>meinen Armen gewiegt, habe Dich gelehrt, mich<lb/>Mutter zu nennen. Gott weiß, wie ich Dich liebte,<lb/>hegte und pflegte bis — — Wo blieb ich? Jenny,<lb/>gieb mir meinen Trank, ich hoffe, mein Kopf wird<lb/>klar bleiben, bis Ihr Alles wißt. Ja, ja, ich<lb/>ſprach von jenem Bilde, das mir, als ich ſpäter<lb/>mehr von der Welt ſah, gar wunderlich und<lb/>traurig vorkam. Noch ehe das Bild ganz fertig<lb/>war, rüſtete ſich die Maria deſſelben — das war<lb/>Fräulein Sophie — zu ihrer Himmelfahrt; die<lb/>Aerzte ſagten, ſie bedürfte einer andern Luft und<lb/>ſo gingen die Eltern mit ihr nach Tyrol, die<lb/>Luft aber, deren <hi rendition="#g">ſie</hi> bedurfte, die weht gar nicht<lb/>auf Erden und es war um ſo ſchneller mit ihr<lb/>zu Ende, als die Reiſe ſie ſehr angriff und ſie<lb/>ſich immer mühte, kräftiger zu erſcheinen, als ſie<lb/>es war. Sie wünſchte, ich ſollte ſie begleiten;<lb/>mein Bruder wußte nicht recht, wie er mich und<lb/>meinen Ernſt und meine Ruhe zu deuten habe,<lb/>er mochte ſich vorſtellen, auf Reiſen vergäße ich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0098" n="88" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=98"/>
+            </p>
+            <p> <lb/>meine Freierei. Vielleicht argwöhnte er auch,<lb/>ich ſtände mit Manns noch im Verkehr. Dem<lb/>war aber nicht ſo; das Briefſchreiben war damals<lb/>bei uns noch nicht Mode und Manns ſagte: Sieh<lb/>Du nur auf das <hi rendition="#g">Ziel</hi> und <hi rendition="#g">Ende</hi>, wenn wir in<lb/>der Mitte ſtehen bleiben und umſehen, dauert es<lb/>nur um ſo länger, bis wir's erreichen! — Mein<lb/>Bruder wünſchte alſo mein Fortgehen und ich<lb/>wünſchte auch hinweg zu kommen. Gut alſo, ich<lb/>ging. Viel ſah ich nicht von der Fremde, denn<lb/>mein Denken war immer bei der armen Kranken.<lb/>Ich hatte immer ein wenig auf Sophiens einfaches<lb/>Weſen herabgeſehen, aber in ihrem Todesmuth<lb/>wurde ſie größer und größer vor mir, ſo daß mir's<lb/>war, als müßte ich ihre Kniee umfaſſen und ſie<lb/>bitten, mich mit ſich zu nehmen! — Sagte ich<lb/>ſchon, daß wir nach Tyrol gingen? Sophie ward<lb/>die letzte Zeit ſehr unruhig; es war, als könne<lb/>ſie ihr Sterbeplätzchen nicht finden, und in einem<lb/>kleinen Städchen ging eines Morgens alle Un-<lb/>ruhe zu Ende. Sie ſah im Tode ſchöner aus als<lb/>jemals zu Lebzeiten. Als ſie die Augen zugethan<lb/>hatte, that ich die meinen auf und ſchaute, wo ich<lb/>denn eigentlich wäre. Ich ſah große Berge, Men-<lb/>ſchen in ſonderbaren Trachten, raſche Waſſer, we-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0099" n="89" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=99"/>
+            </p>
+            <p> <lb/>nig Erde und ein Grab. Neben dieſem Grabe<lb/>ſiedelten ſich die alten Oſſewiſch an, als hinge<lb/>Sophiens Seligkeit davon ab, daß ſtets friſche<lb/>Blumen auf demſelben lägen und daß das alte<lb/>Paar täglich ſeinen Beſuch gewiſſenhaft bei dem<lb/>Hügelchen abſtatte, welches ſo ſchrecklich klein ne-<lb/>ben den Gebirgen war. Ich pflegte und ſtützte<lb/>die Zwei und wir waren gut miteinander. Ich<lb/>wußte, daß ſie ohne mich gar hülflos ſeien und<lb/>ſtrebte, ſie nichts entbehren zu laſſen. Zwei Jahre<lb/>mochten ſo vergangen ſein, oder mehr, wir lebten<lb/>immer nur für das Grab; da kam ein Brief mei-<lb/>nes Bruders, in welchem ein anderer Brief ein-<lb/>geſchloſſen war; der andere liegt da in meinem<lb/>Gebetbuche — lies ihn Jenny, aber lies deutlich,<lb/>Kind! Ich kenne zwar jede Silbe des Blattes<lb/>auswendig, aber mich dürſtet immer von Neuem<lb/>zu hören, daß es da ſteht, <hi rendition="#g">Hermann Dierk-</hi>
+               <lb/>
+               <hi rendition="#g">ſen iſt todt</hi>! — als würde mit dieſer Nachricht<lb/>ein Theil meiner Schuld hinweggeſpült. Dieſer<lb/>Brief iſt der Angelpunkt meines Lebens, durch ihn<lb/>wendete ſich Alles — Alles!“<lb/>***<lb/>Jenny trat neben die Lichter und las mit<lb/>zitternden Lippen: „Hochwürdiger Paſtor! Ihr<lb/>werdet Euch ſicher noch auf Berend Looh erinnern,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0100" n="90" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=100"/>
+            </p>
+            <p> <lb/>den Ihr vor dreizehn Jahren in der Kinderlehre<lb/>hattet und der darauf zur Communion kam. Worauf<lb/>ich dann zu meinem Onkel Anton Looh nach<lb/>Amerika ging, der eine Farm dichte bei New-Orleans<lb/>beſitzt, wo er ſich gut beſteht. Ich bin von Hand-<lb/>werk Tiſchler geworden, gebe mich auch wohl mit<lb/>Zimmerei ab und habe ein Mädchen über die Ems<lb/>her gebürtig geheirathet, von Sand's Hofe. Dieſes<lb/>Alles weiß man in unſerm Kirchſpiel und ſchreibe<lb/>ich unterweilen an meine Eltern, ſchickte auch vorige<lb/>Herbſtzeit zwanzig Dollar als Schenkage für ſelbige.<lb/>Ich ſchreibe nun dieſen Brief an Euch, weil ich<lb/>vorige Woche durch einen Boten abgerufen, zu<lb/>einem ſterbenden Landsmann, der ſich Hermanns<lb/>Dierkſen nennt. Selbiger hatte ſich ein Fährboot<lb/>gekauft und fuhr die Leute über einen Fluß und<lb/>beſtand ſich gut. Vor guten acht Tagen nun ward<lb/>er ſpät in der Nacht wach gerufen und verlangten<lb/>zwei Männer Ueberfahrt, die ihm wohl das Aus-<lb/>ſehen von Viehhändlern oder Fellhändlern hatten,<lb/>Einer war bereits gut in den Jahren. Er macht<lb/>ſein Schiff los, als die Zwei einſteigen, kommen<lb/>aber noch vier andere Kerle aus dem Gebüſch und<lb/>drängen auch in das Boot. Der alte Viehhändler<lb/>ſetzte ſich, wie zufällig, neben den Fährmann und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0101" n="91" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=101"/>
+            </p>
+            <p> <lb/>drückt dieſem unverſehens und heftig die Hand, ſo<lb/>daß Dierkſen leicht verſtand, er fürchte ſich vor<lb/>den vier Geſellen. Dierkſen gab ihm ein kleines<lb/>Zeichen, er ſolle getroſt ſein. Kaum waren die<lb/>Männer ausgeſtiegen und hatten bezahlt, da fängt<lb/>Dierkſen ein großes Schimpfen an, der Alte habe<lb/>ihn betrogen, packt ihn am Kragen und ſtößt ihn<lb/>in's Boot, der Jüngere und der Fährmann ſelbſt<lb/>ſind auch, wie der Wind, drinnen und, ehe einer<lb/>nießen kann, ſchon ein Stück vom Ufer. Die<lb/>vier Kerle ſpringen herzu, aber zu ſpät, Einer<lb/>zieht einen Revolver hervor und ſchießt auf Dierk-<lb/>ſen. Dieſer denkt, es iſt nicht ſchlimm geworden,<lb/>höchſtens eine Schramme und ſchifft die Zweirich-<lb/>tig zurück. Der Alte ſagt nun, er trüge viel Geld<lb/>bei ſich und war voll Dankbarkeit, beſchenkte Dierk-<lb/>ſen auch rechtſchaffen. Als die Fellhändler fort<lb/>ſind, fühlt ſich Dierkſen doch ſehr krank von dem<lb/>Schuß in ſeiner Seite, muß aber lange auf Hülfe<lb/>warten, weil ſein Häuschen ſehr einſam belegen.<lb/>Endlich ſchafft man einen Arzt, ſelber ſagt, es ſei<lb/>nun ſchon Alles zu ſpät, ſomit ſchickte Dierkſen um<lb/>mich als einen Landsmann, und um einen Geiſt-<lb/>lichen. Ich fand ihn bei heller Beſinnung, aber<lb/>elendiglich in Schmerzen. Verſprach ihm in et-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0102" n="92" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=102"/>
+            </p>
+            <p> <lb/>lichen Tagen nachzuſehen, ob er noch lebe. Drei<lb/>Tage ſpäter that ich wie verſprochen, war die Hütte<lb/>leer und ſagte der neue Fährmann, die Leiche ſei<lb/>auf einem Wagen fortgeholt. — Ich thue nach<lb/>dem, wie Dierkſen mir anbefohlen, daß ich thun<lb/>ſolle nach ſeinem Abſcheiden, und ſchreibe Euch,<lb/>Hochwürdiger Herr Paſtor, Alles, was ich über<lb/>den ehemaligen Püntjer Manns weiß. Ich ſende<lb/>Euch auch viele Grüßniſſe von mir und meiner<lb/>Ehefrau an Euch und unſere Freundſchaft, womit<lb/>ich verbleibe Berend Looh, Zimmerbaas.“<lb/>
+            </p>
+            <p> <lb/>Wieder entſtand eine Pauſe des Schweigens,<lb/>bis die Waſchfrau leiſe anhob: „Ich konnte an-<lb/>fangs nicht glauben, er ſei wirklich todt und ich,<lb/>die ſo ſicher und geduldig ſeiner wartete, eine be-<lb/>trübte Witwe! Als aber ein Jahr ohne fernere<lb/>Kunde verging, da war es wohl gewiß und un-<lb/>abänderlich und ich bat Gott, mich ſterben zu laſſen.<lb/>Ich ſtarb nicht, aber mein Bruder ſtarb und Frau<lb/>Baronin von Oſſewiſch ſtarb und ich blieb allein<lb/>in der Fremde mit dem alten Mann, der an Leib<lb/>und Seele hülflos war. Nun mußte ich für Alles<lb/>einſtehen. Es wäre mir recht ſchlimm gegangen,<lb/>wenn ſich nicht ein Landsmann Namens Maibaum<lb/>unſerer angenommen hätte. Dieſer Maibaum war<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0103" n="93" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=103"/>
+            </p>
+            <p> <lb/>aus der Gegend von Bremen gebürtig und hatte<lb/>eine gute Stelle in der benachbarten Fabrik. Er<lb/>kam jeden Abend nach ſeiner Arbeitszeit, führte<lb/>meinen Baron ſpazieren oder unterhielt ihn. Mai-<lb/>baum beſorgte mir Alles für meinen Haushalt und<lb/>ſagte mir in Allem und Jedem Beſcheid. Als der<lb/>alte Herr ſchlimmer wurde, blieb er die ganzen Nächte<lb/>bei ihm und drückte ihm dann auch die Augen zu.<lb/>Nun wäre ich wohl ganz verlaſſen geweſen, wenn<lb/>mir Maibaum nicht ſeine Hand angeboten hätte.<lb/>Ich ſagte ihm meine Vergangenheit, zeigte ihm<lb/>dieſen Brief da, aber er war Alles zufrieden. Er<lb/>gründete nun ein eigenes Geſchäft, denn er hatte<lb/>Kenntniſſe und etwas Vermögen, brachte mich, bis<lb/>das Haus fertig war, in eine Erziehungsanſtalt und<lb/>that mir Alles zu Willen. Als er eines Tages ſagte:<lb/>„Morgen iſt der glücklichſte Tag meines Lebens,<lb/>
+               <hi rendition="#g">mein Hochzeitstag</hi>!“ … da hatte ich nichts<lb/>dagegen, aber auch keine Freude <hi rendition="#g">dafür</hi>; er for-<lb/>derte mein Vermögen ein und ich war ihm eine gute<lb/>Frau. Obwohl er mich über die Maßen liebte, war<lb/>mir doch Alles leer im Herzen, bis mein Sohn Hein-<lb/>rich geboren wurde — <hi rendition="#g">Du</hi>, Heinrich!“<lb/>
+            </p>
+            <p> <lb/>„Mutter!“ ſagte Heinrich und verbarg ſein<lb/>feuchtes Geſicht in die Hände.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0104" n="94" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=104"/>
+            </p>
+            <p> <lb/>„Ja! ja! Damals war mir das Wort ſüß zu<lb/>hören, ich glaube ich fing an Manns zu vergeſſen<lb/>— bis er eines Tages lebend und ſchön und voll<lb/>liebenden Zornes <hi rendition="#g">ſelbſt</hi> kam und mich eine Ehe-<lb/>brecherin nannte. Natürlich zeigte ich ihm, was<lb/>Berend Looh geſchrieben hatte und er ſchlug ſich<lb/>vor den Kopf, daß es ſo kommen konnte. Frei-<lb/>lich war der ſchwerkranke Dirkſen damals vom<lb/>Fährhauſe weggefahren, aber nicht auf den Kirch-<lb/>hof, ſondern in das Haus <hi rendition="#g">des</hi> Mannes, deſſen<lb/>Vermögen Manns an jenem Abende vor Mörder-<lb/>hand rettete und der ihn, als er endlich geheilt<lb/>war, mit in ſein Geſchäft, einen Handel von Fellen,<lb/>aufnahm, ſo daß Manns nun viel reicher war,<lb/>als es mein Bruder ſelig verlangte. — Maibaum<lb/>war durch die Woche, ſeines Berufes wegen, immer<lb/>von Früh bis Dunkelwerden außer Hauſe. Ich<lb/>beging die erſte Sünde und verheimlichte ihm,<lb/>wer täglich zu mir kam. Anfangs ſchwieg ich,<lb/>um ihm keinen Kummer zu bereiten, dann aus<lb/>Furcht! Dierkſen erzählte mir, wie ſchön er Alles<lb/>für mich drüben in Amerika eingerichtet habe; er<lb/>ſchwor, ich ſei <hi rendition="#g">ſeine</hi> und nicht Maibaum's Frau<lb/>— kurz, als er fort wollte, da wäre ich lieber<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0105" n="95" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=105"/>
+            </p>
+            <p> <lb/>geſtorben als zurückgeblieben. Ich gedachte an-<lb/>fangs das Kind mitzunehmen, dann aber beherzigte<lb/>ich des braven Maibaum's Kummer und Kränkung,<lb/>ließ Heinrich in ſeiner Wiege und ging davon!“<lb/>
+            </p>
+            <p> <lb/>Heinrich und Eliſe hatten ſich an den Händen<lb/>erfaßt und weinten, Jenny ſaß bleich und ſtill da.<lb/>
+            </p>
+            <p> <lb/>„Kinder, was hilft's, daß ich Euch von meiner<lb/>grenzenloſen Liebe, von meinem unausſprechlichen<lb/>Glück und meinem zehrenden Weh erzähle — kein<lb/>katholiſcher Prieſter wollte und konnte uns trauen,<lb/>ich war ja verheirathet, und eine mit Lüge er-<lb/>kaufte Copulation verſchmähte ich. Manns trug<lb/>mich auf den Händen, er gab mir in einem kurzen<lb/>Jahr die Liebe eines ganzen Lebens. Am Schluß<lb/>des Jahres ward Jenny geboren, die Freude ihres<lb/>Vaters war namenlos. Ach, wenig Tage ſpäter<lb/>traf ein Stein, der von einem Baugerüſt herab-<lb/>glitt, das theure Haupt meines unglücklichen Ge-<lb/>liebten, er ward bewußtlos zu mir in’s Haus ge-<lb/>tragen und ſein treues Auge erkannte mich und<lb/>das Kind nie wieder, obwohl er noch Jahr und<lb/>Tag lebte. Jener alte Mann, der von ihm ge-<lb/>rettet war, ſchützte und ſtützte mich. Als Dierkſen<lb/>erlöſt war, ging ich mit Jenny nach Deutſchland.<lb/>In die Heimat wagte ich mich nicht wieder, aber<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0106" n="96" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=106"/>
+            </p>
+            <p> <lb/>ihre Luft wollte ich doch athmen. Ich lebte für<lb/>Jenny, keinen Pfennig ihres Vermögens brauchte<lb/>ich für mich, ſondern arbeitete für mein Brod,<lb/>ihre Erziehung, ihre Freude war mein Lebensziel.<lb/>Sie wußte Nichts von meinem Vergehen, bis auch<lb/>ſie zur Communion kommen ſollte. Da preßten<lb/>mir Liebe und Reue eine demüthige Beichte vor<lb/>meinem Kinde ab, keine Silbe <hi rendition="#g">meiner</hi> Schuld<lb/>hielt ich zurück, nur den <hi rendition="#g">Namen</hi> Deſſen, den ich<lb/>ſo unheilbar gekränkt, ſollte ſie erſt auf meinem<lb/>Todbette erfahren, wie das denn auch geſchehen!<lb/>Ich hoffte Jenny's kindliche Dankbarkeit und mein<lb/>ſpäterer Lebenswandel ſollten hinreichen, den Vor-<lb/>wurf, den ich ihr gegen mich gab, zu überwinden,<lb/>ich wollte mir eine Freundin, eine Theilnehmerin<lb/>meiner Sühne erwerben — es kam anders, ich<lb/>
+               <hi rendition="#g">verlor</hi> das Herz meiner Tochter! Sie war be-<lb/>reit, meine Schuld im Kloſter abzubüßen; aber<lb/>es war nicht aus <hi rendition="#g">Liebe</hi> zur Mutter, daß ſie<lb/>
+               <hi rendition="#g">meine</hi> Laſt auf ſich nahm, ſondern es geſchah im<lb/>Bewußtſein unſerer gemeinſamen <hi rendition="#g">Schande</hi>! Sie<lb/>wurde gegen die ganze Welt demüthig, aber hoch-<lb/>müthig gegen ihre Mutter, ihr Kommen und<lb/>Gehen war wie ein ſchweigender Vorwurf — weiß<lb/>Gott, ich verſuchte Alles, Alles ſie zu verſöhnen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0107" n="97" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=107"/>
+            </p>
+            <p> <lb/>zu beſiegen — ihr Herz war anders als das meine,<lb/>das ſich in der Liebe auflöſte und bis auf den<lb/>letzten Blutstropfen hingab! Nun geſchah das<lb/>Letzte. Schwere Arbeit, Ringen und Beten be-<lb/>täubten meinen Kummer nicht, ich griff nach der<lb/>Flaſche! — Freilich verſäumte ich keine Arbeits-<lb/>ſtunde, aber ich mußte mich umbringen oder ver-<lb/>geſſen — vergeſſen! So verlor ich bei Jenny den<lb/>letzten Funken von Achtung — bis ſie an ſich<lb/>ſelbſt erfuhr wie leicht ein Weib irrt! Nun, Kinder,<lb/>wißt Ihr Alles, richtet über Eure Mutter. Für<lb/>Eins danke ich Gott! Euer Name iſt vor der<lb/>Welt makellos!“<lb/>
+            </p>
+            <p> <lb/>Die Waſchfrau ſchloß die Augen und ſank<lb/>zurück in die Kiſſen. Plötzlich röthete und ver-<lb/>klärte ſich ihr Antlitz, ſie fühlte ſich von ſechs<lb/>jungen Armen umſchlungen, ſchluchzende Stimmen<lb/>riefen: „Mutter, Mutter!“ und warme Lippen<lb/>ruhten auf ihrer Stirn, auf ihrem Munde.<lb/>
+            </p>
+            <p> <lb/>Am nächſten Abend ſtarb Püntjer Dörken, ſo<lb/>wie ſie geſagt hatte. Sie wollte erſt Alle eſſen<lb/>und trinken ſehen, damit ſie die ſchwere Stunde<lb/>des Scheidens beſſer ertrügen. Sie ſtarb an Jen-<lb/>ny's verſöhntem Herzen ruhend.<lb/>
+            </p>
+            <p> <lb/>Ihr Grab iſt durch ein ſchönes Monument ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0108" n="98" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11162730?page=108"/>
+            </p>
+            <p> <lb/>ziert, oft beſucht von dem jungen Ehepaar, Hein-<lb/>rich und Eliſe, und den zahlreichen Freunden der<lb/>Waſchfrau. Mitunter auch weilt dort in den<lb/>Abendſtunden ein alter ernſter Herr, der friedlicher<lb/>und ruhiger an dieſer Stelle wird als auf ſonſt<lb/>einer. Jenny heißt jetzt im Kloſter Schweſter<lb/>Magdalena; ſie ſchenkte ihrer frommen Kloſter-<lb/>heimat ein Bild, das die büßende Magdalena mit<lb/>Kreuz und Todtenkopf zeigt. Es iſt das Bild von<lb/>Püntjer Dörken.<lb/>
+            </p>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

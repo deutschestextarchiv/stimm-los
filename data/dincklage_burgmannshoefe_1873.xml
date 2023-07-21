@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Burgmannshöfe</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_burgmannshoefe_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Die Burgmannshöfe, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die Burgmannshöfe</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>A. H. Payne</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Der Salon für Literatur, Kunst und Gesellschaft</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 56–85</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786</idno><idno type="shelfmark">Shelfmark: Per. 177 l-1873,1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die Burgmannshöfe</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0102" n="56" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=102"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">Die Burgmannshöfe.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>Novelle von <hi rendition="#g">E. von Dinklage</hi>.<lb/>
+            </p>
+            <p> <lb/>I.<lb/>
+            </p>
+            <p> <lb/>Ein Märchen aus alten Zeiten,<lb/>Das kommt mir nicht aus dem Sinn.<lb/>
+            </p>
+            <p> <lb/>Durchwandert man die alten Städte und Städtchen des nördlichen<lb/>Deutſchlands, ſo wird hier und da die Reihe der an der Straße liegen-<lb/>den Backſteinhäuſer, die für den bürgerlichen Betrieb und Verkehr ein-<lb/>gerichtet ſind, durch eine Mauer mit Thorweg unterbrochen, die ein ab-<lb/>geſchloſſenes Gehöft, nicht ſelten noch mit Ringgräben umgeben, ab-<lb/>grenzen. Dieſe Häuſer haben einen andern Charakter als die Nachbar-<lb/>gebäude, oft ſind ſie maſſiv und herrſchaftlich, manchmal nur aus Fach-<lb/>werk errichtet in mehr oder minder gutem baulichen Zuſtande, immer<lb/>aber verrathen ſie eine gewiſſe wehrhafte Selbſtſtändigkeit durch ihre<lb/>Lage und Abgeſchloſſenheit gegen die Umgebung. Dieſe Häuſer ſind,<lb/>oder waren die alten Burgmannshöfe des höhern und niedern Adels,<lb/>in den Biſchofsſitzen erhoben ſich dieſelben bis zum feierlichen Palaſtſtuhl,<lb/>in den kleineren Ackerſtädten ſind ſie, wie geſagt, <hi rendition="#aq">Häuſer</hi>, die durch Grä-<lb/>ben oder Mauern befeſtigt waren. Zumeiſt lagen die Burgmannshöfe<lb/>nicht inmitten der Städte an der Hauptſtraße, ſondern ſie hefteten ſich<lb/>an die Befeſtigung der Stadt, um ſich dieſer gegenüber den Rücken zu<lb/>decken, einem äußern Feinde aber unbeengt und ungehemmt die Stirn zu<lb/>bieten. Dieſe Lage erklärte genugſam die Stellung der Burgmänner im<lb/>Allgemeinen, ſie waren die Beſchützer, aber auch die Zwingherren der<lb/>Stadt, und Burgemeiſter und Magiſtrat wurden von ihnen erwählt und<lb/>eingeſetzt. Am übelſten fuhr die Stadt dabei, wenn etwa ihre verſchie-<lb/>denen Burgmänner unter ſich uneins wurden und ſich befehdeten, da<lb/>dann Alles, was eine Pike zu tragen vermochte, ſich, wohl oder übel, in<lb/>zwei Heereslager theilen mußte und die Feindſchaften gar kein Ende<lb/>nahmen. Die edlen Herren Burgmänner hatten gewöhnlich noch irgend<lb/>ein Rittergut mit Land und Sand, Lehnsleuten und Vaſallen und<lb/>zogen nur dann in ihre Höfe, wenn die Bürger ſie zu Fehden oder Feſt-<lb/>lichkeiten mit höflichem Wort und unterthänigen Verehrungen — wie<lb/>dazumal die Geſchenke hießen, jetzt ehrt der Beſchenkte umgekehrt Den,<lb/>der ordentlich ſchenkt — herbei riefen, oder auch wenn ſie von ihrem<lb/>Erbe durch Andere vertrieben wurden, oder ſich ſelbſt vertrieben hatten,<lb/>indem ſie daſelbſt abgewirthſchaftet und in Schuld und Ungeduld ge-<lb/>kommen waren, wie denn Schick und Glück in jenen Tagen jäh wechſelten.<lb/>
+            </p>
+            <p> <lb/>Im Städtchen H. ſind die wehrhaften Mauern nach dem Dreißig-<lb/>jährigen Kriege unter dem Jubel der Bauern geſchleift. Das arme<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0103" n="57" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=103"/>
+            </p>
+            <p> <lb/>Landvolk hatte in der Nähe ſolcher Feſtungen viel zu leiden, denn ſie<lb/>mußten mit unzähligen Hand- und Spanndienſten die Vertheidigungs-<lb/>werke erhalten helfen, die Verproviantirung wurde im entſcheidenden<lb/>Momente, ohne viel Federleſens zu machen, vom Bäuerlein eingetrieben<lb/>und was der Belagerte etwa noch im Wiemen und auf dem Boden lie-<lb/>gen ließ, das nahm der Belagerer wenn’s zum Klappen kam. Die<lb/>Mauern alſo fielen, aber die Burgmannshöfe blieben hinter den alten<lb/>Stadtwällen und Gräben. Die erſteren dienten als Viehweiden, Blei-<lb/>chen und Tummelplatz der Kinder und Müßiggänger, die letzteren ver-<lb/>ſumpften, waren ſo froſchreich wie dereinſt Abdera, die Stadt der La-<lb/>tona und erzeugten von Jahrhundert zu Jahrhundert ungehindert eine<lb/>Menge von Fiebern, Rheumatismen und Gicht. Eigentlich hatte H. vier<lb/>Burgmannshöfe beſeſſen, einer von denſelben war abgebrannt und nicht<lb/>wieder aufgebaut, der zweite war eingeſtürzt und das Baumaterial ver-<lb/>gantet; zwei, die größten, ſtanden und ſtehen noch. Einer heißt der<lb/>Kohbergshof, der andere die Scharpeborg. Der Kohberghof hat ſeinen<lb/>Namen davon, daß er auf einer Sanddüne erbaut iſt, welche das nahe<lb/>Flüßchen, das ſich weiter abwärts in die Ems ergießt, vor undenklichen<lb/>Zeiten gebildet haben mag. Die Erbauer des großen ſchloßartigen<lb/>Hauſes waren zwei Brüder geweſen, die ſich offenbar entweder durch<lb/>eigene, oder ihrer Vorfahren Straßengeſchicklichkeit in glücklichen Ver-<lb/>hältniſſen befanden, denn ſie legten wundertiefe, feſte Fundamente und<lb/>bauten einen koloſſalen Steinwürfel mit breiter Freitreppe darüber, wo-<lb/>zu dann auch ein Garten mit Taxushecken nebſt allerhand Gitterwerk<lb/>und Waſſerkunſt nicht fehlen durfte. Die Erbauer mußten nichts von<lb/>Romulus und Remus gehört haben, und daher nicht wiſſen, daß es ge-<lb/>fährlich für Brüder iſt, an <hi rendition="#aq">einem</hi> Werke zu bauen, denn ſie entzweiten<lb/>ſich ſo gründlich, daß der Aeltere vor dem Jüngeren die Flucht ergriff<lb/>und die Zugbrücke nie wieder beſchritt, die zum Kohberg führte, dagegen<lb/>baute der ſich aber in ſelber Stadt eine andere Burg, der er den eigent-<lb/>lichen Familiennamen Scharpeborg beilegte, als Erſtgeborener für die-<lb/>ſelbe die zuſtändigen Herrenrechte beanſpruchte und ſeinen Bruder, der<lb/>ſich nach dem Bauplatz ſeines Schloſſes Kohberg nannte, alles nur mög-<lb/>liche gebrannte Herzeleid anthat. Scharpeborg ſcheint bei dieſem zwei-<lb/>ten Burgbau alle Luſt an adeliger Pracht vergangen zu ſein; vielleicht<lb/>auch erlaubten ihm ſeine Mittel oder ſein Stolz kein Rivaliſiren mit<lb/>dem feindlichen Bruder, genug, hinter den Mauern und gedoppelten<lb/>Ringgräben erhebt ſich ein einſtöckiges Haus aus Fachwerk, das zwei<lb/>große Räume und einige kleinere umfaßt — Küche und Hallen — ein<lb/>ſpäterer, wenn auch nicht reicherer Nachkomme fügte einen ungelenken<lb/>Seitenflügel hinzu, der das Ganze völlig mißzierte und ſo blieb es bis<lb/>heute. Das Kohbergſchloß blickt nachdenkend über die Taxushecken und<lb/>die breiten Raſenalleen zwiſchen denſelben, in welchem große oſtfrieſiſche<lb/>Schaafe weiden, jedoch um auch dieſem einfachen Vorgange alle Poeſie<lb/>zu nehmen, nicht in Freiheit, ſondern an einen Pflock gebunden, welcher<lb/>in die Erde gerammt iſt. Wer mit einem Anſpruch auf den Nachklang<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0104" n="58" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=104"/>
+            </p>
+            <p> <lb/>feudaler Würde durch die in den Angeln feſtgeroſteten Thorflügel vor<lb/>dieſes Gebäude tritt, der kehre ſchleunigſt um, ehe er ſich Arm und<lb/>Beine über das umherliegende unbrauchbare Gerümpel und Geräth zer-<lb/>bricht, ehe er ſich damit ermüdet, die fehlenden oder mit Lumpen ver-<lb/>ſtopften Fenſterſcheiben zu zählen, oder ſich von den Ferken angrunzen<lb/>zu laſſen, die gymnaſtiſche Evolutionen in einem Haufen von halbver-<lb/>faultem Stroh ausführen. Die Ferken tragen das Brand- und Merk-<lb/>zeichen J. B. auf dem Rücken, denn die Edlen von Kohberg haben ſchon<lb/>längſt aufgehört, hier zu gebieten und dagegen herrſcht im Burgmanns-<lb/>hof eine brutale und gemeine Perſönlichkeit, die ſich Jan Backer nennt,<lb/>Beſitzenden und Gebildeten gegenüber ein gräulicher Demokrat, allen<lb/>armen Hülfloſen aber ein erbarmungsloſerer Tyrann iſt als weiland<lb/>ſeine Vorgänger die Burgmänner und Knappen mit goldenen Sporen<lb/>und Wappen. Die Scharpeborg lag ſo unter den breiten Kronen der<lb/>Ulmen und Roßkaſtanien durch die ganze Sommer- und Herbſtzeit ge-<lb/>deckt und verſteckt, wie ein chineſiſcher Mandarin unter ſeinem Sonnen-<lb/>ſchirm. Sie verräth gar wenig Reichthum und Ueberfluß, ſo daß ſelbſt<lb/>routinirte Bettler vor der hölzernen Lattenpforte wieder umkehren, ſtatt<lb/>anzuläuten, obwol mit Unrecht; denn jeder Arme erhielt ſtets ein paar<lb/>Deute und als die überklugen Bettler nun nach Kohberg gingen, kamen<lb/>ſie erſt recht übel an. Der dicke Hausherr, der als Witzbold zwiſchen den<lb/>Bierlümmeln der Nachbarſchaft hoch im Anſehen ſtand, empfing die<lb/>Bittſteller, die Hände in den Hoſentaſchen, in höchſt eigener Perſon auf der<lb/>Freitreppe und rief: „Was, Ihr Schubbejacks, betteln wollt Ihr? nichts da,<lb/>ich habe meine Hausarmen — und denen gebe ich nicht einmal etwas!“ Nun<lb/>wieherte er, als wollte er die letzten unzerbrochenen Scheiben gleichfalls<lb/>zertrümmern und die Bettler zogen, in ihrem Beruf tief gekränkt, von<lb/>dannen. Aber ſie wußten es, Jan Backer hatte von ſeiner Vorväter<lb/>Zeiten her noch Manches auf dem Kerbholz und der Scheerenſchleifer<lb/>ſagte draußen auf der Straße mit vollem Rechte zu ſeiner Frau: „Du,<lb/>Weib, der endet ſchlecht, wart’ nur, alle Wetter und Stabstrompeter,<lb/>
+               <hi rendition="#aq">mich</hi>, einen achtbaren Scheerenſchleifer und Keſſelflicker wie einen gemei-<lb/>nen Bettler abzutrumpfen, der Kerl hat wol gar keinen Verſtand im<lb/>Leibe — aber es kommt ihm, es kommt ihm! Ein Hahnenſchritt bei<lb/>jedem Vollmond iſt nicht viel, aber um die Ecke dort an der Fährſtraße<lb/>iſt er ſchon zu meiner Großmutter Zeit geweſen, ſo mag er jetzt ſein, da,<lb/>wo wir eben ſtehen."<lb/>
+            </p>
+            <p> <lb/>„Hat ihn denn Deine Großmutter geſehen?" fragte das Weib.<lb/>
+            </p>
+            <p> <lb/>„Sie ſelbſt nicht, aber ihr Vater ſah ihn als er ein Kind war,<lb/>ſelbiger Urgroßvater von mir wurde an die neunzig Jahre alt und hat<lb/>mir vielmalen davon erzählt!"<lb/>
+            </p>
+            <p> <lb/>„Wie ſah er denn aus?“ forſchte die Frau.<lb/>
+            </p>
+            <p> <lb/>„Recht eine Uniform hatte er an, ganz roth, und viele lange Haare<lb/>hingen auf einen breiten Kragen und um die Hände herum eitel Kanten<lb/>und Spitzenwerk und auf den Schuhen Schnallen von eitel Gold!"<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0105" n="59" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=105"/>
+            </p>
+            <p> <lb/>„Ich dachte nimmer nicht, daß ſich die Geiſter ſo affig aufputzten,<lb/>es iſt ſchade um das gute Werk, das könnte auch ein Anderer brauchen!"<lb/>
+            </p>
+            <p> <lb/>„Dummheit — die Sachen haben viel hundert oder tauſend<lb/>Jahre im Sarge gelegen —!"<lb/>
+            </p>
+            <p> <lb/>„Ach pfui!" ſagte das Weib und ſpuckte aus.<lb/>
+            </p>
+            <p> <lb/>Von der Scharpeborg wußten die Leute gar wenig, es ging nichts<lb/>Junges dort ein und aus, nur ein paar alte Dienſtleute und in der<lb/>Burg lebte die Herrin derſelben, ſtäubte und putzte und ordnete von<lb/>früh bis ſpät zwiſchen ihrem altmodigen Geräthe umher, denn ſie war<lb/>von Geburt eine Holländerin. Da ſie in ihrem kurzen Eheſtand weder<lb/>deutſch ſprechen, noch fühlen lernte, ſo geſchah dies, nachdem ſie Wittwe<lb/>geworden war, noch weniger und Niemand wußte, ob ſie nicht mit den<lb/>Leuten verkehren <hi rendition="#aq">konnte</hi> oder es nur nicht <hi rendition="#aq">wollte</hi>! Der letztverſtorbene<lb/>Herr von Scharpeborg hatte ſie geheirathet in der Vorausſetzung, ſie<lb/>bringe ihm ein großes Vermögen zu, ſie hätte das auch gern gethan,<lb/>aber gerade an dem Tage, als ihr Erſtgeborener das Licht der Welt er-<lb/>blickte, erhielt ſie ſelbſt die Nachricht, ihr Vater, ein reicher Kaufherr<lb/>und Rheder, habe Bankerott gemacht in Folge einiger verunglückter<lb/>„Speculatien“. Der würdige Mynheer tröſtete ſie freilich damit, das<lb/>Geld komme und gehe, aber es ſchien in dieſem Falle das Wiederkom-<lb/>men reineswegs zu vergeſſen und Mefrau von Scharpeborg ſah nie<lb/>ein Dübbelje von ihrem Erbtheil. Sie trug das erwähnte Mißgeſchick mit<lb/>beſonderer Seelenruhe und wenn ihr Gatte die Sache minder gleich-<lb/>müthig nahm, ſo ſiegte doch alsbald ihre Gelaſſenheit über ſeine Gut-<lb/>herzigkeit und das ſtille Leben des jungen Paares ging ununterbrochen<lb/>im gewohnten Gleichſchritt weiter. Herr von Scharpeborg machte nie eine<lb/>tadelnde Aeußerung über ſeinen Schwiegervater, aber er grub dagegen<lb/>einen alten begrabenen Familienhaß wieder aus dem Staube der Jahr-<lb/>hunderte und meinte: „Mit uns und unſerm Jungen ſtände es anders,<lb/>wenn die Kohbergs nicht geweſen wären!"<lb/>
+            </p>
+            <p> <lb/>Als der Bub’ hübſch auf den Füßen war und mit dem Vater auf<lb/>die Aecker und Wieſen gehen konnte, zeigte ihm der letztere die weit beſſe-<lb/>ren Grundſtücke des Kohberg-Erbes und ſagte: „Sieh, das Alles ſollte<lb/>Dein ſein, und nun ſind ſie geſtorben und verdorben und Fremde<lb/>ſitzen auf dem Eigenthum unſerer Familie!" Eben weil der alſo redende<lb/>Vater ein gerechter und edeldenkender Mann war, prägten ſich dem<lb/>Sohne dieſe entſchieden anklagenden Aeußerungen ſo tief und unaus-<lb/>löſchlich ein, daß, nachdem Herr von Scharpeborg in der Vollkraft ſeines<lb/>Lebens zu ſeinen Vätern verſammelt wurde, der Sohn um keinen Preis<lb/>jemals mit den Kohbergbeſitzern in irgend welchen Verkehr getreten<lb/>wäre, oder ihr Haus beſucht hätte — ſelbſt wenn es gaſtlicher und<lb/>ſtattlicher geweſen wäre. Herr Jan Backer hatte einen Sohn von dem<lb/>Alter des jungen Rüdiger von Scharpeborg, ein mageres, verfüttertes<lb/>und verzärteltes Bürſchlein, aber nie ſpielten die Kinder der feindlichen<lb/>Burgen zuſammen, nie wechſelten ſie ein harmloſes Wort. Der jugend-<lb/>liche Joſef Backer hatte einſt in Folge ſeiner höhnenden Bemerkung:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0106" n="60" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=106"/>
+            </p>
+            <p> <lb/>„Du Junker vom Bettelſtab, reck Dir den Hals nicht ab, haſt keine<lb/>Mähr’ im Stall, Hochmuth kommt vor dem Fall!" eine ſo derbe Tracht<lb/>Prügel von dem robuſten Junker eingeerntet, daß der Sohn des Reich-<lb/>thums — wenigſtens hielt er ſich für einen ſolchen, da ſein Vater in H.<lb/>der Erſte war — fortan jede Begegnung ſorgſam vermied. In Kirche<lb/>und Schule kamen die Kinder nicht zuſammen. Wie die Scharpeborgs<lb/>in allen Dingen den Kohbergs das Widerſpiel hielten, und umgekehrt,<lb/>ſo waren die Erſteren ſchon vor mehr denn zweihundert Jahren zum<lb/>Proteſtantismns übergetreten, und Rüdiger’s Mutter ſah ſich gezwun-<lb/>gen, ihren Sohn in einer andern Stadt auf die Schule zu ſchicken.<lb/>
+            </p>
+            <p> <lb/>Die Wittwe Scharpeborg hatte auch den Verluſt ihres braven<lb/>Lebensgefährten mit großer Faſſung ertragen, ja die eben nicht leiden-<lb/>ſchaftlichen Bürgerweiber der Stadt, die Alltags Plattdeutſch und bei<lb/>feierlichen Veranlaſſungen ein ſchwerfälliges Hochdeutſch redeten, mein-<lb/>ten, der Herr ſelig hätte wol etwas mehr Wehleid verdient. In-<lb/>deß die Wittwe erfuhr nie, was ſie meinten und fragte keinen Men-<lb/>ſchen, was ſie thun oder laſſen ſollte. Herr Backer trank ſich zu Ehren<lb/>des Todes ſeines angeerbten Todfeindes einen koloſſalen Rauſch und<lb/>verſicherte: „Heute über’s Jahr habe ich die alte Scharpeborg, Jungens,<lb/>und das alte Recht kommt oben — es iſt eine Schande, daß eine ſolche<lb/>elende Bude das Wahlrecht bei der Ritterſchaft, Vollerbenſtimme in der<lb/>Gemeinde, Jagd und Fiſcherei, und Gott weiß was Alles hat, indeſſen<lb/>wir in der Burg den Prachern nachſtehen — na, wenn die erſt allein<lb/>wirthſchaftet, ſo wird wol bald der letzte Glanz abgewaſchen ſein und ſie<lb/>mit allem Staub auch ſelbſt von dannen ſtauben!“<lb/>
+            </p>
+            <p> <lb/>Aber das nächſte Jahr verging und noch eins und noch zehn und<lb/>immer blieb Alles wie es war, die Wittwe ließ ihren Sohn ſtudiren, er<lb/>kam ſelten genug in die Heimat, dann aber gefiel es den Leuten, daß er<lb/>ſo groß und anſehnlich wurde, ein rechter Scharpeborg mit krauſen blon-<lb/>den Haaren. Der Herr Pfarrer und ein Profeſſor, der in H. zu Haus<lb/>war und in den Ferien kam, verſicherten, der Junker vom Burgmanns-<lb/>hof habe tüchtig was gelernt und werde es zu was bringen. Das erfüllte<lb/>Jan Backer mit Gift und Galle und er ſchrie: „Natürlich muß er was<lb/>lernen, um nicht zu verhungern, aber mein Joſef hat’s nicht nöthig!“ —<lb/>„Nein, der hat’s nicht nöthig!" echoeten die gefälligen Zechbrüder, die er<lb/>zum öftern frei hielt. Den rechten einfachen Stadtbürgern war Backer<lb/>kein Umgang, weil ſie es im „Dickthun“ nicht mit ihm aufnehmen konn-<lb/>ten und ihm nicht ſchmeicheln wollten. Darin, daß Joſef nichts lernte,<lb/>hatte er inzwiſchen Recht. Joſef beſuchte wol ein Gymnaſium, aber die<lb/>Koſt war ihm dort zu ſchlecht, oder die Lehrer zu ungerecht, oder zu<lb/>Haus war eben das Obſt reif — kurz, er hielt weder bis zu Ende des<lb/>Semeſters aus, noch kam er pünktlich zum Beginn deſſelben an. Wenn<lb/>beide Jünglinge in H. waren, ſo vermieden ſie ſich nach wie vor, ſie<lb/>hätten den alten Groll vielleicht vergeſſen, wenigſtens Rüdiger, aber es<lb/>wuchs ein neuer dazu wie Unkraut zu Unkraut auf einem ſchlecht ge-<lb/>haltenen Acker, und dabei war der lang aufgeſchoſſene, ſchwankenden<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0107" n="61" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=107"/>
+            </p>
+            <p> <lb/>Ganges einherſtelzende Joſef gar feig, und die kräftige Jugend verachtete<lb/>nicht mehr als Furcht. Sie hat Recht, Feigheit ohne den Mantel der<lb/>Klugheit iſt die ſchwächſte der Schwächen. Die Jugend iſt die Zeit<lb/>der Thatſache, des Werdens, ſie verſteht alle poſitiven Seelenvorgänge,<lb/>indeß die negativen oder nur paſſiven ihr als widernatürlich und hem-<lb/>mend erſcheinen. Rüdiger und Joſef beobachteten einander, aber ſie ſpra-<lb/>chen nicht zuſammen: „Was würden auch dazu die Leute ſagen?" meinte<lb/>Joſef, „wir ſind es uns ſchuldig, wie Katz’ und Hund zuſammen zu leben,<lb/>Das liegt ſo im Blute von unſeren Voreltern her!"<lb/>
+            </p>
+            <p> <lb/>Einmal ſprachen ſie dann doch zuſammen, und das war ſo, als<lb/>wenn man eine erlöſchende Flamme wieder anbläſt. Die beiden Burg-<lb/>mannsſöhne hatten das militairpflichtige Alter erreicht, es war der ſo-<lb/>genannte Loſungstag Rüdiger ſtach der Aushebungscommiſſion gewal-<lb/>tig in die Augen, der alte Major ſchmunzelte ordentlich und ſtrich ſich<lb/>ein um’s andere Mal den katerſchwarz gefärbten Schnauzbart, eine Ge-<lb/>ſtalt feſt und elaſtiſch, blühend und durch Abhärtung geſtählt, Frohſinn<lb/>aus den offenen, blauen Augen lachend und männliche Ruhe von den<lb/>rothen, mit einem Bartanflug geſchmückten Lippen. Wenn alle militair-<lb/>pflichtigen Mütter des Städtchens mit in der Aushebungscommiſſion ge-<lb/>ſeſſen hätten, jede würde — nächſt ihrem eigenen Sohne natürlich —<lb/>dem der gleichgiltigen Holländerin den Preis des ſtattlichſten Jünglings<lb/>zuerkannt haben, gewiß mit dem Zuſage; „Die Frau hat Glück, andere<lb/>mühen ſich mit ihren Kindern und es wird nichts daraus, Die thut ſo<lb/>gut wie gar nichts und er wird von ſelbſt ſo wie ſie’s nur wünſchen und<lb/>ausdenken kann!"<lb/>
+            </p>
+            <p> <lb/>Wenn die Mütter ſchon nicht widerſtanden, wie viel weniger die<lb/>Aushebungscommiſſion. Rüdiger wurde für ein Cavallerieregiment be-<lb/>ſtimmt. Einen Moment wechſelte er die Farbe, der lange Joſef Backer<lb/>dachte, es wäre Furcht, dann aber verſicherte der Junker, er glaube, eine<lb/>ſolche militairiſche Carrière bleibe eine der angenehmſten Jugenderinne-<lb/>rungen für den Mann bis in’s höchſte Alter. Alsbald kam Backer an<lb/>die Reihe, er hatte ein bleiches, launiges, aufgedunſenes Geſicht, ſchlotte-<lb/>rige Glieder, und machte ſtets den Eindruck von Unſauberkeit ſelbſt in<lb/>ſeinen bunten Feſtgewändern, es lag in ſeiner Farbe, in ſeinen unfer-<lb/>tigen Zügen. Joſef Backer wurde als dienſtuntauglich in den nächſten<lb/>Jahrgang zurückgeſchoben, der Arzt verdächtigte ſeine Lunge, Niemand<lb/>wußte wie ſie beſchaffen war, die Lunge und das Herz hatten ſich noch<lb/>nicht hervorgethan, der Magen war gut, der Kopf mittelmäßig — ſo viel<lb/>wußte man.<lb/>
+            </p>
+            <p> <lb/>Während die Officiere noch mit Rüdiger wie zu ihres Gleichen<lb/>redeten, hatten ſich die Burſchen, deren Schickſal ſich heute ſo oder ſo<lb/>entſchied, in eine große und lärmende Gruppe zuſammengeſtellt; inmitten<lb/>derſelben Joſef, ſeine hohen Schultern, zwiſchen denen der dürftige Kopf<lb/>ſchaukelte, überragten den größern Theil ſeiner Altersgenoſſen. Es<lb/>wurmte ihn ungeheuer, daß die Commiſſion mit Rüdiger redete, ohne<lb/>ſich um den reichen Burgmannsſohn zu kümmern. Er mußte jetzt oder<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0108" n="62" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=108"/>
+            </p>
+            <p> <lb/>nie zeigen, daß er, Joſef, vor ihm, Rüdiger, auch nicht die Spur von<lb/>Furcht oder Reſpect habe und daß er ſich mit dem Junker gemein machen<lb/>könne wie er wolle. Kaum trat Rüdiger heraus, ſo rief ihm Joſef ent-<lb/>gegen: „Nun, Vetter, es thut mir leid, daß Du dran mußt, hätteſt Du<lb/>mir ein gutes Wort gegeben, ich würde meinen Alten ſchon breitgeſchla-<lb/>gen haben, daß er Dich loskauft, Du weißt, um der Verwandtſchaft<lb/>willen!"<lb/>
+            </p>
+            <p> <lb/>Rüdiger blieb ſtehen und blickte zu dem Sprecher hinüber. „Die<lb/>Scharpeborgs ſind mit den Kohbergs verwandt, aber nicht mit den<lb/>Backers, und wenn ſie es wären, ich würde die Blutsfreundſchaft nicht<lb/>anerkennen.“<lb/>
+            </p>
+            <p> <lb/>Joſef lachte ingrimmig verlegen. „Du ſpaßeſt doch immer, Vetter,<lb/>Du weißt aber gut genug, daß Du Dich der Kohbergs zu ſchämen haſt,<lb/>wo Du auf die Backers ſtolz ſein darfſt.“<lb/>
+            </p>
+            <p> <lb/>Rüdiger’s Geſicht nahm einen ſo bedrohlichen Ausdruck an, daß<lb/>handgreiflich jeder Spaß zwiſchen den Burgmannsſöhnen zu Ende war;<lb/>er trat dicht vor Joſef und die Burſchen ſtellten ſich zur Seite, als wäre<lb/>das nicht anders denkbar.<lb/>
+            </p>
+            <p> <lb/>„Joſef Backer“, rief Rüdiger, „ich rathe Dir, Dich in Wort und<lb/>That ſo zu halten, daß ich nie Urſache habe, Dir zu zeigen, wie ich für<lb/>jeden Buchſtaben des Kohbergnamens einſtehe, als wäre es mein eigener<lb/>— hört Ihr’s Alle, Haß und Feindſchaft hat keinen Tropfen des alten<lb/>Blutes in mir geändert, und mit jedem Tropfen ſtehe ich für die Ehre<lb/>der letzten Kohberg —! Du, Joſef, weißt noch von Alters her, daß es<lb/>nicht wohlgethan iſt, den armen Junker zu verſpotten!"<lb/>
+            </p>
+            <p> <lb/>Rüdiger lüftete leicht die Studentenmütze und ſchritt von hinnen.<lb/>
+            </p>
+            <p> <lb/>„Meint er die Thekla?" fragten Einige.<lb/>
+            </p>
+            <p> <lb/>„Ja, er meint die Magd!" antwortete Joſef verächtlich. Einige<lb/>lachten, Andere gingen nachdenklich von dannen.<lb/>
+            </p>
+            <p> <lb/>„Glaubſt Du die Geſchichte mit dem Hahnenſchritt bei jedem Voll-<lb/>mond?“ fragte Einer den Andern, als Joſef mit ſeinen Cumpanen in<lb/>der nächſten Schänke verſchwunden war.<lb/>
+            </p>
+            <p> <lb/>„Unſere Alten glauben es!“ entgegnete der Andere ausweichend.<lb/>
+            </p>
+            <p> <lb/>„Ganz recht — aber Du?“<lb/>
+            </p>
+            <p> <lb/>„Nun ich?“ Er ſchob die Mütze und kratzte ſich hinter den Ohren.<lb/>„Ja, wenn man nur genau wüßte, wie viel Hahnenſchritte von Wöſte-<lb/>fehn bis zum Kohberge ſind und wann er eigentlich angefangen hat;<lb/>möglich, er kommt erſt auf die Treppe und den Söl (Schwelle), wenn<lb/>ſie und wir lange todt ſind!"<lb/>
+            </p>
+            <p> <lb/>„Das iſt ſo — ihre Ausrüſtung liegt noch ſo zu ſagen in der<lb/>Erde — es hilft nichts, über dieſe Dinge nachzudenken! Ob <hi rendition="#aq">ſie</hi> ſelbſt<lb/>dran denken mag?"<lb/>
+            </p>
+            <p> <lb/>„Gott weiß es — und was hilft auch das Denken?"<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0109" n="63" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=109"/>
+            </p>
+            <p> <lb/>II.<lb/>
+            </p>
+            <p> <lb/>„Mein Spielmann, ſpiel’ das alte Lied,<lb/>Das Liedlein von der Liebe.<lb/>Mein Spielmann, Du verſtehſt mich ſchon,<lb/>Stimm an, ſtimm an im tiefen Ton<lb/>Das Liedlein von der Liebe!"<lb/>
+            </p>
+            <p> <lb/>Die Sonne blickte neugierig durch die Wipfel der Ulmen, Roß-<lb/>kaſtanien und Linden, als wolle ſie ſich überzeugen, ob in dem ſtillen,<lb/>ſchattigen Scharpeborg noch alte Bekannte wohnten — ja, ſie waren<lb/>noch da, der verlorene Strahl, welcher durchſchlüpfte, ruhte auf der<lb/>ſchneeweißen Haube der Wittwe und auf ihrer ruhigen, glatten Stirn.<lb/>Alles war an ihr geglättet und geſchlichtet, das mit einigen weißen<lb/>Fäden durchzogene Haar, das graue, knapp anliegende Kleid, die große,<lb/>weiße Schürze — nur die Schürze vorn ein wenig zerknittert, nicht<lb/>etwa durch das große Knäul des Strickzeugs, das in einem verſchloſſenen<lb/>Korbe lag, nein, durch einen blonden, krauſen Kopf, der ſich rückſichts-<lb/>los auf dieſelbe gebettet hatte — nicht der Kopf eines Kindes etwa,<lb/>nein, ein großer, dazu gehöriger Soldat, in lichtblauer Dragoneruniform,<lb/>lag im grünen Graſe, und dieſer verwegene Kriegsmann rauchte noch<lb/>obendrein eine Cigarre.<lb/>
+            </p>
+            <p> <lb/>„Haſt Du gar nichts mehr von Deinem Diamantſchmuck, Mama?"<lb/>fragte der Soldat, zu der Wittwe aufblickend.<lb/>
+            </p>
+            <p> <lb/>Dieſe lächelte mit einem an ihr ſeltenen, halb ſcherzenden Aus-<lb/>druck und ſagte: „Doch, mein Sohntje, die beſte Stein’ habe ich niet von<lb/>mir gethan, die andern ſind verkauft geworden an dem Tag von Deiner<lb/>Geburt und fiel Zins auf Zins, daß Du konnteſt ſtudiren davon!"<lb/>
+            </p>
+            <p> <lb/>„Du warſt damals noch jung und ſehr hübſch, wie Du das ja auch<lb/>noch heute biſt, Du warſt an Reichthum und Glanz gewöhnt und be-<lb/>gnügteſt Dich dann meinetwegen mit den ſchlichteſten, einfachſten Klei-<lb/>dern, Du begrubſt Dich gleichſam ſeit Vaters Tode und lebteſt nur der<lb/>Sorge für Deinen großen Schlingel!“<lb/>
+            </p>
+            <p> <lb/>Frau von Scharpeborg deutete auf das grüne Laubdach über ſich<lb/>und ſagte: „Ich habe mich ſo in’s Grüne und die Hoffnung von mein<lb/>Mutterherz hinein begraben und mein beſte Kleinod gehalten!"<lb/>
+            </p>
+            <p> <lb/>Sie legte die Hand auf Rüdiger’s Kopf und lächelte.<lb/>
+            </p>
+            <p> <lb/>Der Sohn erröthete tief, hob ſich raſch und im Antriebe eines<lb/>plötzlichen Gedankens in die Höhe und rief erſchrocken: „Mama, meinſt<lb/>Du mit dem beſten Kleinod etwa —?"<lb/>
+            </p>
+            <p> <lb/>„Das Beſte!" entgegnete ſie; „glaubt mein Sohntje, eine Chriſten-<lb/>mutter könnte nicht fühlen und ſagen, was die Römerin Cornelia hat<lb/>vor ihr geſagt und gefühlt — wofür haſt Du geſtudirt, Kind, wenn die<lb/>Hiſtorie ein todtes Wort in Deinem Leben iſt?“<lb/>
+            </p>
+            <p> <lb/>„O, Mutter!" ſprach er bewegt und kniete neben der einfachen<lb/>Frau nieder, „Cornelia hatte auch andere, größere Söhne!"<lb/>
+            </p>
+            <p> <lb/>„Meine Education war nicht gerichtet auf Größe, ich wollte Dich<lb/>gut und frohherzig und gottesfürchtig ſehen — das iſt die Unterſchei-<lb/>dung zwiſchen der römiſchen Mutter und der Wittfrau im Burgmanns-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0110" n="64" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=110"/>
+            </p>
+            <p> <lb/>hof. Deine Vorväter wollten alle größer ſein, als ſie konnten, und da<lb/>wurden ſie klein auf der Welt und thaten zu Grunde gehen — Du mußt<lb/>beginnen von vorn und ſelbſt werden, was Du willſt ſein!"<lb/>
+            </p>
+            <p> <lb/>„Haſt Du etwas von Thekla Kohberg gehört?" fragte Rüdi-<lb/>ger raſch.<lb/>
+            </p>
+            <p> <lb/>„Verhüte Gott, man hörte was von ihr — nein, geſehen hab’ ich<lb/>ſie vorübergehen ſtill und fleißig, je ſtiller eine Maid geht — um ſo<lb/>beſſer!"<lb/>
+            </p>
+            <p> <lb/>Rüdiger warf den Reſt ſeiner Cigarre in’s Gebüſch und ſchritt um<lb/>die netten Blumenbeete herum, die kurze Allee hinab bis zur grünen<lb/>Lattenpforte, welche das Gehöft abſchloß, er wollte einen Blick hinüber-<lb/>werfen auf die Feindesburg, die er von klein auf geſehen und, wie eine<lb/>gefeite Inſel, nie beſucht hatte. Auf der Straße gingen gemächlich ein<lb/>paar Bürgersleute in Hemdärmeln und rothen Pantoffeln, denn es war<lb/>ein ſonniger Sonntagnachmittag. Plötzlich unterbricht ein Rollen die<lb/>Stille, aus der alten, bei jeder Bewegung aufkreiſchenden Gitterpforte<lb/>des Kohbergs biegt eine elegante Halbchaiſe auf die Gaſſe, im Fond<lb/>derſelben brüſten ſich Herr Jan Backer und ſein Sohn, auf dem Rückſitz<lb/>haben Frau Backer, zwei halberwachſene Töchter und ein ganz kleines<lb/>Mädchen Platz genommen. Frau Backer war von geringem Herkommen<lb/>und fuhr ſtets rückwärts, ging ſie aber mit Mann oder Sohn, ſo ſchrit-<lb/>ten dieſelben allemal fünf oder ſechs Schritte vor ihr und den Töchtern<lb/>drein. Gewiß hätte Jan Backer eine beſſere und reichere Heirath thun<lb/>können als dieſe, aber die willenloſe Unterordnung und unbegrenzte Be-<lb/>wunderung der Backer’ſchen Lebensſtellung gab dieſer Frau den Vorzug<lb/>und wenn auch Jan Backer ſeine Gattin nie vergeſſen ließ, daß er ſie<lb/>aus dem Nichts einer Biermamſell auf ihre jetzige ſchwindelnde Höhe<lb/>als Schloßfrau gehoben hatte, ſo bewährte ſie ſich dagegen in ihrer<lb/>demüthigen Haltung vor der Backer’ſchen Größe einerſeits und in einer<lb/>beinah’ erdrückenden Würde andererſeits allen anderen Sterblichen gegen-<lb/>über. Sie war als Braut, um ihrem neuen Range zu genügen, ein<lb/>halbes Jahr in ein Inſtitut geſchickt, deſſen Erziehung ihr wirklich viel<lb/>Feines gegeben hatte, das ſie durch eigene Nachbildung vervollſtändigte.<lb/>Namentlich hatte ſie eine große Vorliebe für Fremdwörter. Sie ließ die<lb/>Leute nicht „exiſtiren“, ſondern „exerciren“, als wäre die ganze Menſch-<lb/>heit ein großes Armeecorps, und bei großer Wärme ließ ſie Alles<lb/>„transportiren“, ſtatt des „Tranſpirirens“; ſie ward nach ihrer Krank-<lb/>heit mager wie eine ägyptiſche „Muhme", und ſchmückte ſich mit einem<lb/>italieniſchen „Cameelſchmuck“, ſtatt der „Cameen“, obgleich ſie auch hätte<lb/>„Moſaiſche“ Schmuckſachen um denſelben Preis kaufen können.<lb/>
+            </p>
+            <p> <lb/>Herr Backer wußte nicht, woher ſeine Frau all’ den gelehrten<lb/>Kram nähme, und meinte, wenn jetzt ſeine Mädchen auch nicht viel<lb/>lernten, ein halbes Jahr Inſtitut würde ſchon über und über genug<lb/>nachhelfen, das ſei bei ſeiner Frau eben ſo geweſen. Das „<hi rendition="#b">Honneur</hi>
+               <lb/>
+               <hi rendition="#b">aux dames</hi>“ war ihm nie zum Bewußtſein gekommen, deshalb ließ er<lb/>ſich getroſt von ſeiner ſchönern und ſchwächern Hälfte die „Honneurs“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0111" n="65" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=111"/>
+            </p>
+            <p> <lb/>machen und ſaß gemächlich mit Joſefus im Fond der Halbchaiſe. Als<lb/>Rüdiger die Vergnüglinge vorüberfahren ſah, trat er unwillkürlich einen<lb/>Schritt zurück, um Joſef’s forſchendem Blick nicht zu begegnen. Der<lb/>aufgeblaſene Burgmannsſohn brauchte nicht zu wiſſen, daß Rüdiger<lb/>geſtern Abend für einen kurzen Urlaub angekommen war.<lb/>
+            </p>
+            <p> <lb/>Mit verdüſterter Stirn ging er wieder zu ſeiner Mutter und ſagte<lb/>zornig: „Sie ſind doch gar zu gemein!"<lb/>
+            </p>
+            <p> <lb/>„Wer denn?" fragte Mefrau gelaſſen.<lb/>
+            </p>
+            <p> <lb/>„Die Backers — da fahren ſie wieder hin und Thekla kann zu<lb/>Hauſe ſitzen und den faulen Mammon bewachen, den ſie zuſammen-<lb/>ſcharren und ſchachern, — es iſt eine Schande!"<lb/>
+            </p>
+            <p> <lb/>„Daß Thekla ihre Schuldigkeit thut?"<lb/>
+            </p>
+            <p> <lb/>„Nein, daß ſolch’ ein Pilz ſo reich iſt!"<lb/>
+            </p>
+            <p> <lb/>„Mein Sohntje, gönne Jedem Jedes, wenn Du das Deine haſt!<lb/>Unſere Ernte ſteht gut, unſer Vieh iſt geſund und ergiebig — wenn Du<lb/>findeſt niet ehrenvoll nach Vermögen zu trachten, ſo iſt Deine Mutter<lb/>eine quade, ehrloſe Frau!"<lb/>
+            </p>
+            <p> <lb/>Rüdiger küßte die milde Hand ſeiner Mutter.<lb/>
+            </p>
+            <p> <lb/>„Ja, Du biſt eine quade Frau, weil Du immer das letzte und<lb/>rechte Wort haſt, ich verdiene gar nicht ſolch’ eine Mama — aber weißt<lb/>Du, wenn ich an Thekla denke und daß ſie mit ſolchen Menſchen leben<lb/>muß —!“<lb/>
+            </p>
+            <p> <lb/>„Wär’s in Deinem Wunſch, ich nähme Thekla zu mir.“<lb/>
+            </p>
+            <p> <lb/>„O, Mama, Du biſt ein Engel! Welch’ ein Glück für das arme<lb/>Kind! Vorzüglich auch, weil — weil, wie man ſagt, Joſef Backer ſie<lb/>mit ſeiner Liebe verfolgt!"<lb/>
+            </p>
+            <p> <lb/>„In dem Fall wäre es beſſer, Thekla verbleibt, wo ſie iſt, beſſere<lb/>Verſorgung kommt ihr nicht!"<lb/>
+            </p>
+            <p> <lb/>„Ja“, ſtimmte Rüdiger erröthend bei, „was das Geld anlangt,<lb/>wohl, aber — aber — der Alte giebt es auch gar nicht einmal zu,<lb/>der Narr!"<lb/>
+            </p>
+            <p> <lb/>„Jedermann ſorgt für ſeine Familie, wie er’s einſieht. Anbieten<lb/>können wir’s ihr; aber durch wen?"<lb/>
+            </p>
+            <p> <lb/>„Als wir noch Kinder waren“, antwortete der Dragoner raſch,<lb/>„pflegte ich, wenn ich irgend etwas Gutes für Thekla hatte, draußen am<lb/>Graben das Lied von der wunderſchönen Anna zu pfeifen, vielleicht, daß<lb/>ſie ſich deſſen erinnert, wenn ich’s noch einmal verſuche!"<lb/>
+            </p>
+            <p> <lb/>„Thu’, wie Du denkſt, Du mußt Dir Deinen Weg jetzt ſelbſt<lb/>ſuchen!" ſchloß Frau von Scharpeborg das Geſpräch und erhob ſich, um<lb/>nach ihrer Haushaltung zu ſehen.<lb/>
+            </p>
+            <p> <lb/>Rüdiger griff nach ſeiner Mütze, ſchritt dem ehemaligen Stadtthor<lb/>zu und betrat von dort aus den Stadtwall, an welchem die Gärten der<lb/>Bürgersleute lagen. Neben dem Burgmannshof der Kohbergs bildete<lb/>der Wall einen bedeutenden Bogen und ward durch einen tiefen Graben<lb/>von der Beſitzung getrennt. An einer beſtimmten Stelle lag das Burg-<lb/>gebäude rechtwinkelig gegen den Wall und die Buben des Ortes wußten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0112" n="66" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=112"/>
+            </p>
+            <p> <lb/>hier war ein doppeltes Echo, eine akuſtiſche Erſcheinung, die den Beſitzer<lb/>ſchon oft genug geärgert hatte, denn wenn die Schuljugend daſelbſt<lb/>„Backer" rief, antwortete es am Schloß herunter und nach dem Buſch<lb/>im Garten und der verfallenen Gloriette zu: „Ba — Ba — Backer!"<lb/>— Frau Backer bemerkte oft achſelzuckend: Die heutige Jugend habe<lb/>nicht die mindeſte Bildung und keinen „Proſpect“ vor angeſehenen<lb/>Leuten — aber die Buben und das Echo wurden nun einmal nicht<lb/>reſpectvoller.<lb/>
+            </p>
+            <p> <lb/>An dieſe gefährliche Stelle poſtirte ſich der große Dragoner Rüdi-<lb/>ger und pfiff mit vieler Kunſtfertigkeit das Lied von der wunderſchönen<lb/>Anna, die ſo ſehr weinte. Die Klänge ſchlüpften an der langen Fenſter-<lb/>reihe vorüber, als ſuchten ſie eines, in welches ſie hineinſchlüpfen und<lb/>ihre Botſchaft, draußen warte Jemand, ausrichten könnten. Es dauerte<lb/>wirklich nicht lange, da zeigte ſich an einem dieſer Fenſter etwas goldig<lb/>Leuchtendes und zog ſich alsbald wieder zurück, bald darauf bewegte ſich<lb/>eine Frauengeſtalt behenden Schrittes durch die Taxushecken und nun<lb/>ſetzte ſich auch der junge Soldat den Graben entlang in Bewegung.<lb/>Noch bemerkte Rüdiger, wie die wandelnde Frau mit ſicherm Schritt<lb/>über ein ſchmales Bret ging, das den Garten mit dem Wall, über den<lb/>ſumpfigen Ringgraben hinübergelegt, verband, er verließ, rechts ab<lb/>ſchwenkend, dieſen Wall und verlor ſich in die mit Buſchwerk und Erlen-<lb/>geſtrüpp eingefaßten Wieſenwege. Hier ſetzte er ſich auf eine alte Weide,<lb/>die halb entwurzelt und an der Erde liegend ſeit Menſchengedenken<lb/>luſtig weiter grünte. Rüdiger’s Gedanken waren zu ausſchließlich auf<lb/>das Wiederſehen des jungen Mädchens gerichtet, als daß er daran den-<lb/>ken ſollte, auch <hi rendition="#aq">er</hi> ſelbſt und ſie ſeien Aeſte eines halb entwurzelten,<lb/>niedergeſchleuderten und doch lebensfriſchen Stammes. Jetzt nahte<lb/>Thekla von Kohberg, ſie trug Holzſchuhe an den Füßen und den Anzug<lb/>einer ausländiſchen Bauermagd, nur das Mützchen der Bäuerinnen und<lb/>die kurz verſchnittenen Haare zeigte ſie nicht, ſondern ſie hatte ihre gold-<lb/>blonden Zöpfe hinter den Ohren aufgeflochten und um den Kopf gelegt.<lb/>Wenn Rüdiger ſie nicht eben ſah und ſich dachte: Die Tochter eines<lb/>uralten Geſchlechts iſt eine arme Magd! dann hätte er ſie voll Mit-<lb/>gefühl hinausreißen und retten mögen; wenn er das Mädchen aber er-<lb/>blickte, dann ward ihm, als wäre ſie immer dieſelbe, ſowol im groben<lb/>Rock von Haidſchnuckenwolle, als im Seidenkleid, und als könnten ihr<lb/>die Verhältniſſe nichts anhaben, ſie blieb auch in Holzſchuhen und mit<lb/>hartgearbeiteten Händen das Fräulein von Kohberg.<lb/>
+            </p>
+            <p> <lb/>Thekla’s Geſtalt reichte faſt über Mittelgröße und war beſonders<lb/>ebenmäßig, wenn auch eher kräftig als zart, ihr Haar war, wie ſchon<lb/>erwähnt, goldblond und ſpielte in’s Röthliche, ihre Geſichtszüge beſtimmt<lb/>und gar blühend gefärbt. Sie wäre immer ein hübſches Mädchen geweſen<lb/>mit dieſem Geſichtsſchnitt und dem ſchönen Incarnat der Wangen, auch<lb/>wenn nicht ein beſonderer Umſtand noch hinzugekommen wäre, der, daß<lb/>Thekla große, ſtille, braune Augen hatte, Madonnenaugen, wie Rüdiger<lb/>
+               <pb facs="#0113" n="67" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=113"/>
+            </p>
+            <p> <lb/>ſagte, die den Eindruck des röthlichen Haars und der damit verbundenen<lb/>hervorſtechend gemalten Hautfarbe vertieften und verſöhnten.<lb/>
+            </p>
+            <p> <lb/>„Guten Tag, Couſine“, redete ſie Rüdiger, ſich erhebend an, „ich<lb/>bin geſtern auf Urlaub gekommen und da die Backers ausfuhren, dachte<lb/>ich nachzuſehen, wie es Dir geht.“<lb/>
+            </p>
+            <p> <lb/>„Es geht mir gut, Vetter, danke. Auch deſſentwegen danke ich<lb/>Dir, was Du bei der Loſung ſagteſt, obwol Du nicht gut thateſt, ſo zu<lb/>reden!“<lb/>
+            </p>
+            <p> <lb/>„Wie meinſt Du das, Thekla?"<lb/>
+            </p>
+            <p> <lb/>„Ich meine, Eine, die Kohberg heißt, kann ſich ſelbſt wehren und<lb/>braucht Niemanden dazu zu beſtellen!"<lb/>
+            </p>
+            <p> <lb/>„Ich beſtellte mich ſelbſt dazu und werde das immer thun, Du biſt<lb/>ein ſchutzloſes Mädchen!“<lb/>
+            </p>
+            <p> <lb/>„Denk’ nicht ſo, Vetter; wer in meiner Schule aufwächſt, iſt nicht<lb/>ſchutzlos. Wenn man einen Namen ganz für ſich allein hat und weiter<lb/>nichts auf der Welt, dann ſchreckt nur Eins: dieſem Namen zu nahe zu<lb/>treten; aber ich hüte ihn!"<lb/>
+            </p>
+            <p> <lb/>„Du biſt brav, Thekla", ſagte Rüdiger, nachdem ſie ſich Beide<lb/>neben einander auf den Weidenſtamm geſetzt hatten, „meine Mutter ſagt<lb/>auch, daß Du ein gutes Mädchen biſt. Du weißt, ſie iſt ſo viel allein<lb/>und denkt, es wäre am beſten, Du kämeſt zu ihr, bei den Backers iſt<lb/>doch keine Freude und kein Dank für Dich!“<lb/>
+            </p>
+            <p> <lb/>Thekla ſah ihn erſtaunt an und entgegnete nach kurzem Sinnen:<lb/>„Mich freut das von Dir und Deiner Mutter; aber ich kann nicht zu<lb/>Euch kommen, ich gehöre einmal auf den Kohberg und muß auch da<lb/>bleiben!"<lb/>
+            </p>
+            <p> <lb/>„Unſinn!" brauſte Rüdiger auf, „nichts zwingt Dich, Dein Leben<lb/>dort traurig und gedrückt verkümmern zu laſſen, freundlos zwiſchen den<lb/>Räubern Deines Erbtheils!"<lb/>
+            </p>
+            <p> <lb/>Thekla ſah zu Boden und fuhr mit der Spitze ihres Holzſchuhs<lb/>langſam über den kurz abgeweideten Raſen:<lb/>
+            </p>
+            <p> <lb/>„Ich bin nicht freundlos, Vetter, die Alten ſind bei mir, ich kann<lb/>ſie auch nicht verlaſſen, ſie ſehen mich mit meinem eigenen Geſicht und<lb/>meinen eigenen Augen an!"<lb/>
+            </p>
+            <p> <lb/>„Um Gottes Willen — welche Alten meinſt Du?"<lb/>
+            </p>
+            <p> <lb/>„Weißt Du’s nicht, Vetter, die Bilder! Die ganze Wand im<lb/>Saal iſt mit Holz bedeckt und in dem Holze ſind die Bilder feſt, ich<lb/>kenne ſie alle gut und ſie kennen mich. Der Letzte, weißt Du, den ſie in<lb/>Wöſtefehn begruben, hängt ganz allein an einer Wand, er hat viele<lb/>krauſe, lange Haare, ſo wie Rauchwolken, einen rothen Rock und Spitzen<lb/>um die Hände!"<lb/>
+            </p>
+            <p> <lb/>„Kennſt Du die Geſchichte, weshalb er weit ab in die Haide hin-<lb/>aus begraben wurde?"<lb/>
+            </p>
+            <p> <lb/>Thekla nickte mit dem Kopfe. „Meine Tante ſelig, die Kloppe, bei<lb/>der ich bis zu meinem zehnten Jahre war, wo ſie dann verſtarb, hat mir<lb/>wol Alles erzählt."<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0114" n="68" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=114"/>
+            </p>
+            <p> <lb/>„Ach ja, die Kloppe (Nonne)“, unterbrach Rüdiger lebhaft, „ſie<lb/>lebte hier als die Letzte aus ihrem Kloſter, das in der franzöſiſchen Zeit<lb/>aufgehoben wurde! Ich ſehe ſie noch wie heute, als ſie Dich verloren<lb/>hatte und ich Dich dann in der Kirche wiederfand, wo ſie Dich im Eifer<lb/>des Beichtens vergeſſen. An dem Tage hörte ich zum erſten Mal,<lb/>daß ich eine Couſine habe, und ich entdeckte Dich ſchlafend in einem<lb/>alten, dunklen Kirchenſtuhl — denkt Dir’s wol noch, daß ich Dich auf<lb/>meinen Armen herauftrug und Du Deinen kleinen Kopf ganz müde an<lb/>mich legteſt?"<lb/>
+            </p>
+            <p> <lb/>Thekla nickte ernſthaft: „Freilich, Du ſchenkteſt mir eine Hand voll<lb/>Haſelnüſſe nebſt einem Kreiſel und Allem, was Du in der Taſche hatteſt,<lb/>ſogar Dein buntes Halstuch, als es mir gefiel; ich mußte Dir das Tuch<lb/>aber wieder bringen, denn die Kloppe, meine Tante ſelig, wollte nicht,<lb/>daß ich Geſchenke von den Scharpeborgs annähme, ſie war meines<lb/>Vaters ſeligen Schweſter und auch eine Kohberg. Du ſagteſt mir ſpäter,<lb/>Früchte und Kuchen ſeien gar keine Geſchenke, ſondern nur Gaben und<lb/>ich bekam von Allem, was Du Gutes hatteſt — es iſt lange her, Vetter!<lb/>Nun mag’s an acht oder neun Jahr ſein, daß mich die Backers „Schande<lb/>halber“ und wegen des Geredes der Leute zu ſich nahmen, nachdem<lb/>Tante hinging und ich Niemanden hatte!"<lb/>
+            </p>
+            <p> <lb/>„O, wenn ich damals zu Hauſe geweſen wäre!"<lb/>
+            </p>
+            <p> <lb/>Thekla lächelte: „Eine Kohberg gehört nicht unter Euer Dach!"<lb/>
+            </p>
+            <p> <lb/>„Aber“, brauſte Rüdiger auf, „die Backers haben Euch Schlimmeres<lb/>gethan, ſie haben Euch beraubt, wenn nicht ſie, ſo doch ihr Vorfahr,<lb/>der Meſſire Detroi, der ein noch ſchlechterer Kerl war als die Backers,<lb/>welche die Erbtochter und das Erbe heiratheten!"<lb/>
+            </p>
+            <p> <lb/>„Nein, Vetter“, gegenredete Thekla, „wenn ſich Brüder zürnen, das<lb/>iſt ſchlimmer und ſie werden in jedem Blutstropfen feindlicher, als<lb/>wenn andere Leute das thun, was ſchon ihrer Natur angeboren iſt,<lb/>rauben und ſtehlen — es iſt ein Anderes, <hi rendition="#aq">niedrig</hi> ſtehen, oder ſich<lb/>
+               <hi rendition="#aq">erniedrigen</hi>!"<lb/>
+            </p>
+            <p> <lb/>„Aber Baſe, die <hi rendition="#aq">Kohbergs</hi> erniedrigten ſich, indem ſie ihren Bruder<lb/>vertrieben und verſtießen, nicht der <hi rendition="#aq">Vertriebene</hi> hatte Unrecht, ſondern<lb/>die Verfolger!"<lb/>
+            </p>
+            <p> <lb/>Thekla ſchlug ihre großen braunen Augen zu ihm auf: „Vetter,<lb/>unſere Art läßt ſich todtſchlagen, aber nicht vertreiben, wenn ſie im<lb/>Rechte iſt — Scharpeborg ging, weil er wußte, er hatte Unrecht, er<lb/>ſetzte ſich ſeinem Bruder gegenüber und handhabte alle Luſt und Laſt<lb/>des ältern Bruders, weil er Unrecht hatte und es mit neuem Unrecht<lb/>zudecken mußte — ſieh, und weil ich ein Recht habe hier in Kohberg zu<lb/>leben, deshalb gehe ich nicht, und weil ich ein Recht habe hier zu leben,<lb/>deshalb haſſe ich die Backers nicht und nehme ihren Vortheil nach<lb/>Kräften wahr — wer gerecht iſt, dem widerfährt Gerechtigkeit!"<lb/>
+            </p>
+            <p> <lb/>„Wer lehrt Dir dieſe Dinge?"<lb/>
+            </p>
+            <p> <lb/>„Die Kraft des Geiſtes wächſt über dem Unglück und der Ver-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0115"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0116"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0117"/>&lt;Abbildung&gt;<lb/>
+            </p>
+            <p> <lb/>Die Burgmannshöfe.<lb/>
+            </p>
+            <p> <lb/>„Vetter, unſere Art, läßt ſich todtſchlagen, aber nicht vertreiben, u. ſ w.“ (Seite 68).<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0118"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0119" n="69" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=119"/>laſſenheit, wie das Korn in dem zerriſſenen Erdreich — er iſt nicht mehr<lb/>fern und da wird’s mit einem Schlage anders —!“<lb/>
+            </p>
+            <p> <lb/>„Wie, Thekla — Du glaubſt — —?“ ſtaunte Rüdiger.<lb/>
+            </p>
+            <p> <lb/>„Hat <hi rendition="#aq">ſie ihn</hi> nicht verflucht, er ſolle umgehen, einen Hahnenſchritt<lb/>bei jedwedem Vollmond, und kommen eh’ des Lammes goldenes Vließ<lb/>weiß wird? — Du ſiehſt, ich habe gelbe Haare und er hat Zeit bis ſie<lb/>greis werden!"<lb/>
+            </p>
+            <p> <lb/>„Erzähl’ mir die Geſchichte in einer Reihe!"<lb/>
+            </p>
+            <p> <lb/>Thekla verſchlang ihre Hände um das Knie, heftete ihre Augen<lb/>auf die Erlenbüſche, um welche einige dunkle Falter ſchwebten und be-<lb/>gann: „Es ſaß auf der Burg eine Wittfrau Kohberg, die hatte ſo<lb/>gelbes Haar und ſolche braunhaftige Augen wie ich, auf ihrem Bilde<lb/>trägt ſie ein blaues Kleid und an ihrem nackten Halſe funkeln Perlen<lb/>und Geſchmeide und hängen in dicken Schnuren, gleich Waſſertropfen,<lb/>auf die Bruſt herunter. Sie hatte ein einiges Kind, einen Sohn, und<lb/>als der zu ſeinen Jahren kam, ritt er mit dem Kaiſer in den Krieg und<lb/>blieb viel lange Zeit in fremden Landen. Während des kam viel Kriegs-<lb/>volk hier in die Stadt und auch ein junger Oberſter, den ſie Meſſire<lb/>Detroi nannten und der aus fremden Landen ſtammte. Er wußte der<lb/>Wittfrau ſo viel von ſeiner Liebe zu ſagen, daß ſie ihn heirathete und<lb/>er in der Burg wie ein natürlicher Herr ſchaltete und waltete. Die<lb/>Frau hatte nun noch zwei Kinder, einen Sohn und eine Tochter, aber<lb/>mit der Einſamkeit war auch ihre Freude dahin, ihr Mann war rauh<lb/>und untreu und ihre Kinder ungehorſam. Die Kinder ſtehen auch ab-<lb/>gemalt mit Blumen und Aepfeln und kleinen Hunden. Sie ſind mit<lb/>rothen Mänteln und nackten Füßchen wie die Engel, aber ſie waren keine<lb/>Engel und ihre Mutter ſtarb vor Kummer. Als die Detrois eben<lb/>dachten, ſie hätten jetzt ganz freies Spiel auf Kohberg und in Saus und<lb/>Braus lebten — da kam auf einmal der rechte Erbe Kohberg mit Sack<lb/>und Pack, mit Weib und Kind und fand den Kukuk im Neſte; aber er<lb/>verglich ſich mit ſeinem Stiefvater und ſeinen Stiefgeſchwiſtern und ſie<lb/>hauſten Alle mit einander. Dieſer Kohberg ſteht im Bilde ſehr auf<lb/>Dich, Vetter, eben ſolches Haar und groß und ſtark und blaue Augen,<lb/>aber älter und kränker als Du, denn er hatte im Kriege eine ſchwere<lb/>Wunde erhalten die nicht heilen wollte und an welcher er im fünfund-<lb/>vierzigſten Jahre ſeines Alters verſtarb. Nun ſtanden an der Gruft in<lb/>der Burgkapelle Detroi und ſeine beiden Kinder und die junge Witt-<lb/>frau Kohberg mit zwei unmündigen Söhnen. Sie iſt mit Beiden abge-<lb/>ſchildert, der Aelteſte trägt ein ſeidenes Mäntelchen über die Schulter<lb/>und Schleifen an den Knieen und ſieht mit braunen Augen und gelben<lb/>Haaren heraus, der zweite iſt im ſchwarzen Sammetkleid und dunkel<lb/>von Haut und Augen, wie ſeine Mutter, deren ſchmales Geſicht unter<lb/>einer ſchwarzen Haube hervorſieht, als wäre ſie außen Stein und innen<lb/>Feuer. Der älteſte Sohn iſt mein Aeltervater und der zweite wurde<lb/>geiſtlich. Wie nun eine Einrichtung mit der Erbſchaft gemacht wurde<lb/>und die fremde Frau ihrer Kinder Eigenthum forderte, da ſagte Meſſire<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0120" n="70" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=120"/>
+            </p>
+            <p> <lb/>Detroi: „der rechte Herr iſt todt, zeig’ mir nun die Beweiſe, daß Du<lb/>und Deine Kinder ein beſſeres Recht an Kohberg haben, als meine<lb/>Kinder an die Erbſchaft ihrer Mutter!" — Die fremde Frau ging<lb/>gleich an ihre große Truhe, welche heute noch mit zwei bunten Wappen<lb/>bemalt daſteht. Sie wußte, genau wohin ſie ihren Trauſchein und die<lb/>Taufſcheine ihrer Junker verwahrt hatte — aber wie ſie auch ſuchte,<lb/>dieſelben waren nicht wiederzufinden und ſind bis auf dieſen Tag nicht<lb/>wiedergefunden, ſo viel Proceſſe, Schreiberei und Gerede auch darüber<lb/>entſtand. Meſſire ſagte alsbald, er hätte ſchon ſogleich gemerkt, wo der<lb/>Haaſe im Pfeffer liege und was für eine Kameradin ſich der Verſtorbene<lb/>im Heereslager aufgeleſen habe — das Ende vom Liede war denn auch,<lb/>daß die fremde Frau mit ihren Söhnen abzog Detrois jubelten und<lb/>glaubten, ſie hätten das Spiel gewonnen weil ſie nun lange nichts mehr<lb/>von der Familie hörten, welcher ſie ihren Beſitz und ihre Ehre geraubt<lb/>hatten. Meſſire Detroi wurde alt und fürchtete ſich gewaltig vor dem<lb/>Sterben, da kam eines Tages durch die Pforte, die wie von ſich ſelbſt<lb/>aufging, und über die Zugbrücke, eine Proceſſion wie ein Grabgefolge.<lb/>Diejenige, welche ſie trugen, hinter ihr ihre beiden Söhne, war die ver-<lb/>triebene Frau von Kohberg. Sie lebte zwar noch, aber der Tod ſtand<lb/>ſchon, wie ein Erlöſungsengel, an ihrer Seite; ſie lebte allerdings noch,<lb/>aber ſie rechnete nur auf eine einzige letzte Stunde in ihrem Eigenthum.<lb/>Man ſetzte die Bahre mit der Sterbenden mitten im Saale nieder und<lb/>ſie befahl, man ſolle ſieben geweihte Kerzen um ſie anzünden, „denn“,<lb/>ſagte ſie leiſe, „ſieben werden es ſein!“ Einige verſtanden darunter ſie<lb/>wolle ſieben Teufel aus der Burg austreiben, andere deuteten dahin,<lb/>nach ſieben Geſchlechtern werde Kohberg zurückfallen. Alle Leute aus<lb/>der ganzen Stadt drängten ſich herzu, nur von den Detrois war Keiner<lb/>zu erblicken. Nachdem der geiſtliche Sohn viel und erbaulich gebetet<lb/>hatte, ſagte die fremde Frau ganz laut und wie im vollen Leben: „Der-<lb/>jenige, welcher das Verbrechen an mir und meinen Kindern beging, das<lb/>uns in Noth und Schande ſtürzte, wird keine Ruh’ im Grabe haben bis<lb/>ſeine That geſühnt iſt. Das Recht kommt, wenn auch langſam wie ein<lb/>Hahnenſchritt, der Vollmond ſcheint darauf bis es an’s Licht der Sonne<lb/>kommt. Ehe das goldene Vließ des Lammes weiß wird, tritt die Sühne<lb/>über dieſe Schwelle!" — Dann lächelte ſie, befahl Gott ihre Seele und<lb/>ſtarb. Die Leiche ward in unſere Gruft geſetzt, alle Bürger der Stadt<lb/>waren dabei und Meſſire Detroi konnte nichts dagegen machen. Beim<lb/>nächſten Vollmond ſtarb Meſſire Detroi, ſeine Kinder ſcharrten die Leiche<lb/>Nachts in der Stille im Wörtefehn ein, außer dem Weichbilde der Stadt.<lb/>Der Sohn des Verfluchten ſtarb ohne Nachkommen am Zehrfieber, die<lb/>Tochter heirathete einen gemeinen Mann Namens Backer. Sieh’ Vetter,<lb/>nun warteten die Kohbergs immer auf ein Kind mit gelben Haaren und<lb/>durch ſechs Geſchlechter waren ſie ſchwarz oder braun, ich bin die Erſte,<lb/>die ein goldenes Vließ hat. So iſt das Geſage."<lb/>
+            </p>
+            <p> <lb/>Thekla ſprach das Alles ſo ruhig, als ob ſie einem Kinde Mär-<lb/>chen erzähle, ſie empfand keine Ungeduld oder ſelbſtiſche Erregung, ſie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0121" n="71" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=121"/>
+            </p>
+            <p> <lb/>wartete nicht für ihre Perſon, ſondern für ihr Recht und ihren Namen.<lb/>Nach einer Pauſe ſagte Rüdiger: „Du mußt von dieſen Backers, ſie<lb/>könnten Dir ein Leid anthun!"<lb/>
+            </p>
+            <p> <lb/>„O nein —“, beruhigte Thekla, „ſie fürchten die Bilder und die<lb/>Todten, und Du weißt, die Gruft iſt den Kohbergs geblieben und wer<lb/>mit dieſem Namen kam, dem iſt ſie aufgeſchloſſen, zuletzt der Tante<lb/>ſelig — das eine Erbe ließen ſie uns, unten in der Burgkapelle!"<lb/>
+            </p>
+            <p> <lb/>„Aber — bedenkſt Du auch, daß die Leute von Dir und Joſef<lb/>Backer reden? Er ſagt überall, daß er Dich heirathet, ſobald ſein Vater<lb/>die Augen zuthut!"<lb/>
+            </p>
+            <p> <lb/>„O, die Augen ſtehen noch weit genug offen — was er ſagt iſt<lb/>einerlei, aber was ich thue nicht; an mir ſehen die Leute, daß es nichts iſt<lb/>mit uns Zweien. Wenn ich jetzt zu Euch zöge, käme ich mit Dir in’s<lb/>Gerede und das wäre ſchlimmer!<lb/>
+            </p>
+            <p> <lb/>„Weshalb ſchlimmer?"<lb/>
+            </p>
+            <p> <lb/>„Für den Joſef bin ich klug genug, aber für Dich viel zu einfach;<lb/>ſo iſt es beſſer, ich laſſe vom Möglichen reden als vom Unmöglichen!“<lb/>
+            </p>
+            <p> <lb/>„O Thekla, fragt man denn: was haſt Du gelernt? wenn man<lb/>gut und rechtſchaffen iſt und für einander leben und ſterben möchte —?“<lb/>
+            </p>
+            <p> <lb/>„Weshalb ſagſt Du mir das, Vetter?"<lb/>
+            </p>
+            <p> <lb/>„Weil ich in dieſer Stunde fühle, ſo wie ich mein Daſein fühle,<lb/>daß es kein zweites Mädchen giebt, das ich neben Dich ſtellen möchte!<lb/>Alles was ich gewollt, gelernt und geſtrebt habe, ich wollte und that es<lb/>im Andenken an meine Mutter und Dich, mir iſt, als gäbe es eigentlich<lb/>nur uns Dreie in der Welt!“<lb/>
+            </p>
+            <p> <lb/>„Das kommt“, ſagte Thekla, ohne ihre Stellung zu verändern,<lb/>„weil die Liebe einen ſo großen Raum vor unſeren Augen einnimmt, wie<lb/>der Himmel über der Erde; wir verſtehen nur das Licht, nicht die<lb/>Schatten!"<lb/>
+            </p>
+            <p> <lb/>„Thekla!" rief Rüdiger und erfaßte ihre Hand, „wie kommt Dir ſo<lb/>etwas — wie weißt Du das — Du mußt Jemanden lieb haben, um ſo<lb/>zu ſprechen!"<lb/>
+            </p>
+            <p> <lb/>Thekla ſchloß einen Moment die Augen, als wollte ſie in ſich nach-<lb/>forſchen, woher ihr dies Erkennen gekommen, dann ſah ſie langſam<lb/>und voll zu ihm empor und ſagte langſam: „Jeder weiß es von Geburt<lb/>an, es liegt in uns und wächſt in uns, aber ich rechne Die, welche es<lb/>nicht erlebten, ſtellen es ſich gerade am Herrlichſten vor! — Du haſt<lb/>Deine Mutter — aber ich — —“, ihre Stimme brach und ſie barg das<lb/>Geſicht in die Hände.<lb/>
+            </p>
+            <p> <lb/>„Es muß Dir aber doch einer lieber ſein als der Andere“, fiel<lb/>Rüdiger beunruhigt ein.<lb/>
+            </p>
+            <p> <lb/>Sie antwortete nicht, wiſchte ſich die Augen und ſtand auf: „Ich<lb/>muß gehen, Vetter, die anderen Mägde dürfen keinen Makel an einer<lb/>Kohberg finden — Adje, und Dank für Deine gute Meinung!"<lb/>
+            </p>
+            <p> <lb/>„Gehſt Du ſo?“ fragte der Dragoner und wagte ſie doch nicht zu<lb/>halten.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0122" n="72" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=122"/>
+            </p>
+            <p> <lb/>„Ich muß <hi rendition="#aq">ſo</hi> gehen!" entgegnete ſie, nickte und ſprang über den<lb/>Graben in die nächſte Wieſe.<lb/>
+            </p>
+            <p> <lb/>Der liebende Joſef Backer war inzwiſchen auf ſeiner „Plaiſirtour“<lb/>in der übelſten Laune; ſein Liebesſchmerz pflegte ſich immer in der aller-<lb/>unpoetiſcheſten Form Luft zu machen, ſeine Mutter entſchuldigte ihn<lb/>zwar bei der Frau Doctorin des Nachbarortes mit einer „unglücklichen<lb/>Declamation“, aber das machte den jungen Herrn nicht liebenswürdiger,<lb/>und Frau Backer mußte ihn noch mehrere Male mit den Flügeln der<lb/>Mutterliebe zudecken. Die geſelligen Freuden der Backer’ſchen Familie<lb/>und ihrer Sipp- und Freundſchaft beſtanden hauptſächlich im Eſſen und<lb/>mehr noch im Trinken; der Vers „Wir <hi rendition="#aq">eſſen</hi> deſto weniger und <hi rendition="#aq">trinken</hi>
+               <lb/>deſto mehr“ bezog ſich nur halb auf ſie, ſie tranken zwar deſto mehr,<lb/>aßen aber auch bewunderungswürdig viel. Auch der junge Liebende<lb/>ſuchte ſeinen Schmerz unter allen möglichen Victualien zu begraben und<lb/>mit allerlei Flüſſigkeiten hinunter zu ſpülen. Als es Frau Backer end-<lb/>lich gelang, die beiden männlichen Familienhäupter im „Fond“ des<lb/>Wagens unterzubringen, ſtellte es ſich heraus, daß auch der Kutſcher<lb/>angenehm angeheitert war und Frau Backer ſetzte die älteſte Tochter<lb/>neben ihn auf den Bock, damit ſie, im Fall der Noth, mit in die Zügel<lb/>greifen könne. Es war eine laue Sommernacht, leichte Nebel lagen über<lb/>der Haide und den Saatfeldern, übrigens ſah man gut genug und die<lb/>Braunen kannten den Weg. Es ging luſtig vorwärts, bis man in die<lb/>Gegend von Wöſtefehn kam. Die kleine Sicherheitspolizei auf dem Kutſch-<lb/>bock beſchäftigte ſich, nach dem Brauch ſolcher kleinen Evatöchter, gern<lb/>mit verbotenen Gedanken, ſie ſtieß den branntweinduſeligen Roſſelenker<lb/>an und flüſterte, indem ſie auf eine nebelumwobene weiße Düne deutete:<lb/>„Du, Gert, ſieh dorthin, nicht wahr, da iſt er?"<lb/>
+            </p>
+            <p> <lb/>„Alle guten Geiſter loben Gott!“ ſchrie der plötzlich erwachte Kut-<lb/>ſcher und gab den Pferden einen ſo unerwarteten Ruck mit den Zügeln,<lb/>daß auch dieſe erſchraken, zur Seite drängten und den Wagen umwarfen.<lb/>
+            </p>
+            <p> <lb/>Am nächſten Tage war ganz H. von den ſchauerlichſten Berichten<lb/>über die Erſcheinung am Wöſtefehn erfüllt. Der Kutſcher hatte ganz<lb/>deutlich eine Geiſtergeſtalt erblickt, welche mit den Armen winkte und<lb/>drohte, die Pferde hatten ſich gebäumt und waren mit keiner Gewalt<lb/>einen Schritt vorwärts zu bringen geweſen, was kann ein armer Knecht<lb/>gegen die Geiſterwelt, die aus den Gräbern ſteigt und die Braunen<lb/>ſchreckt —? Er iſt, nämlich der Kutſcher, unſchuldig daran, daß der neue<lb/>Kutſchwagen die Achſe und Herr Backer das Bein gebrochen hat und<lb/>daß ſich Joſef eine furchtbare Brauſche ſchlug, ſo daß ſein linkes Auge<lb/>ganz in Geſchwulſt vergraben lag und er nun nur ausſchließlich das<lb/>rechte auf Thekla werfen konnte. Dieſer dreifach tragiſche Ausgang<lb/>war das Lange und Kurze von der Sache und es mußte eilig zum Arzte<lb/>geſchickt werden. Frau Backer entrüſtete ſich, daß ein ſolcher Unfall<lb/>ihren Mann treffen konnte, noch dazu in einer Zeit, wo er von dem<lb/>Branntweinbrenner-Ausſchuß als „Deportirter“ gewählt werden ſollte.<lb/>Herr Jan Backer klagte ausnahmsweiſe nicht, ſo empfindlich er ſonſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0123" n="73" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=123"/>
+            </p>
+            <p> <lb/>gegen jede Unbequemlichkeit ſeines ſterblichen Leichnams ſein mochte, die<lb/>Geiſtergeſchichte ſchmerzte ihn im Stillen noch mehr, als ſein zerbrochener<lb/>Knochen und er wußte nicht wie er ſich dieſes „<hi rendition="#b">Memento mori</hi>“ ſeines ſeligen<lb/>oder beſſer unſeligen Herrn Aeltervaters zu deuten habe. Wenn Thekla<lb/>zu ſeiner Aufwartung aus- und einging, folgte er ihr mit den Augen<lb/>und er beſtrebte ſich ſogar ſeine Wünſche ohne alle Grobheit auszu-<lb/>drücken. Je länger er mit ſeinem geſchienten Beine, auf wäſſerige Kranken-<lb/>ſuppe angewieſen, dalag, deſto klarer wurde es ihm, er müſſe den Geiſt<lb/>überliſten. Zum Glück lag der Weg dazu genau vorgezeichnet: Thekla<lb/>blühte das Glück, des großen Mannes Schwiegertochter zu werden.<lb/>
+            </p>
+            <p> <lb/>Herr Backer lächelte als er den ungeheuren Vortheil in Anſchlag<lb/>brachte, den er vor dem Geiſte voraus hatte; er, Backer, konnte die<lb/>Sache drehen und wenden wie er wollte, aber der Geiſt konnte nur<lb/>ſeinen Hahnenſchritt weitergehen und wenn er ankam, war ſein Spiel<lb/>bereits verloren. Der Stammhalter, der blau angelaufen war wie die<lb/>Stahlſchnallen bei der Trauer, wurde vor das Lager des zerbrochenen<lb/>Schlaukopfes beſchieden, um ſein Glück zu vernehmen; der liebevolle<lb/>Vater hielt folgende poetiſche Anrede: „Ich muß ſagen, wir ſehen Beide<lb/>verteufelt aus und das Lumpenpack da in der Stadt wird ein läſterliches<lb/>Maulreißen über die Geſchichte haben. Na, es iſt am Beſten wir ſetzen<lb/>Einen drauf, wenn es auch ein Bitterer iſt, und obzwar mir der Doctor<lb/>meinen Morgenbittern ſtreng verboten hat — ich meine, da Du etwas<lb/>ſchwach von Begriffen biſt, Du heiratheſt die Füchſin, die keine Füchſe in<lb/>der Taſche hat und ſo iſt mit einem Male Frieden und Ruhe!"<lb/>
+            </p>
+            <p> <lb/>Frau Backer gab mit allerlei falſch angewendeten Fremdwörtern<lb/>zum Voraus ihren mütterlichen Segen; ihre Augen wurden feucht und<lb/>ſie umarmte ihren ſchief geſchwollenen Erſtgeborenen mit der Verſiche-<lb/>rung: „Thekla iſt ein gutes Mädchen, Niemand kann ihren guten Leu-<lb/>mund blombiren!"<lb/>
+            </p>
+            <p> <lb/>„Ja, ja, das Mädchen hat Glück!“ bemerkte ſeufzend Jan Backer;<lb/>es war ihm unangenehm, daß Jemand anderes durch ihn ein Glück, ein<lb/>ſo großes Glück haben ſollte!<lb/>
+            </p>
+            <p> <lb/>Eben trat Thekla mit dem Abendbrod ein und Herr Backer ſäumte<lb/>nicht, ſie mit dem Unerhörten, Ueberwältigenden bekannt zu machen;<lb/>aber welch’ ein Staunen erfaßte nicht ſie, ſondern ihn, als ſie erklärte,<lb/>ſie hätte ihre Gründe Joſef’s Hand nicht anzunehmen. Sie ſagte das ſo<lb/>einfach und verſtockt, daß der ergrimmte Hausherr eine unvorſichtige<lb/>Bewegung machte und dann vor Schmerz an ſeinem zerbrochenen Beine<lb/>förmlich aufbrüllte. Er wurde dadurch nur noch gereizter und ungeberdi-<lb/>ger, ſo daß ſeine beſſere Hälfte ſich veranlaßt ſah, einige Nachbarsleute<lb/>zur Hülfe herbei zu rufen, denen er dann mit geballten Fäuſten erzählte,<lb/>das undankbare Mädchen wolle Alles allein haben und ihn und ſeine<lb/>Familie an den Bettelſtab bringen. Die Herren Nachbarn ſtaunten und<lb/>billigten ſeine Entrüſtung, als ob der Geiſt ſchon in aller Form die treff-<lb/>lichen Backers am Kragen genommen und wohl oder übel aus ihren<lb/>vier Mauern geriſſen hätte. Niemand kam auf den Gedanken, Herr<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0124" n="74" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=124"/>
+            </p>
+            <p> <lb/>Backer ſei nicht der Mann, ſich ohne Weiteres an die Luft ſetzen zu<lb/>laſſen; denn alle Anweſenden erwarteten von Klein auf den entſcheiden-<lb/>den Moment, wo der Geiſt den Kohbergs gerecht werde, wie ihn ihre<lb/>Väter und deren Väter erwartet hatten.<lb/>
+            </p>
+            <p> <lb/>Natürlich ſprach die ganze Stadt am nächſten Tage von nichts<lb/>Anderem als dem Korbe, den Joſef Backer von der Kohberg-Thekla er-<lb/>halten habe, zwar ohne jegliche Theilnahme für Joſef’s liebendes Herz,<lb/>aber mit jeder Rückſicht auf den Beſitz des Burgmannshofes: „Sie wird<lb/>mir den Acker, der neben dem unſerigen liegt, vermiethen“, ſagte Einer;<lb/>„Jan Backer ſchlug ihn nur aus reiner Bosheit ab, als ob mein Geld<lb/>anders ausſähe wie das anderer Leute!"<lb/>
+            </p>
+            <p> <lb/>„Wenn ſie nichts für die Wieſe thut“, bemerkte ein Anderer be-<lb/>dächtig, „und die Schlöte werden nicht aufgemacht, ſo wird nächſtes Jahr<lb/>nur ſaures Gras darin wachſen, die Brücke muß ſie auch aufrichten<lb/>laſſen, die liegt ſchon lange im Waſſer unten —!"<lb/>
+            </p>
+            <p> <lb/>Alles ordnete und ſchickte ſich leicht und gut, nur daß der Geiſt<lb/>nicht beſtimmt angegeben hatte, wann er den letzten Act zu ſpielen<lb/>gedenke.<lb/>
+            </p>
+            <p> <lb/>In der Scharpeborg wurde natürlich auch von Thekla’s Weigerung<lb/>erzählt und Rüdiger, welcher die Tage vorher etwas kopfhängeriſch um-<lb/>her ſchlich, wurde wieder luſtig und guter Dinge. Seine Mutter ſchien<lb/>übrigens nichts von der angedeuteten Verſtimmung bemerkt zu haben,<lb/>ſie zeigte ihm gern die reifende Ernte und ihre hübſche kleine Rind-<lb/>viehheerde und baute allerhand Pläne auf den wachſenden Wohlſtand.<lb/>Von Rüdiger’s Herzen kam freilich nichts darin vor, aber dagegen eine<lb/>Reiſe nach Holland zu Mama’s Verwandten, eine neue Decoration der<lb/>Halle in der Scharpeborg rc.<lb/>
+            </p>
+            <p> <lb/>Da ſein Urlaub bereits ablief, ging Rüdiger noch ein paar mal<lb/>auf den alten Stadtwall und pfiff ſein Liedlein von der wunderſchönen<lb/>Anna, aber die wunderſchöne Thekla blieb taub, ſie widerſtand ſogar<lb/>auch den anderen Volksliedern von der Capteiniſchen Tochter und dem<lb/>Bettler aus Ungarland! — „Sie liebt mich nicht!" ſeufzte Rüdiger, nach-<lb/>dem er am letzten Abend zwar ſehr laut aber ohne andern Erfolg ge-<lb/>pfiffen hatte, als daß das doppelte Echo ihn wieder auspfiff — „ſie<lb/>liebt mich nicht!" — Ja weshalb ſollte ſie ihn denn lieben? Und wenn<lb/>ſie ihn wirklich liebte, was dann? Es war am Beſten für ihn und ſie,<lb/>daß ſie ihn nicht liebte, und doch ging Rüdiger tief in den Schatten der<lb/>ziemlich verwahrloſten Lindenbäume und wiſchte ein paar Mal heftig<lb/>mit der Hand über die Augen — ſie war doch ein ſo herrliches, wun-<lb/>derliches Geſchöpf.<lb/>
+            </p>
+            <p> <lb/>Rüdiger’s abgeſchloſſenes Jugendleben, der Heimatfriede, der ihn<lb/>wie ein Blüthenduft mit jedem Gedanken wieder dahin lockte, gaben<lb/>ihm ein ſelbſtſtändiges und wenig mittheilſames Weſen. Er war immer<lb/>heiter im Umgange mit Kameraden und Commilitonen, aber nie wurde<lb/>er laut oder das, was die Anderen luſtig nannten. Man erklärte ihn des-<lb/>halb für phlegmatiſch und nannte ihn mit dem Spitznamen „der Hollän-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0125" n="75" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=125"/>
+            </p>
+            <p> <lb/>der"; ſeitdem er eines Tages eine Wette im Laufen gewonnen, ward er<lb/>„der fliegende Holländer“.<lb/>
+            </p>
+            <p> <lb/>Frau von Scharpeborg, welche glücklicher Weiſe in ihrer theil-<lb/>nahmloſen Art nichts von Rüdiger’s Neigung für ſeine Couſine gemerkt<lb/>hatte, ſchloß, in Folge eines glücklichen Zufalls vielleicht, ſeit ſeinem<lb/>letzten Urlaub Thekla mit in ihre brieflichen Berichte ein. Obwol ſich<lb/>nichts geändert hatte, als etwa die Wiederherſtellung der beiden Backers,<lb/>ſo daß Joſef jetzt an einer Seite nicht häßlicher war als an der andern<lb/>und Jan am Stocke umherhinkte — trotz dieſer anſcheinenden Stabili-<lb/>tät der Verhältniſſe hatte Thekla ſo viele Bewerber als ledige Bürger-<lb/>ſöhne im Orte lebten. Der Geiſt war ungemein im Credit geſtiegen —<lb/>und das iſt mehr, als die meiſten anderen Städte von ſich rühmen<lb/>können, bei denen der Geiſt in keinem beſondern Werthe ſteht. Aber<lb/>ach, Joſef mußte die Herſtellung ſeines Angeſichts ſehr beklagen; denn<lb/>die im vorigen Jahre zurückgeſetzten Recruten wurden plötzlich eingezogen<lb/>und einexercirt, man redete viel von einem Kriege für Schleswig-<lb/>Holſtein gegen Dänemark. — Mit der Oekonomie auf Scharpeborg<lb/>ging es gut und das Mutterherz dachte und plante für den Sohn.<lb/>
+            </p>
+            <p> <lb/>Alle Briefe der Wittwe waren erfreulich. Wie das geſchriebene<lb/>Wort weher thut und tiefer dringt als das geſprochene, ſo iſt geſchrie-<lb/>bene Herzlichkeit und Heiterkeit faſt noch wärmer und überzeugender<lb/>als die geredete; auch die Briefe des Mutterherzens, halb holländiſch,<lb/>halb in einem unorthographiſchen Deutſch, wirkten klärend und befriedi-<lb/>gend auf den Leſer, ſie trug alles Schwere ſchweigend allein, und bannte<lb/>jedes freundliche Licht, jeden heitern Eindruck für ihn. — Inzwiſchen<lb/>zog die Kriegswolke empor und das Dragonerregiment wurde mobil<lb/>gemacht. Faſt ſchon mit dem Fuß im Bügel erhielt Rüdiger eine erſchüt-<lb/>ternde Nachricht — auf Scharpoborg war in der Nacht Feuer ausge-<lb/>brochen, und nicht nur das Wohnhaus, ſondern auch der Stall und die<lb/>Scheune, in denen das Feuer mit großer Heftigkeit ausbrach, verbrannt,<lb/>ja, die beſten Stücke der Rinderherde waren mit umgekommen! Bei dem<lb/>hohen Alter und der Bauart der Gebäude war die ſäumig herbeikom-<lb/>mende Hülfe nicht im Stande, dem zerſtörenden Elemente Einhalt zu<lb/>thun und Frau von Scharpeborg war eine obdachloſe Bettlerin! Nur<lb/>die Gebäude waren, und zwar ihrer geringen Solidität nach, niedrig<lb/>genug verſichert, die Ernte, die Einrichtung, das Silber und das Vieh<lb/>— es war dahin. Schwereren Herzens zog wol kaum einer in den<lb/>Kampf, als der letzte Sproſſe der kriegeriſchen Scharpeborgs, vielleicht<lb/>Joſef Backer ausgenommen, der jammervoll unter den Strapatzen des<lb/>Dienſtes und der Märſche litt und ein chroniſches Kanonenfieber hatte,<lb/>welches freilich ſeinem Appetit keinen Eintrag gethan haben würde, wenn<lb/>nicht die Soldatenkoſt ſeinem verwöhnten Gaumen ſchon an und für ſich<lb/>ein Gräuel geweſen wäre. Er wurde viel gehänſelt und verſpottet —<lb/>das kümmerte ihn aber nicht, wenn er nur mit heiler Haut wieder her-<lb/>auskäme. Mitten in all’ ſeiner Wehleidigkeit traf ihn ein Glücksfall<lb/>— ach, nun war der Tod doppelt furchtbar —! Jan Backer ſchrieb<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0126" n="76" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=126"/>
+            </p>
+            <p> <lb/>ſeinem tapfern Sohne, Thekla habe eingewilligt, die Frau des Letztern<lb/>zu werden. Gründe nannte der Vater nicht und der Sohn beunruhigte<lb/>ſich nicht über einen Sinneswechſel, der ſo gut für ihn ausſchlug. Da<lb/>die Kameraden keinen großen Antheil daran nahmen, daß ihn ein Mäd-<lb/>chen „wolle", welches blutarm war, wie er ſelbſt zugab, ſo ließ ſich<lb/>Joſef den Triumph nicht rauben, dem Junker mitzutheilen, daß er jetzt<lb/>entſchieden in ſeine Verwandtſchaft hinein heirathe. Ja, der biedere<lb/>Jüngling machte zu dieſem Ende eine Fußtour von zwei Stunden, es be-<lb/>geiſterte ihn förmlich ſeinem Erbfeinde eine unangenehme Nachricht zu<lb/>überbringen. Wohlweislich kam Joſef nicht allein, man wußte nicht, wie<lb/>Rüdiger die Sache aufnahm, ſondern er hatte ſich einen andern Soldaten<lb/>gekauft, welcher ihn begleitete. Dieſe Vorſicht erwies ſich inzwiſchen<lb/>als überflüſſig. Rüdiger nahm die brüske Verlobungsanzeige ohne ein<lb/>Wort der Entgegnung hin, ſeine Stirn röthete ſich tief und er wurde<lb/>dann ſehr bleich — das war Alles. „Jetzt fürchten wir den Geiſt nicht<lb/>mehr“, redete Joſef in die eingetretene Stille.<lb/>
+            </p>
+            <p> <lb/>Ein verächtliches Zucken lief um Rüdiger’s Lippen, er wandte ſich<lb/>kalt gegen den glücklichen Bräutigam: „Haſt Du ſonſt noch irgend etwas<lb/>zu berichten?"<lb/>
+            </p>
+            <p> <lb/>„Sonſt nichts!" grinſte Joſef und rieb ſich ſeine unſauberen Hände.<lb/>
+            </p>
+            <p> <lb/>„Um ſo beſſer — dann kannſt Du gehen!“ Joſef hätte vor Wuth<lb/>in einen Stock beißen mögen, als ſich mit dieſen Worten der armſelige<lb/>Betteljunker abwandte und die Gegenwart des Burgmannsſohnes gänz-<lb/>lich zu vergeſſen ſchien. Hätte nur Joſef Muth gehabt, er würde ihm<lb/>ſofort in die blonden Haare gefahren ſein, oder wäre ihm nur wenigſtens<lb/>etwas Geſcheidtes oder auch nur etwas Freches zu ſagen eingefallen —<lb/>aber nichts, nichts! Es blieb ihm kein Mittel ſeinen Rückzug würdig in<lb/>Scene zu ſetzen, als daß er dem nächſten Stuhl einen unbarmherzigen<lb/>Stoß gab und dann die Thür ſo gewaltſam zuwarf, daß alle Scheiben<lb/>klirrten.<lb/>
+            </p>
+            <p> <lb/>Rüdiger war durch dieſen letzten ſchweren Schlag in jenem Stadium<lb/>des Seelenleides angekommen, in welchem der Menſch um ſo geduldiger<lb/>ausſieht, als er in der That von einem verzweifelten Rettungsplan zum<lb/>andern ſchwankt, einer immer ſo unausführbar wie der andere. Wie<lb/>qualvoll, ſeine Mutter dem Mangel anheim gefallen, obdachlos zu denken,<lb/>wie undenkbar Thekla als die Gattin dieſes albernen Tölpels! Er ver-<lb/>hüllte wie erſtickend ſein Antlitz — da langte ein Feldpoſtbrief an —<lb/>ein Brief ſeiner Mutter. Der Brief war lang, auf grobem Papier, aber<lb/>ſauber und mit ſehr geraden Linien. Der Empfänger vermochte nicht<lb/>vor Aufregung zu leſen, endlich ward es ſtiller und heller vor ihm, die<lb/>Mutter ſchrieb: „Zum Glück, mein Sohntje, hat mir der Schreck vom<lb/>neulichen Brande nicht geſchadet und es freut mich wahrzunehmen, wie<lb/>viel Achtung und Liebe hier für die Scharpeborgs herrſcht. Der Bäcker<lb/>Nien bot mir gleich ſeinen Saal zum Wohnen an und der Branntwein-<lb/>brenner Schröder ein Darlehn von zweihundert Gulden, das ich für<lb/>Deine und meine Erhaltung nicht ausſchlagen konnte, ſo gern ich es<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0127" n="77" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=127"/>
+            </p>
+            <p> <lb/>gethan hätte. Meine Leute habe ich alle entlaſſen, aber ich bin in guter<lb/>Pflege, Thekla Kohberg kommt jeden Morgen, kocht und ſorgt ſo für<lb/>mich, daß ich glaube ſie erräth alle meine Gedanken und Wünſche.<lb/>Man räth uns zum Verkaufe unſerer Ländereien, aber für dieſen Augen-<lb/>blick iſt daran nicht zu denken, während der Kriegszeit hieße verkaufen<lb/>halb verſchenken —!“<lb/>
+            </p>
+            <p> <lb/>In dieſem milden, klagloſen Tone zog der Brief dahin, der Stil<lb/>war ungewandt, die Orthographie mehr wie mangelhaft und doch —<lb/>ein Engel hätte nicht treuer, nicht ſelbſtloſer ſchreiben können. Aber<lb/>was war das mit Thekla, warum begann ſie ihre Liebesdienſte mit einem<lb/>ſo widernatürlichen Schritt, als es ihre Verlobung war? — Rüdiger<lb/>zermarterte ſich mit Fragen, ohne doch eine Antwort zu finden.<lb/>
+            </p>
+            <p> <lb/>Die Familie Backer erſetzte in Klagen was die Wittwe Scharpe-<lb/>borg etwa verſäumte; nichts konnte grauſamer ſein als ihren Sohn ſo<lb/>großen Gefahren auszuſetzen, wie der Krieg ſie, glaubwürdigen Tradi-<lb/>tionen zufolge, herbeiführt, ja Frau Backer verſtieg ſich unter reichlicher<lb/>Anwendung mißhandelter Fremdwörter zu der hochverrätheriſchen Aeuße-<lb/>rung, ſolche Scandale, wie die Könige jetzt machten, indem ſie Kriege an-<lb/>fingen, wären ganz unchriſtlich. „Wer erlaubt ihnen alleinig wegen ihrer<lb/>Amputation anderer Leute Kinder todt ſchießen zu laſſen?"<lb/>
+            </p>
+            <p> <lb/>Durch all’ die kriegeriſche Aufregung zerſtreut und durch die Ver-<lb/>lobung gewiſſermaßen verſchanzt gegen die Geiſterwelt war der Voll-<lb/>mond und der drohende Hahnenſchritt einigermaßen in den Hintergrund<lb/>getreten. Aber der alte Detroi mußte eigens auf dieſen Moment ge-<lb/>lauert haben, denn in einer Vollmondsnacht — kam er!<lb/>
+            </p>
+            <p> <lb/>Das war ſo. Abends gegen Zwölf kehrte Thekla von der Wittwe<lb/>zurück und Herr Backer, der auf ihre Rückkehr gewartet hatte, um ſeinem<lb/>Zorne Luft zu machen, hinkte an die Zimmerthür und brüllte durch das<lb/>ſchlafende Haus, daß er dieſe Wirthſchaft durchaus nicht mehr dulde, er<lb/>verbiete Thekla noch einmal zu der hochnaſigen Bettlerin zu gehen.<lb/>
+            </p>
+            <p> <lb/>„Ihr habt mir nichts zu verbieten“, entgegnete Thekla ruhig, „wir<lb/>haben mit einander den Contract gemacht und Einer von uns iſt ſo frei<lb/>als der Andere — die gnädige Frau iſt krank und ich werde morgen mit<lb/>dem Früheſten wieder zu ihr gehen!"<lb/>
+            </p>
+            <p> <lb/>„O, Du Teufelsmädchen Du!" knirſchte Herr Backer, „die zwei-<lb/>hundert Gulden haſt Du herausgekitzelt und nun kommt er nicht und<lb/>ich habe mein gutes Geld umſonſt dieſem verfluchten — —“<lb/>
+            </p>
+            <p> <lb/>In dieſem Augenblicke geſchah neben an im Bilderſaal ein ungeheurer<lb/>Knall, ſo daß Herr Backer wie gelähmt gegen die Wand ſank und ſeine<lb/>Gattin in leichter Bekleidung mit ihren händeringenden Töchtern auf<lb/>dem nächtlichen Schauplatze erſchien. Thekla kam zuerſt zur Beſinnung;<lb/>ſie richtete ſich hoch auf, nahm dem Hausherrn die lange Kerze aus der<lb/>Hand, welche dieſelbe bebend umklammert hielt und trat in den Kreis<lb/>ihrer Vorfahren. Alles ſchien in der alten Ordnung oder eigentlich<lb/>Unordnung zu ſein, der Luftzug ſäuſelte durch die zerbrochenen Fenſter-<lb/>ſcheiben und es roch ſtark nach den Aepfeln, welche hier aufbewahrt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0128" n="78" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=128"/>
+            </p>
+            <p> <lb/>wurden. Thekla erhob das Licht und ein leiſer Schrei entfuhr ihren<lb/>Lippen — unter dem Bilde des Meſſire Detroi war das Täfelwerk,<lb/>als den zerbrochenen Scheiben zunächſt, auseinander geſprungen, hatte<lb/>den daran befeſtigten Bilderrahmen gleichfalls geſprengt und die Lein-<lb/>wand des Bildes ſo eingeriſſen, daß die Finger der rechten Hand vom<lb/>Arme getrennt waren. Als Thekla herzutrat, hing etwas Weißes aus<lb/>dem wunderlichen Riß, dieſes Weiße war ein kleines Bündel Papiere,<lb/>die Thekla ergriff und unter ihr Bruſttuch ſchob. Sie wußte kaum<lb/>was ſie trieb, Das zu thun; es leitete ſie nur die feſte Erwartung ihre<lb/>Vorfahren würden irgend ein rettendes Wunder für ſie herbeiführen.<lb/>Die Familie war in ihrer Furcht zu fern geblieben, um zu gewahren,<lb/>was die letzte Kohberg mit den Geiſtern verhandelte, indeß die Be-<lb/>ſitzer ſich, wie eine Herde Schafe beim Gewitter angſtvoll zuſamen-<lb/>drängten. Nach langer Zeit, kam Thekla wieder; obwol ſie bleich aus-<lb/>ſah, hatten doch ihre Augen einen ungewöhnlichen Glanz und auf die un-<lb/>ruhige Frage: „Haſt Du ihn geſehen? was hat er geſagt“, erwiederte ſie<lb/>laut als hätte ſie einen Sieg zu verkünden: „Ich habe ihn geſehen, er<lb/>ſagte: „Recht bleibt Recht, ſo lange noch ein Gott im Himmel iſt!““<lb/>
+            </p>
+            <p> <lb/>Jan Backer ließ ſeinen Stock fallen und taumelte in die Arme<lb/>ſeiner ſchreienden Töchter, indem er wie aberwitzig mit den Händen in<lb/>die Luft hinausgriff. Die Mägde, welche durch eine andere Thür<lb/>gekommen waren, drängten einander nach dieſer zurück, weil ſie dachten,<lb/>ihr Gebieter würde auf der Stelle toll werden.<lb/>
+            </p>
+            <p> <lb/>„Er ſagte“, fuhr Thekla lauter fort und ihre milden Augen fun-<lb/>kelten jetzt: „er ſagte: Jan Backer iſt ein Schurke, ſeine Väter waren<lb/>Schurken, die mir keine Ruhe im Grabe ließen, denn ſie wußten, daß ſie<lb/>Diebe waren und Keinem fiel es ein ſein Gewiſſen zu retten!"<lb/>
+            </p>
+            <p> <lb/>„Halt, halt“, vertheidigte ſich Jan Backer, „der Beſitz iſt verjährt<lb/>und — und" — er ſchnappte nach Luft „und es giebt keine Beweiſe —<lb/>keine Beweiſe!"<lb/>
+            </p>
+            <p> <lb/>„Ihr irrt, Mynheer Backer, es giebt Beweiſe, und ehe der Mond<lb/>in’s letzte Viertel geht legt ſich Meſſire Detroi ruhig in ſein Grab am<lb/>Wöſtefehn — ruhig, ſage ich!"<lb/>
+            </p>
+            <p> <lb/>„Aber der Contract, die Verlobung — meine zweihundert Gulden —“<lb/>
+            </p>
+            <p> <lb/>„Was geſagt iſt, bleibt geſagt — ich heiße Kohberg!"<lb/>
+            </p>
+            <p> <lb/>Thekla wandte ſich und ſchritt mit dem Lichte ihrer Kammer zu,<lb/>ihren Pflegevater einer furchtbaren, fieberhaften Aufregung und ſeine<lb/>Gattin ihrem „ſpaniſchen Schrecken“ überlaſſend.<lb/>
+            </p>
+            <p> <lb/>In ihrer Kammer angelangt ſetzte ſich Thekla wie zerbrochen auf<lb/>den Rand ihres Bettes — ein großer lautloſer Kampf ſchien ihre Bruſt<lb/>zu durchwühlen, endlich ſprang ſie mit dem Rufe: „Es muß ſein!“ auf<lb/>die Füße, holte aus dem Grunde ihrer „Kiſte“, dem Schranke und Koffer<lb/>jeder Emsländerin, ein altes Schreibheft hervor, von dem Geſimſe des<lb/>halb eingeſtürzten Camins eine Medicinflaſche, deren vertrockneten In-<lb/>halt ſie mit Waſſer anfeuchtete und ſetzte ſich, um auf einem ausgeriſ-<lb/>ſenen Blatte einen Brief zu ſchreiben. Derſelbe lautete: „Lieber Vetter!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0129" n="79" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=129"/>
+            </p>
+            <p> <lb/>Durch einen Zufall habe ich den Trauſchein meiner vom Kohberg ver-<lb/>triebenen Aeltermutter und die Taufſcheine ihrer Söhne gefunden; wenn<lb/>ich auch nicht viel aus den alten Papieren leſen kann, erkenne ich doch<lb/>genug die Namen und Siegelungen. Weil ich Joſef Backers verlobte<lb/>Braut bin und auf Kohberg groß gezogen wurde, will ich keinen Proceß<lb/>machen, aber ein feſtes Uebereinkommen muß geſtiftet werden, wegen<lb/>eines heiligen Gelübdes, das ich über den Fluch gebreitet habe, der ſeit<lb/>Geſchlechtern auf dem Burgmannshofe liegt. Sobald Du wirſt können,<lb/>komm hierher. Deine Mutter entbehrt nichts als Dich, die Dich grüßt<lb/>iſt Deine Nichte Thekla von Kohberg."<lb/>
+            </p>
+            <p> <lb/>Der Eindruck, den dieſer Brief auf Rüdiger hervorbrachte, läßt ſich<lb/>kaum beſchreiben. Er zweifelte, ob die Angelegenbeit ſo leicht und glatt<lb/>verlaufen würde, als Thekla zu glauben ſchien; denn er brachte natürlich<lb/>die Mitwirkung der Geiſterwelt nicht in Anſchlag! Doch erinnerte er ſich<lb/>allerdings, daß die Kohbergs von Generation zu Generation den ge-<lb/>raubten Beſitz zu reclamiren ſtrebten und dafür Opfer brachten, die den<lb/>vertriebenen Stamm nie zu gedeihlichem Wohlſtand und zur friedlichen<lb/>Ruhe kommen ließen. So weit urtheilte Rüdiger als Mann; als Lieb-<lb/>haber freilich drängte ſich ein Heer ungelöſter Fragen auf ihn ein.<lb/>Schmerz, Zorn, Zweifel bemächtigten ſich ſeiner ſo ſehr, daß ihn alle<lb/>Welt für erkrankt hielt — wie er es denn ja auch eigentlich war —<lb/>und ihm ein Urlaub zu ſeiner Wiederherſtellung bewilligt wurde. Der<lb/>Krieg war in’s letzte Stadium, das des Abſchluſſes gekommen; er forderte<lb/>nur noch Tinte und kein Blut mehr.<lb/>
+            </p>
+            <p> <lb/>Rüdiger reiſte in die Heimat. Mit zitterndem Herzen trat er vor<lb/>das Angeſicht ſeiner Mutter; aber wunderbar, die obdachloſe Frau war<lb/>ſo ganz ſie ſelbſt, aus ihren in Folge von längerm Kränkeln bleichen<lb/>Zügen ſprach ſo ſehr das alte, friedliche Heimatweſen, daß es Rüdiger<lb/>kaum auffiel, ſie in einem fremden Zimmer zwiſchen Blumen und Vö-<lb/>geln daſitzen zu ſehen, ja, die weißgetünchten Wände hatten einen ganz<lb/>feudalen Anſtrich, denn auf denſelben hingen einige große, dunkle Ahnen-<lb/>bilder, einem Rococoſpiegel gegenüber.<lb/>
+            </p>
+            <p> <lb/>„Mein Sohntje, ich bin glücklich“, ſagte ſie, „ich habe nichts ver-<lb/>loren, Du lebſt ja und kannſt Deiner Mutter offen und treu in die<lb/>Augen blicken!"<lb/>
+            </p>
+            <p> <lb/>Sie erzählte mit dankbarer Weitläufigkeit, wie gut Thekla ſei, wie<lb/>ſich das Mädchen belehren laſſe und wie theilnehmend die ganze Um-<lb/>gegend ſie mit Geſchenken für Küche und Keller und Aufmerkſamkeiten<lb/>jeder Art überhäufe. „Deine beſte Erbſchaft kommt nicht unter den<lb/>Hammer“, ſchloß ſie, „es iſt die allgemeine Achtung!"<lb/>
+            </p>
+            <p> <lb/>O, hätten die zwei treuen Menſchen ſehen können, was man ohne<lb/>die Selbſtachtung und ohne die öffentliche Achtung iſt; hätten ſie den<lb/>einſt ſo hochmüthigen Jan Backer ſehen können, ſie würden ihr Erbe<lb/>doppelt ſo hoch angeſchlagen, ja, über jedes andere geſtellt haben. Nichts<lb/>ſchien auf dem noch beſtehenden und letzten Burgmannshof verändert<lb/>und doch war die Familie wie verirrt, doch mied man Jan Backer, den<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0130" n="80" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=130"/>
+            </p>
+            <p> <lb/>luſtigen Jan, wie einen Verfehmten, doch wollte die Dienerſchaft nicht<lb/>mehr das Brod des Verfluchten eſſen, doch war er in ſeinen eigenen vier<lb/>Wänden haltlos und rathlos, ein furchtſamer, elender Mann, von einer<lb/>Welt unſichtbarer Feinde und wirrer Gedanken verfolgt. Er ward men-<lb/>ſchenſcheu, denn ihm war wie Jemand, der an dem Pranger ſteht, zu<lb/>ſeinen Füßen die Inſchrift: „Dies iſt Jan Backer, der verfluchte Dieb,<lb/>der Sohn ſeiner verfluchten Väter!" Thekla nahm zu nicht geringem<lb/>Vortheil deſſelben das ganze Hausweſen in die Hand, die Dinge ſchienen<lb/>ſich unmerkbar in Reih’ und Glied und in eine gewiſſe Ordnung zu<lb/>ſchieben, ohne daß man wußte, wie ſie nach jahrelanger Paſſivität plötz-<lb/>lich dazu gekommen waren.<lb/>
+            </p>
+            <p> <lb/>Wer der Begegnung Thekla’s und ihres Vetters beiwohnte, konnte<lb/>die feindlichen Verwandten nicht kühler und ruhiger wünſchen; Rüdiger<lb/>blieb auch ungemein zurückhaltend gegen ſie, indeß Thekla mehr und<lb/>mehr freundlich und mittheilend erſchien.<lb/>
+            </p>
+            <p> <lb/>Die Liebe iſt ein ſo wunderbares Geheimniß im Menſchenherzen,<lb/>daß ſie ſich vor ſich ſelbſt verſchleiern und verbergen möchte; ſie zwingt<lb/>die aufrichtigſten Charaktere anders zu erſcheinen, ſelbſt dem Geliebteſten<lb/>gegenüber, als es die eigentlichſte, tiefſte Stimmung des Herzens be-<lb/>dingt! — So begegneten ſich Rüdiger und Thekla, ſo ſchritten ſie ſelb-<lb/>ander vor die Rechtsgelehrten, welche Thekla’s Fund prüfen und einen<lb/>Contract zwiſchen ihr und Jan Backer ausfertigen ſollten — ruhig, ge-<lb/>laſſen, als ob Beide keinen andern Wunſch kannten, als eine Geſchäfts-<lb/>ſache zu beenden.<lb/>
+            </p>
+            <p> <lb/>Jan Backer hatte, trotz ſeiner niedergeſchlagenen Gemüthsverfaſſung,<lb/>dennoch nicht verſäumt, mit erfahrenen Männern Rückſprache über ſeine<lb/>Verhältniſſe zu nehmen — man rieth ihm unbedingt, ſich einem Ver-<lb/>gleich zu unterwerfen, da er bereits vor Zeugen zugeſtanden habe, daß<lb/>er ſich im unrechten Beſitz wiſſe und ihm vermuthlich eine ſchwere Strafe<lb/>zuerkannt werden würde, falls er einen Proceß anſtrenge. Die gefun-<lb/>denen Papiere ſelbſt waren unzweifelhaft echt, ſie gaben, ihrer Abfaſ-<lb/>ſung nach, auch ſelbſt die Erklärung, weshalb ſie nie zu erſetzen geweſen<lb/>waren: Die Trauung des damaligen Erben von Kohberg und ſeiner<lb/>Gattin Helene von Stiermandl war, während jener kriegeriſch bewegten<lb/>Zeit, in einem kleinen Dorfe Oberöſterreichs durch den Feldpater des<lb/>Regiments vollzogen, der älteſte Sohn war von einem andern Mönch<lb/>in Tirol, der zweite in Schleſien getauft — erklärlich genug, daß alle<lb/>Nachforſchungen ſpäter vergeblich waren.<lb/>
+            </p>
+            <p> <lb/>Es war ſeltſam, die junge Bäuerin in ihren ſchlichten, ländlichen<lb/>Kleidern und mit ihrem ruhigen Selbſtbewußtſein den Gerichtsherren<lb/>und Advocaten gegenüber zu ſehen, zu ihrer Linken lehnte, anſcheinend<lb/>theilnahmlos, in ſeiner Eigenſchaft als nächſter Verwandter, Rüdiger,<lb/>rechts ſaß in einem Lehnſtuhl, unruhig mit dem Krückſtock umherarbei-<lb/>tend, Jan Backer, er ſuchte den alten, ſelbſtgefälligen Ton hervor und<lb/>warf, ohne daß ihn Jemand gefragt hätte, leicht hin, es wäre am Ende<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0131" n="81" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=131"/>
+            </p>
+            <p> <lb/>einerlei, ob ſeiner Schwiegertochter oder ſeinem Sohn das Beſitzthum<lb/>zugeſchrieben werde, „ſie hätte es ja nun lieber ſo gewollt!"<lb/>
+            </p>
+            <p> <lb/>Niemand antwortete ihm.<lb/>
+            </p>
+            <p> <lb/>Thekla erröthete und ſagte dann: „Ich werde erſt in vier Jahren<lb/>mündig und man hat mir geſagt, ich könnte noch nicht entſcheidend für<lb/>mich handeln und beſtimmen, wie es für alle Zeiten bindend und feſt iſt!"<lb/>
+            </p>
+            <p> <lb/>„Der Contract wegen der Verlobung bindet Dich trotz Unmündig-<lb/>keit und allen Teufeln!“ fuhr Jan auf.<lb/>
+            </p>
+            <p> <lb/>„Er bindet mich!" erwiederte ſie ruhig. „Ich bin hier“, fuhr ſie<lb/>dann fort, „nicht, um mir ſelbſt gerecht zu werden, ſondern um meiner<lb/>Vorfahren willen, die bis auf heute im Mitbeſitz von Kohberg ver-<lb/>blieben!“<lb/>
+            </p>
+            <p> <lb/>„Gotts Donnerwetter, Du lügſt!" ſchrie Backer.<lb/>
+            </p>
+            <p> <lb/>„Ich lüge nie, wie Ihr wol wißt; ich ſage nur, daß wir im un-<lb/>gehinderten Beſitz der Todtengruft in der Burg verblieben ſind!"<lb/>
+            </p>
+            <p> <lb/>Backer ſah verblüfft drein und fuhr ſich in die Haare.<lb/>
+            </p>
+            <p> <lb/>„Mein Pflegevater und künftiger Schwiegervater, Johann Backer,<lb/>hat meine ſchriftliche Zuſage, daß ſein Sohn, mein Verlobter, Miteigen-<lb/>thümer über alles Das ſein ſoll, was mir an Beſitz zufällt, ſo daß uns<lb/>Alles gemeinſam angehört. Ich halte meine Gelöbniſſe, auch jenen Auf-<lb/>trag der Todten, den Burgmannshof nebſt den alten Ländereien an die<lb/>Scharpeborgs zurückzugeben, halte ich; mir verbleiben dann die neuen<lb/>Ländereien und Heuerhäuſer — ſag’ nichts dagegen, Vetter, Du biſt,<lb/>wie ich, noch nicht mündig und dies Alles wird nur für den Fall meines<lb/>Todes aufgeſchrieben. Ich gebe Dir mit dem Burgmannshof die Pflicht,<lb/>für die Familie Backer chriſtlich zu ſorgen, ſo daß ſie mit ſelbſteigenen<lb/>Fleiß beſtehen können!"<lb/>
+            </p>
+            <p> <lb/>„Sie iſt verrückt“, keuchte Jan Backer, „nur eine Verrückte ver-<lb/>ſchenkt einen Burgmannshof und begnügt ſich mit ein paar lumpigen<lb/>Ländereien!"<lb/>
+            </p>
+            <p> <lb/>„Ihr ſeid nicht verrückt, wenn Ihr fremdes Eigenthum zurück-<lb/>erſtattet, noch bin ich es, Mynheer! Ich kann arbeiten und Euer Joſef<lb/>muß es lernen, wenn er Feuer auf eigenem Herde anzünden will. Ich<lb/>bitte, mir bis ich mündig werde und alsdann zu meiner Heirath ſchreite,<lb/>hieſige Bürger und rechtſchaffene Männer zu Vormündern zu ernennen.<lb/>Grämt Euch nicht, Mynheer, wir wollen miteinander trachten, daß die<lb/>Todten zur Ruhe kommen und die Lebenden ruhig ſterben mögen.<lb/>Amen!“<lb/>
+            </p>
+            <p> <lb/>Es wurde noch viel hin- und hergeredet, nur Rüdiger ſtand ſtumm<lb/>da, bis endlich Alles unterſiegelt und unterſchrieben war und Jan Backer,<lb/>wie entgeiſtert, ſein ſtolzes Lebensſchiff ſcheitern ſah und ſich und ſein<lb/>Haus zur Arbeit verdammt — ein zweiter Adam vor dem Racheſchwert<lb/>eines Engels aus dem paradieſiſchem Schlaraffenland entweichend! Ach<lb/>den Lebenden würde er Alles ohne Frage, ohne Gewiſſensbiſſe entriſſen<lb/>haben — aber die Todten — die Todten!<lb/>
+            </p>
+            <p> <lb/>Als Alles beendet war, erwachte Rüdiger aus ſeinem Traum, auch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0132" n="82" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=132"/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>er hatte ſich mit Geiſtern beſchäftigt, ergriff mit Wärme Thekla’s Hand<lb/>und ſprach:<lb/>
+            </p>
+            <p> <lb/>„Der Geiſt einer längſt begrabenen Zeit weilt über uns und ver-<lb/>eint uns für ein unwandelbares Streben. O, könnte ich die Aufklärer,<lb/>Neuerer und Gleichmacher vor das Allerheiligſte dieſes Frauenherzens<lb/>führen und ſie fragen, ob ſie dann noch die Stirn haben, Traditionen<lb/>zu verdammen, welche in einer ſolchen Seele neben der heiligen Religion<lb/>und unerſchütterlich wie dieſe ſelbſt aufwachſen! Thekla, ich danke Dir,<lb/>daß Du in einer pietätloſen, ſuperklugen, ſelbſtiſchen Zeit mir den<lb/>Ritterſchlag zu einem Kreuzzug gegen die Lüge, zu einer Miſſion für<lb/>deutſche Treue gabſt, ich werde Deiner würdig ſein!“<lb/>
+            </p>
+            <p> <lb/>Er wandte ſich mit einem Händedruck von ihr ab und ſie legte den<lb/>Arm des gebeugten Jan Backer ſtützend auf den ihrigen und führte ihn,<lb/>gleich einer guten, ſorgſamen Tochter, in das Haus, welches nicht mehr<lb/>ſein Haus war!<lb/>
+            </p>
+            <p> <lb/>III.<lb/>
+            </p>
+            <p> <lb/>„Setz’ einen Froſch auf einen goldnen Stuhl,<lb/>Er ſpringt zurück in ſeinen Pfuhl!"<lb/>
+            </p>
+            <p> <lb/>Die Familie Backer erinnerte, nach ihrem jähen Sturz, an jene See-<lb/>thiere, die im Waſſer farbenreich und vielgeſtaltig umherſchwimmen, außer<lb/>demſelben aber nur ein farb- und formloſer, widerlicher Gallert ſind.<lb/>Jan ward ein alter, halb kindiſcher Krüppel und ſeine geduldige Ehe-<lb/>hälfte wurde nicht wenig durch ſeine wachſenden Eigenheiten incommodirt.<lb/>Als nun auch Joſef heimkehrte zeigte es ſich alsbald, daß ſeine Sitten<lb/>im Felde ſich nicht eben verbeſſert hatten, er ſuchte ſogar eine knaben-<lb/>hafte Genugthuung darin, dieſe ſeine kriegeriſche Verwilderung recht ge-<lb/>fliſſentlich zu offenbaren. Es wurmte ihn nicht wenig, daß Thekla, ihrer<lb/>äußern Lage nach, jetzt ſo hoch über ihm ſtand als ſie es geiſtig ſchon<lb/>immer gethan hatte, er behauptete ſchon am erſten Tage ſeiner Rückkehr,<lb/>ſie ſei eine kalte, herzloſe Kröte, aber unbegrenzt war ſein Zorn, als er<lb/>vernahm, die Scharpeborgs, oder beſſer <hi rendition="#aq">der</hi> Menſch, den er mit ſeinem<lb/>Spinnenhaß verfolgte, werde die größere Hälfte ſeines, Joſef’s, Vermö-<lb/>gens bekommen! Thekla’s neue Vormünder waren nicht geneigt, Joſef’s<lb/>Taſchengelder bis zu einer irgendwie nennenswerthen Summe zu erhö-<lb/>hen und Thekla ſelbſt entgegnete ſeinen Klagen: „Arbeite!" — Joſef<lb/>haßte „die Füchſin" beinah — was ſollte, was konnte er arbeiten? Frau<lb/>Backer verwerthete ihren „Cameelſchmuck" und alles nur Entbehrliche,<lb/>um Joſef vor dem „Arbeiten“, vor der letzten furchtbarſten Schmach zu<lb/>retten, aber dieſe Hülfsquellen, an denen auch der Vater ſchöpfen half,<lb/>erwieſen ſich nur zu bald als verſiechend, und Joſef würde die einſt ſo<lb/>geliebte Thekla mit kaltem Blute ermordet haben, falls ihr Tod nur<lb/>einen weſentlichen Nutzen gebracht hätte und er verſichert war, daß man<lb/>ihn nicht beſtrafte.<lb/>
+            </p>
+            <p> <lb/>Der Bräutigam der Erbin wußte in der That nicht, was er mit ſich<lb/>anfangen ſollte; die Seinigen hörten nicht auf ihn zu bedauern, Thekla<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0133" n="83" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=133"/>
+            </p>
+            <p> <lb/>hörte nicht auf ihn zu bitten er möge ſich irgendwie nützlich beſchäftigen,<lb/>er ſelbſt empfand einen kaum zu ſtillenden Durſt — nicht nach dem<lb/>Wiſſen, ſondern nach ganz ordinärem Gerſtenſaft und noch ordinärerem<lb/>Fuſel. Der Tag, wo die größere Hälfte der Scharpeborg-Ländereien<lb/>verkauft wurde, dieſer Tag des Triumphes über den Junker, brachten Jo-<lb/>ſef nicht einmal Befriedigung, er hörte, wie die alte Dame zu Thekla<lb/>ſagte: „Rüdiger iſt gutes Muthes, da er nun nicht weiter ſtudiren kann,<lb/>wird er nach Holland zu meinen Verwandten gehen, damit er „das Ge-<lb/>ſchäft“ erlernt!"<lb/>
+            </p>
+            <p> <lb/>Es war empörend die Scharpeborgs und Thekla immer gutes Mu-<lb/>thes zu ſehen, während er ſelbſt hätte in einen Stock beißen mögen.<lb/>Aber ohne die Alte wurde Thekla vielleicht geſchmeidiger; wenn ſie ihn,<lb/>Joſef, nicht liebte, weshalb hätte ſie ſich ihm anverlobt? Joſef verfiel<lb/>auf ein ſehr ſinnreiches Mittel, er wollte Thekla eiferſüchtig machen<lb/>und ſpielte bei der Magd, welche die Stelle der Erbin in der Hausarbeit<lb/>vertrat, den Liebenswürdigen — die Braut merkte nichts, bis er ihr<lb/>ſelbſt ſagte: „Mareke iſt ganz ſo hübſch als Du, aber viel freundlicher<lb/>und hat keine rothen Haare!"<lb/>
+            </p>
+            <p> <lb/>„Aber ich bin Deine Braut!" ſagte Thekla einfach, ſie mahnte ihn<lb/>ſtets an ſeine Pflicht, auch an die gegen ſie ſelbſt, obwol er manchmal<lb/>im Stillen dachte, es wäre gerathen ſich bei ihrer Mündigkeit die Hälfte<lb/>von Thekla’s Vermögen auszahlen zu laſſen und ihren Beſitz nicht wei-<lb/>ter zu beanſpruchen. Die Abreiſe der Wittwe von Scharpeborg nach<lb/>Holland machte Thekla keineswegs zärtlicher, ſie widmete den Angele-<lb/>genheiten der feindlichen Familie eine verdoppelte Aufmerkſamkeit und<lb/>weigerte ſich unerbittlich Joſef’s Schulden zu zahlen, ſo lange er ſich nicht<lb/>beſtrebe irgend einen Broderwerb zu ergreifen: „Willſt Du einen Todten-<lb/>gräber oder Nachtwächter zum Manne?“ fragte grimmig der Verlobte.<lb/>
+            </p>
+            <p> <lb/>„Warum nicht, wenn er ein ehrlicher, braver Mann iſt?“ Joſef er-<lb/>kannte, daß ſeine Braut kein wirkliches Ehrgefühl beſitze und wandte ſich<lb/>höhniſch ab. Nach Ablauf des beſtimmten Termines liefen die Gelder<lb/>für die verkauften Scharpeborg-Ländereien ein. Ein Theil derſelben<lb/>wurde Thekla überwieſen, um damit die noch ausſtehenden Verpflich-<lb/>tungen und jene zweihundert Gulden abzuzahlen, die Jan Backer auf<lb/>Thekla’s Veranlaſſung vorgeſtreckt hatte. Das junge Mädchen verſchloß<lb/>einſtweilen die Summe in ihre Kiſte, nicht ahnend, daß auch dieſes bis-<lb/>her ſo unbeneidete Beſitzthum räuberiſche Angriffe auf ſich ziehen könne<lb/>— doch war dem ſo, Tags darauf fand ſich Thekla beſtohlen! Sie tau-<lb/>melte und wurde bleich, dann aber zog es wie eine ſtille Verklärung über<lb/>ihr Geſicht und ſie murmelte: „Meſſire Detroi geht noch immer um —<lb/>ich verſtehe die Geiſter!"<lb/>
+            </p>
+            <p> <lb/>Den ganzen Tag ließ ſich Joſef vergebens von ſeiner Braut ſuchen,<lb/>endlich konnte er nicht länger ausweichen und verſtand ſich mürriſch zu<lb/>einer Zwieſprach.<lb/>
+            </p>
+            <p> <lb/>„Joſef“, begann Thekla „der Sohn von Dieben iſt wieder ein Dieb<lb/>wie ich ſehe, ich hoffte umſonſt Deinen Namen zu Ehren zu bringen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0134" n="84" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=134"/>
+            </p>
+            <p> <lb/>Du haſt das Geld der Scharpeborgs aus meiner Kiſte geſtohlen, da<lb/>hilft kein Leugnen, an der Haspe meines Koffers hängt noch ein Weſten-<lb/>knopf von Dir, welcher ausriß als Du Dich zum Suchen hineinbeugteſt<lb/>— gieb mir das Geld zurück!"<lb/>
+            </p>
+            <p> <lb/>„Ich will es nicht!“ ſagte Joſef in rathloſem Trotz.<lb/>
+            </p>
+            <p> <lb/>„So gehſt Du in’s Gefängniß!"<lb/>
+            </p>
+            <p> <lb/>„Mein Gott, ich kann es nicht, ich habe es nicht mehr“, klagte der<lb/>Verbrecher „ich bezahlte es einem Agenten für zwei Ueberfahrtsplätze<lb/>nach Amerika."<lb/>
+            </p>
+            <p> <lb/>„Zwei — Joſef?"<lb/>
+            </p>
+            <p> <lb/>„Ja — für Mareke und mich — das haſt Du davon!"<lb/>
+            </p>
+            <p> <lb/>Thekla ſtaunte, Joſef ſah in der That ungemein betreten aus und<lb/>ſetzte ſich wie überwältigt auf den Heuhaufen neben ihr.<lb/>
+            </p>
+            <p> <lb/>„Du ſagſt Dich alſo von mir los?" fragte ſie.<lb/>
+            </p>
+            <p> <lb/>„Die Hälfte Deines Eigenthums gehört ohnehin mir!" trotzte Joſef<lb/>weiter.<lb/>
+            </p>
+            <p> <lb/>„Nein, Dir gehört jetzt nichts mehr als das Gefängniß!" entgegnete<lb/>Thekla beſtimmt. „Komm herein und ſchreib auf, daß Du mir entſagſt,<lb/>mir und Allem, was zu mir gehört, damit ich Dich nicht als Dieb und<lb/>Einbrecher beſtrafen laſſe — folge mir!"<lb/>
+            </p>
+            <p> <lb/>„Morgen früh wären wir über alle Berge geweſen!" klagte Joſef hin-<lb/>ter ihr drein ſchreitend.<lb/>
+            </p>
+            <p> <lb/>Nachdem die Schrift zu Stande gekommen war, bereute Joſef wieder,<lb/>daß er ihr willfahrtete und meinte: „Du hätteſt ja doch Deinen Bräu-<lb/>tigam der Leute wegen nicht einſperren laſſen!"<lb/>
+            </p>
+            <p> <lb/>„Ein Treuloſer, ein Dieb iſt nicht mein Bräutigam! Aber wir wollen<lb/>den Leuten kein Gerede geben, Du reiſeſt morgen wie auf meinen Wunſch<lb/>nach Amerika ab, ich laſſe die Mareke wie unzufrieden mit ihr, in eini-<lb/>gen Tagen aus dem Dienſte — Niemand braucht zu wiſſen, daß es zwi-<lb/>ſchen uns zu Ende iſt!“ Sie wandte ſich ab und er ſchlich verſtört hinaus,<lb/>ſeinen Eltern den Reiſeplan in die Neue Welt zu unterbreiten. Jan<lb/>Backer bemerkte: „Es würde dann ein Brodeſſer weniger im Hauſe<lb/>ſein!" — Die Mutter ängſtigte ſich: „Ach, Du armes Kind, was wirſt<lb/>Du dort nur zu eſſen bekommen: gewiß niemals Speck und Bohnen,<lb/>die Dir ſo gut ſchmecken!"<lb/>
+            </p>
+            <p> <lb/>Joſef ging, Mareke ging und Thekla entgegnete allen Anfragen: „Er<lb/>wird ja eines Tages wiederkommen!"<lb/>
+            </p>
+            <p> <lb/>Sie erbot ſich, die alte Frau von Scharpeborg, der ſie eine Stätte in<lb/>dem kürzlich wieder bewohnbar gemachten Theile des Kohberghofes an-<lb/>bot, aus Holland abzuholen. Thekla erſchien zwiſchen den eleganten<lb/>jungen Damen des Amſterdamer Handelshauſes in ihrer Bauerntracht,<lb/>und als Rüdiger eintrat uud ſie dort in ihrem rothen Bojerock auf den<lb/>vergoldeten Stühlen ſitzen ſah — erröthete er. Thekla gab ihm unbe-<lb/>fangen die Hand, freute ſich, daß ihm ſein neuer Beruf zuſage und ſprach<lb/>die Hoffnung aus, Joſef Backer werde drüben in Amerika auch ein tüch-<lb/>tiger Geſchäftsmann werden.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0135" n="85" corresp="http://opacplus.bsb-muenchen.de/title/6700774/ft/bsb11045786?page=135"/>
+            </p>
+            <p> <lb/>„Thekla, wie iſt es möglich, daß Du an ihm feſthältſt?“ fragte Rü-<lb/>diger heftig.<lb/>
+            </p>
+            <p> <lb/>„Du vergißt, ich bin als Bauernmagd erzogen!“<lb/>
+            </p>
+            <p> <lb/>Man gewann die „deutſche Couſine“ während ihres kurzen Aufent-<lb/>halts in der reichen Familie recht lieb, nur Rüdiger fragte ſich immer,<lb/>weshalb ſie denn hier ſo ganz anders als daheim ſei? — Frau von<lb/>Scharpeborg vertauſchte gern das Geräuſch des großen Hauſes mit dem<lb/>ſtillen Daſein in der zweiten Heimat unter Theklas Pflege. Die zwei<lb/>Frauen lebten in ſtill innigſter Gemeinſamkeit. Thekla ſprach faſt nie<lb/>von Joſef, aber die Wittwe gab ſich gern der Hoffnung hin, ihr Sohn möge<lb/>eines Tages die hübſche Tochter ſeines Prinzipals Süffer Menna Kaude-<lb/>water heirathen, eine Hoffnung die ſich in der That erfüllte, bald nach-<lb/>dem Thekla mündig geworden war und ihre alten Vorſätze, hinſichtlich<lb/>der Erbſchaft, verwirklicht hatte. Rüdiger hatte gut einwenden, er, als<lb/>der demnächſtige Compagnon ſeines Schwiegervaters bedürfe dieſes Opfers<lb/>nicht: „Recht iſt Recht!" — ſagte Thekla.<lb/>
+            </p>
+            <p> <lb/>Eines Tages ſtand es im H’ſchen Wochenblättchen. Heirathsanzeige:<lb/>
+            </p>
+            <p> <lb/>Rüdiger von Scharpeborg<lb/>Burgmann zu H.<lb/>Menna von Scharpeborg<lb/>geb. Kaudewater.<lb/>Amſterdam<lb/>
+            </p>
+            <p> <lb/>Acht Tage darauf las man in der nächſten Nummer:<lb/>
+            </p>
+            <p> <lb/>Joſef Backer,<lb/>Marele Backer geb. Kniepke.<lb/>
+            </p>
+            <p> <lb/>Cincinnati, Amerika.<lb/>
+            </p>
+            <p> <lb/>Drei Tage nach dieſer Anzeige kam unerwartet Rüdiger in H. an.<lb/>Er begrüßte nicht erſt ſeine Mutter, ſondern ſuchte Thekla in der Küche<lb/>und zog ſie ohne ein Wort zu reden in die Milchkammer, deren Thür er<lb/>verſchloß. „Thekla“ rief er mit zitternder Stimme, „Du haſt ein Spiel<lb/>mit mir getrieben — Du wußteſt, ich hoffte Jahrelang auf ein anderes<lb/>Glück als es mir zu Theil wurde und —“<lb/>
+            </p>
+            <p> <lb/>„Thut es Dir leid, daß ich bis an’s Grab ledig bleibe?" lächelte<lb/>Thekla.<lb/>
+            </p>
+            <p> <lb/>„Du ſollteſt es nicht ſein, Thekla!"<lb/>
+            </p>
+            <p> <lb/>„Doch, Vetter, ich ſoll es ſein; weil ich keinen andern als Dich lieben<lb/>kann, und Deine Frau mußte Dir gleich ſtehen, ſie durfte keine Magd<lb/>ſein; Du darfſt nicht über ſie erröthen; es iſt Alles, Alles gut, Recht iſt<lb/>Recht und wir werden eines Tages ruhig ſchlafen gehen!“<lb/>
+            </p>
+            <p> <lb/>„Thekla, Du redeſt wie verklärt!"<lb/>
+            </p>
+            <p> <lb/>„Ich bin ja auch von Geiſtern gelehrt — und es dürfen nur gute<lb/>Geiſter fortan walten auf den Burgmannshöfen — jetzt iſt auch der<lb/>letzte Morgen Land von der Scharpeborg zurückgekauft und beſiegelt<lb/>mit — Frieden!"<lb/>
+            </p>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

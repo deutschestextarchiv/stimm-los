@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonnenaufgang und Sonnenuntergang</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">auer_sonnenaufgang_1858</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Auer: Sonnenaufgang und Sonnenuntergang, 1858.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Sonnenaufgang und Sonnenuntergang</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Georg H. Wigand</name></publisher>
+                  <date>1858</date>
+                  <pubPlace>Göttingen</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Novellen</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 1–46</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323</idno><idno type="shelfmark">Shelfmark: P.o.germ. 1763 n-1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="10" cert="high"><sic>ehrfurchsvoll</sic><corr>ehrfurchtsvoll</corr></choice><choice corresp="12" cert="high"><sic>alte Frau ſei, ſchienen</sic><corr>alte Frau ſei, ſchien</corr></choice><choice corresp="14" cert="high"><sic>Liebe, nicht</sic><corr>Liebe nicht</corr></choice><choice corresp="22" cert="high"><sic>anklagen daß</sic><corr>anklagen, daß</corr></choice><choice corresp="22" cert="high"><sic>beſaß nach</sic><corr>beſaß, nach</corr></choice><choice corresp="24" cert="low"><sic>ſeiner Frau erwähnte</sic><corr>ſeine Frau erwähnte</corr></choice><choice corresp="25" cert="low"><sic>M.,</sic><corr>M...,</corr></choice><choice corresp="28" cert="high"><sic>zn</sic><corr>zu</corr></choice><choice corresp="28" cert="high"><sic>zn</sic><corr>zu</corr></choice><choice corresp="29" cert="high"><sic>Verzweifluug</sic><corr>Verzweiflung</corr></choice><choice corresp="29" cert="high"><sic>Verzweifluug</sic><corr>Verzweiflung</corr></choice><choice corresp="36" cert="high"><sic>Umtergebenen</sic><corr>Untergebenen</corr></choice><choice corresp="36" cert="high"><sic>Umtergebenen</sic><corr>Untergebenen</corr></choice><choice corresp="36" cert="high"><sic>mit einem Morde</sic><corr>mit einem Morde auf</corr></choice><choice corresp="44" cert="high"><sic>zn</sic><corr>zu</corr></choice><choice corresp="44" cert="high"><sic>kommen aber</sic><corr>kommen, aber</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Sonnenaufgang und Sonnenuntergang</titlePart>
+         </docTitle>
+         <docAuthor>Auer, Adelheid von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0013" n="1" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=13"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p>
+               
+                  <hi rendition="#c #larger"/>
+               
+               <lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0014" n="2" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=14"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0015" n="3" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=15"/>
+            </p>
+            <p> <lb/>Die Glocken der kleinen epheu-umrankten Dorf-<lb/>kirche zu M... läuteten und tönten feſtlich durch die<lb/>Luft. Die Vögel jubelten ihre Lieder hinein in den<lb/>feierlichen Klang, Finken und Amſeln ihre kleinen Gaſ-<lb/>ſenhauer eben ſo ungenirt, wie die Nachtigall ihr ſchmel-<lb/>zendes Liebeslied. Der Flieder blühte, und die Bienen<lb/>nippten den Duft aus den blauen und weißen Kelchen.<lb/>Sie arbeiteten emſig fort und ließen ſich nicht ſtören<lb/>durch das Feſt, dem zu Ehren der Kirchweg mit Blu-<lb/>men beſtreut war. Guirlanden ſchmückten den Eingang<lb/>zum Kirchhofe, und weithin waren die Felder leer von<lb/>arbeitenden Händen, da die ganze kleine Gemeinde die<lb/>Kirche füllte.<lb/>
+            </p>
+            <p> <lb/>Der Glockenton verkündete das Ende des Gottes-<lb/>dienſtes; die letzten Strophen des Liedes wurden geſun-<lb/>gen. Wie ſchön und feierlich, und wie ſo wahrhaft fröh-<lb/>lich zugleich klang das Lied, während die Sonne hell<lb/>durch die Fenſter ſchien und die Blumen auf den Grä-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0016" n="4" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=16"/>
+            </p>
+            <p> <lb/>bern draußen mit ihren Strahlen küßte! Gewiß war<lb/>es eine Hochzeit, die gefeiert wurde, und welches Feſt<lb/>hätte wohl beſſer hineingepaßt in den blühenden Früh-<lb/>ling, dieſe Zeit glückſeliger Verheißungen? Aber jetzt<lb/>verließ der Zug die Kirche. Das Brautpaar voran, und<lb/>es war ein Paar, bei deſſen Anblick Thränen der Freude<lb/>und Rührung einem in die Augen traten.<lb/>
+            </p>
+            <p> <lb/>Es war kein Beginn eines mit Roſen und Dornen<lb/>geſchmückten Lebenspfades, es war eine faſt vollendete<lb/>Wanderung, mit verblühten Roſen und überwundenen<lb/>Dornen. Ein goldner Kranz ſchmückte die Haube der<lb/>Braut; weiß wie Silber glänzte das Haar des Bräuti-<lb/>gams; aber es war eine Milde und Ruhe in ihren tief-<lb/>liegenden dunkeln Augen, eine wohlwollende Freundlich-<lb/>keit in ſeinen Zügen, die einen unendlich angenehmen<lb/>Eindruck machten. Mochte man in den gefurchten Zü-<lb/>gen auch manche tiefe Linie irdiſchen Grames finden,<lb/>wie ja keines Menſchen Leben frei davon iſt; doch daß<lb/>Beide ein unvergängliches Glück geſucht und gefunden,<lb/>daß ſie ein noch ſchöneres unvergänglicheres hofften,<lb/>das ſtrahlte mit himmliſcher Ruhe und Zuverſicht jedem<lb/>entgegen, der die ſtumme und doch lebhafte Sprache<lb/>verſtand, die ein offenes Menſchenantlitz von innen<lb/>heraus zu der Welt oder zum Schöpfer redet. Der alte<lb/>Herr hielt ſich noch ſtattlich und gerade, und in den<lb/>hellen Augen ſchimmerte, wenn auch nicht die Jugend<lb/>ſelbſt, doch eine unverlöſchbare fröhliche Erinnerung an<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0017" n="5" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=17"/>
+            </p>
+            <p> <lb/>ſie; die alte Frau, fein und zart in ihrer äußeren Er-<lb/>ſcheinung, lehnte ſich mit gleicher Innigkeit, ja, wohl<lb/>noch mit größerer Zuverſicht auf ſeinen Arm wie vor<lb/>fünfzig Jahren, und ihre Wangen waren leicht geröthet,<lb/>als blühten ein paar verſpätete Roſen auf zu frühem<lb/>Schnee. Und wie ſie Beide ſo freundlich und würde-<lb/>voll weiter ſchritten, begleitet von der ganzen Gemeinde,<lb/>hier freundlich grüßend, dort die Hände gebend oder ein<lb/>paar Worte wechſelnd mit Alt und Jung, wie ſie ſo vor<lb/>dem Wohnhaus ankamen, und die Leute in ein don-<lb/>nerndes Hurrah ausbrachen, da fühlte Jeder, es war<lb/>nicht die Aufregung des Tages, die Theilnahme für ein<lb/>ſo ſeltenes Feſt, es war wirkliche tief begründete Liebe,<lb/>die dem Jubel der Leute zum Grunde lag.<lb/>
+            </p>
+            <p> <lb/>Ein paar freundliche Worte des alten Herrn ver-<lb/>abſchiedeten ſie und wieſen ſie an die gedeckten Tafeln<lb/>auf dem Raſen unter den Linden, wo Allen heute ein<lb/>feſtliches Mahl die Freude erhöhen ſollte. Dann führte<lb/>er ſeine Frau in das Haus, in den mit Blumen ge-<lb/>ſchmückten Saal, gefolgt von der ganzen heute zahlreich<lb/>verſammelten Familie. Kein Fremder war zugelaſſen<lb/>worden, es ſollte ein rechtes, echtes Familienfeſt werden.<lb/>Da waren Söhne und Töchter, wieder mit Söhnen und<lb/>Töchtern; Tanten, Couſinen, Onkel und Vettern; über-<lb/>all hörte man das trauliche Du, überall verwandtſchaft-<lb/>liche Benennungen, und vielleicht wußte Mancher ſelbſt<lb/>kaum, wie und warum.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0018" n="6" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=18"/>
+            </p>
+            <p> <lb/>Das war ein Scherzen und Lachen der jungen<lb/>Leute, ein Disputiren der Aelteren, ein Liebkoſen und<lb/>Sorgen um das alte Paar, kurz, ein Durcheinander,<lb/>daß die kleinen Hausgeiſterchen wohl bedenklich werden<lb/>und ſich fragen konnten, woher der Lärm auf einmal<lb/>um den ſonſt ſo ſtillen Heerd. Sie wußten’s aber<lb/>wohl, daß es die Liebe war, die all dieſe Leute hieher<lb/>geführt, die ſie ſo laut und fröhlich machte, und die<lb/>Liebe kannten ſie wohl und reſpectirten ſie, und um ihret-<lb/>willen auch den ungewohnten Lärm. Aber jetzt kam die<lb/>blonde Anna, ein liebliches, roſiges Mädchen, und bat<lb/>Großväterchen und die liebe alte Großmama, ſich ein<lb/>wenig zurück zu ziehen und zu ruhen, wie ſie’s gewohnt,<lb/>ehe die heute natürlich feſtlichere Tafel ſie wieder Alle<lb/>vereinigte.<lb/>
+            </p>
+            <p> <lb/>Anna war das jüngſte Kind einer früh verſtorbe-<lb/>nen Tochter, und nach dem bald erfolgten Tode des<lb/>Vaters hatten die alten Leute ſie zu ſich genommen, eine<lb/>friſch erblühende Blume ſie gewunden in den welken<lb/>Kranz des Lebens, und wenn auch erſt mit Thränen<lb/>betrachtet, weil an ihr Leben ſich der Tod ſo ernſt knüpfte,<lb/>war ſie doch bald der Alten Stolz und Freude und der<lb/>Liebling der ganzen Familie. Längſt hatte ſie der Groß-<lb/>mutter die Sorge um Haus und Wirthſchaft abgenom-<lb/>men; ſie ſpielte eine reizende kleine Wirthin, und die<lb/>altmütterliche Umſicht und Würde, mit der ſie das Scep-<lb/>ter des Hauſes führte und es doch unter den Blumen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0019" n="7" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=19"/>
+            </p>
+            <p> <lb/>der Anmuth und Beſcheidenheit verbarg, trug ihr manche<lb/>Lobſprüche der Verwandten ein, die das liebliche Roth<lb/>der Wangen noch erhöhten. Sie war Hausfrau und<lb/>Kind zugleich, und das ließ ihr allerliebſt. Sie ſchmei-<lb/>chelte und bat auch jetzt nicht umſonſt, und während ſie<lb/>den gewichtigen Schlüſſel zur Hand nahm, und dem<lb/>Vetter Rudolf, der ſie durchaus in die Speiſekammer<lb/>begleiten wollte, einen kleinen abweiſenden Knix machte<lb/>und behauptete, die Herren wären ihr zuwider, die in<lb/>die Speiſekammer kämen, zog das Jubelpaar ſich in<lb/>des alten Herrn Arbeitszimmer zurück, wo ſie ſeit lan-<lb/>gen Jahren, während leiſen, aber ſicheren Schrittes die<lb/>Zeit über ſie dahingeſtrichen und ſie ermahnt hatte, die<lb/>Elaſticität der Jugend durch Ruhe zu erſetzen, das kurze<lb/>Schläfchen vor Tiſch gehalten hatten, das nun zur Ge-<lb/>wohnheit, zur Unentbehrlichkeit geworden war.<lb/>
+            </p>
+            <p> <lb/>Wie jeden Tag, rückte auch heute der alte Herr<lb/>den großen Lehnſtuhl zurecht, ordnete ſelbſt der lieben<lb/>Alten das Kiſſen zum Anlehnen, dann ließ er die Ja-<lb/>louſie halb herunter, und nahm auf dem Sopha gegen-<lb/>über Platz. Ermüdet von der Aufregung, der Freude,<lb/>ſchloß ſie bald die Augen; aber ihn ließ es jetzt nicht<lb/>zur Ruhe kommen. Er konnte heute nicht die Blicke<lb/>von ihr wenden, die ihm fünfzig Jahre eine treue, liebe<lb/>Gefährtin geweſen. Und doch trat immer wieder ein<lb/>jugendliches Bild vor ſeine Seele, wie es ihn damals<lb/>angelacht, die braunen Augen voll Schalkhaftigkeit und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0020" n="8" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=20"/>
+            </p>
+            <p> <lb/>Jugendluſt, Lächeln um die friſchen Lippen, Sonnen-<lb/>ſchein auf der Stirn, die ſich blendend weiß gegen das<lb/>ſchwarze Haar abhob. Dieſes Bild der heiterſten Ju-<lb/>gend und jene ſchlummernde alte Frau dort im Lehn-<lb/>ſeſſel mit den gefurchten Zügen, dem ernſten Mund, der<lb/>hohen Würde auf der Stirn, auf der aber doch noch<lb/>Sonnenſchein lag, der Sonnenſchein, der den ganzen<lb/>Tag geleuchtet, ſichtbar und unſichtbar, durch Sturm<lb/>und Wolken, und der nun blaß ward, weil der Tag zu<lb/>Ende ging und er bald ſchönerem Morgenroth Platz<lb/>machen ſollte!<lb/>
+            </p>
+            <p> <lb/>Ich habe ſie heute noch viel lieber wie damals,<lb/>ſagte der Alte, und bei dem „damals“, da trat plötzlich<lb/>die ganze vergangene Zeit vor ihn hin, und Bild auf<lb/>Bild zog an ihm vorüber. –<lb/>
+            </p>
+            <p> <lb/>Ein zwanzigjähriger Burſche war er geweſen, als<lb/>ſein Vater ihm endlich ſeinen dringenden Wunſch<lb/>erfüllte und ihm erlaubte, zu einem Oheim zu gehen,<lb/>um dort die Landwirthſchaft praktiſch zu erlernen. Er<lb/>hatte eine ſchwärmeriſche Liebe zum Landleben; keine<lb/>ſolche, wie die Städter ſie meiſt haben, die hinausgehen<lb/>aufs Land und Veilchen pflücken, die Vögel ſingen hö-<lb/>ren, das Kornfeld ein grünes Meer nennen und im Rau-<lb/>ſchen der Bäume die ſüßeſten Melodien vernehmen. Dieſe<lb/>poetiſche Seite allein, obgleich ſein jugendlicher Sinn<lb/>offen dafür war, genügte ihm nicht. Er wollte die Na-<lb/>tur nicht bloß bewundern, er wollte von ihr lernen, das<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0021" n="9" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=21"/>
+            </p>
+            <p> <lb/>Gelernte benutzen; er liebte die Thätigkeit, die ihn hinaus-<lb/>trieb in Feld und Wald, er konnte ſich keine Feierſtunde<lb/>denken ohne vorhergegangene anſtrengende Arbeit. Da-<lb/>bei war er reinen, fröhlichen Herzens, offen und lebhaft,<lb/>voll Zutrauens zu Gott, den Menſchen und ſich. Wie<lb/>lebendig ſtand der Abend vor ihm, als er, das Ränzel<lb/>auf dem Rücken, im grauen Staubmantel die Pappel-<lb/>Allee hier herunter gekommen und in dieſes Haus getre-<lb/>ten! Der Oheim war ein Mann in ſeinen beſten Jahren,<lb/>und die Landluft und die geſunde Lebensweiſe nahmen<lb/>ihm von ſeinen achtundvierzig Jahren mindeſtens zehn. Er<lb/>begrüßte den Neffen mit biederem Handſchlag, wies ihm<lb/>ſein Zimmer an, hieß ihn den Staub abſchütteln und<lb/>dann herunterkommen, wo er ihn der Tante vorſtellen<lb/>wollte. Dann ließ er ihn allein. Der junge Burſche<lb/>ſah ſich vergnügt im Zimmer um. Ein Dachſtübchen<lb/>war’s mit ſchrägen Wänden und niedriger Decke, aber<lb/>es heimelte ihn gleich daraus an. Die einfachen Möbel<lb/>paßten ſo recht hinein, die Vorhänge am Fenſter waren<lb/>blendend weiß, und als er es öffnete, da brauchte er<lb/>bloß die Hände auszuſtrecken, um die Blüthen vom Lin-<lb/>denbaum zu pflücken. Hier war er zu Hauſe, das<lb/>fühlte er.<lb/>
+            </p>
+            <p> <lb/>Ein wenig bange wurde ihm, als er an die Be-<lb/>kanntſchaft mit der Tante dachte. Die Schweſtern ſeines<lb/>Vaters, denen er alle Jahre zum Geburtstag gratuliren,<lb/>ſie hochgeehrt und ehrfurchsvoll geliebt nennen mußte,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0022" n="10" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=22"/>
+            </p>
+            <p> <lb/>waren ihm ſchon deßhalb wie ein Fluch ſeines Lebens<lb/>vorgekommen, — ein Gefühl, das ſich nicht verringert<lb/>hatte, wenn Eine oder die Andere zum Beſuch kam, in<lb/>Küche und Speiſekammer herumſtöberte und die ſanfte<lb/>Mutter, die oft gern ein Auge zudrückte, ſtets darauf<lb/>aufmerkſam machte, wenn einmal an den Vorräthen<lb/>etwas fehlte, oder hier und da ein Hemdkragen, ein<lb/>Rockärmel ſchneller als nöthig zerriß. Er haßte dieſe<lb/>hochgeehrten, ehrfurchtsvoll geliebten Tanten ſo ſehr,<lb/>wie zehn- bis zwölfjährige Jungen haſſen, verwandelte<lb/>den Haß in Gleichgültigkeit, als er anfing in früh er-<lb/>wachter Selbſtſtändigkeit das Uebergewicht zu fühlen,<lb/>das dem Manne zukommt, blieb aber doch dabei, die<lb/>Tanten im Allgemeinen und ſeine Tanten insbeſondere als<lb/>ſehr läſtige, unangenehme Verwandte zu betrachten. Und<lb/>nun ſollte er wieder unter die Botmäßigkeit einer Tante<lb/>kommen! Er kannte ſie noch nicht, da, wenn er auch<lb/>früher öfter beim Oheim geweſen, dieſer doch erſt vor<lb/>einem Jahr geheirathet hatte; aber er dachte ſie ſich eben<lb/>ſo widerwärtig wie die Schweſtern ſeines Vaters. Doch<lb/>was half’s! Die Bekanntſchaft mußte gemacht werden<lb/>und je ſchneller, deſto beſſer, das war ſo ſeine Art.<lb/>Alſo raſch Stiefel und Rock gewechſelt, friſches Waſſer<lb/>ins Geſicht und das lockige Haar nicht ohne Anflug<lb/>von Stutzerhaftigkeit geordnet.<lb/>
+            </p>
+            <p> <lb/>Der Alte lächelte bei dem Gedanken, welch hübſcher<lb/>Junge er geweſen, und wie viel hübſcher er ſich noch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0023" n="11" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=23"/>
+            </p>
+            <p> <lb/>gefunden! Seine Schritte hatte er damals nicht beim<lb/>Tanzmeiſter einſtudirt, das war gewiß; und die alte<lb/>eichene Treppe dröhnte unter ſeinen Tritten. Ein helles<lb/>Lachen tönte ihm aus dem Wohnzimmer entgegen. Mein<lb/>Gott, ſind Kinder darin? ſagte er; denn ſo hell, meinte<lb/>er, könnten doch nur Kinder lachen.<lb/>
+            </p>
+            <p> <lb/>Er klopfte leiſe und trat dann, die kleine Verlegen-<lb/>heit überwindend, ſchnell ein. Der Onkel kam ihm ent-<lb/>gegen. Hier, liebe Frau, iſt der Junge, ſagte er, ich<lb/>denke, er ſoll Kind im Hauſe ſein.<lb/>
+            </p>
+            <p> <lb/>Der junge Menſch ſtand ſtarr vor Erſtaunen. Sie<lb/>war ja ein vollſtändiges Kind, deren mütterlicher Für-<lb/>ſorge er gewiſſermaßen übergeben wurde, er, der baum-<lb/>lange Menſch. Eine kleine, zarte, feine Geſtalt ſtand<lb/>ſie vor ihm, die gefürchtete Tante, den kindlichſten Froh-<lb/>ſinn im braunen Auge, das heiterſte Lächeln um die<lb/>halbgeöffneten Lippen, nichts als Jugend auf Stirn<lb/>und Wangen, eine ſo friſche kindliche Jugend in ihrer<lb/>ganzen Erſcheinung, daß der Onkel auf einmal gegen<lb/>ſie zum alten Mann wurde.<lb/>
+            </p>
+            <p> <lb/>Mein Gott, ſagte er endlich, mehr lautdenkend als<lb/>zu ihr ſprechend, Sie ſind meine Tante? Sie ſind noch<lb/>ſo ſehr jung! — Sie lachte hell auf bei dieſer ſonder-<lb/>baren Anrede. Ja, ſagte ſie dann, 17 Jahre, aber Ihre<lb/>Tante bin ich doch, da mein Mann Ihr Onkel iſt, und<lb/>ich werde mir als ſolche ſchon Reſpect verſchaffen. Und<lb/>dabei nahm ſie eine reizende Miene affectirter Würde an.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0024" n="12" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=24"/>
+            </p>
+            <p> <lb/>Mit inniger Freude betrachtete ſie der Mann, und Al-<lb/>fred, der ſich nun doch darein finden mußte, daß ſeine<lb/>Tante keine häßliche verärgerte alte Frau ſei, ſchienen<lb/>bald das Angenehme dieſer Täuſchung zu begreifen.<lb/>
+            </p>
+            <p> <lb/>Welch ſchönes Leben begann jetzt für ihn! Er ver-<lb/>ehrte den Onkel aufs höchſte. Seine ruhige beſtimmte<lb/>Weiſe, ſein thätiges Leiten der Wirthſchaft, ſein überall<lb/>kräftiges Anfaſſen gefiel ihm und ſpornte ſeinen ohne-<lb/>hin thätigen Geiſt zur Nacheiferung. Er konnte arbei-<lb/>ten in und mit der Natur, ihr galt ſein Werkeltag, in<lb/>ihr feierte er ſeine Sonntage. Und immer gab es Mit-<lb/>tags ein, und des Abends ein paar Stündchen, wo die<lb/>drei glücklichen Menſchen, die jetzt eine Familie bildeten,<lb/>fröhlich und ernſt mit einander verkehren konnten. Ernſt<lb/>— das kam nun freilich ſelten vor, denn das war nur<lb/>der Oheim, und die beiden Andern waren Kinder und<lb/>wußten nichts als Frohſinn und Heiterkeit. Sie ver-<lb/>kehrten auch wie die Kinder zuſammen. Erſt nannte er<lb/>ſie gnädige Tante, dann verehrte Tante, zuletzt aber nur<lb/>noch: <hi rendition="#aq">meine reizende Tante</hi>, und der Oheim lachte<lb/>zu der Kinderei und bat nur, vor den Leuten das kin-<lb/>diſche Weſen abzulegen. Das verſtand aber die kleine<lb/>Frau auch vortrefflich, denn ſie hatte das Herz, die<lb/>Laune, aber auch den Tact eines Kindes; und das<lb/>fröhlichſte Kind nimmt eine ernſte Miene an, wenn<lb/>Fremde kommen, und ſtellt ſich ſelbſt mit ſeinem Spiel-<lb/>zeug gleichſam auf einen förmlicheren Fuß.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0025" n="13" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=25"/>
+            </p>
+            <p> <lb/>Es beſtand ein eigenthümliches Verhältniß zwi-<lb/>ſchen dem Ehepaar. Er hatte ſie geheirathet, weil ihr<lb/>Vater, ſein beſter liebſter Freund, kränklich und hypo-<lb/>chondriſch, ſich grämte und kümmerte, wie verlaſſen ſein<lb/>Kind nach ſeinem Tode ſein würde; weil das anmuthige<lb/>kindliche Geſchöpf ihm den Gedanken lieb machte, ſein<lb/>Beſchützer, ſein Freund zu ſein und den Vater zugleich<lb/>von einer Sorge zu befreien. Sie hatte eingewilligt, weil<lb/>der Vater es ſo wünſchte, weil ſie, in ſtiller Zurückgezo-<lb/>genheit lebend, nie jemand Anderes geſehen hatte, und<lb/>der Freund des Vaters, der ernſte, ruhige, geſetzte Mann,<lb/>der doch ſo freundlich mit ihr zu ſprechen wußte, ein<lb/>Gegenſtand hoher Verehrung für ſie war. So folgte<lb/>ſie ihm in ſeine Heimath, und ſo hatten ſich zwar ihre<lb/>Verhältniſſe, aber ihre Gefühle in nichts verändert. Der<lb/>Vater hatte ſie nicht begleiten wollen, und ſo widmete<lb/>ſie denn all ihre Sorgfalt, ihre freundliche Aufmerkſam-<lb/>keit dem Manne, den ſie auch mehr als Vater, denn als<lb/>Gemahl betrachtete. An Einſamkeit gewohnt, fühlte<lb/>ſie ſich nicht einſam; aber es ging nun doch eine neue<lb/>Welt in ihr auf, als der junge Mann ins Haus kam<lb/>und ſie in ihm einen ebenbürtigen, gleichgeſinnten Um-<lb/>gang fand.<lb/>
+            </p>
+            <p> <lb/>Dem älteren Manne gegenüber hatte ſie oft ihren<lb/>kindlichen Gedanken nicht Worte gegeben, inſtinktartig<lb/>herausfühlend, daß zwiſchen ihren und ſeinen An-<lb/>ſchauungen doch eine tiefe Kluft lag. Alfred gegenüber<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0026" n="14" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=26"/>
+            </p>
+            <p> <lb/>fiel jedes derartige Bedenken fort. Hier traf ſie immer<lb/>auf Verſtändniß in Ernſt und Scherz; aber der Scherz<lb/>hatte meiſt die Oberhand, und ſo ahnte ſie nichts von<lb/>dem leiſen Erwachen eines Herzens, das im ſiebenzehn-<lb/>ten Jahre des Zauberworts jugendlicher Liebe, nicht der<lb/>Pflicht bedarf, um ſich ſeiner tiefſten innerlichſten Schätze<lb/>bewußt zu werden.<lb/>
+            </p>
+            <p> <lb/>Alfred, deſſen ehrliche, offne Seele zurückgeſchaudert<lb/>wäre vor dem Gedanken, die Hand auszuſtrecken nach dem<lb/>liebſten Schatz ſeines Oheims, verſtand ſeine aufkeimende<lb/>Neigung eben ſo wenig, glaubte, wenn er „meine rei-<lb/>zende Tante“ ſagte, alle ſeine Gefühle geäußert und<lb/>zu dieſen Gefühlen volle Berechtigung zu haben, und<lb/>der Oheim hielt ſie beide für Kinder, freute ſich ihrer<lb/>harmloſen Fröhlichkeit und ließ ſie fortſpielen am Rande<lb/>des Abgrundes.<lb/>
+            </p>
+            <p> <lb/>So war Frühling und Sommer vergangen und<lb/>hatte nichts in den Verhältniſſen geändert, als ein Brief<lb/>von Alfred’s Vater dieſen in die Heimath berief. Lä-<lb/>ſtige Erbſchafts-Angelegenheiten, verwickelte Geſchäfte<lb/>machten ihm die Anweſenheit des Sohnes wünſchens-<lb/>werth; in vier bis fünf Wochen, meinte er, könne Alles<lb/>beendigt ſein und der Sohn wieder zu ſeinem Berufe zu-<lb/>rückkehren. Ach, wie ſchade! ſagte die junge Frau, dann<lb/>biſt du zum Ernte-Feſt nicht hier, und ich hatte mich<lb/>ſo gefreut, mit dir zu tanzen! Ich habe noch nie getanzt,<lb/>weißt Du, fuhr ſie, einen ihrer lieblichen ſchelmiſchen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0027" n="15" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=27"/>
+            </p>
+            <p> <lb/>Blicke auf den Mann richtend, zu dieſem gewandt, fort;<lb/>das kommt daher, weil ich immer nur mit älteren Leu-<lb/>ten verkehrt habe.<lb/>
+            </p>
+            <p> <lb/>Zum erſten Mal durchzuckte ein unangenehmes Ge-<lb/>fühl den Mann, wie wenn er ihr die Rechte der Jugend<lb/>geraubt habe, als er ſie zu ſeiner Frau machte; aber in<lb/>ihr offenes fröhliches Auge blickend, wurde er ſchnell<lb/>dieſer Empfindung Herr und ſprach nun dem Neffen<lb/>ſein Bedauern aus, ihn gerade jetzt in der Zeit der<lb/>Ernte entbehren zu ſollen. Alfred wußte ſelbſt nicht,<lb/>was er ſagen ſollte. Es ſchien ihm, als müßte er in<lb/>die Fremde, und es war doch das Vaterhaus, das ihn<lb/>rief. Zu ändern war nichts, das ſah er wohl ein; aber<lb/>er gelobte ſich im Stillen, die Geſchäfte, die ſeiner war-<lb/>teten, zu beſchleunigen, ſo viel es in ſeinen Kräften<lb/>ſtände. Zum Erntefeſt bin ich wieder da, Tantchen,<lb/>und wir tanzen doch noch zuſammen, das war ſein Ab-<lb/>ſchiedsruf, als er am andern Morgen den kleinen Wa-<lb/>gen beſtieg, auf dem der Oheim ihn bis zur nächſten<lb/>Stadt begleiten wollte.<lb/>
+            </p>
+            <p> <lb/>So war die junge Frau zum erſten Male ſeit ihrer<lb/>Verheirathung allein, und <hi rendition="#aq">wie</hi> allein! Sie ſchlich trübe<lb/>ins Haus zurück, ſie ging an ihre gewohnten Beſchäf-<lb/>tigungen, ſie machte die Runde durch Küche und Keller,<lb/>ſie nahm die Arbeit, aber nichts wollte ſie zerſtreuen,<lb/>und ſie wußte ſich kaum Rechenſchaft zu geben von der<lb/>tiefen Niedergeſchlagenheit, die ſie bedrückte. Sie dachte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0028" n="16" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=28"/>
+            </p>
+            <p> <lb/>an ihren Vater; die Thränen liefen ihr über die Wan-<lb/>gen, als ſie ſich überlegte, wie einſam und verlaſſen er<lb/>ſeine Tage hinbringe, obgleich er ihr immer ſchrieb, daß<lb/>er glücklich ſei, nun er ſein liebes Kind geborgen wiſſe.<lb/>Es ſchien ihr ein rührendes Opfer von ihm, das rüh-<lb/>rendſte, das er ihr je gebracht, und ſie hatte bisher ſo<lb/>wenig daran gedacht! Wie unrecht von ihr! Aber es er-<lb/>füllte ſie auch recht bittere Reue. Dann fiel ihr plötz-<lb/>lich ein, daß ſie ihre Mutter nie gekannt habe; ſie<lb/>erinnerte ſich, wie man ihr, dem kleinen Mädchen, einen<lb/>mit Blumen geſchmückten Hügel gezeigt und geſagt<lb/>hatte, darunter ſchlafe ihre Mutter. Ach, das war recht<lb/>traurig! Die kleine Frau barg das Geſicht in ihre<lb/>Hände, und während die Thränen durch ihre weißen<lb/>Finger liefen, dachte ſie ſich immer tiefer in die Trau-<lb/>rigkeit hinein. Und eine Freundin habe ich auch nicht,<lb/>ſagte ſie zuletzt leiſe vor ſich hin, nichts als meinen<lb/>Mann, und der alte, böſe Mann läßt mich hier ſo al-<lb/>lein mit meinem Bangen nach ihm; wäre nur wenig-<lb/>ſtens <hi rendition="#aq">Alfred</hi> da! das wäre doch eine Zerſtreuung. Und<lb/>dann ſtand <hi rendition="#aq">er</hi> plötzlich vor ihr mit ſeinem guten, offenen<lb/>Geſichte, ſo jung wie das ihre, und der ganze frohe<lb/>Sommer zog an ihr vorüber, und ſie trocknete die Thrä-<lb/>nen ab, und dann lächelte ſie, und zuletzt ſtand ſie auf<lb/>und ging in den Garten zu allen ſeinen und ihren Lieb-<lb/>lingsplätzen, beſonders an den Teich vor dem Hauſe,<lb/>und dabei wurde ihr froh und leicht ums Herz; und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0029" n="17" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=29"/>
+            </p>
+            <p> <lb/>daß ihr Vater allein ſei, und daß ſie ihre Mutter nicht<lb/>gekannt, und keine Freundin habe — das war alles,<lb/>alles vergeſſen. O Gott, wie vergnügt, wie von Her-<lb/>zen froh hüpfte ſie ihrem Manne entgegen, als er Abends<lb/>nach Hauſe kam! Er fühlte ihr Herz ſchlagen, als er<lb/>ſie innig in die Arme ſchloß. Ach wie habe ich mich<lb/>gebangt! ſagte ſie, und ſchmiegte ſich immer wieder in<lb/>ſeine Arme. Du fort, und nicht einmal der <hi rendition="#aq">Alfred</hi>
+               <lb/>da, mich mit ſeiner guten Laune zu tröſten! Und dann<lb/>erzählte ſie ihm, wie ſie den Tag verlebt, was ſie<lb/>für traurige Dinge gedacht, wie ſie zum erſten Male<lb/>ſeit ihrer Verheirathung geweint, wie ſie auf ihn ge-<lb/>ſcholten habe, und wie froh ſie über ſeine Rückkehr ſei.<lb/>Und er hörte ihr ſo glücklich und zufrieden zu, er ſchloß<lb/>ſie ſo warm an ſein Herz, er fühlte wohl jetzt ſelber,<lb/>daß er ſie doch mehr, viel mehr liebe, daß ſie ihm mehr<lb/>ſei, als ein liebenswürdiges, gutes Kind.<lb/>
+            </p>
+            <p> <lb/>Aber achtundvierzig Jahre war er durch die Welt<lb/>gegangen ohne dieſes ſeligſte aller Gefühle, und ſo, bei<lb/>aller Biederkeit ſeiner Geſinnung, bei aller Wärme ſeines<lb/>edlen Herzens, fand er doch das Wort nicht, das die-<lb/>ſem kindlichen Herzen ſeine verborgene Zauberwelt er-<lb/>ſchließen ſollte. Ganz und gar wollte die Bangigkeit<lb/>doch nicht von der Seele der jungen Frau weichen, auch<lb/>nun, als ihr Mann wieder bei ihr war.<lb/>
+            </p>
+            <p> <lb/>Alfred fehlte doch ſehr, ihm ſowohl wie ihr, aber<lb/>Jedem auf ſeine Weiſe. Er hatte ſich gern von ihm un-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0030" n="18" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=30"/>
+            </p>
+            <p> <lb/>terſtützen, ſie ſich gern von ihm unterhalten laſſen. Sie griff<lb/>nun wieder des Abends zu ernſten Büchern und las dem<lb/>Manne vor; denn die Unterhaltung zwiſchen zweien, dachte<lb/>ſie, geht doch nicht ſo gut, als wenn drei ſind. Aber die<lb/>Lecture hatte ſie nie ſehr angeſprochen, ſie ſeufzte dabei<lb/>nach Alfred, wie nach einem erlöſenden Freunde. Du<lb/>biſt jetzt immer viel länger auf dem Felde, als ſonſt,<lb/>ſagte ſie zu ihrem Manne. Alfred iſt nicht hier, erwi-<lb/>derte er, und es gibt jetzt ſo wie ſo doppelte Arbeit.<lb/>Ach, wieder mußte ſie nach Alfred ſeufzen. Sie war<lb/>wieder ſo viel allein, und die Stunden hatten alle mehr<lb/>als ſechszig Minuten, und die einſame Lage des Vaters<lb/>fiel ihr immer wieder dabei ein und ließ ſie oft und<lb/>lange in Gedanken verſunken daſitzen und traurig ſein,<lb/>und das Ende aller Gedanken war immer der Seufzer:<lb/>Ach, wäre Alfred hier!<lb/>
+            </p>
+            <p> <lb/>Sie war gar nicht ſo munter und fröhlich mehr,<lb/>und ihr Mann bemerkte zuweilen mit Sorgen, daß ihre<lb/>Wange blaß und ihr Auge trübe wäre. Die vier Wo-<lb/>chen waren vorüber und das Ernte-Feſt auch, an dem<lb/>ſie zwar getanzt hatte, aber nur mit den Leuten; und<lb/>der Herbſt hielt ſeinen Einzug durch vergoldete Laub-<lb/>gänge und über gemähte Felder; aber Alfred wurde im-<lb/>mer noch zurückgehalten. Ach, nun mag er ganz wegblei-<lb/>ben, dachte ſie, nun hat man ſich ja wieder an das ein-<lb/>förmige Leben gewöhnt! So waren die Abende lang<lb/>geworden, und im Kamine brannten die Flammen, und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0031" n="19" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=31"/>
+            </p>
+            <p> <lb/>ſie ſaß und las dem Manne vor, der kaum auf die<lb/>Worte hörte, weil er nichts Anderes thun konnte, als<lb/>das liebliche Geſicht anſehen, auf das die Flamme einen<lb/>blendenden Schein warf. Da wurde die Hausthür kräf-<lb/>tig zugeworfen, und raſche Schritte ertönten auf der<lb/>Treppe. Herr Gott, der Alfred! ſchrie die junge Frau<lb/>laut auf, und das Buch flog zur Seite, und ſie ſtand<lb/>da, zitternd, Bläſſe und Röthe wechſelnd auf den Wan-<lb/>gen, als die Thür aufgeriſſen wurde und Alfred, ſtrah-<lb/>lend vor Freude, hereinſtürmte.<lb/>
+            </p>
+            <p> <lb/>In dem Augenblicke war Alles vergeſſen — daß ſie<lb/>die Frau eines Anderen, daß er ihr nichts ſein durfte,<lb/>als ein lieber Bruder, daß der Mann daneben ſtand;<lb/>Alles, Alles war vergeſſen, nur nicht, daß ſie ſich ge-<lb/>bangt, daß ſie nach einander verlangt, mit aller Gluth,<lb/>aller Reinheit einer erwachenden, unverſtandenen Liebe.<lb/>
+            </p>
+            <p> <lb/>Aber das Verſtändniß kam. Der Schleier zerriß,<lb/>der allen dreien den Abgrund verborgen, an deſſen<lb/>Rande ſie geſpielt und die reizendſten Blumen des Le-<lb/>bens gepflückt hatten.<lb/>
+            </p>
+            <p> <lb/>Die Freude, die unbedachte Glückſeligkeit der Bei-<lb/>den hatte dem armen, von ihnen unwiſſentlich betro-<lb/>genen Manne die Binde von den Augen geriſſen.<lb/>Seine geiſterhafte Bläſſe, der tiefe Kummer, mit dem<lb/>er nach ihnen hinſtarrte, traf ihre Freude wie ein Blitz<lb/>und brachte ein plötzliches Licht in die Dunkelheit ihrer<lb/>Gefühle. Es war ein entſetzliches Licht; denn als der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0032" n="20" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=32"/>
+            </p>
+            <p> <lb/>Strahl ſchwand, da war tiefe undurchdringliche Nacht<lb/>um ſie. Zitternd ſank ſie auf den Stuhl zurück; wie in<lb/>tiefer Verzweiflung ſchlug er die Hände vor ſein Antlitz<lb/>und wollte hinaus. Aber der Oheim, der ſeine Faſſung<lb/>wieder erlangt, trat auf ihn zu und reichte ihm die<lb/>Hand.<lb/>
+            </p>
+            <p> <lb/>Du kommſt unerwartet, lieber Alfred, ſagte er<lb/>dann ſanft, doch lag ein gebrochener Ton in der Stimme,<lb/>den er mit aller Gewalt nicht überwältigen konnte und<lb/>der dem armen, jungen Manne das Herz zerriß. Du<lb/>kommſt unerwartet, aber Du biſt ja zu Hauſe bei uns<lb/>und nimmſt fürlieb. Dein Stübchen weißt du, geh<lb/>hinauf und ruhe dich aus, ſpäter werde ich dich rufen.<lb/>
+            </p>
+            <p> <lb/>Alfred ging, aber ſeine Stube heimelte ihn dieſes<lb/>Mal nicht an, und er pflückte keine Blüthen vom Lin-<lb/>denbaume, ſondern ſah durch die kahl werdenden Zweige<lb/>einen dunklen Himmel, an dem auch kein Stern leuch-<lb/>tete, ihm den Weg zu zeigen. Und unten brannten die<lb/>Flammen hell im Kamine, und der Lampenſchimmer<lb/>reichte bis in die fernſte Ecke des gemüthlichen Wohn-<lb/>zimmers und doch ſchien es dem armen Manne, der da<lb/>ſaß und in die Flamme ſtarrte, als umgebe ihn tiefe<lb/>undurchdringliche Nacht; und Zorn und Gram, ein Ge-<lb/>fühl der Verachtung alles deſſen, was jung und ſchön<lb/>und glücklich, bitterer Hohn über ſein argloſes Zutrauen,<lb/>das alles ſtritt um die Herrſchaft in ſeiner Seele. Doch<lb/>als ſie jetzt zu ihm trat, die Hand leiſe auf ſeine Schul-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0033" n="21" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=33"/>
+            </p>
+            <p> <lb/>ter legte und ſanft und flehend ſagte: Ich will ja recht-<lb/>ſchaffen ſein, und du biſt mein beſter Freund, ſo hilf<lb/>mir doch! – da traf ihn der Strahl von oben, der<lb/>keiner gekränkten und gequälten Seele fehlt, und ihr<lb/>Hülferuf gab ihm alle Klarheit, alle Beſonnenheit und<lb/>alle Milde ſeines Charakters wieder. Er ſchloß ſie in-<lb/>nig und warm an ſein Herz, und als heiße Thränen<lb/>ihren Augen entſtrömten und die zarte, kleine Geſtalt vor<lb/>nervöſem Schluchzen bebte, da trug er ſie ſelbſt auf<lb/>ihr Ruhebett und ſprach ſo freundlich und beruhigend<lb/>ihr zu, ohne doch mit einer Silbe des Vorgefallenen zu<lb/>erwähnen. Nein, Worte konnte er dem nicht geben, was<lb/>ihm das Herz, noch angſtvoll zuſammenpreßte. Einmal<lb/>ausgeſprochen, konnte es nie wieder vergeſſen werden;<lb/>und er wollte nichts wiſſen von dem Leid und<lb/>dem Unrecht, das da plötzlich über ſie alle drei herein-<lb/>brach. Ging es zu vernichten, dann ging es nur, wenn<lb/>es eingehüllt wurde in die Nacht des Schweigens.<lb/>
+            </p>
+            <p> <lb/>Wie ein Kind weinte die kleine Frau ſich müde und<lb/>matt, während er, ein treuer Wächter, an ihrer Seite<lb/>ſaß, und die letzten Thränen floſſen ſchon ihr unbewußt<lb/>unter den geſchloſſenen Augenlidern hervor. Er lä-<lb/>chelte halb traurig, halb bitter, als er ſie ſo ſanft ent-<lb/>ſchlummern ſah, die Thränen auf den Wangen, als<lb/>gälten ſie einem böſen Traume, der mit dem Erwachen<lb/>ſchwinden müſſe, während er fühlte, er müſſe wachen<lb/>und beten, auf daß der Traum nicht Wahrheit würde.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0034" n="22" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=34"/>
+            </p>
+            <p> <lb/>Er verhüllte ſorgſam die Lampe, daß der Lichtſchein ſie<lb/>nicht ſtöre; er ſtrich leiſe mit der Hand über die reine<lb/>Stirn, ſeufzte tief und ging dann zu Alfred hinauf.<lb/>
+            </p>
+            <p> <lb/>Der junge Mann hörte die feſten, kräftigen Schritte<lb/>des Oheims; noch war kein klarer Gedanke in ſeine<lb/>Seele gekommen, und noch ſtritt in ihm das glückſelige<lb/>Gefühl der Liebe, deren Licht ſo jäh, ſo plötzlich ſich in<lb/>ihm entzündet hatte, mit Reue und Scham über den<lb/>Verrath, den er begangen an ſich ſelbſt und an ihm, der<lb/>ihm ein Vater, ein Freund geweſen. Er wußte nicht,<lb/>ſollte er dem Oheim zu Füßen ſtürzen, ſollte er ihn<lb/>anklagen daß er den Schatz beſaß nach dem ſein un-<lb/>geſtümes Herz verlangte. Die ruhige Würde des ein-<lb/>tretenden Oheims, ſein feſter, klarer Blick beſchwor den<lb/>Sturm, und er hielt unwillkürlich inne in der Haſt, mit<lb/>der er ihm entgegengetreten.<lb/>
+            </p>
+            <p> <lb/>Der Oheim that, als wäre nichts vorgefallen. Er<lb/>wiederholte ſeine Begrüßung, nahm ihn mit herunter,<lb/>klingelte nach dem Thee und entſchuldigte in Gegenwart<lb/>des Bedienten ſeine Frau, die, ſehr ermüdet von einem<lb/>weiten Spaziergange, ſich zeitig zur Ruhe begeben hätte.<lb/>Er ließ ſich von Alfred die Begebenheiten der letzten Zeit<lb/>mittheilen, verlangte eine genaue Auseinanderſetzung<lb/>der verwickelten Verhältniſſe, derentwegen Alfred nach<lb/>Hauſe berufen; er beachtete nicht deſſen erſt verworrene<lb/>Antworten, und dann, als dieſe klar wurden, als ſeine<lb/>Wangen nicht mehr fieberiſch brannten und der Blick<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0035" n="23" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=35"/>
+            </p>
+            <p> <lb/>ſein unſtätes Feuer verlor, da erſt wechſelte er den Ge-<lb/>genſtand des Geſpräches und ſagte ihm nun, daß ſeine<lb/>Rückkehr ihm doppelt lieb, weil er beabſichtige, mit ſei-<lb/>ner Frau eine Reiſe anzutreten, und die Wirthſchaft<lb/>in ſeinen Händen geborgen wiſſe. Späterhin, lieber<lb/>Alfred, fügte er dann freundlich hinzu, wird deines<lb/>Bleibens bei mir nicht mehr ſein. Mein Gut iſt zu<lb/>klein, um zwei ſo eifrige Landwirthe, wie wir ſind, zu<lb/>beſchäftigen; du kannſt in anderen, größeren Wirth-<lb/>ſchaften mehr lernen. Ich habe es mir genau überlegt,<lb/>werde dich einem alten Bekannten empfehlen und bei<lb/>deinem Vater die Veränderung deiner Stellung befür-<lb/>worten. Kind des Hauſes, wie hier bei mir, fuhr er,<lb/>ſehr erregt werdend, fort, wirſt du dort nicht ſein, denn<lb/>die Pflicht wird dir nicht verſüßt werden durch das Ge-<lb/>fühl, ſie in deiner Heimath zu erfüllen. Aber das Le-<lb/>ben iſt kein Scherz; die Jugend <hi rendition="#aq">befähigt</hi> uns zwar,<lb/>aber <hi rendition="#aq">berechtigt</hi> uns nicht zum Glücke. Das Glück<lb/>liegt im Rechtthun überall, ſei es ſchwer oder leicht; das<lb/>Uebrige iſt in der Hand des Herrn.<lb/>
+            </p>
+            <p> <lb/>Alfred neigte nur zuſtimmend das Haupt, ſprechen<lb/>konnte er nicht. Aber wie ſein junges Herz gerungen<lb/>in der Nacht, um der klar erkannten Pflicht nicht das<lb/>kleinſte ihrer Rechte fortzuklügeln, — der alte Mann mochte<lb/>ſich deſſen lebhaft erinnern, denn er holte tief Athem,<lb/>ehe das Lächeln eines errungenen Sieges über ſeine<lb/>gefurchten Züge flog.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0036" n="24" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=36"/>
+            </p>
+            <p> <lb/>Die Vorbereitungen waren ſchnell getroffen, Oheim<lb/>und Tante reiſten ab, und wie vorher die junge Frau,<lb/>ſo war jetzt Alfred für viele Wochen der Einſamkeit<lb/>anheimgegeben. Ach, ſeine Bangigkeit war noch viel<lb/>ſchmerzlicher als die ihre damals, denn ſeiner Sehnſucht<lb/>Ziel ſchien ihm entrückt für jetzt und immer! Aber er<lb/>nahm ſich kräftig zuſammen, er betäubte ſeine Gedanken<lb/>mit Arbeit; und nur die ſtillen Nachtſtunden wußten zu<lb/>erzählen von den Kämpfen dieſes jungen Herzens. Er<lb/>ſtrebte, zu vergeſſen, und doch, wie konnte er! Wehte<lb/>ihm nicht überall hier ihr Geiſt entgegen, knüpfte<lb/>ſich die Erinnerung nicht an alles was ihn umgab,<lb/>Leben ſelbſt todten Gegenſtänden verleihend, und war<lb/>da nicht das Bild der geliebten reizenden Tante, das<lb/>er nicht ſehen wollte und doch täglich ſah, und das in<lb/>jugendlicher Schönheit und Friſche aus dem goldenen<lb/>Rahmen heraus ihm den Schmerz immer tiefer in die<lb/>Seele lachte?<lb/>
+            </p>
+            <p> <lb/>Einige Briefe des Oheims unterbrachen ſeine Ein-<lb/>ſamkeit. Sie enthielten wenig über die Reiſenden, aber<lb/>ſeiner Frau erwähnte er mit großer Unbefangenheit, be-<lb/>ſtellte Grüße von ihr u. ſ. w.; genug, Alfred ſah, Jener<lb/>wollte zwar die Gefahr aus dem Wege räumen und<lb/>ihn entfernen, aber mit keiner Silbe derſelben erwähnen.<lb/>Dann ſchrieb er ihm, daß er ſich an den Grafen S.<lb/>wegen ſeines ferneren Fortkommens gewandt, daß, ſo-<lb/>bald er zurückgekehrt ſei und die Rechnungen abgenom-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0037" n="25" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=37"/>
+            </p>
+            <p> <lb/>men habe, Alfred ſeine Stellung dort antreten könne.<lb/>Alfred zitterte; ſo ſollte er alſo die Geliebte noch ein-<lb/>mal ſehen! O, es war grauſam; nein, es war unendlich<lb/>gut vom Oheim, ſo dachte er; oder, vielleicht ſollte er<lb/>geprüft werden, und feſt gelobte er’s ſich, mit keiner<lb/>Miene ſein zerriſſenes Gemüth zu verrathen. Er war<lb/>ein Knabe bisher geweſen, jetzt wollte er ein Mann<lb/>ſein! Und er war’s.<lb/>
+            </p>
+            <p> <lb/>Er bewältigte das Zittern aller ſeiner Nerven, als<lb/>der Wagen vorfuhr; er bewillkommte mit feſtem Hand-<lb/>ſchlage den Oheim; ſeine Stimme bebte nicht, als er<lb/>die Tante begrüßte; aber daß ihr Geſicht bleich war<lb/>und ihre Stimme, trotz aller Beherrſchung, müde klang,<lb/>das erregte ihm eine Freude, wofür er ſich hätte ſelbſt<lb/>verachten mögen, und die er doch nicht unterdrücken<lb/>konnte. Nur wenige Tage blieb er in M., und in die-<lb/>ſen wenigen Tagen ſah er die Tante nur ſelten, obgleich<lb/>er die Augenblicke als die letzten glücklichen ſeines Lebens<lb/>betrachtete.<lb/>
+            </p>
+            <p> <lb/>Oheim und Tante waren unendlich freundlich zu-<lb/>ſammen; ſie flog, um ſeinen Wünſchen zuvorzukommen,<lb/>er zeigte ihr eine Achtung in ſeinem Benehmen, die<lb/>ſehr abſtach gegen die ſorgloſe Weiſe, mit der er ſie<lb/>früher faſt wie ein Kind behandelt hatte. Aber die<lb/>Tante war, wenn auch nicht traurig, doch ſo ſtill und<lb/>ernſt und ſo ſchüchtern, wenn ſie ſich dem Manne näherte,<lb/>als läge ein Schatten zwiſchen Beiden. Ach, wo war<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0038" n="26" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=38"/>
+            </p>
+            <p> <lb/>das heitere Lachen geblieben, wo die fröhlichen Scherze ver-<lb/>gangener ſonniger Tage! Dann kam der Abſchied. Der<lb/>Oheim hatte Beide allein gelaſſen; wollte er ſich einen<lb/>Schmerz, wollte er ihnen einen Kampf erſparen?<lb/>
+            </p>
+            <p> <lb/>Es war ein worte-, ein thränenloſer Abſchied. Sie<lb/>gab ihm ſchweigend die Hand, die er einen Augenblick<lb/>in der ſeinigen hielt; einen Augenblick trafen die Augen<lb/>einander, aber dann war’s vorbei mit der Faſſung, raſch<lb/>wandte ſie ſich ab, und er ſtürzte aus dem Zimmer.<lb/>Du biſt ein guter redlicher Menſch, ſprach der Oheim,<lb/>als er dieſem Lebewohl ſagte, bleibe ſo, und Gott wird<lb/>Dir weiter helfen. Das war ſein letztes Wort, und<lb/>Alfred ſchien es ein Segen auf den dunkeln Pfad, den<lb/>er weiter wandeln ſollte.<lb/>
+            </p>
+            <p> <lb/>Es kam nun in anderer Art eine Lehrzeit für ihn.<lb/>War bisher ſein Herz in die Schule gegangen, jetzt<lb/>ſollte es der Verſtand. Jetzt ſollte er lernen, ſich be-<lb/>ſcheiden, ſich begnügen, ſeinen Werth unabhängig ma-<lb/>chen von der Schätzung der Menſchen. Es war ein gar<lb/>vornehmes Haus, in das er gekommen und in dem er<lb/>nichts war, als zweiter Inſpector, während er beim<lb/>Oheim die Herrſchaft getheilt hatte. Der Schau-<lb/>platz ſeiner Thätigkeit gefiel ihm wohl, denn als der<lb/>Lenz kam und die Saat hervorlockte, da berief es ihn<lb/>auf ſchöne grüne Felder. Dort, inmitten der thätigen<lb/>Arbeiter, war er zu Hauſe; im Hauſe ſelbſt war er’s nicht.<lb/>Im Hauſe bauten ſich zwiſchen dem Grafen und ihm<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0039" n="27" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=39"/>
+            </p>
+            <p> <lb/>die Schranken auf, die auf dem freien Gottesfelde ſan-<lb/>ken. Hier als Arbeiter geachtet und geſchätzt, war er<lb/>dort nichts; denn es fiel Keinem ein, etwas in ihm zu<lb/>ſuchen, und er ſelbſt wollte und konnte ſich nicht geltend<lb/>machen. Richtete der Graf einmal über Tiſch das<lb/>Wort an ihn, ſo betraf es ökonomiſche Gegenſtände;<lb/>die Gräfin wußte nichts von der Feldwirthſchaft, deß-<lb/>halb ſprach ſie gar nicht mit ihm; und die jungen Da-<lb/>men, die ſeinen ehrerbietigen Gruß immer ſehr freundlich<lb/>erwiederten, kamen doch nie in den Fall, an den Wirth-<lb/>ſchafter des Vaters ein Wort zu richten. Es iſt nun einmal<lb/>in der Welt ſo, und er wollte es auch nicht geändert wiſſen;<lb/>aber er war eben ſehr einſam und ſo gab die Erinnerung kei-<lb/>nes ihrer Rechte auf und nahte ſich ihm oft, tiefen<lb/>Schmerz und ſelige Freude in ihm erregend. Jahre<lb/>ſeines Lebens hätte er dahingegeben, die geliebte Tante<lb/>nur Ein Mal wieder zu ſehen; ſo hörte er kaum von<lb/>ihr, denn die ſeltenen kurzen Briefe des Oheims, die<lb/>überhaupt ſo ernſt klangen, das es ihm das Herz zerriſſ,<lb/>erwähnten ihrer nur obenhin.<lb/>
+            </p>
+            <p> <lb/>So gingen die Tage dahin, in ununterbrochener<lb/>Thätigkeit, ruhig und ſtill. Aber plötzlich brach wieder<lb/>der Sturm los, und Alfred wurde aus ſeiner Bahn<lb/>geriſſen.<lb/>
+            </p>
+            <p> <lb/>Es drang eine Nachricht zu ihm, die alle erkämpfte<lb/>Ruhe plötzlich zerſtörte, die ihn zum Handeln rief, ja, im<lb/>Augenblick zu faſt beſinnungsloſem Handeln. Der Amt-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0040" n="28" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=40"/>
+            </p>
+            <p> <lb/>mann des Oheims ſchrieb ihm. Der Bericht des Schrei-<lb/>bens-Unkundigen klang zwar etwas verworren, aber<lb/>das Schreckliche las er doch heraus, daß man den Oheim,<lb/>getroffen durch ſein eigenes Gewehr, todt im Walde<lb/>gefunden, daß Niemand wußte, war es Zufall oder<lb/>lag ein Verbrechen vor. Man glaubte aber das Er-<lb/>ſtere um ſo eher, als der Herr allgemein beliebt ge-<lb/>weſen und nirgends die Spur eines Verdachts zn fin-<lb/>den war. Bei Alfred war Entſchluß und Ausführung<lb/>Eins. Gott weiß es, er dachte damals an nichts als<lb/>an den Tod des väterlichen Freundes, den Schmerz,<lb/>die Vereinſamung der Wittwe; kein ſelbſtſüchtiger Ge-<lb/>danke, kein Schatten einer noch ſo fernen Hoffnung<lb/>miſchte ſich in die reine Empfindung ſeines Kummers.<lb/>Aber hin mußte er, und da der Graf verreiſ’t war, da<lb/>es ihm unmöglich ſchien bis zu der Gräfin, die ihm ge-<lb/>genüber ſtets eine lebloſe Statue geweſen, durchzudrin-<lb/>gen, ſo ſchrieb er bloß einige Worte an den Grafen und<lb/>reiſ’te ab.<lb/>
+            </p>
+            <p> <lb/>Der alte Mann, der mit ſeinen Träumereien ſo<lb/>weit in die Vergangenheit zurückſchweifte, warf hier<lb/>doch einen Blick auf das Antlitz der treuen ſchlummern-<lb/>den Lebensgefährtin. Wie ſtill und friedlich waren die<lb/>Züge heute, wie ſchmerzzerriſſen, wie ſturmbewegt da-<lb/>mals, als er vor ihr ſtand, als er ihr ein Wort des<lb/>Troſtes ſagen wollte und ſie ihn mit wilder Geberde<lb/>von ſich wies und ihm mit einer Stimme, in der die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0041" n="29" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=41"/>
+            </p>
+            <p> <lb/>Verzweifluug zitterte, ſagte: Geh, um Gotteswillen<lb/>geh! wir Beiden ſind ja doch an ſeinem Tode ſchuld,<lb/>und es iſt Verbrechen uns nur zu ſehen! Wie entſetzt,<lb/>beſtürzt er da geſtanden, und wie ſie ihm mit leiſem Ton,<lb/>als dürfe Niemand weiter es hören, die Ueberzeugung<lb/>zugeflüſtert, ihr Mann habe ſich ſelbſt um das Leben<lb/>gebracht, das ihm eine Laſt geweſen, ſeit er ſich ſo un-<lb/>glücklich mit ihr gefühlt.<lb/>
+            </p>
+            <p> <lb/>Unglücklich mit Dir! ſagte Alfred. — Ja, ja, fuhr<lb/>ſie fort, ſeit jenem Abend, du weißt ihn, war Alles an-<lb/>ders geworden. Ich hatte Gott ſo flehentlich gebeten,<lb/>mir zu helfen, und er half mir auch, mein Herz zum<lb/>Schweigen zu bringen; aber das Rechte traf ich doch<lb/>nicht, und alle meine Sorge um ihn, meine tiefe Ver-<lb/>ehrung ſeines Werthes, meine Dankbarkeit für ſeine<lb/>Güte war doch nicht durchglüht von dem Funken, der<lb/>in ihm auf einmal zur Flamme entbrannt war. Und<lb/>doch hatte ich ihn auch lieb; aber wenn ich es ihm ſa-<lb/>gen wollte, und in ſein ernſtes Auge ſah, fühlte ich,<lb/>es war nicht ſo, wie er es meinte. Er war anſpruchs-<lb/>voller geworden und ich ärmer. Aber nie machte er<lb/>mir einen Vorwurf; er war immer gut und freundlich;<lb/>nur war kein Vertrauen mehr zwiſchen uns; er wurde<lb/>immer ernſter, mitunter ſogar finſter, und ſo hat er<lb/>dieſes Leben voll Täuſchung und Unbefriedigung nicht<lb/>ertragen und es weggeworfen, weil ich ihn um den<lb/>Werth deſſelben betrogen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0042" n="30" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=42"/>
+            </p>
+            <p> <lb/>Die arme Frau rang verzweiflungsvoll die Hände<lb/>und verhüllte dann ihr blaſſes Geſicht, ihr thränenloſes<lb/>Auge. Alfred ſtand einen Augenblick wie zum Tode<lb/>getroffen; aber dann trat das Bild des Oheims vor<lb/>ihn hin, des ruhigen, verſtändigen Mannes mit dem<lb/>feſten ehrenhaften Charakter, der immer das Rechte er-<lb/>kannt, immer das Rechte gethan hatte; und wie ein<lb/>Licht glühte die Ueberzeugung in ihm auf, daß das<lb/>kranke Herz der armen Frau ſie irre geführt, daß ſein<lb/>Oheim keines Verbrechens fähig geweſen.<lb/>
+            </p>
+            <p> <lb/>Es iſt unmöglich, ſagte er. Knaben werfen das<lb/>Leben fort, wenn es dem verirrten Geiſt, dem gebro-<lb/>chenen Herzen zur Wüſte geworden; Männer tragen es,<lb/>was auch kommen mag; Chriſten ſind nie hoffnungslos,<lb/>und der Oheim war Mann und Chriſt. Nein, bei<lb/>Gott, er hat ſeinen reinen Charakter nicht befleckt, und<lb/>du beleidigſt ſein Andenken, wenn du glaubſt, er ſei<lb/>mit einem Verbrechen geſchieden. — Meinſt du? ſagte die<lb/>Frau, und zum erſten Mal, ſeit der Mann in die Erde<lb/>geſenkt, erleichterten Ströme von Thränen die Laſt des<lb/>armen Herzens. Alfred ließ ſie weinen.<lb/>
+            </p>
+            <p> <lb/>Er ſagte kein Wort mehr zu ihr; ließ ſie allein,<lb/>als ſie ihn darum bat, und ging hinunter ins Dorf,<lb/>um mehr von der traurigen Sache zu hören. Aber es<lb/>war nichts dabei zu berichten. In voller Kraft der Ge-<lb/>ſundheit war er Nachmittags in den Wald gegangen,<lb/>kein Menſch hatte nur eine Verſtimmung an ihm be-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0043" n="31" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=43"/>
+            </p>
+            <p> <lb/>merkt. Der Amtmann, der um ſechs Uhr aus der<lb/>Stadt gekommen, hatte ihn am Boden liegend gefun-<lb/>den, mit zerſchmettertem Gehirn, das abgeſchoſſene Ge-<lb/>wehr neben ihm; die Kugel war ihm durchs Auge ge-<lb/>gangen. Kein Menſch dachte an Selbſtmord, Keiner an<lb/>Mord, ſondern Jeder glaubte, das Gewehr ſei durch Zu-<lb/>fall losgegangen; und ſo ward es auch in dem gericht-<lb/>lichen Befunde angenommen.<lb/>
+            </p>
+            <p> <lb/>Ueberall hörte Alfred das Lob ſeines Oheims, das<lb/>tiefſte Bedauern der armen Wittwe. Sein Teſtament,<lb/>vor Jahr und Tag ſchon verfaßt, hatte ſie zur alleinigen<lb/>Erbin eingeſetzt, und ein offenbar neuerdings beigefügtes<lb/>Codicill, das mit den zarteſten Worten anerkennender<lb/>Liebe ſie bat, im Fall ſeines Todes auf dem Gute zu<lb/>bleiben, und ihrer Sorge, ihrem Schutz ſeine Unterge-<lb/>benen anempfahl, mochte ſie in dem finſtern Verdacht<lb/>des Selbſtmordes beſtärken, während es den Leuten eine<lb/>Todesahnung ſchien, die, eine Mahnung des Himmels,<lb/>ihn in der Kraft und Blüthe des Lebens veranlaßt habe,<lb/>auch ſeinen letzten Wunſch noch dem letzten Willen hin-<lb/>zuzufügen. Alfred blieb fürs Erſte beim Amtmann,<lb/>welchem treuen, zuverläſſigen Manne wohl die äußere<lb/>Bewirthſchaftung des Gutes überlaſſen bleiben konnte!<lb/>die Tante ſah er wenig, da er ſich überzeugte, wie<lb/>ſchmerzlich, wie vorwurfsvoll ihr ſein Anblick war; aber<lb/>er konnte ſich nicht entſchließen, eher fort zu gehen, als<lb/>bis er ſie in der Obhut ihres Vaters wußte, den die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0044" n="32" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=44"/>
+            </p>
+            <p> <lb/>Todesnachricht des Schwiegerſohnes auf Reiſen getrof-<lb/>fen und der zurückkehrte, um aufs Neue der Schutz ſei-<lb/>nes geliebten, nun verwittweten Kindes zu ſein. Erſt<lb/>als er kam, ging Alfred; er ſchied mit ſchwerem Her-<lb/>zen, denn der Verdacht war nicht aus ihrer Seele ver-<lb/>bannt, und in ihre Trauer miſchte ſich bittere Selbſtan-<lb/>klage und fruchtloſe Reue. Das las er fortdauernd in<lb/>ihren verſtörten Zügen, ſo verſtand er ihre faſt in To-<lb/>desangſt hervorgeſtoßene Abſchiedsbitte, nie wiederzu-<lb/>kommen, denn ſie beide dürften ſich nie, nie wiederſehen.<lb/>
+            </p>
+            <p> <lb/>So verließ er denn zum zweiten Mal den ihm<lb/>liebſten Ort der Welt, verließ ihn mit noch tiefer ver-<lb/>wundetem, noch hoffnungsloſerem Herzen. Ach, wer<lb/>ihm damals geſagt hätte, daß er es doch ſei, der den<lb/>Frieden dahin zurückbringen ſollte, daß für ihn dennoch<lb/>das Glück dort erblühen würde, ſo finſter und dunkel<lb/>auch das Leben vor ihm lag! Ach, was der Greis jetzt<lb/>wußte, daß man nie verzagen darf, daß Gottes Hand<lb/>dem Erdenwanderer den Pfad zeigt, daß ſein Geiſt ihn<lb/>erhellt, ſeine Hülfe ihn ebnet, das mußte der junge<lb/>Mann von damals erſt lernen.<lb/>
+            </p>
+            <p> <lb/>Der Graf empfing ihn ſehr unfreundlich. Er liebte<lb/>nicht, daß man gegen ſeine Erlaubniß handelte, er<lb/>nahm einen übereilten Entſchluß für einen nicht zu<lb/>entſchuldigenden, ein ſelbſtändiges Handeln für eine<lb/>Nichtachtung ſeines Anſehens. Er hatte allerdings ein<lb/>Recht zur Unzufriedenheit; aber er benutzte es mit ſolcher<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0045" n="33" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=45"/>
+            </p>
+            <p> <lb/>Willkür, äußerte ſich ſo ſcharf und hart, daß Alfred, der<lb/>kaum mit der Prüfung des Himmels ins Klare gekom-<lb/>men und noch weniger geneigt war, ſich der von Men-<lb/>ſchenhand zu beugen, gereizt und heftig das Verhält-<lb/>niß löſ’te. So waren denn ſeine Lehrjahre zum zwei-<lb/>ten Male unterbrochen, und er beſchloß nun, auf eigene<lb/>Hand, auf eigene Verantwortung, zu eigenem Nutzen<lb/>und Schaden weiter zu lerenn. Mit ſeinem Vater, der<lb/>ſeine Anlage zu kräftiger Selbſtſtändigkeit früh erkannt<lb/>und ihn darin beſtärkt hatte, wurde er bald einig. Er hatte<lb/>nicht genug Vermögen, ſich ſelbſt anzukaufen; aber zu<lb/>einer Pachtung reichten die Mittel hin und wurden ihm<lb/>nach reiflicher Ueberlegung gewährt.<lb/>
+            </p>
+            <p> <lb/>So war alſo Alfred bald Pachter eines kleinen<lb/>Gütchens und richtete um ſo eifriger ſeine Thätigkeit<lb/>auf den neuen Wirkungskreis, als er noch nicht ver-<lb/>mocht hatte, ſich ſeine Gedanken zu Freunden zu machen.<lb/>Aber Gott war ſichtlich mit ihm. Seine Felder trugen<lb/>reichliche Frucht, ſeine Leute liebten ihn, und er hätte<lb/>glücklich ſein können, wäre nicht ſeine Jugend, wie er<lb/>meinte, ſchon in der Blüthe zerſtört worden. So ver-<lb/>ging ein fleißiges, unendlich langes Jahr; ach, das<lb/>Jahr war länger als die fünfzig ſpäteren meines Lebens! .<lb/>ſagte der alte Mann.<lb/>
+            </p>
+            <p> <lb/>Nun aber blieb die Erinnerung haften an einer<lb/>düſteren und doch ſo unendlich glücklichen Begebenheit,<lb/>wo aus dem Munde eines Sterbenden ihm das Wort<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0046" n="34" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=46"/>
+            </p>
+            <p> <lb/>gekommen war, das die Wurzel einer neuen, ſegens-<lb/>vollen Lebensblüthe werden ſollte. Er folgte damals<lb/>ungern der Pflicht, die ihn plötzlich in die Nähe ſeiner<lb/>geliebten, nun verlorenen Heimat berief; aber durfte<lb/>er zögern, den Wunſch eines Todtkranken zu erfüllen,<lb/>der, wie der ihm eilends geſandte Bote ſagte, nicht<lb/>ruhig ſterben könne, ohne ihn vorher geſprochen zu<lb/>haben?<lb/>
+            </p>
+            <p> <lb/>Er wußte keinen Zuſammenhang zwiſchen ſich<lb/>und dem Sterbenden, aber hier galt kein Fragen, kein<lb/>Zögern; es war gleich, ob er den Troſt- und Hülfe-<lb/>ſuchenden kannte; die Menſchlichkeit gebot, er hatte ihr<lb/>noch nie ſein Ohr verſchloſſen, und ſo entriß er ſich<lb/>allen ihn feſſelnden Pflichten, brachte ſein Herz zur<lb/>Ruhe, das bebend ſchlug bei dem Gedanken, der Ge-<lb/>liebten ſo nahe ſein zu ſollen, ohne ſie zu ſehen, und<lb/>ſtand nach einer eiligen Fahrt in der niederen Hütte des<lb/>Kranken. Es war ein Tagelöhner, den er trotz der Ent-<lb/>ſtellung des nahen Todes doch als einen früheren Inſaſſen<lb/>M...s erkannte. Dieſer hatte ſich beim Holzſchlagen mit<lb/>der Axt den Fuß ſchwer verletzt, die Wunde anfänglich<lb/>nicht beachtet, erſt als heftige Entzündung hinzugetreten<lb/>den Arzt gerufen. So war der Brand dazu geſchlagen,<lb/>und da er ſich energiſch weigerte, ſich das Glied ab-<lb/>nehmen zu laſſen, ſo mußte ihm Jener bald jede Hoff-<lb/>nung auf Geneſung abſprechen. Da ließ er Alfred<lb/>rufen, weil er nicht ſterben könne, ohne ſein Herz von<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0047" n="35" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=47"/>
+            </p>
+            <p> <lb/>einer ſchweren Laſt erleichtert zu haben, und zu keinem<lb/>Vertrauen habe, wie zu ihn.<lb/>
+            </p>
+            <p> <lb/>Er ſei ſchuld an dem Tode des Herrn zu<lb/>
+               <hi rendition="#aq">M...</hi>, ſchuld daran, wenn auch Gott wiſſe, daß nie<lb/>der Gedanke, nie der Wille, einen Mord zu begehen,<lb/>in ſeiner Seele geweſen. Als Tagelöhner in M... die-<lb/>nend, habe er ſich zwei Mal ernſte Verweiſe des Herrn<lb/>zugezogen, der ihn zwei Mal bei Holzdiebſtählen ertappt,<lb/>ihn, einen armen Teufel, aber habe mitleidig laufen<lb/>laſſen und ihm nur gedroht, ihn das dritte Mal einzu-<lb/>ſtecken. Nun wäre der Herr dafür bekannt geweſen, daß<lb/>er Wort hielte, und er habe ſich daher auch in Acht<lb/>genommen; aber, fügte er mit einer für einen Sterben-<lb/>den ſeltſamen Naivetät hinzu, wir armen Leute müſſen<lb/>manchmal ſtehlen und denken auch, es iſt ſolch arges Unrecht<lb/>nicht, aus dem großen ſchönen Walde auch etwas für uns zu<lb/>nehmen; aber ich hätte doch nimmer wieder aufſehen<lb/>mögen, wenn ich dafür beſtraft worden wäre. Dann<lb/>erzählte er weiter, wie nach mehreren gelungenen Ver-<lb/>ſuchen das Unglück doch wieder den Herrn auf ſeine Spur<lb/>geführt, und wie tödtlich er erſchrocken geweſen, als er<lb/>plötzlich den feſten Griff der Hand ſeines Herrn auf<lb/>ſeinem Arm gefühlt und die harten Worte gehört habe,<lb/>die der früheren Drohung jetzt die ſtrengſte Ausführung<lb/>verheißen. Die Angſt habe ihn zu blinder Gegen-<lb/>wehr getrieben. Es ſei einfältig von ihm geweſen, fuhr<lb/>der Sterbende fort, er habe ja doch nicht entkommen kön-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0048" n="36" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=48"/>
+            </p>
+            <p> <lb/>nen und wäre nur wie ein Dieb verfolgt worden, aber<lb/>in der Wuth und in der Angſt überlege man nicht. Er<lb/>habe mit einer kräftigen Anſtrengung ſich losgemacht,<lb/>habe das Gewehr, das der Herr ergriffen, zur Seite<lb/>ſchleudern wollen, da ſei es losgegangen und der<lb/>Schuß dem Herrn gerade durchs Gehirn. — Der Ster-<lb/>bende verhüllte ſich ſchaudernd das Geſicht, dann fuhr er<lb/>fort: Ein Blick habe ihn überzeugt, daß Hülfe unmög-<lb/>lich, und ſo ſei denn der Gedanke an Rettung zur Haupt-<lb/>ſache geworden. Er ſei ein ſtiller, friedfertiger Menſch<lb/>geweſen, und da Niemand um ſeine früheren Diebſtähle<lb/>und die Drohung des Herrn gewußt, da Niemand<lb/>ihn zu jener Zeit im Walde vermuthet, wie hätte er da<lb/>wohl Verdacht erregen können? Darauf habe er ſich und<lb/>mit Recht verlaſſen. Da nebenbei bekannt geweſen, daß<lb/>der Herr ſich nur die Liebe ſeiner Umtergebenen erworben,<lb/>ſo ſei auch nicht ein Schatten des Verdachts auf ihn<lb/>oder irgend einen der Einwohner des Dorfes gefallen.<lb/>
+            </p>
+            <p> <lb/>Aber, fuhr der Sterbende nach langer Pauſe müh-<lb/>ſam fort, ich habe es doch in M... nicht länger aus-<lb/>halten können. Die Blutſchuld hat unſäglich ſchwer auf<lb/>meinem Herzen gelaſtet, die trauernde, blaſſe Geſtalt der ar-<lb/>men Wittwe hat mich angeklagt, Todesangſt hat mich er-<lb/>griffen, ſo wie ich mich nur wieder in den Wald wagte. Da-<lb/>rum bin ich fortgezogen. Geſtohlen habe ich nie mehr wie-<lb/>der, aber die Ruhe konnte ich auch nicht finden, und ſo<lb/>danke ich Gott, der mich von der Qual, mit einem Morde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0049" n="37" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=49"/>
+            </p>
+            <p> <lb/>dem Gewiſſen leben zu müſſen, erlöſen, und der ja<lb/>wohl barmherzig mit mir armen Sünder verfahren wird.<lb/>Ich habe nur noch einen Wunſch: mit der Verzeihung<lb/>der armen Frau, die ich um ihr Glück betrogen, aus<lb/>dem Leben zu ſcheiden, und dazu können Sie, junger<lb/>Herr, der Sie ja ihr Verwandter ſind, mir verhelfen.<lb/>
+            </p>
+            <p> <lb/>O, mit welcher Wonne unterzog ſich Alfred dieſem<lb/>Auftrag, der doppelten Frieden geben ſollte — ihr, der<lb/>ſo ſchmerzlich Geliebten, ihm, dem armen Sterbenden,<lb/>der ihn nicht umſonſt um Troſt gebeten haben ſollte!<lb/>Zu ihr eilen? unmöglich! Er ſchrieb in fliegender Haſt,<lb/>und durch die Zeilen hindurch, die von Trauer und Tod<lb/>handelten, da ſchimmerte hell ein Licht, das unwillkür-<lb/>lich aus ſeiner Seele hineinſtrahlte, und das auch ihr<lb/>den Himmel wieder klar machen mußte. Die Antwort<lb/>kam. Sie athmete Frieden und Dankbarkeit gegen Gott,<lb/>der den ſchweren Vorwurf von ihr genommen. Thrä-<lb/>nen waren auf die Zeilen geſtrömt und hatten ſie hier<lb/>und da verwiſcht; Alfred küßte die Stellen. Sie nannte<lb/>ihn ihren beſten, treueſten Freund, dem ſie nächſt Gott<lb/>für die Ruhe ihres künftigen Lebens zu danken habe.<lb/>
+            </p>
+            <p> <lb/>O, hätte ſie den Blick voll begeiſterter Hoffnung<lb/>ſehen können, den Alfred gen Himmel ſandte! Sie bat<lb/>ihn zuletzt, dem armen Menſchen, der unfreiwillige Schuld<lb/>ſo ſchwer gebüßt, zu verſichern, daß ſie zu Gott um<lb/>Gnade für ihn bitten würde, ſo wahr, als ſie ſelbſt der<lb/>Barmherzigkeit bedürfe und ſie vom Himmel hoffe.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0050" n="38" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=50"/>
+            </p>
+            <p> <lb/>Alfred hatte noch die unausſprechliche Freude, die<lb/>Züge des armen Sterbenden ſich verklären zu ſehen bei<lb/>dieſer Botſchaft, deſſen Seele nur auf das erlöſende<lb/>Wort gewartet zu haben ſchien, und dann getröſtet, be-<lb/>ruhigt, voll Hoffnung zu ihrem Schöpfer zurück zu keh-<lb/>ren. So war denn in das Leben des armen jungen<lb/>Mannes wieder eine verklärende Hoffnung getreten, die<lb/>ihm mit einem Male alle Schwungkraft der Jugend<lb/>wiedergab, die ſeinem Geiſt neue Friſche verlieh und<lb/>ſein Tagewerk nicht blos zu einer Pflicht, ſondern zu<lb/>einem Grundſtein künftigen Glücks machte. Aber er<lb/>ließ lange Zeit verſtreichen; der Friede ſollte ſich erſt<lb/>befeſtigen auf dem ſchmerzdurchwühlten Boden, die<lb/>Hoffnung ſollte erſt keimen. Er wartete geduldig.<lb/>Dann ſchrieb er und fragte, ob er kommen dürfe. Sie<lb/>ſagte beſtimmt Nein. Er wartete länger. Dann ſchrieb<lb/>er wieder. Dieſes Mal war ihr Nein eine Bitte.<lb/>
+            </p>
+            <p> <lb/>Nun that Alfred das Klügſte, was er thun konnte;<lb/>er ſchrieb nicht wieder, er ging ſelbſt; und als er vor<lb/>ihr ſtand mit dem guten, treuen, ehrlichen Geſichte und<lb/>ſie ſo herzlich bat, nicht unnütze Opfer zu bringen,<lb/>nicht ihn und ſich unglücklich und ſchon in der Jugend<lb/>zu müden, lebensſatten Wanderern zu machen, wäh-<lb/>rend ſie beide vereint in getreuem Wirken und kraft-<lb/>vollem Thun ſo viel leiſten könnten zu Gottes Ehre<lb/>und der Menſchen und ihrem eigenen Beſten, da hatte<lb/>ſie den Muth nicht mehr, ſich zu einer Buße zu ver-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0051" n="39" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=51"/>
+            </p>
+            <p> <lb/>dammen, die ſein klarer, einfacher Verſtand als ein Un-<lb/>recht bezeichnete. Da gab ſie ihm die Hand mit einem<lb/>Vertrauen, einer Zuverſicht, daß die halb erſtorbene<lb/>Blüthe der Liebe in ihrem Herzen ſich entfalten ließ in<lb/>kaum geahnter Wunderpracht. Von da ab begann Beider<lb/>Leben.<lb/>
+            </p>
+            <p> <lb/>Weiter kam der Alte heute nicht mit ſeinen Ge-<lb/>danken. Was ihm ſpäter begegnet an Leid und Freude,<lb/>und was doch ſein Glück und ſein Leben ausgemacht,<lb/>es war ihm wie ein bunter Traum, aus dem ſich eben<lb/>nur die Begebenheiten der Jugend zum klaren Bilde ent-<lb/>wirrten. Immer wieder lachte ihm das Antlitz der kind-<lb/>lichen Frau, wie er ſie zuerſt geſehen, ſchelmiſch entge-<lb/>gen, und dann verwandelte ſie ſich in das ſtille, ernſte<lb/>und ſo anmuthige Weib, wie ſie ihm die Hand gegeben<lb/>zu dem Bunde, den man heute ſchon alt nannte und<lb/>der doch nur der Anfang der Ewigkeit war! Zuletzt ver-<lb/>wirrten ſich aber doch die Gedanken des alten Mannes.<lb/>Aus dem traumhaften Nachdenken wurde wirklicher<lb/>Traum, bis die Bilder deſſelben, immer undeutlicher<lb/>werdend, zuletzt untergingen in ſo feſtem, ſo ſanftem<lb/>Schlummer, wie nur Kinder ihn haben, die entweder<lb/>noch keine Eindrücke des Lebens empfangen, oder ſie mit<lb/>dem reinen, unſchuldigen Gemüthe von ſich weiſen.<lb/>
+            </p>
+            <p> <lb/>Während ihm ſo die Wirklichkeit zum Traume<lb/>wurde, dem des Dichters Hand die ergänzenden Züge<lb/>wohl hat beifügen dürfen, da entfaltete ſich in einem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0052" n="40" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=52"/>
+            </p>
+            <p> <lb/>anderen Theile des geſegneten Hauſes ein ſchöner Traum<lb/>zur ſchöneren Wirklichkeit. Die blonde Anna hatte ihr<lb/>Recht zu wahren gewußt, und der Vetter durfte ihr nicht<lb/>folgen in Küche und Speiſekammer, wo ſie das Scepter<lb/>ſchwang und woraus ſie als Feind jedweden verbannte,<lb/>der ihr hier nicht dienſtbar war und ſein durfte. Aber der<lb/>Feſtſaal war neutrales Gebiet, und dorthin zog ſich<lb/>der junge Mann zurück, in der Vorausſetzung, daß dies<lb/>doch zuletzt der Punkt ſein würde, auf den der ſchöne<lb/>Feind ſein Augenmerk zu richten hätte. Und er hatte<lb/>ſich nicht geirrt. Da kam ſie, die Schürze voll Blumen,<lb/>um ſie in den Vaſen zu ordnen, ſie ſelbſt die ſchönſte<lb/>Blume von allen. Sie erröthete ein wenig, als ſie den<lb/>Störenfried hier fand, wohl vor Zorn; aber ſie wollte<lb/>ihn doch von hier nicht verweiſen und nahm ſeine Hülfe<lb/>bei Ordnung der Blumen an. Sie ſah erſtaunt zu,<lb/>wie ſchnell und anmuthig er ſie zum Strauße zu ver-<lb/>einigen wußte. Wo haſt Du das gelernt? fragte ſie.<lb/>— Ich habe es gar nicht gelernt, aber ich kann’s, er-<lb/>widerte er fröhlich; ich kann mancherlei; aber das Beſte,<lb/>was ich kann, und was ich auch nicht gelernt habe,<lb/>ſondern von Anfang an gleich wußte und kannte, das iſt,<lb/>dich lieb zu haben. — Wir ſind ja auch verwandt; ich<lb/>bin deine Tante, ſagte ſie als habe er eben nichts wei-<lb/>ter gemeint und als ſei ſie eine ſo geſetzte Perſon, daß<lb/>der junge Mann ihr wohl ſagen konnte: ich habe dich<lb/>lieb, ohne ſich mehr zu denken bei dem einfachen, belieb-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0053" n="41" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=53"/>
+            </p>
+            <p> <lb/>ten Thema, das ſich in ſo unzähligen, ſo verſchiedenen<lb/>Variationen ausführen läßt.<lb/>
+            </p>
+            <p> <lb/>Meine Tante? ſagte er lächelnd, eine <hi rendition="#aq">reizende</hi>
+               <lb/>
+               <hi rendition="#aq">Tante</hi>! Nun ja, du biſt die Stiefſchweſter meiner<lb/>Stiefmutter, da hätten wir die ganze Verwandtſchaft,<lb/>und auf die hin ſollte ich dich lieb haben, meinſt du,<lb/>und die Verwandtſchaft ſollte mir genügen?<lb/>
+            </p>
+            <p> <lb/>Und hätte er’s auch nicht geſagt, in ſeinen Augen<lb/>hätte ſie’s leſen müſſen, daß er ihre Verwandtſchaft grün-<lb/>den wollte auf Uebereinſtimmung der Seelen, auf glei-<lb/>ches Hoffen, Harren und Dulden, gleiches Glück und<lb/>gleiche Freude, auf tiefſte, innere Zuneigung, ohne<lb/>welche doch jede Verwandtſchaft nur eitel Formweſen<lb/>bleibt, und hätte die Natur ſie noch ſo feſt knüpfen<lb/>wollen. Aber er ſagte, was er meinte, nicht blos mit<lb/>den Augen, in die ſie ja doch nicht hineinſah; er ſagte<lb/>es ihr mit all den innigen, feurigen Worten, von de-<lb/>nen ſeine jugendliche Seele überſtrömte, und ſie hörte<lb/>ihm lächelnd und erröthend zu. Und als er jetzt die<lb/>Arme ausbreitete und auf ſie zu trat, da war ſie doch<lb/>ein wenig erſchrocken und flüchtete hinter die Blumen-<lb/>vaſen auf dem Tiſchchen daneben, ſo daß er, ohne zu<lb/>wiſſen, wie’s geſchah, dieſe in den Armen hatte und<lb/>das kalte Waſſer ihm über das ſchöne, weiße Vor-<lb/>hemd lief.<lb/>
+            </p>
+            <p> <lb/>Ach, ſei nicht böſe, bat ſie ſanft und reichte ihm<lb/>nun ſelbſt die Hand hin, welche er mit der ſeinen um-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0054" n="42" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=54"/>
+            </p>
+            <p> <lb/>ſchloß, bald ans Herz, bald an die Lippen drückte, wo-<lb/>bei er ſich ſo närriſch geberdete, als wäre er nicht mit-<lb/>ten in der Begeiſterung mit kaltem Waſſer begoſſen<lb/>worden.<lb/>
+            </p>
+            <p> <lb/>Aber nun komm zu den Großeltern, ſagte er, gleich<lb/>muß Alles in Ordnung gebracht werden, denn ich wäre<lb/>nicht im Stande, mein Glück zu verbergen, wie bisher<lb/>meine Liebe.<lb/>
+            </p>
+            <p> <lb/>Der gute, harmloſe Junge! Er glaubte noch, ſeine<lb/>Liebe ſei Geheimniß; und es waren doch ſo viel Frauen<lb/>im Hauſe, und Theilnahme, Neugierde und jenes un-<lb/>beſchreibbare Intereſſe an Liebesgeſchichten verſchärften<lb/>den Blick, daß ſelbſt das blödeſte Auge ſehend wird.<lb/>Tante Beate hatte längſt vermuthet, wie es mit ihnen<lb/>ſtand, und konnte, da ſie ſelbſt ſpät geheirathet, nur nicht<lb/>begreifen, wie er ſein Auge auf ſolch junges Ding wer-<lb/>fen konnte. Couſine Marie hatte erſt geſtern in der<lb/>Dunkelſtunde ihre Herzens-Angelegenheiten der blonden<lb/>Anna vertraut und um gleiches Vertrauen gebeten, wo-<lb/>durch ſie jedoch nichts weiter erfahren; denn Anna hätte<lb/>doch nimmer ſagen können, was in ihrem jungen, un-<lb/>ſchuldigen Herzen vorging. Couſine Lorchen hatte gleich<lb/>in der erſten halben Stunde ihrem Manne geſagt: Paſſ’<lb/>auf, aus denen wird ein Paar; und nur die blaſſe Flora,<lb/>ihre Schweſter, wollte es nicht glauben und ſchüttelte<lb/>den Kopf zu allen Vermuthungen, denn mit ihr hatte<lb/>ja doch der junge Mann während des vergangenen Win-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0055" n="43" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=55"/>
+            </p>
+            <p> <lb/>ters vier Mal den Cotillon getanzt, und er war ſo fröh-<lb/>lich, ſo unbefangen mit Anna, wie man unmöglich mit<lb/>denen ſein kann, die man liebt.<lb/>
+            </p>
+            <p> <lb/>So dachte Jeder was er wollte, und nur des jun-<lb/>gen Mannes Eltern wußten genau um ſein Geheimniß<lb/>und billigten ſeine Wünſche, und die Stiefmutter hatte<lb/>ſelbſt, als ſie den Sohn in den Eßſaal treten ſah, die<lb/>blonde Anna unter einem Vorwande hineingeſchickt;<lb/>denn wo käme wohl ſolch ein Bündniß zu Stande ohne<lb/>irgend eine weibliche Vermittelung?<lb/>
+            </p>
+            <p> <lb/>So wars gekommen, wie ſie wünſchte, und Hand in<lb/>Hand wollte das junge Paar zu den Großeltern, ſie um den<lb/>Segen zu bitten. Aber da ſtanden die alten Leute ſchon<lb/>und ſahen lächelnd und mit Augen voll Liebe auf den<lb/>Bund, der ſich knüpfte, wie der ihrige ſich einſt geknüpft<lb/>hatte zu langer, treuer, glückſeliger Wallfahrt.<lb/>
+            </p>
+            <p> <lb/>Es kehrt Alles in der Welt wieder, rief der alte<lb/>Mann fröhlich, Liebe und Glück, Hoffnung und Treue,<lb/>nichts ſtirbt aus! Es iſt immer dasſelbe: in den Enkeln<lb/>die alte Freude erlebt und empfunden! – Die alte Freude,<lb/>aber nicht das alte Leid, ſagte die greiſe Frau mit einem<lb/>frommen Blick gen Himmel. Gott ſei Dank, nicht jede<lb/>Brautkrone entſprießt einer Saat der Thränen!<lb/>
+            </p>
+            <p> <lb/>Dann ſchloß ſie in ihrer ſtillen würdigen Weiſe<lb/>die geliebte Enkelin an ihre Bruſt und übergab ſie dem<lb/>jungen Manne, als wollte ſie ſagen, daß es nun ſeine<lb/>Sache ſei, ſie glücklich zu machen. Jetzt ging’s zu<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0056" n="44" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=56"/>
+            </p>
+            <p> <lb/>den Eltern, und endlich wurde auch der Schaar der<lb/>Verwandten das junge Paar vorgeſtellt; es folgten die<lb/>Umarmungen, das Glückwünſchen und Händeſchütteln,<lb/>das bei ſolchen Gelegenheiten wie bei vielen andern ſeine<lb/>Rolle ſpielt. Couſine Lorchen triumphirte über ihren<lb/>Scharfblick; Tante Beate warf ſorgenvolle Blicke in die<lb/>Zukunft; Marie war ein wenig beleidigt, daß Anna<lb/>ihr nichts anvertraut; und Flora wünſchte mit etwas<lb/>vibrirender Stimme dem Tänzer von vier Cotillons<lb/>Gottes Segen zu ſeiner Verbindung. Dabei wurde die<lb/>junge Braut von allen Seiten umringt, befragt und<lb/>beglückwünſcht, von Oheimen, Tanten, Couſinen und<lb/>Vettern umarmt, ſo daß der Bräutigam ſchon halb und<lb/>halb bedauerte, ſeine Verlobung nicht in kleinerem<lb/>Kreiſe feiern zn können. Aber der Sturm legte ſich<lb/>endlich, und die mit Blumen bekränzte, reich beſetzte<lb/>Tafel winkte der Geſellſchaft.<lb/>
+            </p>
+            <p> <lb/>War das ein fröhliches Mahl! Tante Beate meinte<lb/>zwar im Stillen, die Fröhlichkeit paſſe nicht zu der ern-<lb/>ſten Veranlaſſung, die Thörin! und die Kinder, die ſich<lb/>da verlobt mit lachenden Geſichtern, möchten’s machen<lb/>wie der Großvater und ſich auch zu viel freuen im<lb/>Leben und nie in die rechte Stimmung zum Sterben<lb/>kommen aber was half’s ihr! Die Frühlingslaune des<lb/>Jubelgreiſes, das Lächeln auf dem Antlitz ſeiner Ge-<lb/>fährtin, das ſtrahlende Glück der jungen Leute, das war<lb/>eine Macht, der auf die Dauer ſelbſt das verſchanzte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0057" n="45" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=57"/>
+            </p>
+            <p> <lb/>Herz einer würdigen alten Tante nicht widerſtehen<lb/>konnte; und als nach vielen Toaſten der alte Herr den<lb/>letzten ausbrachte und <hi rendition="#aq">die Tanten</hi> leben ließ, d. h.<lb/>nicht die Tanten im Allgemeinen, ſondern die, welche<lb/>kein Neffe unter oder über 24 Jahre anſehen könne ohne<lb/>zu ſagen: <hi rendition="#aq">meine reizende Tante</hi>, da lächelte ſie ſo<lb/>ſüß, als gälte ihr die Schmeichelei.<lb/>
+            </p>
+            <p> <lb/>Als die Tafel aufgehoben wurde, war die Sonne<lb/>nicht mehr weit von ihrem Ziel entfernt. Sie hüllte<lb/>den Teich vor dem Hauſe in glitzerndes Gold, als Alt<lb/>und Jung unter die Veranda trat, den ſchönen Abend<lb/>zu genießen. Die alten Leute ſtanden neben einander<lb/>und blickten hinaus über die blühenden Felder. Das<lb/>war ein ſchöner Tag, ſagte ſie, und nun geht die<lb/>Sonne unter. Ich bin müde, mein Herz. Und ſie<lb/>lehnte ſich erſchöpft feſter auf den Arm des Gatten, der<lb/>wohl verſtand, was ſie meinte, und halb erſchrocken<lb/>in ihr blaſſes ätheriſches Geſicht ſah, aus dem die<lb/>Röthe der Aufregung geſchwunden war, und dem zum<lb/>erſten Mal der Gedanke kam, dieſe ſeine Sonne könne<lb/>für ihn untergehen. Wie Gott will, betete er ſtill, aber<lb/>er ſagte nichts. Sie hielten ſich nur feſter umſchlungen,<lb/>und die untergehende Sonne glänzte in dem goldenen<lb/>Kranze der alten Frau, verklärte eine Thräne, die ſich<lb/>in <hi rendition="#aq">ſein</hi> Auge ſtahl, übergoß mit ihrem himmliſchen<lb/>Lächeln zwei junge glückliche Geſichter, die dort am<lb/>Fliederbuſch ihr fröhlich in’s ſcheidende Antlitz blickten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0058" n="46" corresp="https://opacplus.bsb-muenchen.de/Vta2/bsb10124502/bsb:BV019966323?page=58"/>
+            </p>
+            <p> <lb/>und ſandte einen letzten hellen Blick durch das halb<lb/>verhüllte Fenſter, wo der Greis ſein Leben noch einmal<lb/>durchgeträumt, wo das vergangene Bild jugendlichen<lb/>Reizes noch einmal vor ihm aufgeſtiegen war, in ſtiller<lb/>ſeliger Rückerinnerung, nicht vergeſſen, nicht zerſtört,<lb/>nur in irdiſcher Weiſe vollendet und der Verklärung<lb/>harrend.<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

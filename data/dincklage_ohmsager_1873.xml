@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Ohmsager von Poggendiek</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_ohmsager_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Die Ohmsager von Poggendiek, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die Ohmsager von Poggendiek</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 315–372</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="319" cert="low"><sic>Raſſirmeſſer</sic><corr>Raſirmeſſer</corr></choice><choice corresp="323" cert="low"><sic>Emsländers wurde plötzlich</sic><corr>Emsländers wurden plötzlich</corr></choice><choice corresp="345" cert="low"><sic>nnd</sic><corr>und</corr></choice><choice corresp="353" cert="low"><sic>leichtfinnigen</sic><corr>leichtſinnigen</corr></choice><choice corresp="354" cert="low"><sic>ihr wenigen Kleider</sic><corr>ihre wenigen Kleider</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die Ohmsager von Poggendiek</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0325" n="315" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=325"/>
+            </p>
+            <p> <lb/>Die Ohmſager von Poggendiek.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0326" n="316" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=326"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0327" n="317" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=327"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">I.</hi>
+               
+               <lb/>
+               
+                  <hi rendition="#c #larger">Der norddeutſche Zulu-Kaffer.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#in">A</hi>ls ich noch ein kleines Kind<lb/>war wurden die erſten Be-<lb/>griffe des Endreimes in mir<lb/>erweckt, indem man mich den<lb/>alten Vers: „Es war ein-<lb/>mal ein Mann, der hatte<lb/>keinen Kamm, da kaufte er<lb/>ſich einen, da hatt' er einen rc.“ mit all' den gewagten<lb/>Metamorphoſen dieſes Kammes lehrte. Man ſagte<lb/>mir nie wer? und wo? dieſer Mann geweſen ſei,<lb/>aber meine kindiſche Phantaſie beſchäftigte ſich häufig<lb/>mit ihm, wenn die gedankenloſe Hand der Bonne<lb/>jämmerlich in meinen Haaren zauſte unter dem<lb/>Vorwande, dieſelben zu friſiren. Da ich gewahrte,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0328" n="318" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=328"/>
+            </p>
+            <p> <lb/>daß alle Menſchen meiner Umgebung ſich mit mehr<lb/>oder weniger Discretion des Friſirkammes be-<lb/>dienten, ſo vermuthete ich endlich, der Mann, der<lb/>keinen Kamm hatte, müſſe längſt geſtorben ſein.<lb/>Ich irrte mich. Zwanzig Jahre ſpäter begegnete<lb/>er mir und ich erkannte ihn auf den erſten Blick.<lb/>Ich hielt mich in einer oſtfrieſiſchen Stadt auf.<lb/>Die guten Bürger lebten ungemein ruhig, ſam-<lb/>melten und kannegießerten unverdroſſen und ſpan-<lb/>nen ihr Daſein gemüthlich zwiſchen zwei großen<lb/>Hauptereigniſſen ab, von denen das eine erſchrecken-<lb/>der Natur war: die Ueberſchwemmungen der Ems,<lb/>veranlaßt durch Springfluth in der Nordſee und<lb/>dem Dollart, während das andere den Gipfelpunkt<lb/>irdiſchen Frohſinnes umfaßte: den <hi rendition="#g">Jahrmarkt</hi>!<lb/>— Ich wünſchte ſehr eine ſolche Spring- oder<lb/>Sturmfluth mit zu erleben, allein, es kam leider<lb/>keine; dagegen kam der Jahrmarkt und machte die<lb/>ruhigen Stadtbewohner zu einem Haufen Ver-<lb/>gnüglingen, deren untere Schichte ſich einer ba-<lb/>chantiſchen Ungebundenheit überließ. Da mich<lb/>nichts mehr erfreuen kann, als mich unter Menſchen<lb/>zu miſchen, die ſich amüſiren, ſo drängte ich mich<lb/>durch die Honigkuchen- und Waffelbuden, hielt<lb/>dem Witze der ländlichen, ſtark angetrunkenen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0329" n="319" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=329"/>
+            </p>
+            <p> <lb/>Schönen Stand und trat endlich in den leinen-<lb/>umgrenzten Circus einer Seiltänzer-Geſellſchaft.<lb/>Dort ſah ich zum erſten Mal den Mann ohne<lb/>Kamm. Ich erkannte ſogleich, daß gerade er es<lb/>war, auf den der Vers dereinſt gedichtet worden.<lb/>Ich ward nicht müde ihn zu betrachten, ihn zum<lb/>Helden einer merkwürdigen Lebensgeſchichte zu<lb/>ſtempeln; denn er war nicht etwa einer jener<lb/>„Miſérables“, deren Schilderung in Romanen<lb/>und auf Bildern uns ſo unendlich tief, deren<lb/>Nahen in der Wirklichkeit uns ſo wenig rührt —<lb/>nein, mein Held war ſo, weil er nicht anders ſein<lb/>wollte; er war ein zweiter Diogenes. Dereinſt<lb/>ſchleuderte er Kamm und Raſſirmeſſer von ſich<lb/>wie Polykrates den Ring in's Meer warf, wandte<lb/>ſich und kehrte zurück in die Arme der urewigen,<lb/>unverkünſtelten Natur. Der Mann war kein Bett-<lb/>ler, kein Bedürftiger; ſeine große, ſehnige Geſtalt,<lb/>ſeine braunen muskulöſen Hände verriethen un-<lb/>unterbrochenen zähen Fleiß, ſein ernſtes unbe-<lb/>wegliches Geſicht, deſſen tiefliegende blaue Augen<lb/>geſpannt den Bewegungen des ſeilſpringenden Ath-<lb/>leten folgten, ſprachen der Vorausſetzung Trotz,<lb/>es habe jemals den Ausdruck des Bittſtellers an-<lb/>genommen. Obwohl das dunkelblonde Haar des<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0330" n="320" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=330"/>
+            </p>
+            <p> <lb/>Bauern ſtark mit Grau untermiſcht erſchien, konnte<lb/>man ihn nicht für einen <hi rendition="#g">alten</hi> Mann halten; er<lb/>war mehr vernachläſſigt, als gealtert. Seine<lb/>Kleidung verrieth kein Anlehnen an die wankel-<lb/>müthige Mode, ſie ward — meiner Schätzung<lb/>nach — von einem, wahrſcheinlich allbereits in<lb/>Gott ruhenden Schneider im erſten Decennium<lb/>dieſes Jahrhunderts gefertigt; der Rock war ſicher<lb/>ein Erbſtück, denn hier und da ſtrammten die<lb/>Nähte deſſelben. Die Taille befand ſich in der<lb/>Gegend der Schulterblätter und die Aermel bauſch-<lb/>ten ſich empor über den Achſeln. Das Ganze, zu<lb/>dem wir kurze Beinkleider, Strümpfe und Schnal-<lb/>lenſchuhe rechnen, krönte ein ſchwerer zottiger Hut,<lb/>ein ſogenannter <hi rendition="#g">Dreitimp</hi>.<lb/>
+            </p>
+            <p> <lb/>Indem ich über eine paſſende Art, die Be-<lb/>kanntſchaft dieſes Originals zu machen, nachſann,<lb/>war daſſelbe dem ſtets bereiten Spott der Straßen-<lb/>jugend keineswegs entgangen: „Da iſt der Geck<lb/>aus dem Emslande!“ riefen einige nichtsnutzige<lb/>Buben, die Drehorgel übertönend. „Coe Poggen-<lb/>diek, Coe Poggendiek!“ fielen andere ein, „Du<lb/>biſt unſer Jahrmarkts-Kameel! wann wirſt Du<lb/>endlich ſelber auf dem Seile tanzen?“ Der alſo<lb/>Angerufene ſchien weder dieſe Witze noch das ihnen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0331" n="321" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=331"/>
+            </p>
+            <p> <lb/>folgende Gelächter zu vernehmen, er ſtarrte gleich-<lb/>ſam athemlos und hochaufgerichtet ein kleines<lb/>Mädchen an, das, auf eine hohe Balancirſtange<lb/>mit einem Fuße feſtgeſchnallt, wie ein Vögelchen<lb/>in der Luft ſchwebte, indeß die Spitze der Stange<lb/>auf der Bruſt des Herkules ruhte, der in unſau-<lb/>beres Tricot gekleidet war. Aber neben unſerem<lb/>Mann, der, wie wir erfuhren, Coe, oder Jacobus<lb/>heißt, erhob ſich ein breitſchulteriger, halberwach-<lb/>ſener Burſche mit ſcheuen, weltfremden und doch<lb/>merkwürdig leuchtenden Augen, der offenbar ein<lb/>Mitbenutzer der Garderobe meines alten Diogenes<lb/>war. Er hatte ſich ſichtlich in die Höhe gehoben,<lb/>um den Urhebern der belachten Scherze ſein dro-<lb/>hendes Geſicht zu zeigen; allein ein kräftiger Puff<lb/>ſeines älteren Gefährten ließ ihn wieder in das<lb/>Niveau der benachbarten Köpfe untertauchen. Dieſe<lb/>Art, ſich durch Rippenſtöße mit einander zu unter-<lb/>halten, ſchien ein ſtehendes Verſtändigungsmittel<lb/>zwiſchen Beiden zu ſein; ſie ſahen wirklich aus,<lb/>als müßte ihre Sprache eine ganz andere, mäch-<lb/>tigere ſein, als die von uns übrigen Sterblichen.<lb/>Dieſe Geſtalten machten einen Eindruck auf mich,<lb/>wie er jenen Reiſenden kommen mag, die in un-<lb/>geheuren Eismaſſen die Reſte eines Mammuths<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0332" n="322" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=332"/>
+            </p>
+            <p> <lb/>oder irgend eines längſt ausgeſtorbenen Saurier-<lb/>geſchlechts entdecken.<lb/>
+            </p>
+            <p> <lb/>„Ach bitte, heben Sie mich ein wenig in die<lb/>Höhe, junger Herr, dieſe dummen Bauern drängen<lb/>ſo!“ ſagte neben mir eine dünne Stimme, welche<lb/>ſelbſtverſtändlich einem kleinen Schulmädchen aus<lb/>der Stadt angehörte, das am Arme eine unver-<lb/>hältnißmäßig große Strohtaſche trug. Ich hätte<lb/>der kleinen Dame nun auseinanderſetzen können,<lb/>daß ihre Begriffe über den Beruf und die Wich-<lb/>tigkeit des Landwirthes, reſp. des Ackerbaues ſehr<lb/>einſeitig wären, aber die Kleine möchte unter die-<lb/>ſer didactiſchen Auseinanderſetzung wirklich er-<lb/>drückt worden ſein; ſo hob ich ſie denn in die<lb/>Höhe, ſie lächelte dankbar und umfaßte meinen<lb/>Hals mit ihren dünnen Armen, indeß die Stroh-<lb/>taſche, die ſtark nach Honigkuchen roch, gemüthlich<lb/>meinen Rücken deckte. Als ich nach dieſer kleinen<lb/>Epiſode wieder nach Coe Poggendiek's Platz blickte,<lb/>war derſelbe leer und mein Diogenes ſtand neben<lb/>mir. Jetzt erſt ſah ich tief in ſeine Züge. Wie<lb/>ein von Sturmfluth zerriſſenes und gefurchtes<lb/>Erdreich lagen ſie da, der Ausdruck verſchloſſen,<lb/>verſteint, hoffnungslos. Er ſchaute nicht auf mich;<lb/>ſeine Blicke hingen beinah angſthaft an dem klei-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0333" n="323" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=333"/>
+            </p>
+            <p> <lb/>nen Mädchen auf meinem Arme. Erſt jetzt be-<lb/>merkte ich, wie lang und wuchtig, obwohl fleiſch-<lb/>arm ſeine Geſtalt war.<lb/>
+            </p>
+            <p> <lb/>„Wart', Du kleiner Schwerenöther, das ſag'<lb/>ich der Mutter, daß Du Dich hier herumtreibſt!“<lb/>rief von der andern Seite ein corpulenter Schläch-<lb/>ter und tätſchelte meine kleine Bürde. Das Mäd-<lb/>chen kletterte wie eine Eichkatze von meinen Schul-<lb/>tern auf die des neckiſchen Fleiſchers, aber die<lb/>Züge des Emsländers wurde plötzlich matt, ſchlaff,<lb/>theilnahmlos — noch einen Blick warf er auf das<lb/>eben wieder losgeſchnallte Balancirkind, das hinter<lb/>einem ſchmutzigen Vorhange verſchwand — dann<lb/>drückte er gemach die Leute zur Seite und verließ,<lb/>ehe ich, minder ſtark als er, mir zu ihm Bahn<lb/>brechen konnte, die Bude der Seiltänzer.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0334"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">II.</hi>
+               
+               <lb/>
+               
+                  <hi rendition="#c #larger">Robinſon Cruſoe am Emsufer.</hi>
+               
+               <lb/>***<lb/>Etwa ein Jahr ſpäter machte ich bei meiner<lb/>Rückreiſe von Oſtfriesland einen Abſtecher an das<lb/>münſterländiſche Emsufer, da, wo dieſes an aus-<lb/>gedehnte Moore grenzt, um dort die vielbeſproche-<lb/>nen alten Knüppelwege oder Brücken in Augen-<lb/>ſchein zu nehmen, die ſich meilenlang ausdehnen<lb/>und von denen man glaubt, ſie wären von den<lb/>Legionen des Varus angelegt. Ich hielt es am<lb/>gerathenſten, mich an die Geiſtlichkeit des nächſten<lb/>Dorfes wegen genauerer Auskunft zu wenden, und<lb/>fand namentlich in dem Caplan ein ſehr reges Inte-<lb/>reſſe für meine Nachforſchung, die er perſönlich zu<lb/>leiten verſprach. Er nahm nicht zuverſichtlich an,<lb/>die genannten Wege ſtammten von den Römern,<lb/>aber ihr Alter muß dennoch ein beträchtliches ſein,<lb/>denn das Moor iſt in doppelter Manneshöhe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0335" n="325" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=335"/>
+            </p>
+            <p> <lb/>über die obere Schichte des Dammes emporge-<lb/>wachſen. Die Schicht ſelbſt iſt überall eine dop-<lb/>pelte, vielfach eine dreifache. Der Pfarrer, hier<lb/>Paſtor genannt, ſchenkte mir während unſerer Un-<lb/>terhaltung fleißig einen ſauren Weißwein ein<lb/>und beſchenkte mich mit einigen alten Münzen,<lb/>welche man in der Gegend ausgrub.<lb/>
+            </p>
+            <p> <lb/>Früh am nächſten Morgen begannen wir, der<lb/>Caplan und ich, in großen Waſſerſtiefeln, unſere<lb/>Entdeckungsreiſe. Wir ließen uns über die Ems<lb/>ſetzen und kamen nach zweiſtündigem Marſch zu<lb/>einer Stelle, deren Aufgrabung dadurch erleichtert<lb/>wurde, daß der Caplan das nahe an tauſend Jahre<lb/>alte Holz, welches indeß noch feſt und ganz pech-<lb/>ſchwarz iſt, ſchon in früherer Zeit hatte bloslegen<lb/>laſſen. Es ſtellte ſich klar heraus, daß man in<lb/>verſchiedenen Zeitabſchnitten die auf dem Moore<lb/>ſelbſt ruhende Holzbrücke, aus rohen Stämmen<lb/>gefügt, erneut hatte, ſo daß die Lagen über ein-<lb/>ander zu finden ſind — indeß, was auch der Cap-<lb/>lan demonſtrirte, ich fand die Expedition ziemlich<lb/>verfehlt, hieß den von mir mitgenommenen Arbeits-<lb/>leuten einige Stücke des alten Holzes neben ihren<lb/>Spaten auf die Schulter legen und begab mich<lb/>mit meinem freundlichen Begleiter unſäglich er-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0336" n="326" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=336"/>
+            </p>
+            <p> <lb/>müdet und verſtimmt auf den Heimweg. Das<lb/>Gehen auf dem holprigen, elaſtiſchen Moorboden<lb/>macht beinah ſeekrank und die Unendlichkeit der<lb/>ſchwarzen Moorfläche, nur durch Torfhaufen und<lb/>den Anblick der fernen holländiſchen Grenzveſte<lb/>Burtange verſchönt, ſtimmt den Geiſt entſetzlich<lb/>herab. Ich athmete ordentlich auf, als ich den<lb/>feſten Grund der Emsmarſch unter den Füßen<lb/>hatte; aber meine Freudenäußerung ward durch<lb/>einen fernen Donnerſchlag zurückgedrängt, dem<lb/>ein pfeifender Stoßwind folgte, als die Herolde<lb/>eines nahenden Gewitters.<lb/>
+            </p>
+            <p> <lb/>„Wenn wir uns beeilen,“ ſagte der Caplan<lb/>tröſtend, „können wir vielleicht noch ein Dach er-<lb/>reichen und, wenn ſchon dieſes Dach eben kein ſchützen-<lb/>des zu nennen iſt, bleibt es immerhin doch dieſer<lb/>gänzlich baumloſen Gemeindetrift vorzuziehen!“<lb/>
+            </p>
+            <p> <lb/>Der geiſtliche Herr deutete auf ein Bauwerk,<lb/>das, ein paar hundert Schritte entfernt, da, wo<lb/>der niedrige Marſchboden ſich zu einem Haiderücken<lb/>erhöht, angeklebt ſchien. Es war eigentlich nur<lb/>noch das Skelett eines Gehöftes, die Dachſparren<lb/>und das Fachwerk der Wände ragten vielfach un-<lb/>bekleidet hervor; es machte einen wüſten, unheim-<lb/>lichen Eindruck, dieſes gänzlich einſame, zerſtörte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0337" n="327" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=337"/>
+            </p>
+            <p> <lb/>Menſchenneſt, dem wir unſere Schritte zuwende-<lb/>ten, zu betrachten. Man unterſchied bald eine<lb/>gelbgrüne Moderfarbe, die in tauſendfachen Flech-<lb/>ten und Moſen das faulende Holzwerk bedeckte.<lb/>
+            </p>
+            <p> <lb/>„Es wohnt hier ein merkwürdiger, einſiedleri-<lb/>ſcher Mann!“ bemerkte der Caplan.<lb/>
+            </p>
+            <p> <lb/>„Ah,“ unterbrach ich ihn erregt, „doch nicht<lb/>etwa Coe Poggendiek?“<lb/>
+            </p>
+            <p> <lb/>„Sie kennen Jacob Poggendiek?“ ſtaunte der<lb/>Andere.<lb/>
+            </p>
+            <p> <lb/>„Freilich, ich ſah ihn in L. bei den Seil-<lb/>tänzern!“<lb/>
+            </p>
+            <p> <lb/>Der Caplan lächelte. „Ja, ja, das ganze<lb/>Jahr ſucht er keinen Nachbar oder Verwandten<lb/>auf, es iſt, als ob die Menſchen für ihn gar nicht<lb/>exiſtirten — mit Ausnahme ſeines Seelſorgers,<lb/>denn er iſt ein gottesfürchtiger Mann! — die<lb/>Welt iſt ihm wie ein Rauch; aber er bezahlt in<lb/>unſerer Provinzialſtadt einen Gaſtgeber beſonders<lb/>dafür, daß er ihm anzeigt, wo in der Umgegend<lb/>eine Seiltänzertruppe zu ſehen iſt. Außerdem ver-<lb/>ſchwindet der Poggenbauer jedes Jahr acht Tage!“<lb/>
+            </p>
+            <p> <lb/>„Unmöglich!“<lb/>
+            </p>
+            <p> <lb/>„Man glaubt, er mache dann eine weitere<lb/>Reiſe — kein Menſch weiß indeſ, wohin!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0338" n="328" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=338"/>
+            </p>
+            <p> <lb/>„Das ſind ſonderbare Narrheiten!“ rief ich aus.<lb/>
+            </p>
+            <p> <lb/>„Die Leute nennen es Narrheiten,“ bemerkte<lb/>mit leiſem Tadel für mich der Caplan, „ich aber<lb/>bin überzeugt, Coe hat eine ganz beſtimmte Idee<lb/>bei dem, was er thut!“<lb/>
+            </p>
+            <p> <lb/>„Wahrſcheinlich doch eine <hi rendition="#g">fixe Idee</hi>! Sie,<lb/>als ſein Seelſorger, hätten derſelben vielleicht auf<lb/>den Grund kommen können!“<lb/>
+            </p>
+            <p> <lb/>Es war nach jener Wetterankündigung ganz<lb/>ſtill und drückend warm geworden. Der Caplan<lb/>nahm ſeinen breitrandigen, flachen Hut in die<lb/>Hand und ſtrich langſam über ſein dünnes Haar.<lb/>„Sie ſind Proteſtant, mein Herr?“ fragte er.<lb/>
+            </p>
+            <p> <lb/>„Ja!“<lb/>
+            </p>
+            <p> <lb/>Er lächelte mild, faſt traurig: „Es ſind keine<lb/>weltlichen Geheimniſſe, denen uns unſer Beruf<lb/>entgegenführt; mit den irdiſchen Zielen fällt auch<lb/>die weltliche Neugier weg! — Ich bin jetzt ſeit<lb/>zwölf Jahren ordinirt,“ fuhr er nach einer Pauſe<lb/>fort, „meine erſte amtliche Handlung, außer der<lb/>Kirche, war die, in das zerfallene Haus vor uns<lb/>die Sterbeſacramente zu tragen; es ſtarben dort<lb/>in einer Woche fünf Perſonen am Typhus!“<lb/>
+            </p>
+            <p> <lb/>„Coe's Angehörige?“ fragte ich erſchrocken.<lb/>
+            </p>
+            <p> <lb/>„Ja, ſein Vater, ſeine Stiefmutter, ſein Bru-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0339" n="329" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=339"/>
+            </p>
+            <p> <lb/>der und deſſen Frau, ſowie deren Tochter — ſeit-<lb/>dem lebt Coe ohne Dienſtboten oder Angehörige<lb/>
+               <hi rendition="#g">allein</hi> mit dem verwaiſten Sohne eben dieſes<lb/>Bruders, der, als der Tod ſo reiche Ernte hielt,<lb/>noch keine zwei Jahre alt war; Coe hat ihn ſelbſt<lb/>gepflegt und erzogen!“<lb/>
+            </p>
+            <p> <lb/>Wir ſtanden bereits vor der ſchief und klap-<lb/>pernd in den ausgewichenen Angeln ſchwankenden<lb/>Hausthür meines kunſtſinnigen Bekannten.<lb/>
+            </p>
+            <p> <lb/>„Und ſeit dieſen Unglücksfällen —?“ fragte<lb/>ich, indem ich das Tauende erfaßte, das den Platz<lb/>einer Thürklinke vertrat.<lb/>
+            </p>
+            <p> <lb/>Der Caplan nickte ernſt: „Sein Herz war zu<lb/>weich für all' die Trübſal, er war damals noch<lb/>ein junger Mann!“ …<lb/>
+            </p>
+            <p> <lb/>Alſo des zähen alten Burſchen Herz war zu<lb/>weich. Wenn eine Penſionärin der andern in's<lb/>Album ſchreibt: „<hi rendition="#aq">Un coeur de vingt ans se brise</hi>
+               <lb/>
+               <hi rendition="#aq">ou se bronze</hi>!“ ob ſie ſich dann dieſes Bronziren<lb/>wohl ſo denken mag?…<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0340"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">III.</hi>
+               
+               <lb/>
+               
+                  <hi rendition="#c #larger">In der Höhle des Niederſachſen.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>Das wiederkäuende Rindvieh ſah uns, die wir<lb/>mit einem zweiten, jetzt ſchon ganz nahen Donner-<lb/>ſchlag uns bei Coe Poggendiek einſtellten, mit<lb/>einem allerdings nicht ganz unbegründeten Stau-<lb/>nen an. Auf der Schwelle der Küchenthür, deren<lb/>Rahmen jede Erinnerung an ihre einſtige loth-<lb/>rechte Stellung vergeſſen hatte, ſtand der Haus-<lb/>herr, gleichſam in bengaliſcher Beleuchtung; denn<lb/>die Blitze fuhren von zwei Seiten durch die Wolken-<lb/>maſſen, die ſich am Horizont gethürmt hatten. Der<lb/>Lauf des Emsſtromes, ſowie der Einfluß der wei-<lb/>ten Moorſtrecken hielten das grollende Wetter in<lb/>ſeinem Vorwärtsdringen auf, wie ein feſter, mu-<lb/>thiger Blick eine grimmige Beſtie. Ja, ich war<lb/>in der Höhle einer Creatur, die jeder Menagerie<lb/>Ehre gemacht haben würde, und mir, der ich ein<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0341" n="331" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=341"/>
+            </p>
+            <p> <lb/>merkwürdiges Gedächtniß für meine Kindereindrücke<lb/>beſitze, fielen auch gleich einige Löwengruben ein.<lb/>Da war Daniel und der Sclave Androclus, die<lb/>Beide <hi rendition="#g">nicht</hi> gefreſſen wurden, der Eine, weil er<lb/>fromm war — ich fürchte, das wäre für mich kein<lb/>Rettungsmittel geweſen — und der Andere, weil<lb/>er dem Löwen einmal einen Splitter aus der Tatze<lb/>gezogen hatte. Das Letztere war ein Gedanke!<lb/>Wie, wenn ich dieſen Mann den Freuden und<lb/>Leiden des Lebens und dem Gebrauche des Friſir-<lb/>kammes wieder zurückzugeben berufen wäre? Vor-<lb/>läufig jedoch war dies nicht mehr, als eine nebel-<lb/>hafte Ahnung. Alles um mich war verfallen, ver-<lb/>raucht und dunkel, nur zuweilen von den Blitzen<lb/>beleuchtet. Ich blickte unwillkürlich in die ſoge-<lb/>nannte Küche, ob dort hinter Coe's breitem Rücken<lb/>nicht die fünf Särge ſichtbar würden. Aber da<lb/>qualmte nur das Torffeuer, und unmittelbar an<lb/>den Bauern drückte ſich, wie ein geprügelter Jagd-<lb/>hund, der junge Poggendiek, des Alten Neffe,<lb/>oder, wie er hier heißt, „Ohmſager“: der näm-<lb/>lich, welcher <hi rendition="#g">Oheim</hi> zu ihm ſagt. Der Caplan<lb/>erklärte unſer Erſcheinen, und der Alte reichte<lb/>
+               <hi rendition="#g">uns</hi> die Hand und nickte — doch noch empfäng-<lb/>lich für Standesunterſchiede, denn er war ein<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0342" n="332" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=342"/>
+            </p>
+            <p> <lb/>Hofbeſitzer! — den Arbeitern zu, die uns auf un-<lb/>ſerer Forſchungstour begleiteten. Die Binſenſtühle,<lb/>die man uns präſentirte, erinnerten mich an Münch-<lb/>hauſen's Windſpiele, die ſich die Beine abliefen,<lb/>bis ſie Dachshunde wurden; ſie waren abgenutzt,<lb/>niedrig, wie für Kinder, und ſchwarz wie Alles<lb/>hier im Hauſe. Der Regen begann draußen zu<lb/>ſtrömen, die kleinen, vielfach mit Lumpen verſtopf-<lb/>ten, ſonnenbrandigen Fenſter wurden zu Sieben,<lb/>muntere Wildwaſſer tropften und ſickerten überall<lb/>durch das Wellerwerk über unſeren Köpfen, das<lb/>eben ſo viel Riſſe zeigte, als das Geſicht ſeines<lb/>Beſitzers Runzeln. Es plätſcherte wie neben einem<lb/>Waſſerfall, die kleinen Bächlein vereinigten ſich<lb/>zu Landſeen oder artigen Flüſſen in den Uneben-<lb/>heiten der Lehmdiele unter unſeren Füßen. Coe<lb/>und ſein Ohmſager wirthſchafteten indeß geſchäf-<lb/>tig umher, ein großes Schwarzbrod und eine<lb/>Schlachte Butter wurden auf den Tiſch gelegt,<lb/>eine Speckſeite aus dem Wiemen herabgelangt,<lb/>der Waſſerkeſſel und eine Pfanne auf's Feuer<lb/>gethan, Kaffee gemahlen — kurz, unſere Arbeits-<lb/>leute ſahen ungemein befriedigt den Dingen ent-<lb/>gegen, die da kommen ſollten. Die bereits durch<lb/>das Gewitter verſchüchterten Hühner flatterten jetzt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0343" n="333" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=343"/>
+            </p>
+            <p> <lb/>wie wahnſinnig umher, denn der Ohmſager hatte<lb/>ihrem Neſt einige Dutzend Eier entriſſen, die er<lb/>auf den Tiſch legte, um aus irgend einem unheim-<lb/>lichen Verließ neue Victualien herbeizuſchleppen.<lb/>Wir mußten einer ſolchen Gaſtlichkeit Ehre machen,<lb/>das ſtand feſt, und der Caplan legte ſich alsbald<lb/>in's Mittel, indem er die Pfanne mit Stroh aus-<lb/>putzen ließ, den Speck hineinſchnitt und auf den-<lb/>ſelben die Eier ſtürzte. Als wir wirklich aßen,<lb/>lief ein Zug von melancholiſchem Behagen über<lb/>Coe's Geſicht: „Es thut mir nur leid,“ ſagte er,<lb/>„daß ich es nicht ſo geben kann, wie andere<lb/>Bauern, aber — —“<lb/>
+            </p>
+            <p> <lb/>Er legte die Hand auf die Stirn und ich fiel<lb/>in’s Wort: „Ich habe gehört, Eure Blutsfreunde<lb/>ſind ſo ſchnell hintereinander am Nervenfieber ge-<lb/>ſtorben!“<lb/>
+            </p>
+            <p> <lb/>Coe fuhr auf. Er betrachtete mich mit jenem<lb/>unruhigen, ſtechenden Blick aus ſeinen wunderbar<lb/>blauen Augen, der mir eigenthümliches Mißtrauen<lb/>erweckte, ſchüttelte ein paar Mal haſtig den Kopf<lb/>und ſagte dann kurz, beinahe zornig: „Ja, todt<lb/>und <hi rendition="#g">verloren</hi>, ich bin verlaſſen, ich und das<lb/>Kind, mein Ohmſager!“<lb/>
+            </p>
+            <p> <lb/>Ich blickte prüfend auf den Caplan — wünſchte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0344" n="334" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=344"/>
+            </p>
+            <p> <lb/>er vielleicht nicht, ich möchte Coe’s <hi rendition="#g">ganzes</hi> Schick-<lb/>ſal kennen, oder wußte der Geiſtliche ſelbſt nicht<lb/>Alles? Ich zweifelte nicht, es gab noch eine dunkle<lb/>Stelle in dieſem dunklen Hauſe, wo ein ſchweres<lb/>Geheimniß ruhte, und dieſe dunkle Stelle war in<lb/>Coe's Herzen.<lb/>
+            </p>
+            <p> <lb/>„Ihr ſeht gern Seiltänzer, Poggendiek,“ —<lb/>fuhr ich unbefangen fort; „in der Stadt, wo ich<lb/>wohne, zeigen ſich manchmal große Truppen; Ihr<lb/>ſolltet einmal daher kommen, das iſt doch hübſcher,<lb/>als die armen Hungerleider auf den Jahrmärkten.“<lb/>
+            </p>
+            <p> <lb/>„Glaubt Ihr, daß ſie viel Hunger leiden?“<lb/>fragte Coe haſtig.<lb/>
+            </p>
+            <p> <lb/>„Gewiß, dieſe Art Leute ſind leichtfertig, praſ-<lb/>ſen, wenn ſie viel haben, darben, wenn Alles ver-<lb/>zehrt iſt!“<lb/>
+            </p>
+            <p> <lb/>„Mein Gott!“ ſtöhnte der Bauer.<lb/>
+            </p>
+            <p> <lb/>Es praſſelte ein furchtbarer Donnerſchlag, der<lb/>Caplan bekreuzigte ſich und begann Gebete zu<lb/>ſprechen, welche die Anweſenden eintönig nach-<lb/>murmelten. Als der Caplan ſprach: „Unſer täg-<lb/>liches Brod gieb uns heute!“ ächzte Coe tief auf,<lb/>und doch wußte ich, daß er ein vermögender und<lb/>mildthätiger Mann war, wie ich beiläufig vom<lb/>Geiſtlichen vernommen. Mit dieſem letzten Schlage<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0345" n="335" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=345"/>
+            </p>
+            <p> <lb/>hatte ſich das Wetter indeß gebrochen, die Lecke<lb/>über und neben uns tropften leiſer und ſäumiger,<lb/>ein weißlicher Sonnenſtrahl ſprang gerade auf<lb/>Coe's zerfetzte Mancheſterweſte, und der Caplan<lb/>ſchloß ſein Gebet. Wir dankten Coe für ſeine<lb/>gaſtliche Aufnahme und machten uns zum Weiter-<lb/>marſch bereit. Da faßte Coe mich am Arme und<lb/>ſprach, ſeine tiefe Stimme bis zu einer beinah<lb/>rührenden Weichheit ſinkend: „Herr, Ihr ſagtet,<lb/>in Eurer Stadt wären —“ ſeine Stimme ver-<lb/>ſagte ihm.<lb/>
+            </p>
+            <p> <lb/>„Freilich,“ half ich ein, „wenn ich von ſo Etwas<lb/>höre, ſo werde ich es ſchreiben; auch kann ich Euch,<lb/>wenn Ihr ein Stück Papier habt, ſofort meine<lb/>Adreſſe aufſetzen, wenn Ihr etwa einmal dahin<lb/>kommt!“<lb/>
+            </p>
+            <p> <lb/>„Papier haben wir,“ rief der Alte ſichtlich er-<lb/>freut und erleichtert; „mein Ohmſager iſt ein rech-<lb/>ter Student, immer nur leſen und lernen, ja, er<lb/>hat auch einen tüchtigen Schulmeiſter!“<lb/>
+            </p>
+            <p> <lb/>Der Junge wurde feuerroth, zog den Kopf<lb/>zwiſchen die Schultern und kroch an eine Lade<lb/>des alten, von Staub und Schmutz incruſtirten<lb/>Schreibſchrankes in der Ecke, aus welcher er einige<lb/>ſehr bunte Schreibhefte hervorholte. Ich ſtaunte.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0346" n="336" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=346"/>
+            </p>
+            <p> <lb/>Dieſelben waren nicht nur ſauber, ſondern zeigten<lb/>eine Handſchrift, auf deren Regelrechtigkeit ich<lb/>ſtolz geweſen ſein würde, ſo gleichmäßig und ge-<lb/>ſtochen ſah ſie aus. Ich las zwei Seiten herunter,<lb/>ſie enthielten eine Art Repetition des ſchulmeiſter-<lb/>lichen Vortrags, der nebenbei beſonders für einen<lb/>geliebten und bevorzugten Schüler eingerichtet zu<lb/>ſein ſchien. So ein armer Dorfſchulmeiſter muß<lb/>ſo viel leeres Stroh dreſchen, daß er ſtaunend<lb/>und freudig eine unerwartete geiſtige Triebkraft<lb/>begrüßt und ſie wie das Wiederaufleben ſeiner<lb/>längſt begrabenen Jugendträume pflegt und hegt.<lb/>Eben ſo klar und ſtetig als die Schrift förderten<lb/>ſich auch die Gedanken des Aufſatzes: „Die Na-<lb/>men der Bauerſchaften auf dem linken Emsufer<lb/>haben noch vielfach die lateiniſche Endigung „um“,<lb/>wie man glaubt von jenen Zeiten her, als die<lb/>Römer in dieſer Gegend ihre, noch heute kennt-<lb/>lichen Verſchanzungen aufgeworfen hatten. Unſere<lb/>Vorväter lernten wohl ſchon viele nützliche Künſte<lb/>von den Römern, die damals auch noch Heiden<lb/>waren, ſo daß dieſe Gegend keine wilde mehr war,<lb/>als ſpäter, gleichfalls von Rom, das Chriſten-<lb/>thum gebracht wurde. Erſt gepflügt und dann<lb/>geſäet!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0347" n="337" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=347"/>
+            </p>
+            <p> <lb/>Ich blickte auf und gerade in die geſpannten<lb/>und verſtändigen Augen des ungekämmten Ohm-<lb/>ſagers. „Das iſt ſehr ſchön, mein Junge,“ ſprach<lb/>ich, „wenn ich in der Stadt bin, werde ich Dir<lb/>Bücher ſchicken, in denen viel aus alten Zeiten<lb/>ſteht!“<lb/>
+            </p>
+            <p> <lb/>Der Burſche verſank abermals in hülfloſe<lb/>Verlegenheit, Thränen ſchoſſen in ſeine Augen,<lb/>ſeine Hand taſtete nach der meinigen, dann aber<lb/>drehte er ſich barſch um und rief weinerlich: „Das<lb/>iſt nicht nöthig!“<lb/>
+            </p>
+            <p> <lb/>Ich verſtand, daß er meine Güte zu groß<lb/>fand, und entgegnete, indem ich meine Adreſſe auf-<lb/>ſchrieb: „Binnen einer Woche ſind ſie in Deinen<lb/>Händen!“<lb/>
+            </p>
+            <p> <lb/>Die Bewohner des Hauſes blickten uns noch<lb/>lange nach.<lb/>
+            </p>
+            <p> <lb/>„Herr Caplan,“ wandte ich mich an dieſen,<lb/>„Ihr ſchönes Intereſſe für geſchichtliche Vergangen-<lb/>heit hat, wie ich ſah, kräftige Wurzeln geſchlagen,<lb/>zunächſt in Ihrem Schulmeiſter und dann in die-<lb/>ſem einſamen Knaben, deſſen ganze Lebensfreude<lb/>das Lernen iſt!“<lb/>
+            </p>
+            <p> <lb/>Ein ſtilles Lächeln ward in den Mundwinkeln<lb/>des Caplans ſichtbar. „Der gute Wille muß da<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0348" n="338" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=348"/>
+            </p>
+            <p> <lb/>ſein!“ ſagte er einfach, indeß ich in ein arabiſches<lb/>oder ſpaniſches Sprichwort ausbrach: „Thue das<lb/>Gute und wirf es in's Meer, ſieht es der Fiſch<lb/>nicht, ſo ſieht es der Herr!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0349"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">IV.</hi>
+               
+               <lb/>
+               
+                  <hi rendition="#c #larger">Mar-Engel.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>„Sind Sie taub geworden, Herr Nachbar?“<lb/>rief eine allerliebſte kleine Frau hinter mir. „Erſt<lb/>gehen Sie eine Ewigkeit auf Reiſen, und ſtatt<lb/>bei Ihrer Rückkehr zuvörderſt Ihre Freunde zu<lb/>begrüßen, ſtehen Sie wie verhext an der Straßen-<lb/>ecke und ſtudiren dieſen gelben, mit unäſthetiſchen<lb/>Darſtellungen und unglaublichen Ankündigungen<lb/>beklexten Zettel!“<lb/>
+            </p>
+            <p> <lb/>Ich drehte mich um, ſah in das ſchmollende<lb/>Geſicht und erfaßte das nette Händchen im choco-<lb/>ladefarbenen Handſchuh. „Es iſt ſchon die vorletzte<lb/>Vorſtellung, ich bin zu ſpät gekommen!“ ſagte ich<lb/>noch ganz zerſtreut.<lb/>
+            </p>
+            <p> <lb/>„Unſinn!“ eiferte das Frauchen; „Sie werden<lb/>ſich doch nicht um Seiltänzer kümmern! Gleich<lb/>kommen Sie mit zu meinem Manne und trinken<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0350" n="340" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=350"/>
+            </p>
+            <p> <lb/>eine Taſſe Kaffee mit uns und erzählen von<lb/>Ihrer Reiſe!“<lb/>
+            </p>
+            <p> <lb/>„Ich bin noch im Reiſeanzug und die ganze<lb/>Nacht durchgefahren!“<lb/>
+            </p>
+            <p> <lb/>„Pah, pah, Ausflüchte! Geben Sie mir Ihren<lb/>Arm; denken Sie nicht daran Ihr Zimmer vor<lb/>neun Uhr Abends zu betreten!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Ce que femme veut, Dieu le veut</hi>!“<lb/>
+            </p>
+            <p> <lb/>Und meine Müdigkeit lehnte ſich erſt nach<lb/>zehn Uhr gegen den Willen dieſer Frau auf, der<lb/>ich ewig widerſprach und ewig gehorchte; dann<lb/>aber ging es nicht mehr, ich hörte und ſah wie<lb/>durch einen Schleier und ſie ſchickte mich nun<lb/>ſelbſt nach Haus. Die Nachtluft ermunterte mich<lb/>in Etwas.<lb/>
+            </p>
+            <p> <lb/>„Herr,“ empfing mich mein alter Diener, „Herr,<lb/>es war ein Landmann hier, der einen großen<lb/>Korb mit Eiern und einen Schinken für Sie da<lb/>gelaſſen hat!“<lb/>
+            </p>
+            <p> <lb/>„Für mich? wie nannte ſich dieſer großmüthige<lb/>Landmann?“<lb/>
+            </p>
+            <p> <lb/>„Seinen Namen hat er nicht hinterlaſſen,<lb/>Herr, er ſah ein bischen ſonderbar aus, Herr, er<lb/>ſagte nur, er brächte eine Schenkage, wegen der<lb/>Bücher, Herr, und es wäre Alles ganz <hi rendition="#g">rein</hi>!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0351" n="341" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=351"/>
+            </p>
+            <p> <lb/>Ich riß die Augen unnatürlich weit auf:<lb/>„Wahrhaftig —! und wann war der Bauer hier?“<lb/>
+            </p>
+            <p> <lb/>„Geſtern Morgen, Herr, ich ſagte, Sie wären<lb/>verreiſt, Herr, und würden erſt heute Abend<lb/>wieder kommen, ich ſagte ſo wegen des Trink-<lb/>geldes, Herr!“<lb/>
+            </p>
+            <p> <lb/>„Schon gut, ich werde ihn morgen aufſuchen,<lb/>ich weiß ſchon, wo er zu finden iſt — und nun<lb/>geh, ich bin namenlos müde!“<lb/>
+            </p>
+            <p> <lb/>„Gute Nacht, Herr!“<lb/>
+            </p>
+            <p> <lb/>Als Kind pflegte ich mich ſelbſt in Schlaf zu<lb/>ſingen. Jetzt noch muß irgend ein Geſangbuch-<lb/>vers meine Seele für die Nacht einwiegen und<lb/>der Geiſt des alten Claudius nahm ſich heute<lb/>meiner an: „Der Mond iſt aufgegangen, die<lb/>goldenen Sternlein prangen am Himmel hell und<lb/>klar, der Wald ſteht ſchwarz und ſchweiget und aus<lb/>den Thälern ſteiget der — weiße — Nebel ——!“ …<lb/>
+            </p>
+            <p> <lb/>Ich weiß nicht, wie lange der weiße Nebel<lb/>„wunderbar“ mich umrollt und umnebelt hatte,<lb/>als ich empor fuhr. Draußen ſchien mein Diener<lb/>mit irgend Jemand in heftiger Meinungsver-<lb/>ſchiedenheit.<lb/>
+            </p>
+            <p> <lb/>„Der Herr ſchläft,“ erklärte der alte Tauge-<lb/>nichts in jenem impertinent lauten Flüſterton, der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0352" n="342" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=352"/>
+            </p>
+            <p> <lb/>uns ſo ſicher erweckt und aufſchreckt, wie ein<lb/>Kanonenſchlag, „der Herr kömmt todmüde von<lb/>einer Reiſe, es iſt bereits Nacht. Ihr könnt den<lb/>Herrn nicht ſtören!“<lb/>
+            </p>
+            <p> <lb/>„So will ich mich bis morgen hier auf die<lb/>Treppe ſetzen!“ entgegnete eine tiefe, reſignirte<lb/>Stimme in plattdeutſcher Sprache.<lb/>
+            </p>
+            <p> <lb/>„Wohin denkt Ihr!“ rief mein alter Burſch,<lb/>„hier iſt keine Herberge!“<lb/>
+            </p>
+            <p> <lb/>Die ferneren Ergüſſe meines entrüſteten Dienſt-<lb/>mannes wurden jäh durch meine Intervention ab-<lb/>geſchnitten. In Ermangelung einer Glocke pflege<lb/>ich mit meinem Meſſingleuchter an das Waſſer-<lb/>glas zu ſchlagen und dieſer mein improviſirter<lb/>Tam-Tam veränderte denn auch die Situation<lb/>ſofort. „Laß den Mann herein!“ rief ich meinem<lb/>Diener zu, der ſchon an der Schwelle erſchienen war.<lb/>
+            </p>
+            <p> <lb/>„Sehr wohl, Herr, aber, Herr, er ſcheint mir<lb/>nicht ſo ganz recht!“<lb/>
+            </p>
+            <p> <lb/>„Einerlei!“<lb/>
+            </p>
+            <p> <lb/>Der Fremde — Coe Poggendiek — trat ein<lb/>und taumelte auf den Stuhl vor meinem Bette.<lb/>Mein Gaſt ſah allerdings nichts weniger als ge-<lb/>müthlich aus; er war, wie mir ſchien, ſehr abge-<lb/>magert und jenes träumeriſch Sinnende in ſeinen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0353" n="343" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=353"/>
+            </p>
+            <p> <lb/>Mienen war dem Ausdrucke einer qualvollen Er-<lb/>müdung gewichen, welcher zum Trotz die blauen<lb/>Augen fieberhaft leuchteten. Zweimal verſuchte<lb/>er zu ſprechen, ſeine bebenden Lippen brachten<lb/>kein Wort hervor. Um ihm Zeit zu laſſen, warf<lb/>ich einen Schlafrock über und ſetzte eine Flaſche<lb/>Wein, ſo wie einige Victualien auf den Tiſch<lb/>des Nebenzimmers.<lb/>
+            </p>
+            <p> <lb/>„Kommt hierher, Coe,“ ſagte ich theilnehmend.<lb/>„Ihr ſeid hungrig!“<lb/>
+            </p>
+            <p> <lb/>„Ich habe in zwei Tagen nichts gegeſſen —<lb/>und kann auch noch nicht eſſen! Ich will Euch<lb/>nicht läſtig fallen, ich wollte Euch nur fragen,<lb/>ob Ihr mir zwanzig Thaler leihen wollt.“<lb/>
+            </p>
+            <p> <lb/>„Natürlich will ich das, aber Ihr müßt ver-<lb/>ſuchen, etwas zu eſſen, ſonſt beleidigt Ihr mich —<lb/>ſo, das iſt recht, trinkt einen Schluck. Die Abende<lb/>ſind ſchon kalt!“<lb/>
+            </p>
+            <p> <lb/>„Er hat ſie gekauft, er will ſein Geld wieder<lb/>haben, aber er traut mir nicht — närriſcher Bettler<lb/>nannte er mich. — Sie wird ſich auch vor mir<lb/>fürchten — armes Vögelchen — ich muß ſie kau-<lb/>fen wie ein Stück Vieh —“<lb/>
+            </p>
+            <p> <lb/>„Coe,“ ſagte ich und legte meine Hand auf<lb/>ſeine Schulter, „Ihr habt mich bei ſchwerem Wetter<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0354" n="344" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=354"/>
+            </p>
+            <p> <lb/>in Euer Haus aufgenommen, bis die Gefahr vor-<lb/>über war, jetzt ſteht das Wetter über Euch, Mann,<lb/>und ich werde Euch nicht allein in daſſelbe zurück-<lb/>kehren laſſen. Es zehrt etwas an Eurem Herzen<lb/>— vertraut es mir an, und ſo wahr ich hoffe<lb/>ſelig zu werden, es ſoll in meiner Bruſt begra-<lb/>ben ſein, als ob Ihr mein leiblicher Bruder wäret!“<lb/>
+            </p>
+            <p> <lb/>„Wollt Ihr mir hernach helfen? Wollt Ihr<lb/>ihn zwingen, das Kind herzugeben?“ fragte Coe<lb/>angſtvoll.<lb/>
+            </p>
+            <p> <lb/>„Ja, Coe, ich werde thun, was ich kann, um<lb/>Euer Leid von Euch zu nehmen, beſinnt Euch<lb/>nun recht auf Das, was Ihr mir ſagen wollt,<lb/>während ich Euch für die Nacht eine Matratze und<lb/>eine Decke auf den Fußboden lege!“<lb/>
+            </p>
+            <p> <lb/>Coe aß gedankenlos aber heißhungrig und ich<lb/>vergaß nicht, im Vorbeigehen das Glas zu füllen.<lb/>Endlich veriegelte ich mit einigem Geräuſch die<lb/>Thür, dämpfte das Licht der Studirlampe, zündete<lb/>eine Cigarre an — Coe war kein Raucher — und<lb/>ſetzte mich nieder.<lb/>
+            </p>
+            <p> <lb/>„Habt Ihr Euch recht beſonnen wegen Eurer<lb/>Angelegenheit?“ fragte ich ihn.<lb/>
+            </p>
+            <p> <lb/>„Darauf brauche ich mich wohl nicht zu beſin-<lb/>nen,“ ſagte Coe leiſe; „ſeit zwölf Jahren habe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0355" n="345" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=355"/>
+            </p>
+            <p> <lb/>ich Tag und Nacht keinen andern Gedanken ge-<lb/>habt!“ Er ſeufzte nnd ſchwieg.<lb/>
+            </p>
+            <p> <lb/>„Wollt Ihr mir die Geſchichte lieber morgen<lb/>früh erzählen, Coe?“<lb/>
+            </p>
+            <p> <lb/>„Nein, Herr, ich habe lange nicht geſchlafen;<lb/>wenn es geſagt iſt, finde ich vielleicht Ruhe!“<lb/>
+            </p>
+            <p> <lb/>Meine Spannung, ja Beunruhigung wuchs.<lb/>Coe ſelbſt ſchien innerlich ruhig geworden zu ſein,<lb/>auch ſagte er das Folgende faſt ohne jeden Affect,<lb/>nur mitunter ſtockte er, wie von innerer Erregung.<lb/>
+            </p>
+            <p> <lb/>„Als mein Vater ſelig zum zweiten Mal traute<lb/>(heirathete), waren mein Bruder und ich ſchon in<lb/>den Zwanzigen. Die neue Poggendiek-Bäuerin<lb/>ſtammte von Hümmeling und war auch eine Wit-<lb/>frau. Sie brachte eine Tochter erſter Ehe mit<lb/>auf den Hof, die damals an ſechszehn Jahr alt<lb/>war. Sie hieß Mar-Engel — dieſes ſchreibt ſich<lb/>Maria-Angela!“ fügte Coe auf meinen fragenden<lb/>Blick hinzu. „Die Leute fanden Mar-Engel nicht<lb/>hübſch, weil ſie klein und dünn von Perſon war<lb/>und ſchwarze Haare hatte. Als mein Bruder<lb/>ſelig nachhero eine Frau nahm mit ſchönem lich-<lb/>ten Haar, die auch Engel hieß, nannte unſer<lb/>Hausvolk meine Halbſchweſter Schwarz-Engel.<lb/>Mit der Arbeit war es bei ihr nicht viel, ſie lachte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0356" n="346" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=356"/>
+            </p>
+            <p> <lb/>und ſang und tanzte lieber, das gefiel mir nicht,<lb/>Herr, denn ich habe nie tanzen gelernt und halte<lb/>große Stücke auf Arbeit!“<lb/>
+            </p>
+            <p> <lb/>„Alſo Mar-Engel gefiel Euch nicht?“ fragte<lb/>ich, da er in Nachdenken verſank.<lb/>
+            </p>
+            <p> <lb/>„Sie gefiel Niemanden, denn ſie war wie ein<lb/>Wirbelwind, aber Keiner konnte ohne ſie fertig<lb/>werden!“<lb/>
+            </p>
+            <p> <lb/>Armer Coe! wie gleicht ſich das Menſchen-<lb/>herz überall, wie hatte ihn die Liebe ſo verräthe-<lb/>riſch gefaßt . . . .<lb/>
+            </p>
+            <p> <lb/>„Ich war nicht gut gegen Schwarz-Engel, Herr;<lb/>aber wenn ſie etwas wollte, mußte ich ihr doch<lb/>immer beiſtehen und mir war zu Sinne, ſie<lb/>müßte meine Frau werden, wenn ſie erſt vernünf-<lb/>tiger würde. Es wäre wohl auch <hi rendition="#g">ſo</hi> gekommen<lb/>und blieb beim Alten, bis <hi rendition="#g">Einer</hi> ſie in der<lb/>Kirche ſah — der war ein Müllerknecht und weit<lb/>in der Fremde zu Haus — der ſagte im Wirths-<lb/>haus, wohin er viel ging: Mar-Engel wäre das<lb/>
+               <hi rendition="#g">flüggeſte Mädchen</hi> im <hi rendition="#g">Kirchſpiel</hi>! Die<lb/>Leute verwunderten ſich und erzählten es meiner<lb/>Halb-Schweſter wieder. Nun kaufte Schwarz-<lb/>Engel noch viel mehr Tücher und Bänder, als<lb/>früher und weil ich ſparſam war und wenig<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0357" n="347" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=357"/>
+            </p>
+            <p> <lb/>brauchte, kam das Bezahlen auf mich. Ich dachte,<lb/>ſie wäre noch ein bares Kind und ließ ihr den<lb/>Willen. „Hör' nicht auf den Mühlen-Rolf,“<lb/>ſagte ich ihr, „der verſäuft jeden Deut, den er<lb/>verdient!“<lb/>
+            </p>
+            <p> <lb/>„Aber er tanzt dafür um ſo viel leichter!“ meinte<lb/>Mar-Engel. Wir ſtritten uns immer, aber es<lb/>kam zuletzt ſo, daß ich heimlich von der Arbeit<lb/>wegging, um ſie nur von Weitem zu ſehen oder<lb/>ihre Stimme zu hören, ich vergaß alle meine<lb/>wirklichen Blutsfreunde und dachte <hi rendition="#g">nur</hi> an das<lb/>Mädchen. Einen Tag lag unſer ſelbſtgewebtes<lb/>Leinen neben dem Weidenſpiek an der Ems zum<lb/>Bleichen und Engel mußte es gießen. Als ich<lb/>ſie auf dem Eſch, welcher höher liegt, an's Waſ-<lb/>ſer gehen ſah, warf ich dem Braunen — ich war<lb/>am Eggen — die Zügel auf den Rücken und<lb/>ſchlich mich durch die Weiden bis zu ihr. Sie<lb/>ſang wie immer und lief wie ein Kiebitz bei dem<lb/>Leinen herum. Da rief von jenſeits eine Stimme<lb/>über's Waſſer. Es war die Küſterstochter aus<lb/>dem Dorfe, Mar-Engel's Kameradin. „Schwarz-<lb/>Engel“, rief die lange Lisbeth, „bei uns iſt eine<lb/>Harfeniſtin, Mühlen-Rolf hat ſie gedungen, daß<lb/>wir nach der Vesper ein wenig tanzen, kannſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0358" n="348" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=358"/>
+            </p>
+            <p> <lb/>Du nicht machen, daß Deine Leute Dich gehen<lb/>laſſen?“ — „Natürlich kann ich das,“ rief Engel<lb/>zurück, „ich ſage ihnen, ich ginge zu meiner Tante<lb/>über die Fähre!“ — „Aber wer macht Dir die<lb/>Thür auf, wenn es ſpät wird?“ fragte die lange<lb/>Lisbeth. — „Das muß Coe thun,“ lachte Mar-<lb/>Engel. „Coe iſt ſo gut, der thut Alles, was ich<lb/>will!“ — Lisbeth lachte auch und ſagte, als ſie<lb/>herunter ging nach den Kühen, die ſie von der<lb/>Trift holte: „So einen guten Freier möchte ich<lb/>auch haben!“ — Zu Mittag bat mich Mar-Engel,<lb/>als ich eben die Pferde fütterte, ob ich ihr Abends<lb/>aufmachen wolle, ſie ginge ein wenig in's Loog<lb/>(Dorf) zum Tanz und die Mutter dürfe es nicht<lb/>wiſſen. — „Nein,“ ſagte ich, „ich mache Dir nicht<lb/>auf, denn ich will nicht, daß Du mit den Tage-<lb/>dieben da unten Gemeinſchaft haſt — gieb das<lb/>Tanzen auf und ich will um Kirchmeß bei Deiner<lb/>Mutter um Dich fragen und Du ſollſt meine<lb/>Frau werden!“ Sie warf ihre Arme um mich und<lb/>ſagte: „Ja, ich will Deine Frau ſein, aber zum<lb/>Tanz gehe ich doch!“ — „Dann nehme ich Dich<lb/>nicht und mache Dir auch nicht auf!“ — „Ach,<lb/>Coe, ich kenne Dich, Du biſt gut, Du machſt mir<lb/>auf und hernach werde ich auch Deine Frau, Du<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0359" n="349" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=359"/>
+            </p>
+            <p> <lb/>biſt der Beſte auf der Welt!“ Sie ging, das<lb/>arme Kind. Die Haushaltung legte ſich, wie es<lb/>ſich ſo gehört, gegen neun Uhr ſchlafen und die<lb/>Bäuerin dachte, Mar-Engel müſſe bei der Tante<lb/>geblieben ſein. Ich wußte es beſſer. Es war<lb/>ſchon gegen Mitternacht, als ſich Etwas vor die<lb/>zerbrochene Scheibe in meinem Kammerfenſter<lb/>drückte — ich hörte es, denn ich war wach<lb/>geblieben; aber es ſtand feſt, ich gab ihr keine<lb/>Antwort und machte ihr nicht auf, ſie konnte ihre<lb/>Strafe nehmen und die <hi rendition="#g">Alten</hi> wecken. „Coe,“<lb/>flüſterte ſie, „ſei gut und mach' mir auf!“ — Ich<lb/>blieb ſtill. „Lieber, lieber Coe, ich werde Dir von<lb/>jetzt immer gehorchen, ich werde es gern thun, ich<lb/>will an Deinen Augen abſehen, wie Dir's recht<lb/>iſt — mach’ auf!“ Ich war wie im Fieber, aber<lb/>ich ſchwieg. „Coe, um Gottes Barmherzigkeit,<lb/>mach' mich nicht ſo unglücklich, die Mutter ſchlägt<lb/>mich gewiß.“ — Mar-Engel weinte laut. „Coe,<lb/>wenn Du nicht aufmachſt, der Müller-Rolf ſteht<lb/>vor der Fallthür, ich gehe mit ihm in die weite<lb/>Welt!“ Ich glaubte ihr nicht, Herr, und ließ ſie<lb/>eine Weile reden, dann war es mir, als ginge die<lb/>Fallthür und ich dachte, Schwarz-Engel hätte ſich<lb/>in's Heu gelegt, und war zufrieden, daß ich ihr<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0360" n="350" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=360"/>
+            </p>
+            <p> <lb/>gezeigt hatte, ich ſei nicht ihr Narr — ach, Herr,<lb/>ich war doch ihr Narr, für alle die Tage meines<lb/>Lebens. Sie hatte gethan, wie ſie mir drohte, ſie<lb/>war mit dem Mühlen-Rolf über die Grenze in's<lb/>Gröninger-Land gegangen und das Auge ihrer<lb/>Mutter hat ſie nicht wieder geſehen.“<lb/>
+            </p>
+            <p> <lb/>Coe machte hier eine Pauſe, dann ſeufzte er<lb/>und fuhr mit finſterer Stirn fort: „Mein Sinn<lb/>konnte ſich nicht wieder auf meine Gefreundeten<lb/>wenden, mir war, als hätte ich Niemand auf der<lb/>Welt, weil ich Mar-Engel nicht hatte, und Gott<lb/>ſtrafte mich. Die Krankheit kam und ich blieb<lb/>wirklich <hi rendition="#g">allein</hi>, ich konnte nun ungehindert an<lb/>ſie denken, an ſie, die Schande und Elend über<lb/>unſer Haus gebracht hatte. Ich nahm, als Alle<lb/>unter der Erde waren, die mit mir einen Weg<lb/>gingen, keine fremden Leute wieder auf den Hof,<lb/>ich verheuerte das Land und lebte mit dem Kinde;<lb/>ich hatte den Fluch herabgezogen, ich wollte ihn<lb/>
+               <hi rendition="#g">allein</hi> tragen, mir war, als <hi rendition="#g">müßte</hi> es ſo ſein.<lb/>Hier auf der Welt iſt aber keine Ruhe. Als ich<lb/>an einem Abende in meiner Kammer lag, da klang<lb/>es von draußen wie vor Jahren. „Coe, ich bitte<lb/>Dich, mach' auf, ich bin es — Mar-Engel!“ Ich<lb/>hatte viel tauſend Mal geträumt, es müßte ſo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0361" n="351" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=361"/>
+            </p>
+            <p> <lb/>kommen, ich dachte, ich träumte wieder. Da ſagte<lb/>die Stimme draußen nochmal: „Mein Gott, er<lb/>hat das Kind verkauft und ich finde es nicht wie-<lb/>der!“ Es war Engel, ihre Stimme, ihre Geſtalt<lb/>— aber ſonſt nichts von früher, ſie war verfallen,<lb/>zerlumpt — wahnſinnig.<lb/>
+            </p>
+            <p> <lb/>Nach einiger Zeit brachte ich ſie nach Hildes-<lb/>heim und da beſuche ich ſie alle Jahre in dem<lb/>großen Hauſe, wo alle die Kranken ſind, und ſie<lb/>bat mich immer, ich möchte ihr ihre kleine Mar-<lb/>Engel wiederſuchen, die der böſe Müller-Rolf für<lb/>zehn Thaler an die Seiltänzer verkaufte, weil ſie<lb/>nicht ſterben könnte, bis es da iſt — jetzt habe<lb/>ich's gefunden, es iſt hier, vielleicht wird die<lb/>Mutter wieder geſund werden, wenn ſie es in<lb/>den Armen hat. Ich werde es bezahlen, das<lb/>Kind, und wenn es meinen Hof koſtete.“<lb/>
+            </p>
+            <p> <lb/>„Wir werden es ſchon bekommen,“ ſagte ich<lb/>zuverſichtlich; „ſchlaft jetzt, Coe, damit wir morgen<lb/>bei Zeiten wach und fertig ſind.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0362"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">V.</hi>
+               
+               <lb/>
+               
+                  <hi rendition="#c #larger">Laokoon.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>Mein Gaſt hatte es möglich gemacht, mir Alles<lb/>mitzutheilen, was gar keine Wichtigkeit hatte und<lb/>mir nichts von dem zu ſagen, was ich, zum Han-<lb/>deln, unumgänglich wiſſen mußte. Das kam: ſeine<lb/>Tradition war ihm geläufig, wie ſein Vaterunſer;<lb/>in die näher liegenden Ereigniſſe war er noch<lb/>gleichſam verwachſen, er hatte ihnen noch keine<lb/>Perſpective abgenommen. Während der arme<lb/>Mann einen todtenähnlichen Schlaf ſchnarchte, an<lb/>dem das erleichterte Gemüth, ſo wie mein Rouſ-<lb/>ſillon ihren Antheil haben mochten, ſuchte ich die<lb/>flatternden Andeutungen über Mar-Engels kleine,<lb/>von ihrem Vater an Seiltänzer verkaufte Tochter<lb/>zu einem feſten Ganzen zuſammenzuſplißen und<lb/>ſchlief, als ich einen ungefähren Plan entworfen,<lb/>endlich auch ein.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0363" n="353" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=363"/>
+            </p>
+            <p> <lb/>Als ich erwachte, ſah ich Coe auf ſeiner Ma-<lb/>tratze ſitzen, ſeine Augen, gleich denen eines treuen<lb/>Hundes, auf mein Geſicht geheftet.<lb/>
+            </p>
+            <p> <lb/>„Wir werden dem Franzen das Kind abkau-<lb/>fen, nicht wahr, Herr?“ fragte Coe, als fürch-<lb/>tete er, mir möchten Zweifel gekommen ſein.<lb/>
+            </p>
+            <p> <lb/>„Wenn der Seiltänzer ein Franzoſe iſt, wer-<lb/>den wir es ſchon bekommen!“ war meine Ant-<lb/>wort, deren innere Logik indeß mir ſelbſt nicht<lb/>ganz einleuchtete.<lb/>
+            </p>
+            <p> <lb/>Ich erfuhr nun von dem Sohne der Wildniß<lb/>die näheren Einzelheiten, die mir zu wiſſen Noth<lb/>thaten. Der nichtswürdige Mühlen-Rolf hatte<lb/>ſeinem unglücklichen Nebenbuhler nach und nach<lb/>und auf allerlei Art, nicht unbedeutende Geld-<lb/>ſummen — für Weib und Kind angeblich — ab-<lb/>gepreßt, auch dann noch, als die Schwarz-Engel,<lb/>von der Sorge und Arbeit für den leichtfinnigen<lb/>Lebensgefährten erdrückt, in einem Krankenhauſe<lb/>lag und der liebenswürdige Strohwitwer ihre Ab-<lb/>weſenheit benutzte, um ſein drei Jahr altes Töch-<lb/>terchen, das die einzige gute Eigenſchaft ſeines<lb/>Vaters, die <hi rendition="#g">Leichtfüßigkeit</hi>, überkommen hatte,<lb/>für zehn Thaler zu verkaufen. Dieſe Summe mag<lb/>übrigens auch noch andere, nicht ausgeſprochene<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0364" n="354" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=364"/>
+            </p>
+            <p> <lb/>Geſchäftsverbindungen des Müllers und des Seil-<lb/>tänzers eingeſchloſſen haben. Schwarz-Engel hatte<lb/>vor Sehnſucht nach dem Kinde keine Ruhe im<lb/>Krankenhauſe. Da die Aerzte ſie noch nicht als<lb/>geheilt entlaſſen wollten, entfloh ſie dieſem Aſyl<lb/>und kam in dem Orte, wo ſie bisher mit Mann<lb/>und Kind gelebt hatte, durchnäßt und halb er-<lb/>froren an. Ihr Stübchen herbergte andere Mie-<lb/>ther, ihr Hausrath, ſogar ihr wenigen Kleider<lb/>waren verkauft und Mann und Kind waren ——<lb/>Niemand wußte, wohin? Sie fragte nicht nach<lb/>Rolf, aber wie ein Vorſtehhund ſtürzte ſie ſich<lb/>auf die Fährte des Kindes — ſie folgte derſelben<lb/>bis an die Grenze, wurde von dort aber, wegen<lb/>mangelnder Papiere und Subſiſtenzmittel per Schub<lb/>in ihre eigentliche Heimath zurückbefördert, die ſie<lb/>eben ſo todt und öde fand, als es ihr armes jun-<lb/>ges Daſein war.<lb/>
+            </p>
+            <p> <lb/>„Ich hätte ihren kranken Kopf wohl ertragen<lb/>und ſie eben ſo gut gehalten, wie die fremden<lb/>Docters in Hildesheim,“ meinte Coe; „aber ſie<lb/>war ja Rolf's Frau und ich hatte kein Recht<lb/>an ihr!“<lb/>
+            </p>
+            <p> <lb/>Coe war einigermaßen erſtaunt, als ich ihn<lb/>um <hi rendition="#g">Beweiſe</hi> anging, daß das Kind auch wirk-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0365" n="355" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=365"/>
+            </p>
+            <p> <lb/>lich ſeine Nichte ſei: „Beweiſe,“ rief er, „o Herr,<lb/>die Beweiſe hat Gott dem Kinde in's Geſicht ge-<lb/>ſchrieben; man zieht nicht zehn Jahre mit Weh<lb/>im Herzen von Markt zu Markt, um ſich am Ende<lb/>noch zu irren.“<lb/>
+            </p>
+            <p> <lb/>Gegen meinen Verſchönerungsplan hatte Coe<lb/>nichts einzuwenden, nachdem ich ihm auseinander-<lb/>geſetzt, daß das kleine Mädchen ſich vor ihm fürch-<lb/>ten würde, wie er jetzt daſtände. Der Gedanke<lb/>ſchien ihm ſogar Freude zu machen, daß Alles ſo<lb/>hübſch werden müſſe, als zöge Schwarz-Engel<lb/>ſelbſt, jung und froh, auf den Poggendiek-Hof.<lb/>Mein alter Diener, froh, wieder einmal eine kleine<lb/>Finanzſpeculation zu machen, übernahm die Equi-<lb/>pirung meines Freundes und ich ſah ſie, vom<lb/>Fenſter aus, Beide, Hand in Hand, in das Markt-<lb/>gewühl tauchen und einem Barbiergeſchäft zu-<lb/>ſteuern. Als der Diener mit ſeinem neu verpuppten<lb/>und metamorphoſirten Begleiter wiederkam, be-<lb/>trachtete er den Bauern mit wahrem Künſtlerſtolz<lb/>und in der That, der Mann hatte etwas Eigen-<lb/>thümliches, knorrig und zäh wie eine Tanne, groß<lb/>und mit einem Ausdruck von Melancholie, der an<lb/>ſeine heimatlichen Moore gemahnte.<lb/>
+            </p>
+            <p> <lb/>Jetzt galt es an's Werk zu gehen! Mit<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0366" n="356" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=366"/>
+            </p>
+            <p> <lb/>einem wahren Indianerinſtinct führte mich Coe<lb/>durch die Straßen der ihm fremden Stadt, durch<lb/>das Gewühl des Marktes, das Gewirr der Buden,<lb/>und Verkäufer, Marionetten und Menagerien vor-<lb/>über, bis zu dem Toiletteraum der Seiltänzer,<lb/>der, eigentlich für irgend ein Waarenlager be-<lb/>ſtimmt und ſtark nach Theer duftend, jetzt in ſei-<lb/>nem Halbdunkel eine Scene bot, die dem berühm-<lb/>ten Bilde Hogarth's glich: „Wandernde Schau-<lb/>ſpieler, die ſich in einer Scheune ankleiden“. Der<lb/>kleine Kautſchukmann und der mächtige Athlet, der<lb/>Clown und die Sylphide — Alles ſchwirrte durch<lb/>einander und dazwiſchen ſchaltete, mit unzweideu-<lb/>tiger Bereitwilligkeit, eine zur Hand liegende<lb/>Pritſche ernſtlich zu verwenden, der etwas orien-<lb/>taliſch ausſehende Herr jener beweglichen Bande.<lb/>
+            </p>
+            <p> <lb/>Noch ehe ich meine ſehr paſſende Anrede be-<lb/>gonnen hatte, ſtürzte beſagter Athletenführer an<lb/>mir vorüber, auf Coe zu: „Verdammter Bauer,“<lb/>ſchrie er in einem Accent, der zum großen Theil<lb/>ſeine eigene Erfindung ſein mochte: „Du haſt<lb/>ſie geſtohlen, meine Mariette geraubt — entführt<lb/>— meinen Papillon, meine Libelle, meine Pſyche<lb/>— Mariette iſt fort und ich werde Dich — —!“<lb/>
+            </p>
+            <p> <lb/>Er vollendete nicht, der Bauer ſank todtenblaß<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0367" n="357" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=367"/>
+            </p>
+            <p> <lb/>und lautlos, wie vom Schlage getroffen, gegen die<lb/>Wand. Die ganze Geſellſchaft betheiligte ſich an<lb/>ſeiner Wiederbelebung, was die Sache bedeutend<lb/>verzögerte, mich aber überzeugte, das Kind ſei<lb/>wirklich geſtern Abend nach der Vorſtellung ver-<lb/>ſchwunden und die Polizei ſuche die Verlorene,<lb/>die eine Zierde der Künſtlergeſellſchaft war, ſeit-<lb/>dem umſonſt. Es blieb übrigens nicht lange Zeit<lb/>zu ferneren Erkundigungen, da die heutige Vor-<lb/>ſtellung beginnen ſollte und von all meinen Groß-<lb/>thaten war nun <hi rendition="#g">nichts</hi> und <hi rendition="#g">keine</hi> wahr gewor-<lb/>den, als daß Coe gewaſchen und geſchoren war!<lb/>Armer Coe, auf ſeiner bleichen breiten Stirn perl-<lb/>ten die Angſttropfen ſeiner Seelenqual, er wankte<lb/>wie ein Betrunkener und ſtatt jeder Antwort mur-<lb/>melte er nur: „Das iſt der Fluch! Das iſt der<lb/>Fluch!“<lb/>
+            </p>
+            <p> <lb/>Der Seil-Director entließ uns mit der be-<lb/>ruhigenden Verſicherung, daß er, trotz der gravi-<lb/>renden Nebenumſtände, uns keineswegs für Mäd-<lb/>chenräuber halte, und daß er nur der Form und<lb/>Ordnung wegen um genaue Angabe unſerer<lb/>Adreſſe bitte.<lb/>
+            </p>
+            <p> <lb/>„Sie, als gebildeter Mann,“ fuhr er fort,<lb/>„können ſich nicht wohl verhehlen, daß das Wie-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0368" n="358" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=368"/>
+            </p>
+            <p> <lb/>derauffinden einer ungewöhnlich hübſchen jungen<lb/>Dame mit einem ſeltenen Talent für das ſchlaffe<lb/>Seil, für mich eine <hi rendition="#aq">cause célèbre</hi> iſt!“<lb/>
+            </p>
+            <p> <lb/>Ich zog meinen zitternden Gefährten hinter<lb/>mir drein, nachdem ich unſere Adreſſe gegeben<lb/>und der Director uns in aller Eile mit ſeinem<lb/>Raubvogelblick gemuſtert. —<lb/>
+            </p>
+            <p> <lb/>So weit waren wir denn! Indeß ſuchte ich<lb/>Coe die wohlthätige Einrichtung der Polizeiord-<lb/>nung klar zu machen und lenkte ſeine willenloſen<lb/>Füße des Weges, vor das Auge des Geſetzes.<lb/>Bei jedem Schritte dachte ich, er würde von Neuem<lb/>zuſammenbrechen. Er ſchien weder zu ſehen noch<lb/>zu hören. Grell und abſcheulich war mir heute<lb/>das Marktgewühl. Die Thierbude hatte ihre Vor-<lb/>ſtellungen auch ſchon begonnen; neben dem üb-<lb/>lichen „Hyän' lach!“ und: „Wie ſpricht der Löwe?“<lb/>ließ ſich ein ganzer Cataract von krächzenden,<lb/>brüllenden und brummenden Lauten vernehmen,<lb/>welche die erklärende Stimme des Thierbändigers<lb/>zu übertönen ſtrebte. Ein Gedränge hemmte un-<lb/>ſere Schritte; als ich eben mit einiger Mühe meine<lb/>verhängnißvolle Bahn ebne — da ſeh' ich, wie ſich<lb/>eine Geſtalt auf den Eingang der Thierbude ſtürzt,<lb/>die Billetverkäuferin über den Haufen rennt, und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0369" n="359" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=369"/>
+            </p>
+            <p> <lb/>dann hör' ich drinnen einen Wuthſchrei, den die<lb/>Thiere der Wildniß wie einen wohlbekannten Gruß<lb/>erwiedern. Es ward mir dunkel vor den Augen,<lb/>ich hatte den Wüthenden erkannt, ja, er iſt's, der<lb/>Unglückſelige — es iſt Coe! Leugne ich's? — Mich<lb/>überkam ein ſchwacher Moment, wo ich geneigt<lb/>war, zu fliehen, nicht vor der Gefahr, ſondern<lb/>vor der Lächerlichkeit dieſes Marktſkandals; aber<lb/>mein beſſeres Selbſt ſiegte, ich legte einen Thaler<lb/>in die Hand der Billetverkäuferin, welche, ohne<lb/>zu beben, mit Löwen ſpielte und mit Hyänen tän-<lb/>delte — und trat in die Bude. Auf einer Er-<lb/>höhung ſtand, von einer mächtigen Schlange um-<lb/>wunden, der Thierbändiger, ein Mann von mitt-<lb/>lerer Größe und ſchlanken Formen, neben ſeinem<lb/>branntweinrothen Geſicht züngelte der Kopf der<lb/>Schlange und Beide bedrohten meinen Buſen-<lb/>freund Coe, der eben dröhnend laut ſagte: „Ob<lb/>ſie beißt oder nicht beißt, ich erwürge Dich, wenn<lb/>
+               <hi rendition="#g">Du</hi> das Kind nicht herausgiebſt!"<lb/>
+            </p>
+            <p> <lb/>Die Worte waren noch kaum geſprochen, als<lb/>Coe bereits auf die Eſtrade ſprang und den Wär-<lb/>ter mit ſammt der Schlange ſo furchtbar an ſeine<lb/>breite Bruſt quetſchte, daß das Reptil glatt und<lb/>hoch wie ein Waſſerſtrahl gegen die Decke ſchoß<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0370" n="360" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=370"/>
+            </p>
+            <p> <lb/>und ſich dann niederließ, um die beiden Kämpfer,<lb/>unter deren ſtampfenden Füßen die Grundhölzer<lb/>erdröhnten, zu umringeln. Das Geſchrei der<lb/>Thiere und Menſchen iſt unbeſchreiblich. Nie-<lb/>mand wagt ſich an die Männer aus Furcht vor<lb/>der Schlange. Die Billetverkäuferin ſtürzt weh-<lb/>klagend herein und jammert: „O, meine Schlange!“<lb/>indem ſie ſich mit Mutterzärtlichkeit bemüht,<lb/>das Thier von den Männern loszumachen. Coe<lb/>hat den Thierbändiger jetzt zu Boden gewor-<lb/>fen, die Schlange läßt nach, um ſich ihrer Freun-<lb/>din und der warmen Flanelldecke zuzuwenden.<lb/>
+            </p>
+            <p> <lb/>„Gieb das Kind,“ brüllte Coe, „oder Du biſt<lb/>ein ſtiller Mann — mögen ſie mich hernach hän-<lb/>gen, mir liegt nichts am Leben — <hi rendition="#g">das Kind</hi>!“ —<lb/>
+            </p>
+            <p> <lb/>„Es iſt hinten — bei den Hottentotten“ —<lb/>ſtöhnte der gequetſchte Thierkönig — „laß los!“<lb/>
+            </p>
+            <p> <lb/>Kaum waren dieſe Worte laut geworden, als<lb/>Coe den halb Erdroſſelten losließ, ſich aufrichtete,<lb/>einen Schritt zurücktrat, die Arme kreuzte und<lb/>ſagte: „Ich fordere das Kind von Dir!“ — Das<lb/>Publikum der Menagerie beſtand meiſt aus jun-<lb/>gen Landleuten, Geſellen und Lehrlingen der<lb/>Stadt und ſonſtigen handfeſten Individuen.<lb/>Selbſtverſtändlich hatten dieſe Leute bereits Par-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0371" n="361" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=371"/>
+            </p>
+            <p> <lb/>tei für meinen mannhaften Schützling genommen.<lb/>Als Coe ſich aber, wie der alte Löwe nicht vier<lb/>Fuß hinter ihm, aufrichtete, und dem beſchämten<lb/>Beſtiengouverneur die Freiheit ließ, da kannte das<lb/>Beifallsrufen keine Grenzen, Mützen und Tücher<lb/>flogen. Das Ganze ſpielte wie ein richtiges Schau-<lb/>ſpiel auf der erhöhten Eſtrade. Da es jetzt zu<lb/>Verſtändigungen kommen mußte, ſo erwartete ich<lb/>jeden Augenblick, gleichfalls in Scene treten zu<lb/>müſſen.<lb/>
+            </p>
+            <p> <lb/>„Stellt Euch an die Eingänge!“ rief ein rie-<lb/>ſiger Schloſſergeſell, „die Polizei ſoll nicht kom-<lb/>men, wir werden unſerm Mann <hi rendition="#g">ſelbſt</hi> zu ſeinem<lb/>Rechte verhelfen!“<lb/>
+            </p>
+            <p> <lb/>Coe erhob ſich wie aus einem Traume: „Ich<lb/>brauche Niemandes Hülfe,“ ſagte er mürriſch,<lb/>„das iſt kein ehrlicher Mann, der ſich vor einem<lb/>Schurken fürchtet!“<lb/>
+            </p>
+            <p> <lb/>Erneute Bravorufe füllten die Bude.<lb/>
+            </p>
+            <p> <lb/>„Hört nicht auf ihn,“ brach ſich die heiſere<lb/>Stimme des Andern Bahn; „hört nicht auf ihn.<lb/>Er will mir mein Kind, mein einziges Kind,<lb/>mein Fleiſch und Blut rauben!“<lb/>
+            </p>
+            <p> <lb/>Coe richtete das Haupt empor, ſeine Augen<lb/>ſuchten zum erſten Male ſeit dem Anfang der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0372" n="362" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=372"/>
+            </p>
+            <p> <lb/>Feindſeligkeit, mit ihren klaren, weit ausſchauenden<lb/>Blicken das Publikum, ſeine Stimme war grollend<lb/>und tief: „Die großen Katzen da hinter den Eiſen-<lb/>ſtäben morden Den, der ihre Jungen rauben will;<lb/>
+               <hi rendition="#g">der Mann</hi> hier hat ſein Fleiſch und Blut um<lb/>zehn Thaler <hi rendition="#g">verkauft</hi>!“<lb/>
+            </p>
+            <p> <lb/>Die Leute fuhren empor wie eine Brandung.<lb/>Rolf, deſſen Bekanntſchaft mir hier ſo unerwartet<lb/>zu Theil ward, flüchtete ſich hinter Coe, der wieder<lb/>in ſeine träumeriſche Poſition zurückgefallen war.<lb/>Die härteſten Drohungen trafen das Opfer der<lb/>Volksjuſtiz, das, durch ſeinen Ankläger gedeckt,<lb/>ſchrie: „Was hat denn <hi rendition="#g">er</hi> für Rechte, dieſer<lb/>Bauer, fragt ihn, was <hi rendition="#g">er</hi> für Rechte an mein<lb/>Kind hat!“<lb/>
+            </p>
+            <p> <lb/>Aller Augen hafteten auf Coe's Zügen, über<lb/>die es wie ein elektriſches Licht lief. Er wandte<lb/>ſich halb zu Rolf herum und ſagte dann nach<lb/>einer Pauſe ſehr leiſe und langſam: „Ich fordere<lb/>Deine Tochter für ihre Mutter, die Du in's<lb/>Tollhaus gebracht haſt!“<lb/>
+            </p>
+            <p> <lb/>Die Zuhörer ließen einige unterdrückte Laute<lb/>der Theilnahme vernehmen, der Thierbändiger er-<lb/>blaßte: „Schwarz-Engel im Tollhaus?“ murmelte<lb/>er, indem ſein Kopf ſchwer auf die Bruſt fiel.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0373" n="363" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=373"/>
+            </p>
+            <p> <lb/>Ich erwartete jetzt die Kataſtrophe und ſehnte<lb/>mich einigermaßen nach der unvermeidlichen Häſcher-<lb/>uniform. Aber ich kannte Coe nicht; er war nicht<lb/>der Mann, <hi rendition="#g">Anderen ſeine Sache</hi> zu überlaſſen<lb/>und ſein impulſiv ſicheres Handeln ſchien ſich der<lb/>Menge mit gebietender Ueberzeugung mitzutheilen;<lb/>ſie fragte und zweifelte nicht, ſie fühlte: Coe hat<lb/>Recht! Ohne Weiteres faßte der Bauer den Rolf<lb/>am Kragen und ſagte: „Holen wir ſie!“<lb/>
+            </p>
+            <p> <lb/>Beide Männer verſchwanden im Hintergrunde<lb/>und Menſchen und Thiere wendeten die Köpfe<lb/>der Gegend zu, um womöglich den erſten Anblick<lb/>eines neuen Ereigniſſes zu erhaſchen. Es blieb<lb/>einige Secunden Alles ſtill — dann dröhnten die<lb/>Bretter. Coe, die leichte Geſtalt eines Kindes in<lb/>den Armen haltend, ſprang in einigen großen<lb/>Sätzen mitten durch die Leute, die ihm überraſcht<lb/>Platz machten und verſchwand jenſeits der Leine-<lb/>wand.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0374"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">VI.</hi>
+               
+               <lb/>
+               
+                  <hi rendition="#c #larger">Ende gut, Alles gut.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>„Wenn er Sie betrogen hat, Herr, meine<lb/>Schuld iſt es nicht, Herr, aber fort iſt er, Herr!<lb/>Ich habe ihm nie getraut, ſo wahr ich ehrlich bin,<lb/>und dieſes Blatt hat er dagelaſſen — das iſt<lb/>Alles, Herr!“<lb/>
+            </p>
+            <p> <lb/>Mit dieſen Worten empfing mich ſelben Tages<lb/>mein Diener und reichte mir ein Stück Papier.<lb/>Kaum daß ich es geleſen und dann in's Taſchen-<lb/>buch gelegt hatte, ſo wandte ich mich um, meine<lb/>Wohnung wieder zu verlaſſen. „Ich will hoffen,<lb/>er hat Sie nicht beſchwindelt, Herr!“ rief noch<lb/>die redliche Seele, ich aber war ſchon unten und<lb/>zog an der Thürſchelle des Nachbarhauſes.<lb/>
+            </p>
+            <p> <lb/>„Wie Sie mich erſchrecken!“ rief meine Nach-<lb/>barin und ließ einen Arbeitskorb mit drei bis<lb/>vier Dutzend rollenden und klirrenden Gegen-<lb/>ſtänden zur Erde fallen. „Was iſt Ihnen be-<lb/>gegnet, erzählen Sie, erzählen Sie!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0375" n="365" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=375"/>
+            </p>
+            <p> <lb/>Ich reichte ihr das Papier und ſagte: „Mir<lb/>iſt eben nicht viel begegnet ſeit heute früh, ich<lb/>ließ einen Wilden friſiren, wurde als Mädchen-<lb/>räuber verdächtig, ſah meinen Freund in den Um-<lb/>ſtrickungen einer zwanzig Ellen langen Schlange<lb/>— gemeſſen habe ich ſie freilich nicht! — wohnte<lb/>einer Sitzung der Volksjuſtiz bei und bringe hier<lb/>die Quittung über den Kauf eines Kindes!“<lb/>
+            </p>
+            <p> <lb/>Es kränkt mich wirklich, geſtehen zu müſſen,<lb/>daß meine Nachbarin, wie hübſch und boshaft ſie<lb/>ſein mag, mir nicht glaubte, bis ſie Folgendes<lb/>geleſen hatte: „Ich, Joſeph Napoleon Matuska,<lb/>Profeſſor der höhern Gymnaſtik, beſcheinige in<lb/>Gegenwart der unterfertigten Zeugen, daß der<lb/>hier anweſende Grundbeſitzer Jacobus Poggendiek,<lb/>mir, für den Rückkauf ſeiner Nichte Marietta,<lb/>20 — ſchreibe zwanzig Thaler Courant baar be-<lb/>zahlt hat und ihm die benannte Nichte ohne<lb/>Weiteres ausgeliefert worden iſt, ſo wie ich hier-<lb/>mit allen ferneren Anſprüche an ſelbe, ſich im<lb/>dreizehnten Lebensjahre befindenden Marietta,<lb/>aufgebe.<lb/>
+            </p>
+            <p> <lb/>Unterſchrift der Zeugen:<lb/>
+            </p>
+            <p> <lb/>Odoardo Strumphaaſe, Athlet.<lb/>Philipp Möcker, Miethskutſcher.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0376" n="366" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=376"/>
+            </p>
+            <p> <lb/>Meine kleine Nachbarin riß die Augen ge-<lb/>waltig auf, ſie wollte Alles ganz genau wiſſen<lb/>und deshalb ſchrieb ich die Geſchichte leſerlich auf<lb/>und dachte, ſie ſollte nun zufrieden ſein — aber<lb/>wann wäre eine Frau zufriedengeſtellt? Sie<lb/>wollte durchaus wiſſen, was weiter geſchehen<lb/>wäre; ich bat, ſie möchte Geduld haben; aber ſie<lb/>verſicherte, ſie hätte niemals Geduld. Es wäre<lb/>mir recht ſchlimm ergangen, wenn nicht, Dank<lb/>ſei's den Göttern! meine Nachbarin eben ſo we-<lb/>nig Gedächtniß als Geduld hätte — ſie vergaß<lb/>endlich die Sache und ich hütete mich, ſie daran<lb/>zu erinnern, bis Gras über dieſelbe gewachſen war.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">Nachſchrift.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>„Iſt Jemand dageweſen?“ fragte ich eines<lb/>Tages meinen Bedienten, meinen neuen Bedienten<lb/>nämlich, dem der alte ſchon ſeit fünf bis ſechs<lb/>Jahren gewichen iſt. Mein neuer Bedienter iſt<lb/>ein ſehr ernſthafter Mann, und mit ſehr ernſthaf-<lb/>tem Tone beantwortete er auch diesmal meine<lb/>Frage:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0377" n="367" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=377"/>
+            </p>
+            <p> <lb/>„Es war eine junge Dame hier; ſie will um<lb/>fünf Uhr wiederkommen!“<lb/>
+            </p>
+            <p> <lb/>„Eine junge Dame bei mir? Ohne Beglei-<lb/>tung?“<lb/>
+            </p>
+            <p> <lb/>„Zu dienen; aber in Begleitung, ſie kam mit<lb/>ihrem Bräutigam!“<lb/>
+            </p>
+            <p> <lb/>„Immer beſſer — das kann keine Dame ge-<lb/>weſen ſein — vielleicht Hülfsbedürftige — ver-<lb/>ſchämte Bettler!“<lb/>
+            </p>
+            <p> <lb/>„Nein, zu dienen, keineswegs, ſie wollten im<lb/>Gegentheil ein Geſchenk bringen!“<lb/>
+            </p>
+            <p> <lb/>Sonderbar — nicht verſchämt — im Gegen-<lb/>theil — junge Dame! Ich grübelte, ging auf und<lb/>nieder, ſah mein Spiegelbild an, bis es endlich<lb/>fünf ſchlug. Nicht lange darauf leichte Schritte<lb/>auf der Treppe — jetzt auch ſchwere, auf länd-<lb/>liche Nägelſchuhe deutend. Die leichten ſpringen<lb/>doppelt, ſie ſcheinen auf jeder Stufe ein Solo zu<lb/>tanzen, die eiſernen Abſätze ſtampfen tactgemäß<lb/>weiter.<lb/>
+            </p>
+            <p> <lb/>„Herein!“<lb/>
+            </p>
+            <p> <lb/>Ein rieſiger, muskulöſer Mann mit freund-<lb/>lichen Kinderaugen, in glänzend neues Tuch ge-<lb/>kleidet, ſteht, den Kopf etwas geſenkt, auf der<lb/>Schwelle und arbeitet ein großes, wuchtiges Paquet<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0378" n="368" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=378"/>
+            </p>
+            <p> <lb/>unter ſeinem Arm hervor. Neben ſeinem Ellbogen<lb/>erſcheinen jetzt zwei blitzende, neugierige ſchwarze<lb/>Augen und gleich darauf gleitet die Beſitzerin der-<lb/>ſelben durch den ſchmalen, freien Raum, nähert<lb/>ſich mir mit ein paar elaſtiſchen Bewegungen,<lb/>wirft zwei dicke braune Zöpfe in den Nacken und<lb/>ſagt mit lachenden rothen Lippen: „Der Ohm läßt<lb/>ſchön grüßen, er hat nichts vergeſſen und ſchickt<lb/>dieſes Stück flächſen Leinen für die Haushal-<lb/>tung!“<lb/>
+            </p>
+            <p> <lb/>Der Rieſe ſtreckte ſeine breite Hand gleichfalls<lb/>nach mir aus und erklärte: „Wir ſind die Ohm-<lb/>ſager von Poggendiek!“<lb/>
+            </p>
+            <p> <lb/>Als ich meine Ueberraſchung zu erkennen gab,<lb/>begleitete das Mädchen meine Begrüßungen mit<lb/>mehreren Freudenſprüngen. Mir iſt nie ein elfen-<lb/>hafteres Menſchenkind vorgekommen, als ſie es<lb/>war. Die großen, wanderluſtigen Augen, der dünne,<lb/>leichte Bau der Geſtalt, die komiſche Behendigkeit!<lb/>Wenn jeder, auch der leichteſte Gemüthseindruck<lb/>den jungen Poggendiek bis unter die Haarwur-<lb/>zeln erröthen machte, ſo zog bei Marie Angela<lb/>Alles direct in die Füße. Ein originelleres, natur-<lb/>wüchſigeres Paar iſt mir lange nicht vorgekom-<lb/>men; ſie waren ſo verſtändig, wenigſtens er, und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0379" n="369" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=379"/>
+            </p>
+            <p> <lb/>doch nur große Kinder, er ſogar <hi rendition="#g">ſehr</hi> groß!<lb/>Meine Leutchen wurden nun von meinem feier-<lb/>lichen Diener mit Erfriſchungen verſehen, während<lb/>ſie mir aus der Heimath berichten mußten. Es<lb/>ging nicht ſo eigentlich überſichtlich zu mit dieſen<lb/>Darſtellungen; ich erfuhr aber doch, daß der Ohm<lb/>wohlauf ſei, daß Schwarz-Engel in Hildesheim<lb/>als geheilt entlaſſen, ſtill und ſchweigſam, aber<lb/>heiter und gottesfürchtig — dieſen Zuſatz machte<lb/>
+               <hi rendition="#g">er</hi>! — bei ihnen <hi rendition="#g">lebe</hi>; daß der Poggendiek-Hof<lb/>ein neues, ſtattliches Gebäude erhalten habe mit<lb/>einer grünen Stube, großen Fenſterſcheiben, Fenſter-<lb/>gardinen — dieſen Zuſatz machte <hi rendition="#g">ſie</hi> — „einem<lb/>Blumengärtchen, das unſerer Mutter gehört,“ be-<lb/>merkte <hi rendition="#g">er</hi>, erröthend! — „Pferd und Wagen,<lb/>Knecht und Magd, wir brauchen vor Niemand<lb/>roth zu werden!“ ſagte <hi rendition="#g">ſie</hi>.<lb/>
+            </p>
+            <p> <lb/>Der kleine Schmetterling ſchien alſo Alles mit<lb/>ſeinem Flügelſtaub vergoldet und übertüncht zu<lb/>haben, ſie konnten Beide nicht ſatt werden in der<lb/>Beſchreibung aller Poggenhofherrlichkeit — es iſt<lb/>wunderbar, wie der Menſch mit dem verwächſt,<lb/>was er werden ſieht und geſtalten hilft!<lb/>
+            </p>
+            <p> <lb/>Ich trachtete jetzt zu erfahren, wie die Beiden<lb/>zu einander ſtänden, und leugne nicht, der junge<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0380" n="370" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=380"/>
+            </p>
+            <p> <lb/>Hüne ſchien mir nicht eben geſchaffen, die Queck-<lb/>ſilbernatur Marie-Angela's in die nöthigen Schran-<lb/>ken zu verweiſen.<lb/>
+            </p>
+            <p> <lb/>„Studiren Sie noch fleißig, Poggendiek?“<lb/>fragte ich meinen Gaſt.<lb/>
+            </p>
+            <p> <lb/>„Nicht viel mehr,“ war die Antwort; „ſeit<lb/>beſtimmt iſt, daß ich Marie-Angela heirathe, ſeit-<lb/>dem gehe ich regelmäßig mit den Knechten auf<lb/>den Acker und in’s Korn!“<lb/>
+            </p>
+            <p> <lb/>„O, er weiß genug,“ rief die Kleine und be-<lb/>ſchrieb mit der rechten Fußſpitze einen großen<lb/>Kreis. „Alles, was ich weiß, hat er mich gelehrt:<lb/>Leſen, Schreiben, Rechnen, ach, das Rechnen iſt<lb/>ſehr ſchwer! — und von den Ländern und Flüſſen<lb/>und von Kaiſer Karl dem Großen — (ihre Füße<lb/>bewegten ſich zu einer Kniebeugung) und von den<lb/>Sternen am Himmel — er weiß Alles auf's Haar<lb/>und wie ein Doctor — nur das Tanzen, das<lb/>habe ich ihn gelehrt, Sie glauben nicht, Herr,<lb/>wie gut er es ſchon macht! Aber Gerhard,“ unter-<lb/>brach ſie ſich und ſprang auf die Füße, „Du haſt<lb/>ja nicht geſagt, weshalb wir die Reiſe gemacht<lb/>haben! Ich bekam einen Brief, Herr, mein Va-<lb/>ter läge zum Sterben und er wollte mich nochmal<lb/>ſehen, ſo mußte natürlich doch mein Bräutigam<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0381" n="371" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=381"/>
+            </p>
+            <p> <lb/>mich auf der Reiſe beſchützen, und mein Vater<lb/>iſt denn auch wirklich geſtorben!“ — Sie erheu-<lb/>chelte keine Trauer, ihre Fußſpitze bewegte ſich<lb/>nur langſam nach rechts und links, wie um die<lb/>Pendelbewegung einer Uhr anzudeuten.<lb/>
+            </p>
+            <p> <lb/>Gerhard war für die Unbefangenheit dieſer<lb/>Mittheilung, die mehr wahr als warm war, wie-<lb/>der erröthet: „Angela hatte keine ſchwarzen Klei-<lb/>der mitgenommen,“ ſagte er, „wenn wir zu Haus<lb/>ſind, wird ſie um ihren Vater trauern!“ —<lb/>
+            </p>
+            <p> <lb/>„O bitte, laß mich nicht trauern!“ rief Angela,<lb/>„mein Vater —“ Ihre feuchten Augen begegne-<lb/>ten dem mahnenden Ausdruck der ſeinigen und ſie<lb/>ſchluckte die biographiſche Andeutung über ihren<lb/>Vater hinunter. Ich erwartete einen kleinen Liebes-<lb/>ſtreit. Aber Gerhard ſagte beſtimmt, jedoch voll-<lb/>kommen freundlich:<lb/>
+            </p>
+            <p> <lb/>„Marie Angela wird, wie es Brauch iſt, um<lb/>ihren Vater trauern!“<lb/>
+            </p>
+            <p> <lb/>Jetzt tremulirte auch der linke Fuß, ich wagte<lb/>es nicht, ſie anzuſehen, und freute mich doch, daß<lb/>Gerhard ſo viel von der beſtimmten Ausdrucks-<lb/>weiſe ſeines Ohms gelernt hatte.<lb/>
+            </p>
+            <p> <lb/>„Ein ganzes Jahr?“ rief die Kleine und ſchlug,<lb/>wie entſetzt, die dünnen Hände zuſammen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0382" n="372" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=382"/>
+            </p>
+            <p> <lb/>Ueber Gerhard's Stirn und Augen ſenkte ſich<lb/>ein ernſtes, tiefliebevolles Lächeln herab. Obwohl<lb/>er übrigens unbeweglich blieb, drückte dieſes Lä-<lb/>cheln in vollem Maße nicht nur ſeine ruhige Ueber-<lb/>legenheit, ſondern die Zartheit ſeines Verſtänd-<lb/>niſſes aus. „Ein halbes Jahr wird wohl genug<lb/>ſein!“ ſagte er.<lb/>
+            </p>
+            <p> <lb/>„O, das iſt gut, Gerhard,“ jubelte ſie, „das<lb/>iſt gut! Weißt Du, Gerhard, wenn Gott den Ohm<lb/>von uns ruft“ (ihre Füße wurden ruhig und ihre<lb/>Stimme bebte), „da werde ich von ſelbſt ein Jahr<lb/>und zwölf Wochen, wie um einen Vater, trauern!“<lb/>
+            </p>
+            <p> <lb/>Als Gerhard und ſeine Braut gingen, da dachte<lb/>ich mir den Poggenhof wie in lauter Sonnen-<lb/>ſchein, beglückt und vom Banne entzaubert.<lb/>
+            </p>
+            <p> <lb/>Meine Nachbarin fand die Leinwand ſehr gut;<lb/>von der Moral ſagte ſie nichts, als ſie meine<lb/>Nachſchrift geleſen hatte.<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Ende<lb/>
+            </p>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

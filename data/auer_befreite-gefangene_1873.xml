@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Befreite Gefangene!</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">auer_befreite-gefangene_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Auer: Befreite Gefangene!, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Befreite Gefangene!</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>A. H. Payne</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Der Salon für Literatur, Kunst und Gesellschaft</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 1409-1438</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787</idno><idno type="shelfmark">Shelfmark: Per. 177 l-1873,2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="1410" cert="low"><sic>Raiſonnemens</sic><corr>Raiſonnements</corr></choice><choice corresp="1411"><sic>Fenſterbreter</sic><corr>Fenſterbretter</corr></choice><choice corresp="1416"><sic>Erſchütteruug</sic><corr>Erſchütterung</corr></choice><choice corresp="1426"><sic>Eigennutz liegt klar</sic><corr>Eigennutz liegen klar</corr></choice><choice corresp="1426" cert="low"><sic>Hartwig’s Falſchheit</sic><corr>Heinrich’s Falſchheit</corr></choice><choice corresp="1426" cert="low"><sic>Hartwig’s Entſchlüſſen</sic><corr>Heinrich’s Entſchlüſſen</corr></choice><choice corresp="1427" cert="low"><sic>Hartwig hat</sic><corr>Heinrich hat</corr></choice><choice corresp="1427" cert="low"><sic>O, lieben Kinder,</sic><corr>O, liebe Kinder,</corr></choice><choice corresp="1430"><sic>erwuchs ſie"</sic><corr>erwuchs ſie.“</corr></choice><choice corresp="1431"><sic>damas</sic><corr>damals</corr></choice><choice corresp="1432"><sic>führen Daß</sic><corr>führen. Daß</corr></choice><choice corresp="1432"><sic>es gemußt</sic><corr>es gewußt</corr></choice><choice corresp="1437" cert="low"><sic>träumte ſie!</sic><corr>träumte ſie?</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Befreite Gefangene</titlePart>
+         </docTitle>
+         <docAuthor>Auer, Adelheid von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0727" n="1409" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=727"/>
+            </p>
+            <p> <lb/>Der Salon.<lb/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">Befreite Gefangene.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>Novelle von <hi rendition="#g">Adelheid von Auer</hi>.<lb/>
+            </p>
+            <p> <lb/>Es iſt ein hübſches freundliches Häuschen, ein paar hundert Schritt<lb/>außerhalb des Städtchens Seewalde gelegen, das Frau Emilie Maien<lb/>bewohnt. Sie iſt die Wittwe eines früher im Ort angeſtellten Beamten,<lb/>der Haus und Garten außerhalb der Stadt gekauft, da ſeine amtliche<lb/>Thätigkeit ſich ſehr gut mit der Lage ſeiner Wohnung vereinbaren ließ<lb/>und die Ruhe und Stille der Umgebung ihm, der außerdem ein Freund<lb/>und Jünger der Muſen war, gerade ſo recht zuſagte. Er hatte hübſche<lb/>Sachen geſchrieben. Der Name, unter dem er ſeine Perſon verhüllte,<lb/>bezeichnet zwar nicht einen Koriphäen der Literatur, hat aber dennoch<lb/>einen guten Klang und erfreut ſich großer Beliebtheit bei allen Denen,<lb/>die ſich lieber durch tiefes, warmes Seelenverſtändniß, feine Charakter-<lb/>ſchilderung feſſeln als durch Anhäufung wunderbarer Begebenheiten und<lb/>Löſung ſchwerer Conflicte unterhalten laſſen. Die helle Seite des Lebens<lb/>war ihm zugänglicher geweſen als die Nachtſeite, und vielleicht war es<lb/>die Rückwirkung dieſer innerlichen Harmonie, die, während ſie ihn den<lb/>Seinigen unvergeßlich machte, zugleich in der Erinnerung an ſein be-<lb/>glücktes und beglückendes Daſein einen Quell ſüßen Troſtes hinterließ.<lb/>
+            </p>
+            <p> <lb/>Nun war er ſchon ſeit ſechs Jahren todt, und die Wittwe, deren<lb/>Töchter fern von Seewalde verheirathet, deren Söhne längſt dem Va-<lb/>terhauſe entwachſen waren, hatte eine arme Verwandte zu ſich genommen,<lb/>um nicht ganz allein in dem Häuschen zu ſein, von dem zu trennen ſie<lb/>ſich doch wieder nicht entſchließen konnte.<lb/>
+            </p>
+            <p> <lb/>Als die Stätte vergangenen Glücks war es ihr unendlich theuer.<lb/>Sie hatte weder innere noch äußerliche Gründe ſich des Grundſtücks zu<lb/>entäußern, da ſie zu geſund dachte den Schauplatz ihres Glücks fliehen<lb/>zu wollen, und in zu guter Lage war, es thun zu müſſen.<lb/>
+            </p>
+            <p> <lb/>Sie hatte ihre Eltern verloren, ehe ſie noch verheirathet war, und<lb/>hatte dann bis zuletzt genanntem Zeitpunkt ihrem wol um zehn Jahre<lb/>ältern Bruder Haus gehalten, der das Baufach ſtudirt und die erſten<lb/>Erfolge in ſeinem Fach in der heimatlichen Vaterſtadt errang. Sein<lb/>Sinn ſtand aber nach einem größern Ort und erweitertem Wirkungs-<lb/>kreis, und als Emilie heirathete und ihrem Manne nach Seewalde<lb/>folgte, ſchlug er ſein Domicil in Dresden auf, wo er, da er wirklich ge-<lb/>nial in ſeinen Entwürfen war und dieſelben ſtets auf’s Solideſte aus-<lb/>führte, ſich bald den Ruf eines ſehr begabten Künſtlers und reellen<lb/>Mannes erwarb, Arbeit vollauf hatte, und bei ſeinen einfachen Anſprü-<lb/>chen und Gewohnheiten ſein urſprünglich mäßiges Vermögen bedeutend<lb/>vergrößerte. Nach Seewalde kam er nur ſelten, ſeine Geſchäfte ließen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0728" n="1410" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=728"/>
+            </p>
+            <p> <lb/>es nicht anders zu; er ſchrieb noch ſeltener, und ſo wurde das geſchwiſter-<lb/>liche Band allmälig lockerer, wenigſtens äußerlich.<lb/>
+            </p>
+            <p> <lb/>Emilie hing ſehr an dem Bruder und ſein allmäliges Loslaſſen<lb/>warf doch einen kleinen Schatten auf ihr Glück. Der Schatten wurde<lb/>tiefer, als er ihr plötzlich einmal mittheilte, daß er von Dresden fort<lb/>mit einem ruſſiſchen Fürſten auf deſſen Herrſchaft bei Petersburg gehen<lb/>würde, ihm dort ein neues Schloß zu erbauen. Dieſer habe ihm glän-<lb/>zende Ausſichten auch für Petersburg eröffnet, er werde ja ſehen wie es<lb/>damit ſtehe, und da er ganz frei in der Welt ſei, würde ihn nichts hin-<lb/>dern dort zu bleiben wenn es ihm gefiele und die ihm eröffneten Aus-<lb/>ſichten ſich beſtätigten.<lb/>
+            </p>
+            <p> <lb/>„Ich werde nicht Zeit haben Dich vorher zu ſehen. Bin ich an<lb/>Ort und Stelle angekommen, ſo wirſt Du mehr von mir hören“, ſchloß<lb/>der Brief.<lb/>
+            </p>
+            <p> <lb/>Frau Emilie gab ihn ſchweigend ihrem Manne, der ihn durchlas<lb/>und anſtatt eines Raiſonnemens darüber, ihn der Frau mit einem herz-<lb/>lichen Händedruck zurückgab.<lb/>
+            </p>
+            <p> <lb/>Sie verſtand, was er damit ſagen wollte. Dieſer Entſchluß ihres<lb/>Bruders, die kühle, faſt liebloſe Art ſeines abſchiedloſen Fortgehens,<lb/>machte gleichſam einen Strich unter einem glücklichen, nun vergeſſenen<lb/>Abſchnitt ihres Lebens. Das Bild des Bruders trat in den Hinter-<lb/>grund. Wenn ſie an ihn dachte, geſchah es im Zuſammenhang mit der<lb/>Kindheit, dann mit jener Zeit, in der ſie, das junge friſche Mädchen,<lb/>mit hausmütterlicher Sorge ihm ein Daheim geſchaffen, in dem ſie ſeine<lb/>künſtleriſchen Intereſſen getheilt, mit warmem Verſtändniß ſein Vor-<lb/>wärtsſchreiten auf der eingeſchlagenen Bahn überwacht hatte. Damit<lb/>ſchloß ſie ab. Für ſeine fernere Entwickelung fehlte ihr der Schlüſſel,<lb/>und ſein Fortgehen in die Ferne, dieſe unabſehbar ſcheinende Trennung<lb/>ohne Abſchied, löſte den Zuſammenhang noch mehr.<lb/>
+            </p>
+            <p> <lb/>Er hielt Wort; er ſchrieb als er am Ort ſeiner Beſtimmung an-<lb/>gekommen, ſchrieb ſpäter, als er ſeine Aufgabe erfüllt, daß ihm von Pe-<lb/>tersburg weitere Offerten gemacht, daß ſein Aufenthalt ſich wol länger<lb/>als er gedacht ausdehnen könne. Es wurden fünfzehn Jahre daraus,<lb/>deren jedes einen Brief brachte, der, wenn auch nichts weiter, ſo doch<lb/>ein Lebenszeichen enthielt. Sie hatte es ſchon aufgegeben ihn jemals<lb/>zurückkehren zu ſehen. Da trat eines Tages ein alter Herr unange-<lb/>meldet in ihr Zimmer, warf den Pelz, der ihn verhüllte, ab, und ſagte:<lb/>
+            </p>
+            <p> <lb/>„Da bin ich wieder, Emilie, willſt Du mich einſtweilen aufnehmen?<lb/>Ich ſtehe ganz allein in der Welt, und möchte mir nicht von dem Erſten<lb/>Beſten die Augen zudrücken laſſen; da ſehe ich einmal nach, ob ich im<lb/>Nothfall auf Dich rechnen kann.“<lb/>
+            </p>
+            <p> <lb/>Lachend und weinend hing ſie an ſeinem Halſe.<lb/>
+            </p>
+            <p> <lb/>„Zudrücken will ich Dir die Augen noch lange nicht“, ſagte ſie,<lb/>„aber mich freuen an dem guten, alten, treuen, ehrlichen Blick. Du<lb/>weißt, ich habe immer geſagt, Du haſt Augen wie mein Caro —“<lb/>
+            </p>
+            <p> <lb/>„Und Du haſt ſein treues Herz“, unterbrach er ſie lächelnd, „darum<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0729" n="1411" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=729"/>
+            </p>
+            <p> <lb/>habe ich auch an daſſelbe geglaubt, und kehre zu Dir zurück, wenn ich<lb/>auch mit dem übrigen Menſchenpack ſo ziemlich abgeſchloſſen habe.“<lb/>
+            </p>
+            <p> <lb/>„O weshalb?" ſagte ſie bedauernd, „ſind in Rußland die Menſchen<lb/>ſo ſchlecht, daß Du zu dem traurigen Reſultat gekommen biſt?“<lb/>
+            </p>
+            <p> <lb/>„Zu dem war ich ſchon gekommen, ehe ich dorthin ging", entgeg-<lb/>nete er, „ich habe dort keine anderen, als geſchäftliche Beziehungen ange-<lb/>knüpft, die ſind am leichteſten zu löſen, man weiß auch gleich, daß es da-<lb/>bei auf den gegenſeitigen Vortheil hinaus läuft, auf nichts weiter, daß<lb/>man ſich vor Spitzbuben wehren muß und Dank nicht zu verlangen hat.“<lb/>
+            </p>
+            <p> <lb/>Frau Emilie ſah ihn kopfſchüttelnd an.<lb/>
+            </p>
+            <p> <lb/>Sie hatte wie ihr Mann ein heiteres, friſches Naturell, und ſelbſt<lb/>Dinge, die ernſt waren und die ſie auch ernſt nahm, hatten einen andern<lb/>Einfluß auf ihre Empfindungen, als durch den Druck, den ſie ausübten,<lb/>die Elaſticität jener nur recht an’s Licht zu ziehen.<lb/>
+            </p>
+            <p> <lb/>„Ich denke, ich werde Dir die Augen vorläufig nicht zudrücken,<lb/>ſondern öffnen“, entgegnete ſie auf ſeine letzte Bemerkung.<lb/>
+            </p>
+            <p> <lb/>„Thu’s, wenn Du kannſt, verſuch’s an mir herum zu beſſern“, be-<lb/>merkte er, durch ihre friſche Weiſe angeregt, in freundlichem Ton.<lb/>
+            </p>
+            <p> <lb/>„Beſſern! Gott bewahre!" rief ſie aus, „davon habe ich nie viel<lb/>gehalten. Fege jeder vor ſeiner Thür."<lb/>
+            </p>
+            <p> <lb/>Couſine Jettchen trat ein; das Geſpräch wurde in andere Bahnen<lb/>gelenkt. Frau Emilie verſtand es wol, die Leute reden zu machen und<lb/>etwa eintretende Lücken füllte Jettchen mit Fragen aus. Nach ihrer<lb/>Meinung liefen die Bären in Petersburg auf der Straße umher und<lb/>der Athem der Menſchen fror zu Eisſtückchen.<lb/>
+            </p>
+            <p> <lb/>Obgleich an Schweigſamkeit gewöhnt, ließ der Baurath ſich doch<lb/>herbei, mancherlei zu erzählen. Er hatte Glück gehabt mit dem Schloß<lb/>des Fürſten und das Gebäude war nicht das einzige geblieben, das er<lb/>errichtet. „Schlöſſer, Häuſer und Villen hat er gebaut und für ſich<lb/>nicht einmal ein Hüttchen“, dachte Frau Emilie und über ihr freundliches<lb/>Geſicht flog ein Schatten der Wehmuth.<lb/>
+            </p>
+            <p> <lb/>Mehrere Tage ſchon war Heinrich bei der Schweſter, das alte Band<lb/>war wieder zuſammengeknüpft, aber erſt an der Stelle, wo mit ihrer<lb/>Heirath ihr Zuſammenleben aufgehört hatte. Von da bis zu ſeiner ruſ-<lb/>ſiſchen Expedition blieb eine unausgefüllte Lücke. Da hinein ſchob<lb/>Emilie den Grund ſeiner Wandlung, von der ſie das Reſultat, aber<lb/>nicht das Motiv kannte. Sie war überzeugt, daß ganz beſondere Er-<lb/>lebniſſe dieſe offene vertrauende Seele mit Menſchenverachtung und<lb/>Mißtrauen erfüllt haben mußten. Sie ſchüttelte den Kopf dazu.<lb/>
+            </p>
+            <p> <lb/>Die Geſchwiſter waren allein mit einander. Die Sonne ſchien<lb/>hell in’s Zimmer, die Fenſterbreter waren mit Frühlingsblumen be-<lb/>ſetzt und ihr Duft miſchte ſich mit dem Aroma des Kaffees, den Frau<lb/>Emilie mit hausmütterlicher Sorgfalt ſelbſt bereitete. Sie ſah aus wie<lb/>das Bild der Behaglichkeit. Ihr ſchwarzes Haar noch gar nicht von<lb/>Grau untermiſcht, lag glatt geſcheitelt unter der vollen Rüſche der ein-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0730" n="1412" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=730"/>
+            </p>
+            <p> <lb/>fachen Haube, Kragen und Manſchetten und die weite lange Latzſchürze<lb/>waren von tadelloſer Weiße.<lb/>
+            </p>
+            <p> <lb/>Sie trug nichts Anderes mehr als ſchwarze und graue Kleider,<lb/>und das, was ſie anhatte, war von feinem Wollenſtoff und der Schnitt<lb/>einfach, ohne alle Zuthaten der üppigen Modethorheiten der heutigen<lb/>Zeit. Appetitlich und ſauber von Kopf bis zu Füßen, mit ihrer ſtillen<lb/>Geſchäftigkeit und der freundlichen Güte in ihrem Geſicht, war ihr An-<lb/>blick eben ſo Vertrauen erweckend für ſie ſelber, als für die Häuslichkeit,<lb/>der ſie vorſtand.<lb/>
+            </p>
+            <p> <lb/>Heinrich ſaß im Lehnſtuhl, ſie unmerklich beobachtend, während er<lb/>doch ganz in Betrachtung der Ringe verloren ſchien, die durch den ſeiner<lb/>Cigarre entſtrömenden Rauch gebildet wurden.<lb/>
+            </p>
+            <p> <lb/>„Wir könnten eigentlich bei einander bleiben, Heinrich“, ſagte ſie auf<lb/>einmal.<lb/>
+            </p>
+            <p> <lb/>„Das habe ich längſt gedacht“, entgegnete er, „wir ſuchen uns<lb/>irgendwo in der Welt ein Plätzchen aus“, fuhr er fort.<lb/>
+            </p>
+            <p> <lb/>„Erſt ſuchen?“ wiederholte ſie erſtaunt, „ich hab’s.“<lb/>
+            </p>
+            <p> <lb/>„Das iſt nicht, was ich meine“, entgegnete er, „wenn man mit den<lb/>Menſchen ſo ziemlich fertig iſt, flüchtet man zur Natur, und <hi rendition="#aq">die</hi> iſt hier<lb/>zu dürr und öde."<lb/>
+            </p>
+            <p> <lb/>„Freilich“, ſagte ſie halb traurig, „es mag ſchönere Wälder geben<lb/>als der Kiefernwald da draußen, ich habe ihn dennoch ſehr lieb, und<lb/>der blaue See, den Du aus meines Mannes Stube ſehen kannſt, o, der<lb/>iſt ſchön mit dem Schilf am Ufer und den ſtillen Lotosblumen auf ſeiner<lb/>klaren Fläche. Ich gebe Dir das Zimmer meines Mannes. Es liegt<lb/>ganz abgelegen im Giebel, der Flieder blüht Dir da faſt bis in’s Fenſter<lb/>hinein. Ach, wie viel ſchöne Gedanken ſind in dem Zimmer geboren,<lb/>wie viel hübſche Geſchichten, die vielen Menſchen Freude gemacht haben!"<lb/>
+            </p>
+            <p> <lb/>„Ich will mich nicht in Deutſchland niederlaſſen“, ſagte er.<lb/>
+            </p>
+            <p> <lb/>„Bleibe im Lande und nähre Dich redlich“, ermahnte ſie, „man<lb/>kann’s auch in unſerer ſandigen Mark; redlich, ſelbſt gut wie Figura<lb/>zeigt“, ſetzte ſie, auf ihre volle kleine Figur deutend, ſcherzend hinzu.<lb/>
+            </p>
+            <p> <lb/>„Ich will Ruhe und Einſamkeit!“ ſagte er mit Nachdruck, „mich<lb/>ſchaudert, wenn ich an die kleine Stadt, an die neugierigen alten Weiber,<lb/>an die Thee- und Kaffeekränzchen mit ihrem Klatſch denke.“<lb/>
+            </p>
+            <p> <lb/>„Ruhe iſt überall, wenn man ſie innerlich hat“, entgegnete ſie,<lb/>„Einſamkeit iſt ein ſchön Ding, wenn man ſie ſich wünſcht, ein ſchlimmes,<lb/>wenn man nichts Anderes hat als ſie, und neugierig ſind die alten<lb/>Männer meiſt eben ſo wie die Weiber. Thee- und Kaffeekränzchen halte<lb/>ich übrigens nicht mit, aber mit guten Bekannten halte ich zuſammen,<lb/>und meines Nächſten Leid und Freude gehört mit zu meinem Leben.“<lb/>
+            </p>
+            <p> <lb/>„Wie eine Frau gedacht“, bemerkte er. „Mit der Nächſtenliebe<lb/>in’s Weite gegangen und das Nächſte überſehen. Der Nachbarn Leid<lb/>und Freude geht Dich an, für ſie hafteſt Du an der Scholle, den Bruder<lb/>überläßt Du ſeiner Einſamkeit."<lb/>
+            </p>
+            <p> <lb/>„Ich habe in dieſem Hauſe viele Jahre einer glücklichen Ehe ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0731" n="1413" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=731"/>
+            </p>
+            <p> <lb/>lebt“, begann Emilie, „meine Kinder ſind hier geboren, es iſt der Sam-<lb/>melplatz für ſie und die Enkel geblieben und geworden. Ich habe hier<lb/>den ſchwerſten Verluſt meines Lebens tragen müſſen, hier in dieſen ſelben<lb/>trauten Räumen wuchs endlich die Erinnerung an mein Glück über das<lb/>Unglück hinaus. Ich bin hier feſtgewurzelt, Du ſuchſt erſt nach Grund<lb/>und Boden unter Deinen Füßen. Es iſt Naturgeſetz, daß ſich das Loſe<lb/>an’s Feſte heftet.“<lb/>
+            </p>
+            <p> <lb/>„Gut, ſo bleibe angekettet“, ſagte er, „ich brauche Freiheit.“<lb/>
+            </p>
+            <p> <lb/>„Es muß Jeder auf ſeine Weiſe dahin zu gelangen ſuchen“, ent-<lb/>gegnete ſie.<lb/>
+            </p>
+            <p> <lb/>„Wir wollen über den Gedanken des Zuſammenbleibens nicht ſo<lb/>raſch aburtheilen und entſcheiden", begann er nach einer Weile auf’s<lb/>Neue. „Ich will Dich auch nicht dazu überreden mir auf meinem Wege<lb/>nachzugehen, da er unbedingt in die Einſamkeit führt. Ich mag mit den<lb/>Menſchen nichts mehr zu theilen haben und Du haſt an jedem Finger<lb/>ein halb Dutzend Freundinnen und gute Bekannte, die Dich benutzen ſo<lb/>lange es ihnen paßt und Dich ohne Beſinnen verlaſſen würden, wenn<lb/>ſie Deiner nicht mehr bedürfen."<lb/>
+            </p>
+            <p> <lb/>„Nun, irgend Jemand wird doch wol übrig bleiben, der meiner<lb/>bedarf“ entgegnete ſie freundlich.<lb/>
+            </p>
+            <p> <lb/>Ihre Antwort frappirte ihn. „Irgend Jemand" — wiederholte<lb/>er nachdenklich, „vielleicht ich. Hilf mir wenigſtens ein Plätzchen für<lb/>mich aufſuchen. Nach der kalten Pracht des Nordens ſehne ich mich nach<lb/>wärmeren Farbentönen, nach üppiger Vegetation, nach dem weichen Luft-<lb/>hauch des Südens. Ich denke mich in irgend einem Thal der Schweiz,<lb/>dieſem Eldorado der Schönheit, für einige Zeit niederzulaſſen, komm mit!“<lb/>
+            </p>
+            <p> <lb/>Sie ſann nach. „Wenn man über die Vierzig hinaus, iſt die Reiſe-<lb/>luſt nur mäßig. Sollte denn die Schweiz wirklich ſo viel ſchöner ſein<lb/>als mein immer grüner Kiefernwald, und der See mit ſeinen Waſſer-<lb/>roſen?“ dachte ſie. „Aber ich thu’s ja nicht für mich, ich erfülle ihm<lb/>eine Bitte", war ihr zweiter Gedanke.<lb/>
+            </p>
+            <p> <lb/>Die Reiſe wurde beſchloſſen.<lb/>
+            </p>
+            <p> <lb/>Jettchen ſchlug die Hände über dem Kopf zuſammen.<lb/>
+            </p>
+            <p> <lb/>„Bald fünfzig und ein ſolches Unternehmen!“ rief ſie. „Das iſt<lb/>Thorheit. Wie willſt Du auf die Alpen kommen?“<lb/>
+            </p>
+            <p> <lb/>„Wenn nicht mit den Füßen, ſo mit den Augen“, erklärte Emilie.<lb/>„Mein Mann iſt auch in der Schweiz geweſen, als junger Burſch",<lb/>fuhr ſie fort, „ich kenne manch’ liebliches Bild von daher aus ſeinen<lb/>Liedern. Ich meine, auch Du warſt ſchon einmal dort“, wendete ſie ſich<lb/>an den Bruder.<lb/>
+            </p>
+            <p> <lb/>„Ja", beſtätigte dieſer. „Aber ich kenne nur das Engadin, die Ju-<lb/>gend zieht das ſchaurig Romantiſche der lachenden Schönheit der Welt<lb/>vor. Es drängt Alles zum Contraſt. Heutzutage möchte ich mich lieber<lb/>in die lachenden Thäler zurückziehen.“<lb/>
+            </p>
+            <p> <lb/>Er verſank in tiefe Gedanken. Dann ſagte er nach einer Weile:<lb/>
+            </p>
+            <p> <lb/>„Wunderſchön iſt das Hochalpenthal des obern Engadin, wunder-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0732" n="1414" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=732"/>
+            </p>
+            <p> <lb/>ſchön in ſeiner ſtarren Majeſtät und faſt Furcht erweckenden Schönheit.<lb/>In rieſigen Umriſſen zeichnen ſich da herum die Berge vom Horizont<lb/>ab, weit über die Wolken hinaus leuchtet der Schnee auf den Gipfeln.<lb/>Arve und Lärchenbäume ſchmücken die Abhänge mit ihrem dunklen Grün,<lb/>die Luft iſt durchſichtig klar, und tiefblau wölbt ſich der Himmel über<lb/>Matten, Seen und Felſenklüfte, über ſtattliche Häuſer und kleine enge<lb/>Hütten. Ich ſehe die eine noch vor mir“, fuhr er, unwillkürlich in den<lb/>Ton des Erzählens gerathend, fort.<lb/>
+            </p>
+            <p> <lb/>„Wie ein Schwalbenneſt klebte ſie an der kahlen Felswand, da-<lb/>neben das Stückchen Kartoffelacker, das den Bewohnern der Hütte<lb/>kümmerliche Nahrung gab, daneben das Blumenbeet, das Freude in ihr<lb/>Daſein brachte. Darüber hinweg hing die Bergkuppe in gefahrdro-<lb/>hender Nähe. Löſte ſich das Stück Felſen, ſo mußte es ohne Rettung<lb/>die Hütte mit ſammt der kleinen Anpflanzung, mit ſammt den Bewoh-<lb/>nern vielleicht in den Abgrund ſtürzen. Aber der alte Mann, der drinnen<lb/>wohnte, kannte den Bergabhang ſchon von ſeinen Kinderjahren her.<lb/>Und wie oft ſah ich von den Fenſtern meines Hotels aus, oder bei<lb/>meinen Wanderungen in den Felſen, ſeinen Enkel, den ſchwarzäugigen,<lb/>ſchwarzgelockten, wunderhübſchen Buben, keck da hinaufklettern, ohne daß<lb/>es ihm je einfiel, der Felſen könne auch wol zu ihm herunter kommen.<lb/>Ich ſprach einſt mit dem Alten darüber.“<lb/>
+            </p>
+            <p> <lb/>„„Ja, wenn der kommt, dann ſorgt er zugleich für Tod und Be-<lb/>gräbniß“, ſagte er ſorglos, „kommen wird er wol ’mal, gleichviel, ob er<lb/>mich trifft oder einen andern, ſterben müſſen wir Alle."<lb/>
+            </p>
+            <p> <lb/>„Der Bube, der uns zugehört, ſah lachenden Blicks zu dem Berg-<lb/>ſtück hinauf.<lb/>
+            </p>
+            <p> <lb/>„„Ach, der iſt ein guter Geſell, der ſchützt uns vor Schnee und<lb/>vor Regen, und wenn er fällt kann er auch über uns wegfallen“, ſagte<lb/>er keck. „Du, daß Dir ’s nicht einfällt zu kommen ſo lange der Groß-<lb/>vater lebt“, fuhr er fort, mit lachender Miene hinaufdrohend.<lb/>
+            </p>
+            <p> <lb/>„Mir gefiel die Keckheit des Buben, die Sorgloſigkeit des Alten;<lb/>ich ging öfter hinauf und wir ſchloſſen Freundſchaft mit einander. Man<lb/>hat in der Jugend ein offenes Herz, und gerade Das, was weit ab von<lb/>der eigenen Lebensſphäre liegt, gerade Das übt einen Reiz, eine Lockung,<lb/>von der die Phantaſie ſich nur gar zu gern umgarnen läßt. Kannſt<lb/>Du’s begreifen Emilie, Du biſt ja die Frau eines Poeten; es wird doch<lb/>wol irgend etwas von ſeinem Geiſt in Dir ſein?“<lb/>
+            </p>
+            <p> <lb/>„Ueber mir“, ſagte ſie, „und in mir ein lebhaftes Gedenken an die<lb/>eigene Jugend. Ich ſehe Deinen ſchwarzlockigen Schweizerbuben vor<lb/>mir und den Alten könnt’ ich malen."<lb/>
+            </p>
+            <p> <lb/>„Er muß ausgeſehen haben wie ein Patriarch“, ſchwärmte Jettchen.<lb/>
+            </p>
+            <p> <lb/>Heinrich lachte ſtill in ſich hinein.<lb/>
+            </p>
+            <p> <lb/>„Und der Knabe wie einer der Engelsköpfe auf dem Bild der<lb/>Sixtiniſchen Madonna“, fuhr Jettchen fort.<lb/>
+            </p>
+            <p> <lb/>Nun lachte auch Emilie, aber lauter.<lb/>
+            </p>
+            <p> <lb/>„Die wilde Natur, die zerklüfteten Felſen und ein Rafael’ſcher<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0733" n="1415" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=733"/>
+            </p>
+            <p> <lb/>Engel, und der Judenkopf mit dem langen Bart und der ſchlauen Weis-<lb/>heit der Erzväter in den ſcharf geſchnittenen Zügen. Nein, da denke ich<lb/>mir eher den Hirten, der ſich mit gläubigem Erſtaunen über des Hei-<lb/>lands Krippe beugt. Aber gleichviel wie er ausſieht, erzähle weiter,<lb/>Heinrich."<lb/>
+            </p>
+            <p> <lb/>Dieſer folgte der Aufforderung.<lb/>
+            </p>
+            <p> <lb/>„Eines Abends, als ich von oben kam, ſtand ich noch lange auf dem<lb/>Balcon und ſah zu dem Schwalbenneſt hinüber. Es ſtand, von dem zu-<lb/>rückſtrahlenden Licht der Sonne getroffen, wie in Flammen, roth glühte<lb/>der Felſen, in Purpur waren die Bäume, die grünen Matten getaucht,<lb/>am Himmel eine Gluth und Farbenpracht, die ich nie vergeſſen werde.<lb/>Ich trennte mich nicht eher von dem Anblick, als bis der letzte Schim-<lb/>mer der Abendröthe in graue Dämmerung verſchwamm. Da erſt ver-<lb/>mochte ich den Blick abzuwenden.<lb/>
+            </p>
+            <p> <lb/>„Es war ein Naturſchauſpiel, das man nie vergeſſen kann; es hatte<lb/>mich auf’s Aeußerſte angeregt; in den Träumen jener Nacht ſtand es<lb/>nur noch in phantaſtiſcherer Geſtaltung mir vor der Seele. Da war<lb/>die ganze Landſchaft in gluthrothem Feuer, es war nicht mehr der Schein<lb/>deſſelben, es waren die Flammen ſelbſt, die ſich, glühenden Schlangen<lb/>gleich, durch die Felſen wanden, wie feurige Ströme über die Matten<lb/>hinliefen, Arven und Lärchen in goldig erglänzende Pracht hüllend. Ich<lb/>ſtand allein auf dem Felskegel, gegenüber der Hütte, die wie Alles um-<lb/>her in die dunkel leuchtende Roſengluth getaucht war. Mir war zu<lb/>Muth, als ſei ich Herrſcher in dieſem Zauberreich; ich fragte mich: iſt’s<lb/>Paradies? iſt’s Hölle? — da, wie ein Donnergekrach, als hätten ſich<lb/>Tauſende von Lawinen zu gemeinſamem Sturz vereinigt, und erſchrocken<lb/>fuhr ich aus dem Schlafe empor. Ein paar Minuten vergingen, ehe ich<lb/>völlig zur Beſinnung kam. Während derſelben tönte das donnerartige<lb/>Getöſe verhallend weiter, bis es völlig ſchwieg. Da hatte ich den Ge-<lb/>brauch meiner Sinne wieder. Hell blickte ſchon der erſte Schimmer des<lb/>erwachenden Morgens in mein Zimmer. Die Sonne ſteigt nur all-<lb/>mälig über die Berge hinauf, aber der Reflex der voranziehenden Mor-<lb/>genröthe verkündet ihren Aufgang im Thal und ihr majeſtätiſches<lb/>Emporſteigen. In wenigen Minuten war ich auf und in den Kleidern,<lb/>dann hinaus auf den Balcon. Im erſten Augenblick glaubte ich noch<lb/>zu träumen. Das Felsſtück mit ſammt der Hütte war fort, wo ſie ge-<lb/>ſtanden lag ein wüſter Haufen durcheinandergeworfener Steine und auf-<lb/>gehäuften Erdreichs. Die Bergformation war eine andere geworden."<lb/>
+            </p>
+            <p> <lb/>Ein tiefer Seufzer aus Jettchens Buſen unterbrach den Erzähler.<lb/>Ihre, ſo wie Emilien’s Blicke hingen an ihm. Er ſelbſt athmete tief auf.<lb/>
+            </p>
+            <p> <lb/>„Das ganze Haus, die ganze Ortſchaft war auf und lebendig“,<lb/>fuhr dieſer fort. „Jeder kannte den Alten und das Kind. Die Männer<lb/>machten ſich auf die Verſchütteten zu retten.“<lb/>
+            </p>
+            <p> <lb/>„Du mit?“ fragte Emilie.<lb/>
+            </p>
+            <p> <lb/>„Natürlich", beſtätigte er die Annahme. „Es war ein ſchweres<lb/>Stück Arbeit nur erſt da hinauf zu kommen; der frühere Weg war ver-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0734" n="1416" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=734"/>
+            </p>
+            <p> <lb/>ſchüttet; über Felsſtücke und Abhänge kletterten wir. Ich war ein guter<lb/>Turner, das half mir den wackern Bergſteigern nachkommen. Erd- und<lb/>Felsſtücke wurden abgetragen. Wie die Maulwürfe wühlten wir uns in<lb/>den Schutthaufen hinein. Welcher Jubel, als ein leiſer Ton wie er-<lb/>ſticktes Wimmern, wie ein dahin ſterbender Hülferuf zu uns drang. Der<lb/>Ruf wurde lauter. Hacke und Spaten trafen auf ein Stück der höl-<lb/>zernen Dachſparren, dann auf Mauerwerk. Mit unbeſchreiblicher Span-<lb/>nung arbeiteten wir weiter. Mit ſammt dem kleinen Plateau, auf dem<lb/>die Hütte ſtand, war ſie wol mehrere hundert Fuß den Abhang hinunter<lb/>geriſſen worden, und dann wahrſcheinlich auf einer, ſich durch die allge-<lb/>meine Erſchütteruug neu bildenden Fläche in ſich zuſammengeſtürzt, und<lb/>unter nachrollenden Steinen und Erdreich begraben worden. Den Alten<lb/>fanden wir todt, den Knaben über ihn hingeſtreckt, zwar bewußtlos, aber<lb/>unverſehrt. Ein Stück des Daches, zwiſchen zwei Felswände geklemmt<lb/>hatte den todten Mann vor völliger Zerſchmetterung bewahrt, hatte das<lb/>Leben in der Bruſt des Knaben geſchützt."<lb/>
+            </p>
+            <p> <lb/>Er hielt inne.<lb/>
+            </p>
+            <p> <lb/>„Sonderbarer Mensch, daß Du das nie erzählt haſt“, ſagte Emilie.<lb/>„Es klingt wie ein Roman. Aber was wurde aus dem Knaben?"<lb/>
+            </p>
+            <p> <lb/>„Ein Spitzbube, der Held eines ſchlechten Romans, wie man ſie ſich<lb/>alle Tage in der Welt abſpielen ſehen kann“, lautete die Antwort. „Ich<lb/>habe ihn erziehen laſſen, und er hat es mir mit Undank und Verrath<lb/>gelohnt."<lb/>
+            </p>
+            <p> <lb/>„Iſt er im Zuchthauſe?“ fragte Couſine Jettchen in einem Tone,<lb/>der zwar ihr Mitgefühl, aber auch ihr erhöhtes Intereſſe für die fer-<lb/>nere Entwickelung dieſer romantiſchen Begebenheit verrieth.<lb/>
+            </p>
+            <p> <lb/>„Nein, er iſt nur der Rache des Himmels empfohlen“, antwortete<lb/>der alte Mann mit einer, ſein eigentliches Weſen entſtellenden kalten<lb/>Ruhe.<lb/>
+            </p>
+            <p> <lb/>„Pfui, wie kann ſolche hübſche Geſchichte ſo häßlich enden!" rief<lb/>Frau Emilie bedauernd aus.<lb/>
+            </p>
+            <p> <lb/>„Sie hat im Gegentheil ein ſehr glückliches Ende gehabt“, ſagte ihr<lb/>Bruder mit unverkennbarem Hohne. „Felix Giovanoli iſt ein reicher<lb/>Mann geworden. Er hat das lieblichſte Mädchen im Thüringer Lande,<lb/>Margareth Alpendal, die Tochter des reichen Fabrikanten Alpendal,<lb/>nach dem Tode deſſelben geheirathet und iſt Chef eines Geſchäfts ge-<lb/>worden, das ſich unter ſeiner geſchickten Leitung vorausſichtlich zur<lb/>höchſten Blüthe entfaltet hat."<lb/>
+            </p>
+            <p> <lb/>„Alpendal“, wiederholte Emilie gedankenvoll.<lb/>
+            </p>
+            <p> <lb/>„Der Hamburger, wie wir ihn in unſerer Jugendzeit nannten“,<lb/>half Heinrich dem Gedächtniß der Schweſter nach.<lb/>
+            </p>
+            <p> <lb/>„Und Dein beſter Freund!“ rief ſie, ſich augenblicklich ſeiner erin-<lb/>nernd, lebhaft aus.<lb/>
+            </p>
+            <p> <lb/>„Derſelbe“, bekräftigte er in gleichgiltigem Ton.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0735" n="1417" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=735"/>
+            </p>
+            <p> <lb/>Es iſt ein wunderſchöner Pfad, der von Bex aus durch Kaſtanien<lb/>und Nußbaumwald über die Höhen von St. Maurice und kurz vor der<lb/>Rhonebrücke ſteil hinunter in’s Thal auf die Straße führt, auf der man<lb/>auf ebenen Wege, die üppigſten, mit Blumen überſäeten Wieſen durch-<lb/>ſchneidend, daſſelbe Ziel erreicht. Es möchte ſchwer zu entſcheiden ſein,<lb/>welcher der beiden Wege vorzuziehen ſei. Was der eine an Lieblichkeit,<lb/>hat der andere an Großartigkeit der Scenerie voraus. Ueberraſchend<lb/>ſind die Ausſichten von der Höhe, und wenn der Pfad ſich eine Weile<lb/>ganz im Schatten der herrlichen Bäume verloren, bietet ſich plötzlich<lb/>wieder eine Ausſicht, die bald den Blick in das lachende Thal hinunter-<lb/>lockt, bald ihn aufwärts zieht, dem kühnen Zug der Berge in die Wolken<lb/>hinein zu folgen. Es liegt eine unbeſchreibliche Lockung in einer ſolchen<lb/>Bergwanderung. Unſichtbare ſeeliſche Flügel breiten ſich aus, weiter,<lb/>immer weiter möchte man ziehen, denn wie abgegrenzt das Thal auch<lb/>ſcheint, aus einem Bilde entwickelt ſich ein anderes zu einem Rieſenpa-<lb/>norama wechſelnder Schönheit. Jetzt ſcheinbar eng zuſammengerückt,<lb/>ſchieben ſich, bei allmäliger Annäherung die Berge weiter auseinander,<lb/>neue Landſchaftsbilder treten hervor, in demſelben grotesken Rahmen<lb/>grüner Höhen, über welche die leuchtenden Schneerieſen ſich in grandio-<lb/>ſer Pracht erheben und der fernen Gletſcher blauer Strom, in eiſiger Ruhe<lb/>gefeſſelt, grell den Contraſt zwiſchen der gebieteriſchen Majeſtät einer,<lb/>in kaltem Selbſtbewußtſein erſtarrten Schönheit, und der unendlichen<lb/>Anmuth der überquellenden lebendigen Frühlingsüppigkeit hervorhebt,<lb/>die das Rhonethal zur Lenzes- und Frühſommerzeit mit zauberiſchen<lb/>Reizen überſchüttet. Ein Idyll in barockem Rahmen, ein mildglühender<lb/>Smaragd in der Umfaſſung ſtrahlender, in allen Farben ſpielender<lb/>Diamanten. Alles lebt, athmet Kraft und Fülle. Die Pracht der Wäl-<lb/>der iſt nicht zu beſchreiben, förmliche Tempelhallen darin, dann wieder<lb/>dichte Wildniß, mitten hinein ein Felsblock geworfen, den irgend ein Erd-<lb/>beben von weit her dorthin geſchleudert hat, kühle Gletſcherluft hinein-<lb/>webend in den Strom ſommerlicher Wärme, Akazienblüthen und Roſen-<lb/>duft ſich zu herrlichſtem Aroma vereinigend.<lb/>
+            </p>
+            <p> <lb/>Brauſend ſtürzen die Gebirgsbäche durch die ſtille Landſchaft, bald<lb/>ſtahlblau, bald ſilbergrau gefärbt, bald eine in lauter Schaumperlen<lb/>aufgelöſte Fluth von den Bergen herniederdonnernd, bald ein einziger<lb/>ſtarker Strahl, der, als Schleier auseinander fallend, das grüne Berges-<lb/>antlitz zart verhüllt, ehe er ſich unten wieder ſammelt, und in dem felſi-<lb/>gen Bett mit wilder Eile davonſtürzt, ſich ſelbſt und die verſchleierte<lb/>Bergſchönheit zu vergeſſen. Ja, ſtürzen, das iſt das rechte Wort, denn<lb/>als ob der Sturmwind die Wellen jagt, ſo raſen ſie von dannen, ſo<lb/>ſtürmt der Avançon in voller entfeſſelter Jugendkraft übermüthig kopf-<lb/>über in die Rhone, deren ſchäumende Wogen vom Gletſcherwaſſer der<lb/>Trient in ſilberdurchblitztes Grau gehüllt, in derſelben ſtürmenden Ju-<lb/>gendhaſt dem blauen Wellenſchooß des märchenträumenden Genferſees<lb/>entgegen jagt. Mit tiefem, unerſchütterlichen Ernſt blickt die Dent di<lb/>midi unter der ſiebenfach gezackten Krone hernieder auf das jugendluſtige,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0736" n="1418" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=736"/>
+            </p>
+            <p> <lb/>jugendhaſtige Treiben, wie ihr Nachbar da drüben, das kahle Felsge-<lb/>ſtein des grauen Morcle ſich über die Lilienfelder zu ſeinen Füßen er-<lb/>hebt, die alte kahle Stirn in die Roſengluth des Morgen- und Abend-<lb/>himmels zu tauchen, ſein Erdenalter zu ſchmücken mit der Jugend des<lb/>Himmels. Getreulich halten die Beiden Wache über den Strom, der ſie<lb/>trennt, über das Volk der grünen Berge, in deren Waldkronen helle<lb/>Nachtigallchöre der Freude ertönen, der Freude über den Frühling, über<lb/>das blühende Roggenfeld im Thal, über die blumengeſchmückten Wieſen<lb/>und über die Roſenhecken, die den Geſang aus tauſend offenen Blüthen-<lb/>kelchen mit Opferſpenden ſüßer Düfte lohnen.<lb/>
+            </p>
+            <p> <lb/>Einzelne hübſche Villen krönen die Vorberge, eine derſelben blickt<lb/>gerade hinunter auf das freundlich gelegene Bex, zu dem ein hinter dem<lb/>abgeſchloſſenen kleinen Hofraum vorbeiführender Fußpfad hinunter leitet<lb/>und, auf der entgegengeſetzten Seite ſich höher hinauf windend, in den<lb/>nach St. Maurice führenden Fußpfad mündet. Die Villa liegt im<lb/>Grün verſteckt, ſo daß man von Weitem nur die Fahne, die ihr Be-<lb/>wohntſein andeutet, durch das Laub der Kaſtanien- und Nußbäume<lb/>wehen ſieht, die den ganzen Bergabhang mit Wald bedecken. Der Bal-<lb/>con der obern Etage iſt ſcheinbar ganz gedeckt von dem Grün, obgleich<lb/>er darüber hinausragt und eine wunderſchöne Fernſicht gewährt. Eine<lb/>Roſenhecke zieht ſich von beiden Seiten des ummauerten Hofes um die<lb/>Villa und ſchließt ſie, ſo wie das an derſelben liegende Blumengärtchen,<lb/>von dem vorbeiführenden Fußpfad ab.<lb/>
+            </p>
+            <p> <lb/>Dieſe Villa, vom Volksmund das Roſenhaus genannt, hatte der<lb/>Baurath für unbeſtimmte Zeit gemiethet, dort kam, wie Frau Emilie<lb/>ſich ausdrückte, ſie zum erſten Mal auf der ganzen Reiſe zu Athem, d. h.<lb/>zum innerlichen Ordnen der empfangenen, ſich mit jedem Tage ſteigern-<lb/>den Eindrücke.<lb/>
+            </p>
+            <p> <lb/>Die ganze Reiſe bisher war ein Zug aus dem vollen Kelch der<lb/>Schönheit, anregend, belebend wie der Wein, berauſchend wie dieſer,<lb/>aber nur bis zur Anſpannung aller Seelenkräfte, nie bis zu unwürdigem<lb/>Verleugnen derſelben. Unſichtbare Flügel wuchſen, je höher die Berge<lb/>vor ihrem Blick in den Himmel ſtiegen, ſie wuchſen, ſie trugen ſie mit<lb/>hinauf, weit hinauf, hinweg über den Staub der Erde, und wenn ſie ſie<lb/>wieder zuſammenfaltete, ſich in der Wirklichkeit zurecht zu finden, da war<lb/>über dieſe ein Lichtſchein ausgegoſſen, der einen unvergänglichen Strahl<lb/>in ihre Seele warf.<lb/>
+            </p>
+            <p> <lb/>Still beobachtend ſaß der Bruder ihr gegenüber, er ſelbſt dem<lb/>Zauber unterworfen, aber doch geneigt, ihn in ihr zu zerſtören. Ver-<lb/>gebens. Die raſche Rückkehr ihrer geſteigerten Gefühle zum richtigen<lb/>Gleichmaß überraſchte und entwaffnete ihn. Er empfand es wohlthätig,<lb/>daß er es mit einer grundgeſunden Natur zu thun hatte. Er ſchob dieſe<lb/>Geſundheit auf den Mangel ſchlimmer Erfahrungen, auf die Genüg-<lb/>ſamkeit der Auffaſſung, die ſich in der unleugbar ſchönen Welt durch<lb/>die Häßlichkeit der darin herrſchenden Menſchengeſchöpfe nicht ſtö-<lb/>ren ließ.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0737" n="1419" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=737"/>
+            </p>
+            <p> <lb/>„Sie ſind nicht häßlich“, ſagte Emilie. „Gott ſchuf ſie als das<lb/>vollkommenſte ſeiner Werke zuletzt.“<lb/>
+            </p>
+            <p> <lb/>„Du betrachteſt ſie aus Deiner eigenen Seele heraus“, warf er<lb/>ihr vor.<lb/>
+            </p>
+            <p> <lb/>„Warum machſt Du’s nicht auch ſo? Warum kriechſt Du in die<lb/>Seele eines Spitzbuben, um nicht Deines-, ſondern ſeinesgleichen zu<lb/>finden?" lautete ihre raſche Entgegnung.<lb/>
+            </p>
+            <p> <lb/>„Du biſt befangen —“<lb/>
+            </p>
+            <p> <lb/>„Und Du gefangen“, ſagten Beide in raſchem Austauſch der Ge-<lb/>danken.<lb/>
+            </p>
+            <p> <lb/>Sie fuhren gerade in den Tunnel von Lauſanne ein. Kommt man<lb/>heraus, ſo liegt der Genferſee Einem wie hingezaubert zu Füßen mit<lb/>ſeinem Kranz anmuthiger Villen, ſeinen kleinen Buchten, die in ſmaragd-<lb/>nem Schimmer die grünen Berge wiederſpiegeln, über die ſich die Schnee-<lb/>kronen in kalter, majeſtätiſcher Pracht erheben.<lb/>
+            </p>
+            <p> <lb/>Emilie hatte Mühe, nicht laut aufzuſchreien. Sie faltete die Hände<lb/>und Thränen rollten über ihre Wangen. Die Geſchwiſter ſaßen einander<lb/>gegenüber. Der Wagen war nicht ſehr voll und ſo hatte Jeder ſein<lb/>kleines, für zwei Perſonen beſtimmtes Sopha für ſich allein. Es achtete<lb/>überdem Niemand auf ſie, der blaue See feſſelte die Blicke, die wunder-<lb/>ſchöne Bergkette zog ſie hinauf.<lb/>
+            </p>
+            <p> <lb/>„Was ſagſt Du nun zu Deinem Kiefernwald, zu Deinem armen<lb/>See mit Schilf und Mummeln?" fragte Heinrich.<lb/>
+            </p>
+            <p> <lb/>„Frag’ mich doch lieber, was ich zu meinem Mann ſage im Vergleich<lb/>zu Schiller und Goethe“, entgegnete ſie. „Bewunderung und Liebe iſt<lb/>zweierlei; Eins kann man zur Noth entbehren, wenn man gelernt<lb/>hat, im Kleinen das Große zu ſehen; ohne das Andere kommt man<lb/>nicht aus."<lb/>
+            </p>
+            <p> <lb/>Der Eindruck war für den Augenblick geſtört. Die Flügel falteten<lb/>ſich zuſammen. Im Ganzen vertrugen ſich Bruder und Schweſter gut.<lb/>In gemeinſamer Bewunderung der herrlichen Natur begegneten ſie ein-<lb/>ander, nur wenn das All ihnen den Menſchengeiſt wiederſpiegelte, zeigte<lb/>ſich der Zwieſpalt.<lb/>
+            </p>
+            <p> <lb/>Chillon war Waſſer auf ſeine Mühle. Dies wunderbar ſchöne<lb/>Denkmal menſchlicher Grauſamkeit liefert ſchmählichen Beweis für die<lb/>Verderbtheit menſchlicher Natur.<lb/>
+            </p>
+            <p> <lb/>„Was gehen mich die ſavoyiſchen Herzöge an, vertreten ſie das<lb/>Menſchengeſchlecht?“ ſagte Emilie.<lb/>
+            </p>
+            <p> <lb/>Sie wußte dagegen ein Geſchichtchen von dem kleinen Inſelchen<lb/>mit den drei Ulmen, nicht weit von St. Gingolphe, ein Geſchichtchen<lb/>von Liebe und Menſchenliebe zugleich.<lb/>
+            </p>
+            <p> <lb/>Ein Brautpaar, arme Schiffersleute, rudern am Vorabend der<lb/>Hochzeit dorthin. Sturm erhebt ſich und wandelt den ſtillen See in<lb/>ein tobendes Ungeheuer. Ein Nachen ſchwimmt auf demſelben, der<lb/>Laune der Wellen hingegeben, verzweiflungsvoller Hülferuf zerreißt die<lb/>Luft. Die ſchöne Deſiré und ihr Bräutigam ſind geborgen. Aber der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0738" n="1420" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=738"/>
+            </p>
+            <p> <lb/>brave Burſch und das brave Mädchen denken nicht an ſich. Er ſtürzt in<lb/>die Wellen, ihr Gebet, ihr heißer Wunſch, ihr ſehnender Blick folgt ihm.<lb/>Er erreicht den Nachen. Aber ach, ſeine kräftigen Arme ſind zu ſchwach,<lb/>das tobende Element zu beſiegen. Mit dem Nachen wird er in die Tiefe<lb/>geriſſen. Der See iſt wieder ruhig. Man findet das Mädchen am an-<lb/>dern Morgen auf der Inſel, dicht am Rande des Sees. Sie ſitzt am<lb/>Boden, den Leichnam des Geliebten im Schooß. Als man ihr ihn<lb/>nimmt, verfällt ſie in Raſerei, dann in Tiefſinn. Sie hat lange gelebt<lb/>und ſich ihr Brod mit Anfertigen künſtlicher Blumen erworben. Sie<lb/>war ſehr geſchickt. Ihre Blumen ſchmückten manch’ ſchönes Haupt und<lb/>heller Kerzenglanz hat ſie beleuchtet.<lb/>
+            </p>
+            <p> <lb/>Heinrich zog ſeinen eigenen Schluß aus dieſer Erzählung.<lb/>
+            </p>
+            <p> <lb/>„Tiefe Ironie des Schickſals!" ſagte er, „eigenthümliche Verkettung<lb/>menſchlicher Lebenswege! Aus untergegangenem Glück des Einen eitler<lb/>Schmuck für den Andern, künſtliche Blumen für wirkliche. Wie Viele<lb/>müſſen ſich damit behelfen und nennen dies jämmerliche Schickſal Glück.<lb/>Ich kann’s nicht."<lb/>
+            </p>
+            <p> <lb/>Vor dieſem, den tiefen Riß ſeiner Seele bekundenden Wort ver-<lb/>ſtummte Emilie. Sie dachte zwar, es giebt ſo viel natürliche Blumen,<lb/>warum ſie nicht pflücken? Aber ſie fühlte zartſinnig, daß ein ſchlagendes<lb/>Wort oft nur ein Schlag iſt, der weh’ thut, ohne zu helfen. Ihr aber<lb/>ward das blumengeſchmückte Zauberland um ſie her zum Symbol.<lb/>Sollte in dem Reichthum nicht auch eine kranke Seele den Fingerzeig<lb/>des Himmels erkennen lernen?<lb/>
+            </p>
+            <p> <lb/>Die hohen Berge erheben ſich über die Schneefelder, der Schnee<lb/>leuchtet über grüne Matten hinweg, aus dem kahlen Fels ſpringt das<lb/>lebendige Waſſer. Hier glaubt man ſich einem Schneefeld zu nähern<lb/>und die uns entgegenwehenden Frühlingsdüfte der Narciſſe belehren uns<lb/>des Irrthums. Dort ſcheint ein Stück Himmel auf die Erde gefallen<lb/>und Blüthe an Blüthe lacht uns in ſtrahlendem Blau das Vergißmein-<lb/>nicht entgegen. Zu dunklen Fichten hat ſich ein wilder Apfelbaum verirrt<lb/>und ſeine hellrothen Knospen drängen ſich furchtlos durch die dunkel-<lb/>grünen Nadeln. Es iſt Anfang Mai und die Roſen blühen im Freien,<lb/>die Magnolie ſtrahlt hochviolett in den ſatten Farben des Sommers und<lb/>der Rhododendron ſcheint in Morgenroth getaucht. Ueberall Contraſt als<lb/>Quell der Schönheit, des Reichthums.<lb/>
+            </p>
+            <p> <lb/>Sie waren nun ſchon einige Wochen in Bex und hatten das ſchöne<lb/>Thal faſt in allen Richtungen durchſtreift. Emilie war ganz zufrieden<lb/>mit dem einſamen Leben, das ſie führten, und Heinrich trat in der Ein-<lb/>ſamkeit aus ſich heraus. Sie lebten für und mit einander. Ein alter<lb/>Gärtner war noch im Hauſe und ſeine Frau, die für das Hausweſen<lb/>ſorgte, ſonſt verkehrten ſie mit keinem Menſchen.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>Es war ein ſchöner, aber heißer Tag geweſen. Nun brachte der<lb/>heranziehende Abend wundervolle Friſche, als habe er Gletſcherluft weit<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0739" n="1421" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=739"/>
+            </p>
+            <p> <lb/>her geholt, das glühende Thal zu erfriſchen. Purpurn flammte der<lb/>Morcle wie in Gluth getaucht und das prachtvolle Farbenſpiel des<lb/>Abendhimmels hauchte Glanz und Licht über die Landſchaft, ein Ab-<lb/>ſchiedsſonnenblick, ſo feierlich und ſchön, daß man über der Wonne des<lb/>Scheidens die des Wiederſehens vergaß.<lb/>
+            </p>
+            <p> <lb/>Die Geſchwiſter ſaßen in ihrem Garten ſtill neben einander, ganz<lb/>in Anſchauen verſunken. Da tönten heuklingende Stimmen wie aus<lb/>jugendlichen Kehlen in ihr Ohr. Heinrich machte ein verdrießliches Ge-<lb/>ſicht, Emilie horchte dem ihr anmuthig klingenden Laut.<lb/>
+            </p>
+            <p> <lb/>Zwei Kinder, ein Knabe und ein Mädchen von etwa zwölf und<lb/>dreizehn Jahren, kamen leichtfüßig den ſteilen Fußſteig herunter. Vor<lb/>der Roſenhecke blieben ſie ſtehen.<lb/>
+            </p>
+            <p> <lb/>„Hier waren wir noch nicht, ach, wie ſchön, Martin!" ſagte das<lb/>Mädchen.<lb/>
+            </p>
+            <p> <lb/>„Es wird das Roſenhaus ſein“, meinte der ſo Angeredete. „Ach,<lb/>wenn wir ein paar von den Roſen für die Mutter haben könnten!"<lb/>ſetzte er ganz leiſe hinzu. Eine kleine Pauſe trat ein. Dann fuhr der<lb/>Knabe fort:<lb/>
+            </p>
+            <p> <lb/>„Sieh’ doch, Käthe, da oben hängt gerade ſolch’ Vogelbauer, wie<lb/>das im Bazar, das uns zu theuer war."<lb/>
+            </p>
+            <p> <lb/>„Ja, und es iſt leer“, ſagte die Kleine.<lb/>
+            </p>
+            <p> <lb/>Emilie machte Miene aufzuſtehen. Der Baurath hielt ſie zurück.<lb/>
+            </p>
+            <p> <lb/>„Warte doch, was die begehrlichen Blicke noch Alles entdecken wer-<lb/>den“, flüſterte er ſpöttiſch.<lb/>
+            </p>
+            <p> <lb/>„Es iſt Deine Schuld, daß wir’s nicht kaufen konnten“, fuhr der<lb/>Knabe, noch immer leiſe und in vorwurfsvollem Tone fort, „Du haſt<lb/>nie Geld, ich habe noch ſechs Franken.“<lb/>
+            </p>
+            <p> <lb/>„Du weißt doch, daß ich die Schuhe brauchte und es der Mutter<lb/>nicht ſagen wollte“, vertheidigte ſich das Mädchen, „wir ſind doch nun<lb/>einmal arm jetzt und müſſen ſparen.“<lb/>
+            </p>
+            <p> <lb/>„Na, das wird auch vorüber gehen“, verſicherte der Knabe zuver-<lb/>ſichtlich. „Wenn ich groß bin, gehe ich nach Amerika und werde reich."<lb/>
+            </p>
+            <p> <lb/>„Reichthum iſt heutzutage ſchon der Traum der Kindheit!" ſagte<lb/>Heinrich in herabſetzendem Ton zu ſeiner Schweſter.<lb/>
+            </p>
+            <p> <lb/>„Dann kaufe ich dem Vater Alles wieder“, fuhr der Knabe fort.<lb/>
+            </p>
+            <p> <lb/>„Das wird lange dauern und bis dahin arbeite ich Alles für die<lb/>Mutter“, ſagte das Mädchen in faſt trotzigem Eifer, es dem Bruder in<lb/>der Sorge für die Eltern gleich zu thun.<lb/>
+            </p>
+            <p> <lb/>Mit einem Blick auf den Baurath, der herzliche Freude ausdrückte,<lb/>ſeine letzte Bemerkung über den Kindertraum des Reichthums ſo einfach<lb/>widerlegt zu ſehen, ſtand Emilie jetzt auf und näherte ſich langſam, wie<lb/>auf zufälligem Spaziergang begriffen, der Thür in der Hecke. Beim<lb/>Geräuſch ihrer Schritte verſtummten die Kinder und zogen ſich leiſe<lb/>etwas zurück, doch nicht weit genug, um nicht betroffen, wie auf einem<lb/>Unrecht ertappt, etwas zurückzufahren, als die alte Dame plötzlich vor<lb/>ihnen ſtand.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0740" n="1422" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=740"/>
+            </p>
+            <p> <lb/>„Verzeihen Sie, wir bewunderten die Roſen“, entſchuldigte ſich der<lb/>Knabe, höflich die Mütze abnehmend und mit ſeinen großen, klugen,<lb/>blauen Augen Frau Emilie offen anblickend.<lb/>
+            </p>
+            <p> <lb/>„Ihr habt auch ſehr ſchöne Blumen“, ſagte ſie, freundlich auf den<lb/>Strauß von Glockenblumen, Genzianen, wilder Reſeda und Vergißmein-<lb/>nicht blickend, den Käthe in der Hand hielt.<lb/>
+            </p>
+            <p> <lb/>„Für die Mutter, ihr Geburtstag iſt morgen", ſagte Käthe, ſchüch-<lb/>tern erröthend. Sie war hübſcher wie der Knabe, obgleich ihr die<lb/>großen, ſtrahlenden Augen fehlten. Die ihren waren mehr freundlich,<lb/>als ſchön, erhöhten aber durch ihren unſchuldigen, mädchenhaften Aus-<lb/>druck den lieblichen Zauber des feinen Geſichtchens, das von einer Fülle<lb/>lichtbrauner Locken umgeben war, während des Knaben ſchlichteres, glän-<lb/>zendes Haar tiefſchwarz die helle Stirn beſchattete.<lb/>
+            </p>
+            <p> <lb/>„Da ſoll der Vogel wol auch für die Mutter ſein?" fragte Frau<lb/>Emilie nach der raſchen Muſterung der beiden Kinder, die vorſtehendes<lb/>Reſultat ergab.<lb/>
+            </p>
+            <p> <lb/>Martin bejahte.<lb/>
+            </p>
+            <p> <lb/>„Wir kauften ihn vorhin einem Knaben für einen Franken ab, er<lb/>kam uns gerade ſo recht in den Wurf“, ſagte er fröhlich.<lb/>
+            </p>
+            <p> <lb/>„Er hat nur ein ſehr kleines Bauer“, bemerkte Frau Emilie.<lb/>
+            </p>
+            <p> <lb/>„Wir haben doch nun kein anderes“, ſagte Käthe traurig.<lb/>
+            </p>
+            <p> <lb/>„Vielleicht kann ich helfen“, fuhr Frau Emilie fort und bat die<lb/>Kinder, in den Garten zu kommen.<lb/>
+            </p>
+            <p> <lb/>Mit einander bedeutungsvoll zuwinkenden Blicken folgten Beide der<lb/>Aufforderung.<lb/>
+            </p>
+            <p> <lb/>„Gott im Himmel, ſie ſchleppt die Kinder herein“, murmelte der<lb/>Baurath verdrießlich. Aber ſein Geſicht hellte ſich auf, als er ſie<lb/>anblickte.<lb/>
+            </p>
+            <p> <lb/>„Ihr habt einen Vogel und ich ein leeres Bauer“, fuhr Frau<lb/>Emilie fröhlich fort. „Der kleine Gefangene, den ich darin hatte und<lb/>für den ich das Bauer angeſchafft, iſt eines Tages auf und davon ge-<lb/>flogen. Nun hängt es unnütz da oben. Geht hinauf und holt’s Euch."<lb/>
+            </p>
+            <p> <lb/>Die Kinder ließen es ſich nicht zweimal ſagen. Im Nu waren ſie<lb/>oben und hatten das Bauer von dem Haken gelöſt und ſo raſch, daß<lb/>man wol ſah, ſie hatten keiner Neugier Raum gegeben, hatten ſich nicht<lb/>die Zeit genommen, ſich in dem fremden Zimmer umzuſehen, erſchienen<lb/>ſie wieder im Garten.<lb/>
+            </p>
+            <p> <lb/>Ein blitzſchneller Gedankenaustauſch hatte aber doch unterwegs<lb/>ſtattgefunden.<lb/>
+            </p>
+            <p> <lb/>„Können wir’s auch annehmen?"<lb/>
+            </p>
+            <p> <lb/>„Verkaufen werden ſie’s nicht wollen —“<lb/>
+            </p>
+            <p> <lb/>„I, Gott bewahre."<lb/>
+            </p>
+            <p> <lb/>Sie ſtanden halb verlegen vor den alten Leuten.<lb/>
+            </p>
+            <p> <lb/>„Was fehlt nun noch?" fragte der Baurath, der ſich eines unwill-<lb/>kürlichen Wohlgefallens nicht erwehren konnte, in halb barſchem Ton,<lb/>der ſeine Empfindung wahrſcheinlich verbergen ſollte.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0741" n="1423" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=741"/>
+            </p>
+            <p> <lb/>„Roſen", ſagte Frau Emilie freundlich. „Wir haben ſo viel, wollen<lb/>wir nicht den Kindern welche für den Geburtstagstiſch der Mutter mit-<lb/>geben?“<lb/>
+            </p>
+            <p> <lb/>„Nein, nein, das dachten wir nicht“, rief der Knabe eifrig. „Wir<lb/>dachten, ob wir das Bauer auch behalten dürfen, was die Mutter ſagen<lb/>wird und was Sie von uns denken werden.“<lb/>
+            </p>
+            <p> <lb/>Seine großen Augen blickten den Baurath an, als wollte er ihm in<lb/>der Seele leſen.<lb/>
+            </p>
+            <p> <lb/>„Nichts Anderes“, ſagte dieſer, vergeblich bemüht, ſich den Eindruck<lb/>fortzuleugnen, den dieſer unſchuldverheißende, tiefe und kluge Blick auf<lb/>ihn machte, „nichts Anderes, als was ich bei jedem ſonnenhellen Morgen<lb/>denke: die Verheißung iſt ſchön, die Erfüllung oft erbärmlich. Den<lb/>Kindern iſt das Himmelreich. Die Erwachſenen vertrieb man aus dem<lb/>Paradieſe."<lb/>
+            </p>
+            <p> <lb/>„Es waren eben noch keine Kinder vorhanden“, bemerkte Frau<lb/>Emilie trocken. „Da konnte man auch keine hinausjagen. Und ein<lb/>wenig ſortirt werden ſie doch auch wol vor der Himmelspforte werden.<lb/>Gute Kinder in Ehren, aber es giebt auch gewaltige Rangen unter<lb/>ihnen.“<lb/>
+            </p>
+            <p> <lb/>Käthe und Martin lachten hell auf. Der Baurath ließ ſich nicht<lb/>aus dem Concept bringen.<lb/>
+            </p>
+            <p> <lb/>„Ich meine, ſolche Kinder, die man noch mit einem Du an ſich her-<lb/>anzieht, ſtatt ſich den künftigen Taugenichts, die künftige Cokette vornehm<lb/>mit einem Sie vom Leibe zu halten, was auf alle Fälle das Geſcheidteſte<lb/>ſein möchte.“<lb/>
+            </p>
+            <p> <lb/>Die Kinder wechſelten einen erſtaunten Blick.<lb/>
+            </p>
+            <p> <lb/>„Uns nennen die Leute alle Du“, bemerkte Käthe unſchuldig.<lb/>
+            </p>
+            <p> <lb/>„Um Das, was man noch nicht iſt und nie werden wird, muß man<lb/>nicht geſcholten werden“, ſetzte der Knabe trotzig hinzu und ſchien nicht<lb/>übel Luſt zu haben, das Bauer hinzuſtellen und ohne daſſelbe fort-<lb/>zugehen.<lb/>
+            </p>
+            <p> <lb/>Eine Bewegung des Bauraths machte ihn ſtutzig und änderte ſeinen<lb/>Vorſatz. Der alte Mann hatte ſein Taſchenmeſſer herausgezogen und<lb/>fing an, die ſchönſten der Blumen zu ſchneiden.<lb/>
+            </p>
+            <p> <lb/>„Worte und Thaten“, ſagte Frau Emilie bedeutungsvoll zu dem<lb/>Knaben. Seine Augen glänzten.<lb/>
+            </p>
+            <p> <lb/>„Roſen für die Mutter“, ſagte er klug, „die Dornen für uns.<lb/>I, da mögen meinetwegen die Dinger ſtechen. Ich werde ſchon kein<lb/>Taugenichts werden —"<lb/>
+            </p>
+            <p> <lb/>„Und ich keine Cokette, wenn das eben ſolches Schimpfwort iſt“,<lb/>ſetzte Käthe hinzu.<lb/>
+            </p>
+            <p> <lb/>Der Baurath ſchnitt eifrig fort; derweil ging die Sonne nieder-<lb/>wärts und tauchte die Berge in das letzte Erröthen.<lb/>
+            </p>
+            <p> <lb/>Frau Emilie plauderte mit den Kindern. Sie fragte ſie nicht aus.<lb/>Nicht einmal den Namen erfuhr ſie. Aber ſie erzählten ſelbſt mancherlei.<lb/>Sie ſeien mit der Mutter ſeit ein paar Wochen hier, der Vater habe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0742" n="1424" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=742"/>
+            </p>
+            <p> <lb/>Geſchäfte und werde bald nachkommen, ſie hofften im Stillen morgen,<lb/>denn noch nie habe die Mutter ihren Geburtstag ohne ihn verlebt. Sie<lb/>wohnten unten an der Rhone, in dem Hauſe, das ganz einſam im Wie-<lb/>ſengrund liege, nur ein Grasgarten ringe herum, aber etwa hundert<lb/>Schritte vom Hauſe ein paar wunderſchöne Kaſtanien und von da aus<lb/>hätten ſie gerade die Rhonebrücke vor ſich und St. Maurice und den<lb/>alten <hi rendition="#b">Catogne, pain de sucre</hi>, wie die Leute hier ſagten.<lb/>
+            </p>
+            <p> <lb/>Frau Emilie kannte das Haus und deſſen reizende Lage, aber ſie<lb/>erſchrak vor dem weiten Weg, den die Kinder bei der vorgerückten Däm-<lb/>merung zu machen hätten. Sie unterbrach ihren Bruder in ſeinem an-<lb/>muthigen Geſchäft und trieb zur Rückkehr.<lb/>
+            </p>
+            <p> <lb/>„Wir gehen den Weg unten, wir laufen über die Wieſen, wir ſind<lb/>im Umſehen dort“, verſicherte Martin.<lb/>
+            </p>
+            <p> <lb/>Mit vor Glück ſtrahlendem Lächeln empfing Käthe in der dazu<lb/>ausgebreiteten Schürze die duftende Roſengabe, Martin nahm das<lb/>Bauer zu dem kleinen, in dem der Zeiſig, trotz der Gefangenſchaft ſein<lb/>Liedchen zwitſcherte, noch einen Dank den Geſchwiſtern gezollt, dann<lb/>flogen ſie den Abhang hinunter.<lb/>
+            </p>
+            <p> <lb/>Die Berge hatten aufgehört zu glühen, graue Nebelſchatten zogen<lb/>um die ſchneeigen Gipfel. Heinrich und Emilie ſtanden und ſahen den<lb/>Davoneilenden nach.<lb/>
+            </p>
+            <p> <lb/>Emilie dachte an die eigene Kindheit, an die ihrer Kinder, an die<lb/>Enkel, die in glücklichen Sommerferientagen im Kiefernwald ihr fröh-<lb/>liches Weſen trieben, am blauen See im märkiſchen Sand ſich mit dem<lb/>grünen Schilf und den weißen Lotosblumen ſchmückten — glückliche<lb/>Kinder, wie ſie ſelbſt und ihr Bruder einſt auch welche geweſen.<lb/>
+            </p>
+            <p> <lb/>„Heimat, liebe Heimat!" ſagte ſie leiſe und faſt wie erſchrocken<lb/>über den unwillkürlichen Ausdruck richtete ſie ihren Blick auf den<lb/>Bruder.<lb/>
+            </p>
+            <p> <lb/>Hatte er die ganze reiche Gedankenkette verſtanden?<lb/>
+            </p>
+            <p> <lb/>Er lächelte, aber nicht ſarkaſtiſch, und ſein Auge glänzte feucht, als<lb/>er, ſich von der verſchwimmenden Landſchaft wegwendend, dem offenen<lb/>Gartenſaal zuſchritt.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>Im Haus unten an der Rhone war’s zeitig Tag geworden. Däm-<lb/>merung ſtritt noch mit der vorausgeſendeten Morgenröthe und lange<lb/>Nebelſtreifen ſchlichen über die Wieſen, bis ſie in den Bergesſchluchten<lb/>zu blauem Duft wurden, als die Kinder aufgeſtanden waren und ihre<lb/>am vorherigen Tage geſammelten Blumenſchätze, die ſie ſorglich vor den<lb/>Augen der Mutter verborgen gehalten, hervorholten, um Kränze und<lb/>Guirlanden daraus zu winden. Sie waren damit vor’s Haus gegangen<lb/>und während ſie ihrer anmuthigen Beſchäftigung oblagen, zog der Mor-<lb/>gen vollends herauf und warf ſein zauberhaftes Licht über die wunder-<lb/>bar ſchöne Landſchaft.<lb/>
+            </p>
+            <p> <lb/>Das Haus gehörte ſchlichten Leuten, die gern ein paar überflüſſige<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0743" n="1425" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=743"/>
+            </p>
+            <p> <lb/>Zimmer an ſolche Fremde vermietheten, die Zurückgezogenheit liebten<lb/>oder denen die Penſionsſätze zu hoch waren.<lb/>
+            </p>
+            <p> <lb/>Außer den Kindern war nur die Magd, der einzige dienſtbare Geiſt<lb/>im Hauſe erſt auf und bei der Arbeit. Sie ſchritt hin und her, holte<lb/>Waſſer vom Brunnen, Holz aus dem Stall und ging keinmal an den<lb/>Kindern vorüber, ohne ein Wort der Bewunderung über die ſchönen<lb/>Blumen zu ſagen. Sonſt war Alles ſtill, ſelbſt die Kinder ſprachen gar<lb/>nicht oder doch nur ganz leiſe mit einander. Nur die Nachtigallen ſan-<lb/>gen und die Rhone rauſchte ihr eintöniges Lied dazu.<lb/>
+            </p>
+            <p> <lb/>Mitunter hielten die Kinder in ihrer Arbeit inne und ließen die<lb/>Blicke in ſtummer, andächtiger Bewunderung auf dem Landſchaftsbild<lb/>verweilen, das in jedem Augenblick eine andere, ſchönere Färbung anzu-<lb/>nehmen ſchien. Wie eine Blumenkette in rieſigem Maßſtab, ſo ſtrahlten<lb/>die Bergkuppen in Violett, Roth, Gelb und blendendem Weiß aus der<lb/>Waldguirlande von Kaſtanienlaub und Tannengrün hervor, eine Rieſen-<lb/>guirlande von Bergesblumen, die blauen Gletſcher wie verſteinerte Ver-<lb/>gißmeinnicht dazwiſchen.<lb/>
+            </p>
+            <p> <lb/>„Die Mutter müßte auch wieder Roſen tragen, alte Menſchen<lb/>müßten es, der Morcle iſt älter, als ſie Alle miteinander, und wie ſchön<lb/>läßt ihm die Farbe“, bemerkte Martin.<lb/>
+            </p>
+            <p> <lb/>Ihr Werk war vollendet. Noch einen zufriedenen Blick warfen ſie<lb/>auf daſſelbe, dann noch einen auf das lachende Landſchaftsbild und dann<lb/>ſchlichen ſie leiſe in das Schlafzimmer der Mutter, um, wie ſie es ge-<lb/>wohnt waren daheim an ihrem Geburtstag zu thun, ihr Bett mit Blu-<lb/>men zu bekränzen.<lb/>
+            </p>
+            <p> <lb/>Die Mutter hielt geduldig die Augen geſchloſſen, während die Kin-<lb/>der auf den Zehenſpitzen umher ſchlichen, die Guirlande um das Bett<lb/>wanden, die Roſen auf der Decke vertheilten und in Ermangelung von<lb/>Blumenvaſen die Tiſchgläſer damit anfüllten. Das ganze Zimmer war<lb/>voll Roſenduft. Der Mutter ſchwoll das Herz, es rührte ſie tief, daß<lb/>die Kinder die alte, liebe, häusliche Gewohnheit auch in der Fremde nicht<lb/>vergaßen. Wie glücklich war ſie doch trotz der Prüfungen, die der Him-<lb/>mel ihr geſchickt. Ein paar Thränen ſchlichen ſich über die Wangen.<lb/>Sie war nicht im Stande, ſie zurückzuhalten.<lb/>
+            </p>
+            <p> <lb/>„O Gott, ſie weint!“ ſagte Käthe traurig, „ſie träumt gewiß vom<lb/>Vater.“<lb/>
+            </p>
+            <p> <lb/>„O nein, dann würde ſie lachen!" verſicherte Martin.<lb/>
+            </p>
+            <p> <lb/>Nun löſte wirklich ein Lächeln die Thränen ab. Martin hatte<lb/>gerade das Fenſter geöffnet und den Vogel in den hereinfließenden<lb/>Sonnenſtrahl geſtellt. Hell jubelte er ſein Freudenlied, in das die Kinder<lb/>einſtimmten, als die Mutter jetzt die Augen und die Arme öffnete. Das<lb/>ganze Zimmer war voll Sonnenſchein und Roſenduft; es lohnte des Er-<lb/>wachens auch für ein ſorgenvolles Herz, ſelbſt wenn dem feſtlichen Tage<lb/>ſein volles Recht nicht werden ſollte.<lb/>
+            </p>
+            <p> <lb/>Es wurde ihm aber dennoch zu Theil. Mit dem erſten Bahnzug<lb/>kam der Vater, ein hübſcher, ſtattlicher Mann, noch in den beſten Jahren<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0744" n="1426" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=744"/>
+            </p>
+            <p> <lb/>wenn auch Sorge und Nachdenken vorzeitige Linien über die freie, edle<lb/>Stirn gezogen. In der Freude des Wiederſehens ſtrahlten die tief-<lb/>ſchwarzen Augen wie verjüngendes Licht über die ganze Erſcheinung aus,<lb/>die an und für ſich die einnehmendſte Wirkung auf Jeden machen mußte.<lb/>Das Licht ging in trüben Wolken unter, als er nach dem erſten Freuden-<lb/>austauſch des Wiederſehens zu der Frau ſagte:<lb/>
+            </p>
+            <p> <lb/>„Ich bringe die Entſcheidung, Marga, und denke, ich laſſe Dich<lb/>nicht im Ungewiſſen darüber, auch wenn ſie Schatten auf unſern Feſttag<lb/>wirft.“<lb/>
+            </p>
+            <p> <lb/>„Den Schatten löſcht der Gedanke aus, daß wir gemeinſam tragen<lb/>werden, was der Himmel uns nun einmal zu tragen auferlegt“, ſagte ſie<lb/>mit feſter Entſchloſſenheit.<lb/>
+            </p>
+            <p> <lb/>„Es iſt Alles vorbei“, fuhr der Mann fort. „Hartwig’s Falſchheit und<lb/>niedriger Eigennutz liegt klar zu Tage. Als er mir damals bei Uebernahme<lb/>der Fabrik, als ich ſo unerwartet die ſo bedeutende Capitalauszahlung<lb/>machen mußte und mein ganzes Streben darauf ging, dieſen Gläubiger<lb/>ſo bald als möglich los zu werden“ — er ſah ſeine Frau bedeutungsvoll<lb/>an, die einen leiſen Seufzer unterdrückte, während ihr Blick unverwandt<lb/>mit dem freundlichen Ausdruck des Einverſtändniſſes auf ihm ruhte —<lb/>„als er mir damals half", fuhr der Erzählende fort, „legte er die erſte<lb/>Schlinge zu dem Garn, in das ſein Opfer mit vertrauender Argloſigkeit<lb/>hineinging. Er hat mich vollſtändig in Händen; ich glaubte mich gebor-<lb/>gen; ich hielt ihn für einen Ehrenmann und mich ſeiner Freundſchaft<lb/>und Hülfe ſicher.<lb/>
+            </p>
+            <p> <lb/>„Er iſt es, der als mein unerbittlicher Gläubiger auftritt, und da<lb/>ich natürlich nicht zahlen kann, auf Subhaſtation angetragen hat. So<lb/>ſtand ſchon Alles, als ich Euch fortſchickte, ich verſchwieg es, weil ich noch<lb/>auf Aenderung von Hartwig’s Entſchlüſſen, auf anderweitige Hülfe, auf<lb/>Erlangung eines Capitals unter mäßigen Bedingungen hoffte, um die<lb/>Fabrik bei dem Verkauf für mich zurückerſtehen zu laſſen. Alles ver-<lb/>geblich.<lb/>
+            </p>
+            <p> <lb/>„Alle meine Bemühungen ſcheiterten an den Gegenbemühungen des<lb/>Feindes. Er triumphirt über mich und hat noch die Stirn, ſich als von<lb/>den Verhältniſſen dazu gezwungen darzuſtellen, hat die Stirn, zu be-<lb/>haupten, er habe mir helfen wollen und ſei nur durch unerwartete Ver-<lb/>luſte zu ſeinem jetzigen Verfahren gezwungen. Selbſthülfe nennt er ſeine<lb/>Perfidie. Mit dem vom Teufel erfundenen Wort: „Jeder iſt ſich ſelbſt<lb/>der Nächſte!" ſchreitet er über mich hinweg und ſetzt ſeinem ſchamloſen<lb/>Beginnen die Krone auf, indem er mir zumuthet, in der Fabrik, die er<lb/>mir ſtiehlt, in meinem Eigenthum, deſſen er mich beraubt, die Stelle<lb/>eines, <hi rendition="#aq">ſeines</hi> Werkmeiſters zu übernehmen."<lb/>
+            </p>
+            <p> <lb/>„Er muß Dir ſehr viel Gutes zutrauen, daß er Das thut!" ſagte<lb/>die Frau, mit einem Anflug von Bitterkeit.<lb/>
+            </p>
+            <p> <lb/>„Redlichkeit freilich", fuhr Jener fort, „aber Stolz nicht. Lieber<lb/>gehe ich als Tagelöhner in Arbeit, ehe ich dem herzloſen Schuft durch<lb/>meine Arbeit noch reich werden helfe. — In wenigen Tagen findet die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0745" n="1427" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=745"/>
+            </p>
+            <p> <lb/>Verſteigerung ſtatt. Hartwig hat dafür geſorgt, daß er der Meiſtbietende<lb/>bleiben wird“, fuhr er ſchwermüthig fort. „Ich entfloh vor dem Triumph<lb/>der Falſchheit und Habſucht. Habe nur jetzt Geduld mit mir. Wenn<lb/>das Letzte vorüber und der Gegenſtand jahrelanger Arbeit, Sorge und<lb/>Mühe in den Beſitz des Schufts übergegangen iſt, dann werde ich mich<lb/>ſelbſt wiederfinden, dann werde ich das Steuer wieder in die Hand<lb/>nehmen und ſehen, wie ich Euch durch die hohe See bringe. Jetzt wogt<lb/>Alles durcheinander in meinem Gehirn, ein Plan jagt den andern. Habe<lb/>Geduld und laß’ mir Ruhe und — ſprechen wir von anderen Dingen."<lb/>
+            </p>
+            <p> <lb/>Der Kinder Erzählungseifer half bald über die trübe Stimmung<lb/>fort und die Freude des langentbehrten Beiſammenſeins ſiegte über<lb/>den Druck.<lb/>
+            </p>
+            <p> <lb/>Die Kinder erzählten von ihrem geſtrigen Abenteuer, von den bei-<lb/>den alten Leuten im Roſenhaus, von der Freundlichkeit der Frau und<lb/>den zwei Geſichtern des alten Herrn, wie ſie den Widerſpruch nannten,<lb/>der zwiſchen ſeinen Worten und ſeinem Thun, zwiſchen den guten Augen<lb/>und dem Spott um die Lippen lag.<lb/>
+            </p>
+            <p> <lb/>Dem Vater war’s nicht recht, daß ſie das Bauer angenommen.<lb/>Krankhafte Reizbarkeit ſprach aus ſeiner Stimmung.<lb/>
+            </p>
+            <p> <lb/>„Laßt Euch keinerlei Verbindlichkeiten auferlegen“, ſagte er. „Ihr<lb/>habt die Kette am Fuß, Ihr wißt nicht wie."<lb/>
+            </p>
+            <p> <lb/>Die Mutter wagte ſchüchtern einen Widerſpruch.<lb/>
+            </p>
+            <p> <lb/>„Sollen ſie freundliche Hülfe und Dienſtleiſtungen ganz entbehren<lb/>und auch nicht leiſten dürfen?" fragte ſie. „Dann werden ſie nicht frei,<lb/>ſondern iſolirt ſein."<lb/>
+            </p>
+            <p> <lb/>„Lieber iſolirt als an <hi rendition="#aq">der</hi> Kette, die mich drückt“, ſagte er finſter.<lb/>Sie überging die Aeußerung.<lb/>
+            </p>
+            <p> <lb/>„Wir wollen ſehen, wie weit wir mit der Freundlichkeit der fremden<lb/>Menſchen fertig werden, ohne ſie durch Undankbarkeit zu kränken“, ſagte<lb/>ſie in ihrer lieblichen Weiſe, bemüht, zwiſchen der augenblicklichen<lb/>Schroffheit ihres Mannes und der Güte Fremder gegen ihre Kinder zu<lb/>vermitteln. Dann trug ſie letzteren auf, hinzugehen, ihren Dank für die<lb/>wunderſchönen Roſen und das geliehene Bauer zu ſagen, das ſie zurück-<lb/>ſchicken würden, ſobald ſie abreiſten, weil ſie dann doch dem Vogel die<lb/>Freiheit zurückzugeben gedächten.<lb/>
+            </p>
+            <p> <lb/>Die Kinder machten ſich gleich auf den Weg. Der Nachmittag<lb/>war ſchon vorgerückt. Sie mußten eilen, wollten ſie vor Dunkelwerden<lb/>zurück ſein.<lb/>
+            </p>
+            <p> <lb/>Sie fanden das Geſchwiſterpaar wieder im Garten und wurden<lb/>ſelbſt von dem Baurath mit einem Lächeln empfangen. Sie richteten<lb/>ihren Auftrag aus und erzählten freudeſtrahlend, daß der Vater ge-<lb/>kommen ſei.<lb/>
+            </p>
+            <p> <lb/>Zugleich mit ihnen war der Briefträger eingetreten, Frau Emilie<lb/>einen Brief überreichend.<lb/>
+            </p>
+            <p> <lb/>„Von Jettchen, von Seewalde“, ſagte ſie. „O, lieben Kinder,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0746" n="1428" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=746"/>
+            </p>
+            <p> <lb/>wartet einen Augenblick und ſetzt Euch einſtweilen. Ich will nur ſehen,<lb/>wie’s in der Heimat ſteht.“<lb/>
+            </p>
+            <p> <lb/>„Ob die Fichtennadeln gedeihen, ob die Mummeln auf Frühlings-<lb/>ſonne warten, ob der dürre Halm im dürren Sand in Aehren ſchießt“,<lb/>fügte der Baurath mehr in gutlaunigem Scherz, als ſpottend hinzu.<lb/>
+            </p>
+            <p> <lb/>Die Kinder lachten. Frau Emilie erbrach ihren Brief.<lb/>
+            </p>
+            <p> <lb/>„Das iſt für Dich, wie Jettchen ſchreibt“, ſagte ſie, ihrem Bruder<lb/>ein Zeitungsblatt reichend, und während er es verwundert durchſah, las<lb/>ſie ſtill für ſich ihren Brief, hier und da zu einer Stelle freundlich<lb/>nickend.<lb/>
+            </p>
+            <p> <lb/>„Emilie!" ſagte der Baurath.<lb/>
+            </p>
+            <p> <lb/>Sie erſchrak faſt vor dem Ton ſeiner Stimme. Sie erſchrak noch<lb/>mehr vor ſeinem Ausſehen. Entfeſſelte Leidenſchaft entſtellte ſeine Züge.<lb/>Er war leichenblaß vor Aufregung. Die Hand, mit der er auf das<lb/>Zeitungsblatt wies, zitterte.<lb/>
+            </p>
+            <p> <lb/>„Gottesgericht!“ ſagte er mit einer Stimme, die im vergeblichen<lb/>Ringen nach Ruhe und Feſtigkeit ſchneidend ſcharf klang.<lb/>
+            </p>
+            <p> <lb/>„Verrath und Undankbarkeit haben ihren Lohn erhalten. Hier<lb/>ſteht’s. Der Alpendal’ſche Eiſenhammer wird auf dem Wege der Sub-<lb/>haſtation verkauft. Der Termin iſt ſchon angeſetzt. Felix Giovanoli hat<lb/>bankerott gemacht auf einem Eigenthum, das er ſich durch den undenk-<lb/>barſten Verrath erſchlichen hat. Ihm geſchieht recht."<lb/>
+            </p>
+            <p> <lb/>Er ſchwieg erſchöpft.<lb/>
+            </p>
+            <p> <lb/>„Aber das iſt ja der Vater!" ſagte Käthe erſchrocken.<lb/>
+            </p>
+            <p> <lb/>„Aber das iſt ja nicht wahr! Schämen Sie ſich, ſo etwas zu<lb/>ſagen!“ fuhr Martin auf und trat, flammenden Zorn in den Augen,<lb/>vor den Baurath hin.<lb/>
+            </p>
+            <p> <lb/>„Was iſt denn? — was wollen die Kinder?“ fragte dieſer, ganz<lb/>in dem einen Gedanken verſunken, zerſtreut.<lb/>
+            </p>
+            <p> <lb/>Frau Emilie hatte ihren Arm um die Kleine geſchlungen, mit der<lb/>andern Hand ergriff ſie die des Knaben und drängte ſie mit ſanfter<lb/>Gewalt zum Garten hinaus. Sie ließen es ſich willenlos gefallen, aber<lb/>Martin weinte vor Zorn und Wuth und die kleine Käthe ſah ganz ver-<lb/>ſtört aus.<lb/>
+            </p>
+            <p> <lb/>„Wenn ich groß ſein werde, werde ich ihm die Lüge ſchon einträn-<lb/>ken!" drohte der aufgeregte Knabe.<lb/>
+            </p>
+            <p> <lb/>„Wenn Du groß ſein wirſt, liegt der alte Mann, dem Du drohſt,<lb/>vielleicht ſchon im Grabe, wirſt Du vielleicht wiſſen, daß Manches nur<lb/>ein Irrthum iſt, was wie Lüge ausſieht“, entgegnete Emilie ernſt. Ihr<lb/>entſchiedener und doch gütiger Ton beruhigte einigermaßen die Aufregung<lb/>der Kinder.<lb/>
+            </p>
+            <p> <lb/>„Sie glauben es nicht, nicht wahr?“ bat Käthe mit rührender<lb/>Miene.<lb/>
+            </p>
+            <p> <lb/>„Mag’s glauben wer will, wahr iſt es nicht!“ ſagte trotzig Martin.<lb/>
+            </p>
+            <p> <lb/>Während ſie ſo ſprachen, waren die Kinder vorwärts geſchritten,<lb/>Frau Emilie mit ihnen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0747" n="1429" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=747"/>
+            </p>
+            <p> <lb/>„Es iſt viel leichter, das Gute zu glauben als das Schlimme, und<lb/>es macht auch viel glücklicher. Mein armer Bruder!“ ſagte ſie.<lb/>
+            </p>
+            <p> <lb/>Martin ballte ſchweigend die Fauſt. Käthe ſchmiegte ſich innig<lb/>an ſie.<lb/>
+            </p>
+            <p> <lb/>„Nun ſeid vernünftig. Geht nach Hauſe und vergeßt, was Ihr<lb/>gehört habt“, ermahnte Frau Emilie die Kinder. „Es wird ein Irrthum<lb/>ſein; er wird ſich aufklären, je weniger vorher davon geſprochen wird,<lb/>um ſo beſſer.“<lb/>
+            </p>
+            <p> <lb/>„Ich werde dem Vater kein Wort ſagen. Er hat Kummer genug.<lb/>Er braucht nicht zu wiſſen, daß ſchlechte Menſchen ihn ſchimpfen, aber<lb/>wenn ich groß bin — in drei Jahren werde ich es ſein!"<lb/>
+            </p>
+            <p> <lb/>„Gut, ſo lange ſchenke meinem Bruder noch das Leben, kleiner<lb/>Bramarbas“, ſagte Frau Emilie mit gutmüthigem Scherz.<lb/>
+            </p>
+            <p> <lb/>„Weißt Du, was ich thun würde, wenn ich ein Kind wäre, das<lb/>eben noch keinen Menſchen zur Verantwortung ziehen kann, und dem<lb/>es ſchlecht läßt, alten Leuten zu drohen und ſie zu ſchelten? Ich würde<lb/>ſagen: ich kenne meinen Vater. Damit gut. Und dann würde ich Gott<lb/>bitten, Denen die Augen zu öffnen, die ihn nicht kennen.“<lb/>
+            </p>
+            <p> <lb/>„O, es iſt ganz gleich, es braucht ihn auch keiner zu kennen“,<lb/>ſchluchzte Martin.<lb/>
+            </p>
+            <p> <lb/>„Es wird Jedem auf der Welt einmal paſſirt ſein, daß ihm un-<lb/>recht geſchah, und es werden Viele ſein, denen wir unrecht thun“ —<lb/>fuhr Frau Emilie fort.<lb/>
+            </p>
+            <p> <lb/>„Ich werde Keinem ſagen, daß ſein Vater ein undankbarer Ver-<lb/>räther iſt“, entſchuldigte ſich Martin.<lb/>
+            </p>
+            <p> <lb/>„Aber Du haſt nun geſagt, daß mein Bruder ein Lügner iſt. Er<lb/>wußte nicht, in weſſen Gegenwart er ſprach, aber Du wußteſt es, mein<lb/>kleiner Kampfhahn. Geh, Du biſt ein gutes Kind und biſt tapfer für<lb/>Deinen Vater eingetreten. Aber Du wirſt ihm viel beſſere Dinge zu Liebe<lb/>thun können, als daß Du einen alten Mann um ſeinetwillen ſchimpfſt.“<lb/>
+            </p>
+            <p> <lb/>Martin trocknete ſeine Thränen ab. „Verzeihen Sie. Sie ſind<lb/>gut“, ſagte er. „Ihnen zu Liebe will ich nichts mehr ſagen. Aber wenn<lb/>ich groß bin, ſoll er mir’s wiederholen oder meinem Vater abbitten, ſo<lb/>wahr ich lebe. Komm, Käthe."<lb/>
+            </p>
+            <p> <lb/>Er zog die Schweſter mit ſich fort.<lb/>
+            </p>
+            <p> <lb/>„Wir ſagen kein Wort zu Hauſe“, gebot dieſer. „Der Vater würde<lb/>es nicht auf ſich ſitzen laſſen, und was ſollte die Mutter machen, wenn<lb/>— kein Wort Käthe, Deine Hand darauf.“<lb/>
+            </p>
+            <p> <lb/>Feierlich legte dieſe ihre Hand in die des Bruders. Es war<lb/>Beiden ſo ſeltſam zu Muth, ſo als hätten ſie etwas recht Schweres er-<lb/>lebt und eine wichtige Miſſion zu erfüllen, die den heiligſten Ernſt er-<lb/>forderte.<lb/>
+            </p>
+            <p> <lb/>„Das Vogelbauer tragen wir aber nicht ſelbſt zurück, wenn wir<lb/>abreiſen, und an dem Roſenhaus gehen wir nicht mehr vorüber“, ſagte<lb/>Käthe, als müſſe ſie doch auch etwas für die Ehre des Vaters thun, da<lb/>ſie ſich nicht für ihn ſchlagen durfte, ſelbſt wenn ſie erwachſen war.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0748" n="1430" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=748"/>
+            </p>
+            <p> <lb/>Emilie fand ihren Bruder, in düſteres Sinnen verloren, im Garten<lb/>auf- und abgehend. Sie holte ihre Arbeit und ſetzte ſich ſtill auf den<lb/>Platz, den ſie beim Eintreten der Kinder verlaſſen. Es war heut’ be-<lb/>ſonders lebendig im Ort. Es wimmelte von Studenten, die eine Ferien-<lb/>reiſe machten. Den Alpenſtock in der Sand, die blaue Genziane am<lb/>Hut, ſchwärmten ſie wie luſtige Sommervögel durch die Berge. Auch<lb/>am Garten vorbei kam ein Trupp.<lb/>
+            </p>
+            <p> <lb/>„Auf den Bergen wohnt die Freiheit“, ſangen ſie mit helllautem<lb/>Jubelton. Einer brach eine Roſe von der Hecke und warf dieſelbe in<lb/>den Garten.<lb/>
+            </p>
+            <p> <lb/>„Dornröschen, wach auf!" rief er luſtig.<lb/>
+            </p>
+            <p> <lb/>Die Roſe fiel zu des Bauraths Füßen. Es zuckte ihm in denſelben<lb/>ſie fortzuſtoßen, aber er beſann ſich eines Andern. Er ſchritt ſo vorſich-<lb/>tig darüber hinweg, als ſei ein Zauber an dieſelbe geknüpft.<lb/>
+            </p>
+            <p> <lb/>Es war ſchon ziemlich dunkel, als er ſeine Wanderung einſtellte,<lb/>einen Stuhl nahm und ſich zur Schweſter tief in den Schatten des<lb/>Nußbaumes ſetzte, der ſein duftendes grünes Blätterdach über den Ab-<lb/>hang breitete, von dem aus ſie gerade hinüber zu den Diablerets und<lb/>auf den Ort zu ihren Füßen blickten, in dem ſchon einzelne erleuchtete<lb/>Fenſter wie Leuchtkäferchen durch das Grüne der Bäume blitzten.<lb/>
+            </p>
+            <p> <lb/>„Ich kann Dir mit wenigen Worten die Geſchichte erzählen, Emilie“,<lb/>fing der Baurath an. „Ich fand in Dresden meinen Freund Alpendal<lb/>wieder, der dorthin kam, Hochzeit zu machen. Wir knüpften die früheren<lb/>Beziehungen wieder an. Er hatte den Eiſenhammer übernommen und<lb/>ich beſuchte ihn dort ein paar Mal. Die Frau ſtarb im erſten Wochenbett.<lb/>Das war ſein Unglück. Von da an warf er ſich auf die leichte Seite,<lb/>erſt aus Kummer und Ueberdruß, dann aus Gewohnheit. Die Frau<lb/>hatte ihn gehalten, die kleine Marga übte durch ihr unſchuldiges Daſein,<lb/>durch ihre Hülfsbedürftigkeit, ihre natürlichen Anſprüche an ihn nicht<lb/>annähernd den Einfluß aus, deſſen es bedurft hätte, ihn auf der ſchiefen<lb/>Ebene ſeines Lebens aufzuhalten. Er entäußerte ſich ihrer, die ihm un-<lb/>bequem war, ſobald als möglich und gab ſie nach Dresden in Penſion.<lb/>Ich beſorgte ihm die Sache. Ich kannte eine gute einfache Familie, die<lb/>ſie in Penſion nahm, ich überwachte ihren Unterricht, ſuchte die Lehrer<lb/>auf, unter meinen Augen erwuchs ſie"<lb/>
+            </p>
+            <p> <lb/>„Da vertrateſt Du ja ganz den Vater“, ſchaltete Emilie ein.<lb/>
+            </p>
+            <p> <lb/>„Aeußerlich ja, innerlich wuchſen mir die Jünglingsgefühle über<lb/>den Kopf, die ich verleugnet hatte, als mir mein Alter das Recht dazu<lb/>gab“, fuhr der Baurath fort. „Ich liebte das Kind ſchon, als es kaum<lb/>zu meinen Knieen hinaufreichte, damals freilich ohne vorauseilenden<lb/>Gedanken. Ich liebte das kleine Schulmädchen, das mich Onkel nannte<lb/>und alltäglich ihre Schulmappe bei mir auskramte, ihre Arbeiten an<lb/>dem Tiſch machte, an dem ich meine Baupläne zeichnete. Ich begleitete<lb/>ſie nach dem Eiſenhammer, wenn ſie auf Ferien reiſte, ich holte ſie wie-<lb/>der ab. Ich war wie ihre Kinderfrau. Ich hatte immer Zeit für ſie<lb/>und hätte eher ein Haus einſtürzen laſſen, als ihr einen Wunſch ver-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0749" n="1431" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=749"/>
+            </p>
+            <p> <lb/>ſagen können. Sie hing mit rührender Zärtlichkeit an dem Vater, der<lb/>ſich doch ſo wenig um ſie kümmerte. Ihretwegen hielt ich die Freund-<lb/>ſchaft aufrecht. Ihretwegen half ich ihm, als ſein nichtsnutziger, leicht-<lb/>ſinniger Lebenswandel ihn dem Bankerott nahe gebracht. Marga war<lb/>damas fünfzehn Jahre und, eben eingeſegnet, in das Vaterhaus zurück-<lb/>gekehrt. Ich wußte damals ſchon, daß ich ſie wie wahnſinnig liebte, aber<lb/>ich wußte noch nicht, was damit zu machen ſei. Da beſchied ein Brief<lb/>ihres Vaters mich nach dem Eiſenhammer. Ich fand ihn, wie geſagt,<lb/>dem unvermeidlichen Bankerott nahe. Ich trat mit meinem ganzen<lb/>Vermögen ein, ihm zu helfen. Ich hatte Marga nichts davon geſagt,<lb/>aber er. In Thränen der Dankbarkeit aufgelöſt, hing das Mädchen an<lb/>meinem Halſe. Das ſtille ſanfte Kind war ganz außer ſich.<lb/>
+            </p>
+            <p> <lb/>„„O, ſag mir doch, Onkel, was ich Dir zu Liebe thun kann“, bat<lb/>ſie mich in voller Unſchuld ihrer, in voller Unkenntniß meiner Gefühle.<lb/>„Ich wollte, ich hätte ſo recht etwas Koſtbares, was Dir Freude macht<lb/>und was ich Dir geben könnte", fuhr ſie fort und ſie ſah mit ihren<lb/>unwiderſtehlichen Augen in die meinen.“<lb/>
+            </p>
+            <p> <lb/>Der Baurath ſchwieg eine Weile, ehe er fortfuhr.<lb/>
+            </p>
+            <p> <lb/>„Ich bin ein alter Kerl. Die Leidenſchaft iſt verraucht und die Liebe<lb/>nur noch eine Erinnerung. Aber damals — — mir war zu Muth,<lb/>als durchlebte ich das Goethe’ſche Zauberlied:<lb/>
+            </p>
+            <p> <lb/>„Halb zog ſie ihn, halb ſank er hin —“<lb/>
+            </p>
+            <p> <lb/>Nur war’s dort eine Sirene, hier ein Kind, keuſch und rein wie die<lb/>Schneeglöckchen, die durch den Schnee unbewußt dem Frühling zuſtreben.<lb/>Ich gewann es über mich, ſie nicht ſtürmiſch an’s Herz zu drücken und ſie<lb/>zu fragen, ob ſie mein ſein wolle. Ich ſcheute mich vor dem Ja, das<lb/>die Dankbarkeit vielleicht der Liebe vorausſchickte. Ich ſagte ihr nur,<lb/>daß ich ſie ein Mal beim Wort halten, daß ich ſie ſpäter um etwas bitten<lb/>würde. — Sie erröthete lieblich. Ich wußte nicht, hatte ſie mich ver-<lb/>ſtanden, oder trieb nur Ahnung ihr das Blut in die Wangen. Mit dem<lb/>Vater beſprach ich’s allen Ernſtes. Er gab mir freudig ſeine Einwilli-<lb/>gung. Er hätte es gern gleich auf friſcher That in’s Reine gebracht.<lb/>Ich forderte noch ein Jahr der Freiheit für Marga. Sie ſollte das<lb/>Leben, ſollte ſich erſt kennen lernen. Es war mir Gewiſſensſache, ſo zu<lb/>handeln, ich zagte, Feſſeln um das Kindesherz zu ſchlingen. Ich blieb<lb/>nur ſo lange, bis die Verhältniſſe geordnet waren. Wie es ſich nach<lb/>genommener Einſicht zeigte, war nicht nur Alpendal’s Verſchwendung,<lb/>war auch ſeine Geſchäftsunkenntniß mit Schuld an dem gedrohten Fall.<lb/>Er war vielfach gemißbraucht und betrogen worden. Eine Erneuerung<lb/>eines Theils des Perſonals war unerläßlich, vor Allem eine zuverläſſige,<lb/>mit der Buchführung vertraute Perſönlichkeit. Mir fiel Felix ein, der<lb/>eine ſolche Stellung in einer großen ſüddeutſchen Fabrik bekleidete.<lb/>Mir zu Liebe gab er ſie auf und kam. Er war ein ſtrebſamer Menſch<lb/>und hatte auch allerlei Kenntniß vom Maſchinenweſen, was hier weſent-<lb/>lich von Nutzen ſein konnte.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0750" n="1432" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=750"/>
+            </p>
+            <p> <lb/>„Meine Hülfe für Alpendal war rechtzeitig genug gekommen, allen<lb/>Eclat abzuwenden. Mit Gewißheit wußte Niemand um die überſtandene<lb/>Kriſe. Es lag nicht weiter in Alpendal’s Intereſſe, daß Felix etwas<lb/>darüber erfuhr. Ich ſagte ihm nur, daß es ihm läſtig und langweilig<lb/>ſei, ſich um ſein Geſchäft zu bekümmern, und daß er ſich am liebſten<lb/>ganz davon zurückziehen würde, wenn er Jemand fände, es an ſeiner<lb/>Stelle und für ihn zu führen Daß mein Vermögen in der Fabrik<lb/>ſteckte, ſagte ich nicht. Ich ſah keinen Grund dazu ein. Wol aber deutete<lb/>ich mein Verhältniß zu Marga an und ſprach ſo unverblümt meine<lb/>Hoffnungen in Betracht der Zukunft aus, daß ich gewiß zu ſein glaubte,<lb/>mich vor jeder Nebenbuhlerſchaft ſeinerſeits geſichert zu haben. Dann<lb/>reiſte ich ab. Die Zeit meines Fernſeins verlängerte ſich gegen meine<lb/>Abſicht. Marga’s Briefe ſteigerten meine Leidenſchaft gerade durch die<lb/>Kindlichkeit, die ſich in denſelben ausſprach. Ich war mit Geſchäften<lb/>überhäuft, die mich über das Jahr hinaus, das ich mir für ſie als<lb/>Prüfungszeit gedacht, in Dresden feſſelten. In der peinlichſten Ungeduld<lb/>riß ich vergebens an der Kette, die mich hielt. Da ſprengte ſie ein<lb/>hülferufender Brief Marga’s. Ihr Vater war im Sterben. Ich eilte<lb/>hin und fand ihn bereits todt. An ſeinem Sterbebett hatten Felix und<lb/>Marga ſich verlobt. Es ſei über ſie Beide gekommen, ſie wiſſe nicht<lb/>wie, ſagte ſie. Sie habe nicht an Liebe gedacht und er ſie ihr nicht ge-<lb/>zeigt. Aber in dem Jammer habe er ſie an ſein Herz gezogen, und da<lb/>habe ſie auf einmal gewußt, daß ſie ihn liebe, daß er nun ihr höchſtes<lb/>Gut auf der Welt ſei, dann ſei ihm auch das Herz über die Lippen ge-<lb/>ſtürmt, und er habe es ihr nicht länger verſchweigen können, daß ohne<lb/>ſie auch für ihn kein Glück auf der Welt mehr denkbar ſei.<lb/>
+            </p>
+            <p> <lb/>„Ich vermochte es nicht, dem Mädchen zu zürnen. Ich hatte ſie<lb/>zu lieb; den Buben aber nahm ich vor“ — fuhr der Baurath nach<lb/>einer kleinen Pauſe mit ausbrechendem Grimme fort, „den Buben, der<lb/>wiſſend ſeinem Wohlthäter die letzte einzige Hoffnung auf Lebensglück<lb/>geraubt, dem ich das erbärmliche Leben gerettet, dem ich Spielraum<lb/>gegeben, im Leben aufwärts zu ſteigen, deſſen Glück ich gemacht, und<lb/>der ſich dafür an dem meinen vergriff. O, es war eine Erleichterung,<lb/>meinen Zorn und Haß, meine Verachtung auf ihn herab zu donnern.<lb/>Er wollte mich überreden, daß es auch über ihn gekommen, er wiſſe nicht<lb/>wann und wie, daß er es nicht gewollt, aber es gemußt habe. Der<lb/>Elende! Ich glaubte ihm kein Wort. Da zeigte er mir ſein wahres<lb/>Geſicht. Er biß die Lippen trotzig zuſammen.<lb/>
+            </p>
+            <p> <lb/>„„Und wenn nichts auf der Welt, ſo iſt die Liebe frei“, ſagte er,<lb/>„und eine Sünde wär’s gegen ein unſchuldiges Mädchenherz, eine Sünde<lb/>wider die Natur, die heilige Stimme des Herzens zu tödten aus Rück-<lb/>ſichten der Dankbarkeit, ein Mord der Liebe, vor dem ihn die Unſchuld<lb/>ſelbſt, vor dem Marga ihn geſchützt, indem ſie ſich an ſein Herz geworfen<lb/>und im Uebermaß des Jammers dort den Schutz geſucht, wohin tauſend<lb/>heilige Stimmen der Natur ſie geriſſen. Es ſei ihm ein Schmerz, mich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0751" n="1433" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=751"/>
+            </p>
+            <p> <lb/>damit zu kränken, es werde Schatten auf ſein Glück werfen, daß er mir<lb/>den Traum zerſtöre, der für ihn Wirklichkeit geworden ſei —“<lb/>
+            </p>
+            <p> <lb/>„Ich gebot ihm Schweigen. Jedes ſeiner Worte höhnte den<lb/>Schmerz, der mich beinahe wahnſinnig machte. Hohn gegen Hohn.<lb/>
+            </p>
+            <p> <lb/>„Er wagte es, mir für empfangene Wohlthaten danken zu wollen.<lb/>
+            </p>
+            <p> <lb/>„„Du wirſt ſie auch ferner nicht entbehren können“, ſagte ich ſcharf.<lb/>„Ziehe ich meine Hand von Dir ab, ſo biſt Du ruinirt. Mit meinem<lb/>Vermögen wird der Eiſenhammer weiter geführt. Ich kann es jeden<lb/>Augenblick zurückfordern; ich würde es thun, wenn nicht Marga wäre,<lb/>aber das weißt Du —“<lb/>
+            </p>
+            <p> <lb/>„Er ließ mich nicht ausſprechen.<lb/>
+            </p>
+            <p> <lb/>„„Ich nehme die Kündigung an“, ſagte er mit einer Miene, deren<lb/>Stolz mir nicht im Mindeſten imponirte. „Zu welchem Termin ſoll<lb/>die Rückzahlung erfolgen?“ ſetzte er in derſelben Weiſe hinzu.<lb/>
+            </p>
+            <p> <lb/>„Ich kehrte ihm den Rücken und ging. Ich mochte kein Wort mehr<lb/>über die Sache verlieren und dachte, es würde ihm wol bald klar werden,<lb/>daß ſein hochmüthiges Gebahren, das mir gegenüber ihm am wenigſten<lb/>zieme, weder Credit noch Geld zu ſchaffen im Stande ſei, daß er ſich<lb/>wol werde drein finden müſſen, auch noch länger mein Schuldner zu<lb/>bleiben.“<lb/>
+            </p>
+            <p> <lb/>Wieder ſchwieg der Baurath. Dann ſchloß er mit ſichtlicher<lb/>Selbſtüberwindung ſeine Mittheilung, indem er fortfuhr:<lb/>
+            </p>
+            <p> <lb/>„In Zeit von einem halben Jahr zahlte er mir meine Vorſchüſſe<lb/>bei Heller und Pfennig zurück. Wer ihm dazu verholfen, weiß ich nicht,<lb/>aber wahrſcheinlich ſtürzt an ſeinem damaligen Stolz heute das Ge-<lb/>bäude zuſammen.“<lb/>
+            </p>
+            <p> <lb/>Er ſchwieg. Frau Emilie ſtand auf, ging zum Bruder hin und<lb/>küßte ihn innig auf die Stirn.<lb/>
+            </p>
+            <p> <lb/>„Armer, guter, alter Bruder, wie ſchade, daß Du das unedelmüthige<lb/>Wort, daß Du die häßliche Drohung ausgeſprochen. Es hat Dir ſelbſt<lb/>leid gethan, was hilft’s, es iſt doch vielleicht ein Familienglück daran<lb/>zu Grunde gegangen. Das Andere hat Alles ſeinen richtigen natürlichen<lb/>Verlauf gehabt. Es war ſchmerzhaft, aber keine Schuld für Dich dabei.<lb/>Die Schuld iſt die ſchlimmſte Kette, die man mit ſich durch’s Leben ſchleppt.<lb/>Bei allen anderen, die die Leidenſchaft um uns ſchlingt, läßt ſich mit-<lb/>unter noch eine trügeriſche Befriedigung herausfinden, von jener fühlt<lb/>man nur den Druck. Armer Heinrich! — jetzt begreife ich Dein Miß-<lb/>trauen. Du trauteſt Dir ſelbſt nicht mehr."<lb/>
+            </p>
+            <p> <lb/>Sie küßte ihn noch einmal. Sie gab immer Liebe dazu, wenn ſie’s<lb/>nicht laſſen konnte, Verſtand zu geben. Ueberflüſſig iſt es ja nie. Dann<lb/>huſchte ſie an dem Bruder vorüber, der betroffen zu ihr aufblickte, ging<lb/>in’s Haus und zog ſich in ihr Schlafzimmer zurück.<lb/>
+            </p>
+            <p> <lb/>Es giebt Geſchichten, die am beſten mit einem Gedankenſtrich<lb/>ſchließen, und die herabſinkende Nacht mit ihrer tiefen Stille und traum-<lb/>geſchmückten Einſamkeit ſchienen ihr den beſten Raum dazu zu bieten.<lb/>
+            </p>
+            <p> <lb/>Es währte lange bis Heinrich in’s Haus kam. Wol über eine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0752" n="1434" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=752"/>
+            </p>
+            <p> <lb/>Stunde ſah ſie ihn noch im Garten auf und nieder ſchreiten. Als ſie<lb/>die Thür des Hauſes zuklinken hörte, löſchte ſie ihr Licht aus. Der<lb/>Bruder ſollte glauben, ſie ſei zu Bett gegangen.<lb/>
+            </p>
+            <p> <lb/>Am andern Morgen ſchlug Heinrich ihr vor, das Roſenhaus zu<lb/>verlaſſen und für einige Zeit nach der einige tauſend Fuß höher gelege-<lb/>nen Villa hinaufzuziehen.<lb/>
+            </p>
+            <p> <lb/>Sie verſtand ſeine Abſicht. Er ſcheute es, Felix zu begegnen. Sie<lb/>hatte auf eine andere Wendung gehofft, aber es war nicht ihre Art,<lb/>nachdem ſie ihre Meinung ausgeſprochen, Entſchlüſſe beeinfluſſen zu<lb/>wollen, die nur Werth haben können, wenn ſie in der eigenen Seele ge-<lb/>boren ſind.<lb/>
+            </p>
+            <p> <lb/>Sie packte eilig zuſammen, was ſie für kurze Zeit zu brauchen<lb/>gedachte. Sie glaubte an einen längern Aufenthalt nicht. Sie war fröh-<lb/>lich geſtimmt, der Bruder ſtill und ernſt.<lb/>
+            </p>
+            <p> <lb/>Sie ſchickten ihre Köfferchen zu Wagen hinauf. Sie ſelber zogen<lb/>die Fußwanderung vor. Sie waren ſchon oben geweſen und kannten die<lb/>Straße dorthin, die ſich vielfach durch Richtwege abkürzen läßt. Es war<lb/>noch früh, als ſie die Wanderung antraten. Mit köſtlicher Friſche wehte<lb/>die Morgenluft, kühle Waldſchluchten durchſchritten ſie, durch die der<lb/>Avençon brauſte, wie von neckiſchen Kobolden gejagt, er ſelber der luſtig-<lb/>ſten einer. Dann ging’s hohe Weinberge hinauf, auf deren Scheitel<lb/>die Sonne brannte. Immer tiefer hinunter ſanken die lachenden Thäler.<lb/>
+            </p>
+            <p> <lb/>Der reizende Pfad, der nach Pont de Kan führt, wand ſich tief<lb/>unten in anmuthigen Schlangenlinien durch das grüne Land, auf der<lb/>Grionne dunkelblauen Wogen breitete die Morgenſonne goldenen Schleier<lb/>aus. Sennhütten auf den Bergen und Dörfer in den Schluchten belebten<lb/>die Landſchaft.<lb/>
+            </p>
+            <p> <lb/>Ueber den grünen Höhen leuchtet der Schnee der fernen Savoyer<lb/>Alpen, mit ſilbernem Glanz ſtrahlt der Fels von Argentine eine Fluth<lb/>von Licht dem Auge entgegen.<lb/>
+            </p>
+            <p> <lb/>Einſam auf anſteigendem Plateau liegt das Hôtel Grand Move-<lb/>ran. Ein Kranz von Schneebergen ſchließt den Blick ab, grüne Tannen,<lb/>ſchwellendes Gras und Blumen gedeihen unter dem Scepter des auf den<lb/>Bergen herrſchenden Winters.<lb/>
+            </p>
+            <p> <lb/>Das Hôtel war von Gäſten angefüllt. Mit Mühe erlangte das<lb/>Geſchwiſterpaar noch zwei Stübchen. Von einſamen Leben war hier<lb/>nicht die Rede, aber Frau Emilie hatte im Augenblick kein offenes Herz<lb/>für die Geſelligkeit. So ſchön es oben war, die Tage hatten bleierne<lb/>Flügel. Von jedem anbrechenden Morgen erwartete ſie die Löſung des<lb/>Räthſels, das in ihres Bruders ſeltſamer Unruhe, ſeinen, wenn nicht<lb/>finſteren, ſo doch verſchloſſenen Zügen, ſeiner oft aufgeregten Stimmung<lb/>zu liegen ſchien.<lb/>
+            </p>
+            <p> <lb/>Unten, im Haus an der Rhone, herrſchten ähnliche Zuſtände. Auch<lb/>da wurde der Termin, der das letzte Wort über eine zwar arbeits- und<lb/>mühevolle Vergangenheit ſprechen ſollte, mit krankhafter Spannung er-<lb/>wartet.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0753" n="1435" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=753"/>
+            </p>
+            <p> <lb/>Es handelte ſich bei der Verſteigerung der Fabrik doch mehr oder<lb/>weniger um die Höhe der Summe, die dabei herauskam, die vielleicht<lb/>einen Ueberſchuß für die ganz mittelloſe Familie ergab.<lb/>
+            </p>
+            <p> <lb/>Wie ein tiefer dunkler Schatten lag dieſe Ungewißheit auf der<lb/>Seele des unglücklichen Mannes. Die milde Freundlichkeit der Frau,<lb/>ihr Bemühen, ſich und ihn über den Wogen zu erhalten, die Beweglich-<lb/>keit der Kindergemüther, nichts vermochte ſeinen wachſenden Trübſinn<lb/>zu hemmen.<lb/>
+            </p>
+            <p> <lb/>„Habt nur Geduld, nach der Entſcheidung wird es beſſer werden“,<lb/>ſagte er manchmal.<lb/>
+            </p>
+            <p> <lb/>Sie hatten Alle Geduld, d. h. ſie hatten Alle die Liebe, die nicht<lb/>an ſich ſelbſt denkt, die den Kummer, die eigene Sorge hintenanſetzt, um<lb/>Dem, der ſeine Laſt nicht zu tragen vermag, mit wolkenloſer Stirn Muth<lb/>zurufen zu können.<lb/>
+            </p>
+            <p> <lb/>Am ſchlimmſten war es, nachdem der zur Subhaſtation beſtimmte Tag<lb/>vorübergegangen und nun jede Stunde die Entſcheidung bringen konnte.<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>„Wenn die Nachricht kommt, brecht den Brief auf, ich muß in die<lb/>Berge, mir Lebensluft holen“, ſagte Felix. „Ich habe keine Ruhe. Ich<lb/>kann hier nicht müßig ſitzen und harren."<lb/>
+            </p>
+            <p> <lb/>Auf ſeiner Stirn perlte der Schweiß.<lb/>
+            </p>
+            <p> <lb/>„Wenn ich meinen Stolz früher gebrochen hätte", ſagte er leiſe.<lb/>„Was hatte ich gegen meinen Wohlthäter ſtolz zu ſein, auch noch ſtolz,<lb/>nachdem der Himmel mir zugeſprochen, was ſeines Herzens innigſtes<lb/>Verlangen war. Es wäre heut’ anders ohne die Kette, die mir der un-<lb/>gehörige Stolz überwarf, an der ich mich nun durch’s Leben ſchleppen<lb/>muß.“<lb/>
+            </p>
+            <p> <lb/>Er ſtürmte fort. Marga’s flehender Blick hielt ihn nicht zurück.<lb/>Das Wort, das Zwang ausüben ſollte, wagte ſie nicht. Sie fühlte ihm<lb/>den Sturm und Drang nach, der ihn in die Berge, in die Einſamkeit<lb/>trieb. Durch alle Sorge und Beängſtigung hindurch ging ein Hoffnungs-<lb/>ſtrahl in ihrer Seele auf, als Martin zuverſichtlich ſagte:<lb/>
+            </p>
+            <p> <lb/>„Der liebe Gott wird ihn oben ſchon finden. Sei nur ruhig, liebe<lb/>Mutter!" Und dabei glänzten des Knaben wunderſchöne Augen, als<lb/>hätten ſie ſich eben auch von oben, wo der liebe Gott die Menſchen<lb/>findet, den Strahl geholt, der ſüßen Troſt in der Mutter Herz ſenkte.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>Vor dem Hôtel des Grand Moveran hielten am Morgen deſſelben<lb/>Tages zwei Pferde, das eine, von einem ſchwarzäugigen jungen Burſchen<lb/>geführt, mit einem Damenſattel.<lb/>
+            </p>
+            <p> <lb/>Frau Emilie war ſtarr vor Erſtaunen, als ihr Bruder eintrat und<lb/>ihr mit einem Geſicht, das eitel Frohſinn ausſtrahlte, einen Ritt nach<lb/>dem Chamoſſaire hinauf vorſchlug.<lb/>
+            </p>
+            <p> <lb/>„Was iſt los?“ fragte ſie unwillkürlich.<lb/>
+            </p>
+            <p> <lb/>„Ein wunderſchöner Morgen, ſo kommt er nicht wieder“, ſagte er<lb/>halb lächelnd, halb bedeutungsvoll. Sie enthielt ſich weiterer Fragen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0754" n="1436" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=754"/>
+            </p>
+            <p> <lb/>„Auf den Bergen wohnt die Freiheit“, ſagte ſie nur.<lb/>
+            </p>
+            <p> <lb/>„Vielleicht! — wir wollen ſehen“, entgegnete er mit friſchem Ton.<lb/>
+            </p>
+            <p> <lb/>Sie wußte genug und hoffte Alles. In wenigen Minuten war ſie<lb/>zu dem Ausflug bereit. Sie hatte nie auf einem Pferde geſeſſen. Es<lb/>dauerte eine Weile, ehe ſie mit dem Aufſitzen zu Stande kam, ehe ſie<lb/>begriff, daß die Gabel, von der ihr Bruder ſprach, nicht eine Tiſchgabel,<lb/>ſondern eine Vorrichtung am Sattel war, die ihr Stütze und Halt<lb/>geben ſollte.<lb/>
+            </p>
+            <p> <lb/>Die beiden alten Leute lachten wie die Kinder über ihre Unwiſſen-<lb/>heit, ihr naives Erſtaunen und über all’ die Proceduren, ehe ſie ſich<lb/>heimiſch auf dem ungewohnten Platz fühlten.<lb/>
+            </p>
+            <p> <lb/>Dann ging’s bergaufwärts, erſt allmälig, einen ſchön beſchatteten,<lb/>ſanft anſteigenden Pfad. Dann lag eine ſich ſteil erhebende grüne Trift<lb/>ohne Weg und Steg vor ihnen.<lb/>
+            </p>
+            <p> <lb/>„Da hinauf?“ fragte Emilie. Der Führer nickte.<lb/>
+            </p>
+            <p> <lb/>Sie ſchüttelte den Kopf. Aber: „nur zu!" ſagte ſie lachend. Es<lb/>ſchien ihr, als ginge es direct in den Himmel. Es führen viele Wege<lb/>hinauf, auch manch’ ſolcher, vielleicht, der wie dieſer auf der Trift<lb/>immer im Zickzack führt, vor dem Hinuntergleiten zu bewahren.<lb/>
+            </p>
+            <p> <lb/>Oben weidete Vieh. Das Geläut ihrer Glocken klang lieblich<lb/>durch die ſtille Luft. Weiterhin waren Pferde eingehegt. Sie ſetzten<lb/>die Schwänze auf und liefen mit, ſo weit es die Einzäunung zuließ,<lb/>die draußen befindlichen Gefährten wiehernd begrüßend. Immer höher,<lb/>höher hinauf. Die ſchon erſtiegenen Höhen lagen bald tief unten wie<lb/>Maulwurfshügel. Die Ausſicht veränderte ſich. Die Montblanc-Kette<lb/>wurde ſichtbar. Dann fingen, wie verrätheriſches Spiel neckender Geiſter,<lb/>leichte Nebel an aus der Tiefe emporzuſteigen. Sie verdichteten ſich,<lb/>ſchoſſen auseinander, verhüllten und enthüllten Bilder von wunderbar<lb/>großartiger Schönheit.<lb/>
+            </p>
+            <p> <lb/>Als ſie oben ankamen, war die Ausſicht ganz verhüllt. Nicht auf<lb/>zehn Schritt war der Blick frei, und ſo gewahrte auch Keiner von<lb/>Beiden, daß ſie nicht allein oben waren, daß da, dicht am Rand der zu<lb/>ſchwindelnder Tiefe hinabſinkenden Bergwand ein Wanderer ſaß, oder<lb/>mehr noch lag, den Kopf auf die eine Hand geſtützt. Neben ihm eine<lb/>Staude Vergißmeinnicht, die er dicht neben dem Schnee wachſend ge-<lb/>funden. Weiß Gott, welche Symbolik er darin geleſen haben mochte.<lb/>Er hatte die ſich nähernden Geſchwiſter eben ſo wenig gewahrt, wie ſie<lb/>ihn. Erſt als der Laut der Stimmen in ſeiner Nähe erklang, wurde er<lb/>aufmerkſam.<lb/>
+            </p>
+            <p> <lb/>„So", ſagte Heinrich, „jetzt wären wir oben. Jetzt will ich’s Dir<lb/>ſagen, was Du mir doch ſchon halb und halb vom Geſicht geleſen haſt.<lb/>Auf den Bergen wohnt die Freiheit, ſagteſt Du. Sie wohnt in der<lb/>Menſchenſeele, ſo lange man ſie nicht hinauswirft. In die meine iſt<lb/>ſie wieder eingezogen. Ich bin frei, ſo wie man wieder werden kann,<lb/>wenn man eine Schuld gut macht. Der Alpendal’ſche Eiſenhammer iſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0755" n="1437" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=755"/>
+            </p>
+            <p> <lb/>bei der Subhaſtation im Namen Martin Giovanoli’s zurückgekauft“,<lb/>ſetzte er mit gehobener Stimme hinzu.<lb/>
+            </p>
+            <p> <lb/>Sie jubelte auf.<lb/>
+            </p>
+            <p> <lb/>„Wer, wer ſagt das?" miſchte ſich eine bebende Stimme in das<lb/>Geſpräch der Geſchwiſter.<lb/>
+            </p>
+            <p> <lb/>Dicht vor ihnen, zwiſchen ihnen und dem Abgrund, ſtand der<lb/>Mann, der bei Heinrich’s Worten aufgeſprungen war, hinter ihm ſank<lb/>der Nebel in’s Thal, im Sonnenlicht ſtand die Landſchaft, im Sonnen-<lb/>licht er. Seine ſchwarzen Augen ſtrahlten Flammen der Erregung.<lb/>An den Augen erkannte ihn Heinrich.<lb/>
+            </p>
+            <p> <lb/>„Felix!" rief er und breitete die Arme aus. Einen Augenblick<lb/>noch ſtand der Andere betroffen, zögernd, der ahnungsvollen Stimme<lb/>ſeines Innern mißtrauend, einen Augenblick, — aber wie das Vergiß-<lb/>meinnicht neben Winterſchnee, ſo blühte die Erinnerung neben dem Reif<lb/>verfloſſener Jahre.<lb/>
+            </p>
+            <p> <lb/>„Mein Wohlthäter, Verzeihung!“ ſchluchzte Felix in des Bauraths<lb/>Armen.<lb/>
+            </p>
+            <p> <lb/>Auch ſeine Kette war zerbrochen, auch in ſeine Seele war Freiheit<lb/>eingezogen.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>Unten ſahen Marga und die Kinder mit ſtiller und wachſender<lb/>Seelenangſt Stunde auf Stunde vergehen, ohne daß der Vater heimkam.<lb/>Der Mittag zog vorüber, der Nachmittag folgte ihm, Felix war noch<lb/>immer nicht da. Der Briefträger hatte einen Brief, den erwarteten<lb/>Brief gebracht, er lag noch uneröffnet da; heimliche Sorge und unein-<lb/>geſtandene Angſt verſchlang alle anderen Gedanken.<lb/>
+            </p>
+            <p> <lb/>Ein in den Bergen abgefeuerter Schuß, deſſen Echo tauſendfach<lb/>wiederhallte, erſchreckte Marga ſo, daß ſie leichenblaß wurde.<lb/>
+            </p>
+            <p> <lb/>Aber ſie raffte ſich zuſammen.<lb/>
+            </p>
+            <p> <lb/>„Wir wollen den Brief jetzt leſen“, ſagte ſie, „enthält er gute<lb/>Nachricht, ſo empfangen wir ihn damit.“ — Sie öffnete und las laut:<lb/>
+            </p>
+            <p> <lb/>„Im Auftrage Ihres Bevollmächtigten habe ich den Eiſenhammer<lb/>in der Subhaſtation für Martin Giovanoli erſtanden und beehre mich,<lb/>Ihnen dies hiermit ergebenſt mitzutheilen."<lb/>
+            </p>
+            <p> <lb/>Darunter eine ihr völlig fremde Unterſchrift. Der Brief entfiel<lb/>ihrer Hand.<lb/>
+            </p>
+            <p> <lb/>„Zurückgekauft? für Dich? in meinem Auftrage? — ich verſtehe<lb/>kein Wort“, ſtammelte ſie.<lb/>
+            </p>
+            <p> <lb/>„Für mich? — Ich will ihn nicht. Er gehört dem Vater!" brauſte<lb/>Martin auf.<lb/>
+            </p>
+            <p> <lb/>„Schenke ihn mir, ich ſchenke ihn dem Vater wieder“, jubelte Käthe.<lb/>
+            </p>
+            <p> <lb/>Marga ſtand wie betäubt. Erlebte ſie ein Märchen, träumte ſie!<lb/>
+            </p>
+            <p> <lb/>Da, raſche Schritte von außen her. Das Märchen wurde zur<lb/>wahren Geſchichte, der Traum zur holdeſten Wirklichkeit.<lb/>
+            </p>
+            <p> <lb/>Felix’ ſtrahlendes Geſicht gab die erſte glückliche Aufklärung.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0756" n="1438" corresp="http://opacplus.bsb-muenchen.de/title/6700775/ft/bsb11045787?page=756"/>
+            </p>
+            <p> <lb/>Während ſeine geflügelten Worte die Lücken ergänzten, trat Heinrich zu<lb/>Martin, und ihm die Hand bietend ſagte er freundlich:<lb/>
+            </p>
+            <p> <lb/>„Ich habe dem Vater meine böſen Worte abgebeten, nicht wahr,<lb/>ich kann mich nun ruhig und ſicher meines Alters freuen. Du läßt mich<lb/>leben, auch wenn Du groß biſt, mein braver Burſche und guter Sohn?"<lb/>
+            </p>
+            <p> <lb/>Der Knabe lachte ihn treuherzig an.<lb/>
+            </p>
+            <p> <lb/>„Es iſt Alles gut, nur daß ich den Eiſenhammer haben ſoll, nicht“,<lb/>entgegnete er.<lb/>
+            </p>
+            <p> <lb/>„Das iſt nur ſo eine Form für alle Fälle geweſen“, beruhigte ihn<lb/>Heinrich. „Wir Drei, der Vater, Du und ich, werden nun wol einig<lb/>über den eigentlichen Beſitzer werden. Du am wenigſten ſollſt den<lb/>Vater berauben.“<lb/>
+            </p>
+            <p> <lb/>„Gehört der Eiſenhammer Ihnen? Haben Sie ihn gekauft?“ fragte<lb/>Martin zögernd, „werden Sie künftig dort leben?"<lb/>
+            </p>
+            <p> <lb/>„Gott behüte, mir gehört er nicht, und dort leben? Was denkſt<lb/>Du?“ lachte der Baurath. „Ich habe meine Heimat gefunden. Ich<lb/>weiß einen Kiefernwald in der ſandigen Mark und einen blauen See voll<lb/>Schilf und Waſſerroſen — ich bin jetzt gerade glücklich genug, auch in<lb/>dürftiger Natur die Schönheit der Welt zu erkennen. Ich brauche<lb/>Menſchen, brauche vor Allem eine treue und vergnügte Seele für’s Haus,<lb/>ich ziehe zu meiner Schweſter —“<lb/>
+            </p>
+            <p> <lb/>„Heinrich!" ſagte dieſe mit vor Freude bebendem Ton.<lb/>
+            </p>
+            <p> <lb/>Er nahm ſie bei Seite.<lb/>
+            </p>
+            <p> <lb/>„Wenn Du willſt“, ſagte er. „Denn ich thue Dir ein Unrecht an.<lb/>Mein Hauptvermögen bleibt in der Fabrik. Deine Kinder müſſen ſich<lb/>mit dem Reſt begnügen —“<lb/>
+            </p>
+            <p> <lb/>„Gieb ihnen ein volles Maß Liebe, nimm’s von mir, von ihnen<lb/>an“, entgegnete ſie freundlich.<lb/>
+            </p>
+            <p> <lb/>Marga richtete ſich aus Felix’ Armen auf. Sie ſtand mitten im<lb/>Zimmer, ihr glückſtrahlender Blick flog von einem zum andern, jedem<lb/>etwas Anderes ſpendend, dem Einen Dank, dem Andern Verſtändniß,<lb/>Liebe Allen. Auch der Vogel bekam ſein Theil. Als ihr Auge ſein<lb/>Bauer ſtreifte, folgte ſie unwillkürlichem Impuls. Sie trat an das<lb/>Bauer und öffnete es.<lb/>
+            </p>
+            <p> <lb/>„Wir ſind Alle frei“, ſagte ſie leiſe, „alſo auch Du!" Der Vogel<lb/>hüpfte von einer Querſtange ſeines Bauers auf die andere, ehe er die<lb/>Abſicht ſeiner Herrin begriff. Da, ein jubelnder Laut aus der kleinen<lb/>Kehle wie zum Abſchied, ein Flügelſchlag und — noch ein befreiter<lb/>Gefangener war der Feſſeln ledig, die der Erfüllung ſeiner natürlichen<lb/>Beſtimmung im Wege geweſen.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

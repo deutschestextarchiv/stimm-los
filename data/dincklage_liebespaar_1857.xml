@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das alte Liebespaar</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_liebespaar_1857</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Das alte Liebespaar, 1857.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Das alte Liebespaar</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>J. G. Cotta</name></publisher>
+                  <date>1857</date>
+                  <pubPlace>Stuttgart, München</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Morgenblatt für gebildete Leser</title><biblScope unit="volume">50</biblScope><biblScope unit="pages">S. 961–968</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753</idno><idno type="shelfmark">Shelfmark: 4 Per. 15-50</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Das alte Liebespaar</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0973" n="961" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=973"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p>
+               
+                  <hi rendition="#c #larger">Das alte Liebespaar.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Zur Zeit, als unsere Urgroßmütter heranblühende<lb/>Mädchen waren, herrschte im Bischofssitze O. ein reges<lb/>geselliges Leben und der reiche Adel der Umgegend über-<lb/>bot sich in Prunk und Vornehmheit. Auch Frau von<lb/>B. besaß dort einen Burgmannshof, den sie von Zeit<lb/>zu Zeit bewohnte und der feinen und feinsten Welt<lb/>öffnete. Die Dame selbst war eine stille, gutherzige<lb/>Wittwe, der dieses Treiben wenig zusagte, aber sie hing<lb/>mit großer Zärtlichkeit an ihrer einzigen Tochter Sibylla<lb/>Cornelia, welche mit Recht der Mittelpunkt aller Hul-<lb/>digungen wurde.<lb/>
+            </p>
+            <p> <lb/>Eines Abends glänzte wieder heller Lichtschein aus<lb/>den Fenstern des B’schen Burgmannshofes, steife, son-<lb/>derbare Kutschen, zwischen den Rädern in langen Rie-<lb/>men schaukelnd, fuhren vor, rauschende Massen trippelten<lb/>auf hohen Absätzen die Treppe hinauf in die Säle.<lb/>Das war ein Knixen, als wollte man in die Erde<lb/>versinken, der Hausfrau entgegen, vorbei an den ge-<lb/>radlehnigen Stühlen und den reich besetzten Tischen,<lb/>die sich auf ihren geschwungenen, vergoldeten Beinen<lb/>nicht wenig einzubilden schienen.<lb/>
+            </p>
+            <p> <lb/>Neben der Wittwe stand Sibylla; auf ihrem hohen<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>gepuderten Toupé wiegte sich ein Rosenbouquet, mit<lb/>Brillantähren durchflochten, ihr Kleid war gleichfalls<lb/>rosenroth und der Rock vom weißen Unterkleide mit<lb/>ähnlichen Bouquets in die Höhe genommen. Sie lä-<lb/>chelte zu den vielfachen Artigkeiten der Herren und<lb/>Damen etwas zerstreut, ihre dunkeln, gleichsam ver-<lb/>schleierten Augen hafteten noch immer erwartungsvoll<lb/>an der Thür. Plötzlich wandte sich Sibylla einem ne-<lb/>ben ihr stehenden jungen Manne von auffallender Länge<lb/>mit einem entsprechend langen Degen zu: „Und wann<lb/>werden der Herr Graf die große Reise antreten?“ —<lb/>„Infiniment obligirt für dero gnädigstes Interesse,“<lb/>war die Antwort: „so Gott will, nächste Woche. Mein<lb/>gnädiger Herr Vater meinen, nur in Frankreich und<lb/>Italien könne ein habiler Cavalier gebildet werden.“ —<lb/>„O,“ sagte die Dame, „ich kenne doch auch manche<lb/>recht aimable junge Herren, so nie die Grenze über-<lb/>schritten haben.“ Ihr Blick streifte dabei einen jungen<lb/>Mann in rother Uniform mit steif abstehenden, kurzen<lb/>Schößen, der herzutretend sein wohl gepudertes Haupt<lb/>tief vor ihr neigte.<lb/>
+            </p>
+            <p> <lb/>„Bin sehr glücklich,“ begann der Rothrock, „heute<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0974" n="962" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=974"/>
+            </p>
+            <p> <lb/>zum zwoten mal meine submisseste Devotion zu Füßen<lb/>zu legen.“ — „Ja, wir überraschten Herrn von D. in<lb/>Gedanken verloren auf dem Klosterberg, beim Studium<lb/>eines Briefes.“<lb/>
+            </p>
+            <p> <lb/>D. erröthete: „Von einem Anverwandten, mit<lb/>Respekt zu melden und zu wissen zu thun.“ — „<hi rendition="#g">Oui</hi>
+               <lb/>
+               <hi rendition="#g">s’excuse</hi> —« sagte Sibylla strafend. — „Gnädigstes<lb/>Fräulein, wie sollte ich es wagen, nach der Entgegen-<lb/>nahme so vieler Gnade meiner verehrtesten Herrin<lb/>itzo mit einer Unwahrheit unter die Augen zu treten?“<lb/>
+            </p>
+            <p> <lb/>Sibylla biß sich auf die Lippen: „Zu große Güte<lb/>verderbet leichter denn zu große Strenge.“ — „Ach,<lb/>wenn Sie meine Sentiments sehen könnten —“ flüsterte<lb/>der junge Offizier innig und tief erröthend. — „So<lb/>müßte ich meine bisherige Herablassung <hi rendition="#aq">desavoui-</hi>
+               <lb/>
+               <hi rendition="#aq">ren</hi>,“ ergänzte die Dame stolz und spielte mit dem<lb/>Fächer. — „Also ist der Welt Lauf!“ äußerte D. em-<lb/>pfindlich. „Wer sich neben allerlei Mängeln eines<lb/>wahren Merite bewußt ist, sieht auch <hi rendition="#aq">dieses</hi> dem<lb/>Mepris anheim gegeben.“ — „So möchte ich zu des<lb/>Herrn Lieutenants Meriten denenselben vor allem mehr<lb/>Discretion anwünschen,“ sprach Sibylla schnippisch und<lb/>verschwand unter der wogenden Menge gefiederter und<lb/>beblümter Toupés.<lb/>
+            </p>
+            <p> <lb/>Dieser Abend ging zu Ende wie seine festlichen<lb/>Vorgänger. In ausgeschweiften silbernen Geräthen<lb/>wurden Delikatessen servirt und kostbare Weine perlten<lb/>in den hohen, goldgeränderten Kelchgläsern. Nach<lb/>Mitternacht kam es wie Fluth in den glänzenden Kreis,<lb/>alles erhob sich und verließ mit der möglichsten An-<lb/>muth seiner Complimente und Verneigungen die Salons.<lb/>Die Kutschen rollten kopfschüttelnd über das unebene<lb/>Pflaster und die Fußgänger zerstreuten sich in all die<lb/>kleinen, winkeligen Straßen, die sich nur hie und da<lb/>bei Domen und Kirchen erweiterten. Unser Lieutenant<lb/>war bald in seiner Wohnung, jedoch sichtbar verstimmt.<lb/>Er fragte den Diener, während dieser den Puder<lb/>aus dem Haar des Gebieters kämmte, nicht einmal<lb/>nach dem Ergehen der Pferde, was doch sonst regel-<lb/>mäßig geschah. Endlich war er allein. Nach mehreren<lb/>Gängen durch das Zimmer, die er mit einem Seufzer<lb/>unterbrach, suchte er unter einem Wust von Papieren<lb/>einen kleinen Briefbogen hervor und füllte ihn mit<lb/>großer Emsigkeit folgender Weise:<lb/>
+            </p>
+            <p> <lb/>„Sehr lieber und wohlästimirter Herr Vetter! Dein<lb/>gütiges Schreiben, so mir ehegestern eingehändigt wor-<lb/>den, animirt mich, nicht fürder mit meinem Vertrauen<lb/>zurückzuhalten, sondern meinem lieben Vetter Alles, so<lb/>meine Lage anlanget, getreulich zu decouvriren. Es ist<lb/>gewiß kein Unglück, vom Schicksal nicht mit Reichthü-<lb/>mern ausgestattet zu seyn, wenn eine sorgsame Edu-<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>cation einem Jünglinge die ganze Welt offen hinstellet;<lb/>dennoch aber hängt von der äußeren Fortune ein gut<lb/>Theil unseres Fortkommens ab, so ich mit Schmer-<lb/>zen in letzter Zeit an mir selbsten in Erfahrung ge-<lb/>bracht habe. Mein lieber Herr Vetter rühmet sich der<lb/>Bekanntschaft des eben so schönen, als reichen Fräu-<lb/>leins von B.... In Betreff ihrer bin ich gezwungen<lb/>das Bekenntniß abzulegen, daß nie ein Frauenzimmer<lb/>gleich ihr mein Herz irritiret hat, darf auch wohl ohne<lb/>zu große Bravour die Behauptung aussprechen, daß<lb/>selbige Dame mich nicht ganz ungütig anstehet. Lei-<lb/>der aber steht ein bedeutender Stolz auf Rang und<lb/>Fortune mir im Wege, indessen kann versichern,<lb/>mehr <hi rendition="#aq">meinen</hi> Sentiments für die Schöne, als daß<lb/>diese Anstoß an meiner geringen Person nähme. Wenn<lb/>gleich ohne bedeutende Glücksgüter habe ich kein gerin-<lb/>geres Bewußtseyn edler Descendenz, als welches ich<lb/>auch niemalen zu verleugnen hoffe. Nach Solchem ist<lb/>übrigens meines Herrn Vetters Rath, das kürzlich verwaisete<lb/>Fräulein Eleonora Gertrudis betreffend, von selbsten<lb/>beantwortet. Es würde einem Edelmanne sehr übel<lb/>anstehen, einer so distinguirten Person die Hand ohne<lb/>das Herz offeriren zu wollen. Somit meinem lieb-<lb/>werthesten Herrn Vetter mich empfehlend, stelle ich diese<lb/>Sache der göttlichen Weisheit anheim.<lb/>
+            </p>
+            <p> <lb/>Des Herrn Vetters allzeit getreuer<lb/>
+            </p>
+            <p> <lb/>Philipp Adrian von D.“<lb/>
+            </p>
+            <p> <lb/>Während der Lieutenant also schrieb, saß Sibylla<lb/>sinnend mit ihrem Festschmuck in dem schon verdunkelten<lb/>Zimmer, das hübsche Gesicht in die Hände verborgen.<lb/>„Meine Tochter!“ mahnte die eingetretene Mutter. —<lb/>Sibylla fuhr auf: „Eines möcht’ ich wissen, Mama:<lb/>wie machte es mein seliger Herr Vater, als er die<lb/>Hand der Frau Mutter begehrte?“ — „Ei, gar sehr<lb/>wohlanständig,“ sprach die Wittwe gerührt. „Erst schickte<lb/>er einen alten Oheim, so General war, um bei uns,<lb/>wie man sagt, um die Wege zu hören; wurde sehr von<lb/>meinem Herrn Vater honoriret, und erhielt die Per-<lb/>mission wieder zu kommen; kam wieder mit einem Brief,<lb/>so in schönen, zierlichen Worten den Antrag aussprach.<lb/>Mein verewigter Herr kam dann selbsten, redete mit<lb/>dem Herr Vater und der Frau Mutter und endlich in<lb/>deren Presence zu mir.“ Frau von B. wischte sich die<lb/>Augen.<lb/>
+            </p>
+            <p> <lb/>„Ich hätte ihn nie, nie genommen!“ rief Sibylla.<lb/>— „Kind!“ unterbrach sie die Mutter entsetzt. — „So<lb/>sind die Männer!“ grollte Sibylla. „Steif und blutlos<lb/>wie ihre Degen, so ist auch <hi rendition="#aq">er</hi>, den ich liebe und nicht<lb/>lieben will, nein, nicht will! der mir vorwirft, er könne<lb/>sich meiner Avancen gegen ihn rühmen, er, ein armer<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0975" n="963" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=975"/>
+            </p>
+            <p> <lb/>Edelmann! O Mama, das ist schrecklich! Und kein<lb/>Soulagement, nirgendwo! Ach, mir ist das Herz so<lb/>erfüllet, als sey selbst im Grabe ohne <hi rendition="#aq">ihn</hi> keine Ruh!“<lb/>
+            </p>
+            <p> <lb/>„Sibylla, mein Kind, du vergißst alle Façon!“ —<lb/>„O zu <hi rendition="#aq">viel</hi> der Façon!“ seufzte Sibylla. — „Aber<lb/>du machst mir ernstlich bange; beruhige dich! Man<lb/>kann ja immerhin seine Mesures nehmen, so ihn per-<lb/>suadiren. Du bist reich und —“ — „Ihn persuadiren?“<lb/>rief Sybilla mit heißen Thränen. „Das wäre mein<lb/>Desespoir, mein Tod! Nein, er soll bitten, flehen,<lb/>oder Sibylla entsagt auf ewig ihrem Antheil am Er-<lb/>denglück!“<lb/>
+            </p>
+            <p> <lb/>Die Mutter tröstete, so gut sie konnte, und legte<lb/>das Gelöbniß der strengsten Verschwiegenheit ab. So<lb/>begab sich Sibylla mit rothgeweinten Augen zur Ruhe.<lb/>
+            </p>
+            <p> <lb/>Frau von B…’s bekümmertes Mutterherz brachte<lb/>im Stillen ihrem leidenschaftlichen Kinde das Opfer<lb/>einer stolzeren Zukunft, die sie sich durch lange Jahre<lb/>für die vielversprechende Sibylla ausgemalt hatte; ja<lb/>sie beschloß — und dieß war ein zweiter Schmerz — dem<lb/>Lieutenant von D. ihrem Kinde zu Liebe entgegen zu<lb/>kommen; denn „wie konnte er ohne dieses Encourage-<lb/>ment an eine solche Fortune glauben?“ — „Wovor,“<lb/>schloß ihr Monolog, „ist denn die Existenz einer soig-<lb/>neusen Mutter, wenn nicht vor das Wohlergehen ihres<lb/>Kindes?“<lb/>
+            </p>
+            <p> <lb/>Die gute Frau von B. wollte auch einmal im Le-<lb/>ben schlau seyn; ja es erwärmte sie fast die Idee einer<lb/>kleinen Intrigue, und sie traute sich zu, ihre Rolle<lb/>so zu spielen, daß weder ihren hohen Qualitäten, noch<lb/>ihrer Origine etwas vergeben würde. Um auch die<lb/>Nachwelt zu überzeugen, daß die Dame in der That<lb/>ihre Würde im Auge behielt, folge hier der drei Wo-<lb/>chen später geschriebene Brief des jungen Offiziers.<lb/>
+            </p>
+            <p> <lb/>„Vorerst embrassire meinen lieben Herrn Vetter<lb/>mit dem bis anhero unveränderten Attachement. Der-<lb/>selbige wird nicht wenig erstaunt seyn, schon nach acht<lb/>Wochen ein zweites Schreiben meiner Hand zu ent-<lb/>siegeln, so ich per Expreß schicke, und das, meiner Rech-<lb/>nung nach, von heute in dreien Tagen glücklich über-<lb/>bracht seyn wird.“<lb/>
+            </p>
+            <p> <lb/>„Der neulich beregte Gegenstand meiner Confidence<lb/>hat nunmehro ein so jähes als betrübliches Ende ge-<lb/>funden. Wie soll ich eine Beschreibung derer Emotio-<lb/>nen geben, von welchen ich seit etlichen Tagen nicht<lb/>wenig molestiret wurde, und die mich zu öfteren malen<lb/>unter großem Seufzen übermannten? Habe itzo nun<lb/>aber die Ueberzeugung gewonnen, daß mein Gefühl vor<lb/>jene Schöne wie ein schmeichlerischer Traum zu estimi-<lb/>ren sey, als welcher <hi rendition="#aq">nie</hi> retourniren kann. Mein lieber<lb/>Herr Vetter wird begierig seyn, den Hergang solcher<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Historie zu erfahren, weßhalb diese Erklärung als ein<lb/>Exempel vor alle, welche von der Liebe angenehmer<lb/>Qual befallen werden, niederschreibe.“<lb/>
+            </p>
+            <p> <lb/>„Vor einiger Zeit begegnet mir vor dem Thor die<lb/>Kalesche der Frau von B. Sie heißt den Kutscher um-<lb/>lenken und mich zu ihr einsteigen, was ohne Anstand<lb/>geschah. Darauf redete sie viel von der Ungelegenheit<lb/>des Militärstandes für Güterlose und den Agrements<lb/>eines sorglosen Privatlebens. Worauf ich zurückgab, der<lb/>militärische Stand sey mir niemalen als ein Desagre-<lb/>ment erschienen, und ich baue fest auf schnelle Beförde-<lb/>rung, indem es mir nicht an Eifer und Vorsprache<lb/>gebreche. Frau von B. schien solches zu überhören und<lb/>presumirte, die jungen Offiziers müßten sich durch reiche<lb/>Heirathen zu heben suchen, thäten indessen allemal wohl,<lb/>Zeitlebens im Auge zu behalten, was dieselben der<lb/>Zärtlichkeit junger unerfahrener Frauenzimmer verdank-<lb/>ten, und wären zu doppelter Tendresse gegen ihr Frau<lb/>Liebste verpflichtet. „Gnädige Frau!“ rief ich ungemein<lb/>hitzig, „wenn solche Zärtlichkeit von dem Caliber ist,<lb/>das die <hi rendition="#aq">gegenseitige</hi> Hochachtung nicht vor den be-<lb/>sten Reichthum erachtet, sondern vor sich selbsten und<lb/>Andern mit den vergänglichen Schätzen prunket, so<lb/>preferire ich, meine Hand in eine Galeerenkette schmie-<lb/>den zu lassen, allwo doch mein Edelstes, das Herz,<lb/>frei und sonder zweideutige Zumuthungen verbleiben<lb/>mag.“<lb/>
+            </p>
+            <p> <lb/>Frau von B. erbleichte und sagte stockend: „Der<lb/>Herr Lieutenant mißverstehen meine Pretentions.“ —<lb/>„Gnädige Frau,“ unterbrach ich sie hinwieder und mit<lb/>erschrecklicher Ernsthaftigkeit, „wenn Sie etwa von sich<lb/>oder Ihrer angenehmen Fräulein Tochter redeten, so hat<lb/>selbige Rede die Hoffnung eines zwar stolzen, aber vor<lb/>Gott und Menschen wohl würdigen Mannes zerstört,<lb/>und muß hiemit gebeten haben, mich der Ehre von<lb/>dero Begleitung zu entbinden.“<lb/>
+            </p>
+            <p> <lb/>„Es wird mir alle Zeit ein Räthsel bleiben, auf<lb/>welche Art ich an diesem Tag zu Haus gekommen bin<lb/>und den ersten Schmerz überdauert. Mag meinem<lb/>liebsten Herrn Vetter genügen, daß ich um sein Vor-<lb/>wort bei Fräulein Eleonora Gertrudis bitte. Ich will<lb/>lieber eine mittellose Liaison schließen, als jemalen<lb/>mich und in mir meine Vorväter dedaignirt wissen.“<lb/>
+            </p>
+            <p> <lb/>„Hoffe baldigst auf Urlaub zu kommen. Unter<lb/>Anwünschung alles erdenklichen Guten<lb/>
+            </p>
+            <p> <lb/>Meines Herrn Vetter getreuester<lb/>
+            </p>
+            <p> <lb/>Philipp Adrian v. D.“<lb/>
+            </p>
+            <p> <lb/>Im folgenden Jahr verheirathete sich in der That<lb/>der Lieutenant von D. mit Fräulein Eleonora Gertru-<lb/>dis, wie dieses aus den Familienpapieren zu ersehen<lb/>ist, und so viel man weiß, war diese Ehe eine höchst<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0976" n="964" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=976"/>
+            </p>
+            <p> <lb/>zufriedene, denn in der Leichenrede des nachherigen<lb/>Obristen von D. wird namentlich einer 49jährigen<lb/>höchst vergnügten Ehe gedacht, „so mit dreizehn Kindern<lb/>gesegnet war, als sieben Frölen Töchter und sechs Herrn<lb/>Söhnen, von welchen leider in zarter Jugend zwo de-<lb/>nen liebevollen Eltern auf todtlichem Wege geraupet<lb/>worden rc.“<lb/>
+            </p>
+            <p> <lb/>Der Name der schönen Sibylla von B. findet sich<lb/>als Novize, später als Aebtissin in den Papieren des<lb/>Stiftes S., welches im Jahr 18.. aufgehoben und<lb/>zur Beamtenwohnung eingerichtet wurde.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>Das sind alte Geschichten. Wenden wir uns lie-<lb/>ber jener hübschen jungen Frau zu, welche so graziös im<lb/>Fauteuil sitzt, den sie in eine Fensternische gerückt hat,<lb/>vor sich die Schreibmappe in rothem Sammt. Aber<lb/>sie schreibt nicht, die feinen Finger drehen den goldenen<lb/>Federhalter, das stahlgraue Seidenkleid rauscht bei je-<lb/>der ungeduldigen Bewegung. Sie überliest einen be-<lb/>gonnenen Brief und zerknittert ihn dann unmuthig. Es<lb/>standen nur diese Zeilen darauf:<lb/>
+            </p>
+            <p> <lb/>„Amthaus zu S., den 22. Juli 1850.<lb/>
+            </p>
+            <p> <lb/>„Liebe Frau Tante!<lb/>
+            </p>
+            <p> <lb/>„Mein Mann erlaubt mir, die ich seit fünf Mo-<lb/>naten die Ehre habe ein Mitglied Ihrer Familie zu<lb/>seyn, die Versicherung meiner Ehrerbietung — — —“<lb/>
+            </p>
+            <p> <lb/>„Pfui, Pfui!“ rief die Schreiberin. „Ich kann<lb/>solche abscheuliche Lüge nicht schreiben! Was geht<lb/>denn <hi rendition="#aq">mich</hi> die Tante an? Habe ich die ganze hoch-<lb/>müthige Sippschaft <hi rendition="#aq">mit</hi> geheirathet? Seit drei Wochen<lb/>quält mich mein Mann von früh bis spät: „Linchen,<lb/>mein Engel, die Tante Schatzräthin wird dein Schwei-<lb/>gen <hi rendition="#aq">nie</hi> verzeihen! Ueberwinde deine Scheu, sie ist<lb/>eine äußerst hochgestellte Dame!“ Ich empfinde keine<lb/>Scheu und eben so wenig Lust zu schreiben; ich wüßte<lb/>auch nicht wozu!“<lb/>
+            </p>
+            <p> <lb/>Die junge Frau stand auf, schritt ein paar mal<lb/>hin und her, warf einen flüchtigen Blick in den Spie-<lb/>gel, fuhr mit ein paar hüpfenden Passagen über den<lb/>geöffneten kostbaren Flügel und begann dann eifrig von<lb/>neuem einen Brief, der ihr weniger Ueberwindung zu<lb/>kosten schien.<lb/>
+            </p>
+            <p> <lb/>„Lieber Paul! Wenn Sie eine Freundin, statt<lb/>eines Freundes wären, nie würde ein Geständniß,<lb/>wie es mir auf dem Herzen lastet, über meine Lippen<lb/>gekommen seyn oder sich schriftlich in Worte gekleidet<lb/>haben. Ein geistreiches Weib gesteht keinem andern<lb/>Weibe, daß und <hi rendition="#aq">wie sehr</hi> sie sich geirrt hat. Ihnen<lb/>sage ich es: die „gnädige Frau“ habe ich mir um einen<lb/>zu hohen Preis erkauft, selbst der vollwichtigen Dukaten<lb/>meines bürgerlichen Papas uneingedenk. Meine schöne<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Freiheit ist dahin, und was das Schlimmste ist, mein<lb/>
+               <hi rendition="#g">mauvais jeu</hi> liegt klar am Tage. Woher <hi rendition="#g">bonne mine</hi>
+               <lb/>nehmen? — Mein Papa sagte: „Du hast einen vor-<lb/>trefflichen Mann, Line!“ — Das ist er auch, wenn<lb/>man es für ein Verdienst hält, gewissenhaft zu gehen,<lb/>zu stehen, zu denken, wie Tausende vor uns, und da-<lb/>bei diese oder jene Fehler <hi rendition="#aq">nicht</hi> zu haben. Mir scheint<lb/>er aber deren desto mehr zuzutrauen. Ich sage Ihnen,<lb/>Paul, meine alte Gouvernante steht mir jetzt wie eine<lb/>äußerst menagirte, discrete Person vor Augen, was<lb/>das „gute Lehren geben“ betrifft. Hat Philipp doch<lb/>durch das fiebernde Paris bis auf den Aetna mich ge-<lb/>gängelt wie eine wahre Kinderfrau, daß ich zuletzt lie-<lb/>ber ganz zu Haus blieb, nur um nicht das ewige:<lb/>„Linchen, du wirst fallen, sey vorsichtig! Du wirst dich<lb/>erhitzen, lauf’ nicht so! Du wirft dich erkälten, trink’<lb/>nicht!“ u. s. w. zu hören. Ich ließe mirs noch ge-<lb/>fallen, wenn er jemals seinen Willen ernstlich durch-<lb/>setzte, aber regelmäßig lehne ich mich auf, und regel-<lb/>mäßig gibt er nach. Ich begreife nicht, wie er sich bis<lb/>jetzt jemals hat eine Weste einpacken, oder eine Tasse<lb/>Kaffee einschenken können; jetzt wär’s ohne mich eine<lb/>Unmöglichkeit.“<lb/>
+            </p>
+            <p> <lb/>„Meine Häuslichkeit besteht aus Stühlen, Tischen,<lb/>Kochtöpfen, und was in dieses Fach schlägt. Mein<lb/>Mann findet, ich wohne fürstlich in unserem alten<lb/>romantischen Stifte. Wenn man dazu große, halbhelle<lb/>Räume, lange spukhafte Corridors und ellendicke Wände<lb/>rechnet — <hi rendition="#g">à la bonne heure</hi>! Aber sehen Sie, Paul, diese<lb/>Dinge unterhalten mich auch wieder in der Einsamkeit;<lb/>ich kann so lange daran denken, bis ich mir einbilde,<lb/>eine der alten Nonnen vorüber schlüpfen zu sehen. Es<lb/>wird doch hoffentlich wohl <hi rendition="#aq">eine</hi> darunter gewesen seyn,<lb/>die eine rechte Capitalsünde im feuchten, vermauerten<lb/>Gewölbe nicht schlafen läßt. O der Gedanke entzückt<lb/>mich, wenn ich ihn so recht ausmale!“<lb/>
+            </p>
+            <p> <lb/>„Meines Mannes Verwandte, zu denen ich von<lb/>Zeit zu Zeit durch grauenhafte Landwege zwei Stun-<lb/>den weit gemartert werde, sind eben so arm und eben<lb/>so vortrefflich, als mein Herr Gemahl. Fünf liebe<lb/>Kinder, die mit dicken Schmierstiefeln und Butterbrod-<lb/>händen mir bereits zwei Pariser Roben verdorben ha-<lb/>ben, ein altes freudloses Haus mit dito versessenen und<lb/>zerfressenen Möbeln — dieß ist nämlich der Stammsitz<lb/>der Familie von D. Aber, mein Gott, sie finden das<lb/>alles so vorzüglich und unnachahmlich, daß man förm-<lb/>lich an sich selbst irre wird. Meine brave Schwägerin<lb/>zerquetscht meine Hand in ihrer harten, braunen Rech-<lb/>ten, ja ihre Zärtlichkeit geht so weit, daß sie mir ihre<lb/>rothwangige, ungeschlachte Aelteste, Fräulein Gertrud,<lb/>zur Unterhaltung auf einige Wochen anbot; sie könnte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0977" n="965" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=977"/>
+            </p>
+            <p> <lb/>mir im Haushalt helfen, — helfen! wo ich selbst vor<lb/>Unbeschäftigtseyn und Langeweile umkomme! Doch ist die<lb/>Schwägerin mir auch lieb; sie weiß wenigstens, <hi rendition="#aq">was</hi>
+               <lb/>sie will, sie <hi rendition="#aq">sieht</hi> doch, wenn auch nicht <hi rendition="#aq">weit</hi>. Nur<lb/>um Eines beneide ich sie, um ein großes Zimmer mit<lb/>Ahnenbildern. Das ist doch einmal etwas Besonderes.<lb/>Die ganzen Wände sind damit gepflastert, eine ganze<lb/>Mustergallerie von großen Nasen und flachsblonden<lb/>Haaren, alles <hi rendition="#aq">vortrefflich</hi>! Ich muß Ihnen nur<lb/>verrathen, es scheint mir, als ob dieses ganze Geschlecht<lb/>eigens dazu existirte, von den Gemahlinnen pantoffelt<lb/>zu werden. Alle Intelligenz, jedes Fünkchen Charakter<lb/>concentrirt sich auf diese langtailligen, brokatenen Da-<lb/>men, denen es ja jetzt nicht schwer wird, einen ge-<lb/>malten Glanz zu entfalten, den ich diesen zerbröckelten<lb/>Mauern auf keine Weise zutraue.“<lb/>
+            </p>
+            <p> <lb/>„Das ist ein Stück meiner Art, leben zu müssen.<lb/>Seyn Sie barmherzig, Paul, lachen Sie nicht über mich,<lb/>und vor Allem seyen Sie verschwiegen. Wenn das<lb/>Eugenie wüßte! die würde über mich triumphiren!“<lb/>
+            </p>
+            <p> <lb/>„Farewell! Wenn sich an mein verwunschenes Schloß<lb/>so viel Licht und Wärme verirrt, daß irgend ein Obst<lb/>reift, so sollen Sie davon haben. Adieu.“<lb/>
+            </p>
+            <p> <lb/>„Ihre Lina von D., geborene Südmann.“<lb/>
+            </p>
+            <p> <lb/>Die junge Dame fühlte sich sehr erleichtert, nach-<lb/>dem sie obige Mittheilungen adressirt und mit einem<lb/>Wappensiegel versehen hatte. Es ist nicht zu leugnen,<lb/>Frau Linas Lage war wenig ergötzlich, aber doch ge-<lb/>nau so, wie sie dieselbe voraus erwarten konnte. Was<lb/>hatte denn das verwöhnte, schöne, reiche Mädchen be-<lb/>wogen, Frau von D. zu werden? — Wir wollen se-<lb/>hen. Sie schreibt noch ein Briefchen.<lb/>
+            </p>
+            <p> <lb/>„Dürfte ich dich bitten, beste Eugenie, mir bei-<lb/>kommendes Dutzend Taschentücher mit dem angelegten<lb/>Dessin meines Wappens recht sauber und fein sticken<lb/>zu lassen? — Sollten Austern zu haben seyn oder son-<lb/>stige Delikatessen, so sende sie mir, <hi rendition="#g">coûte qu’il coûte</hi>;<lb/>ich habe einer alten, sehr hoch stehenden Dame unse-<lb/>rer Familie, der Tante Schatzräthin, eine kleine Auf-<lb/>merksamkeit zugedacht.<lb/>
+            </p>
+            <p> <lb/>Immer deine treue Lina.“<lb/>
+            </p>
+            <p> <lb/>Frau Lina lachte: „Eugenie wird nicht verfehlen<lb/>meine Bekannten von diesen Aufträgen in Kenntniß zu<lb/>setzen, und die Tante Schatzräthin wird durch den sel-<lb/>tenen guten Bissen um so eher beruhigt seyn. Zwei<lb/>Fliegen mit Einer Klappe!“<lb/>
+            </p>
+            <p> <lb/>Der nächste Tag war ein sehr regnerischer. Der<lb/>Amtmann von D. seufzte zwischen seinen Akten: „Heute<lb/>wird sich Linchen wieder sehr langweilen!“ und seufzte<lb/>dann noch einmal, vielleicht in Betracht der möglichen<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Rückwirkung auf ihn selbst, da rief es durch den Cor-<lb/>ridor: „Philipp, bester Philipp!“<lb/>
+            </p>
+            <p> <lb/>Es war Linas helle Stimme. Der Gerufene stürzte<lb/>die Feder hinter dem Ohr hinaus. Da stand die Frau<lb/>Amtmännin, das Häubchen schief, das leichte Morgen-<lb/>kleid zerrissen, die Händchen schmutzig und staubig,<lb/>neben Trümmerhaufen von unbestimmter Farbe.<lb/>
+            </p>
+            <p> <lb/>„Sieh nur, guter Mann, was ich da eben in dei-<lb/>ner alten Wappenkiste gefunden habe!“ Und sie hob<lb/>ein beschmutztes und verschimmeltes Bild auf, einen<lb/>Kriegshelden vorstellend, prächtig im vollen Harnisch.<lb/>„Und hier!“ jubelte Lina, einen gepuderten dicken<lb/>Domherrn in die Höhe arbeitend. „Und hier!“ damit<lb/>brachte sie ein wasserköpfiges kleines Mädchen vor,<lb/>das, wie alte Leute gekleidet, unter seinen Spitzen<lb/>und der gestickten Haube beinahe erdrückt schien. „O,<lb/>es ist noch viel mehr da! Bester D., ich werde,<lb/>wenn meine Freundinnen kommen, auch einen Ahnen-<lb/>saal haben, und einen andern als deine Schwägerin.<lb/>
+               <hi rendition="#g">A propos</hi>, Lieber, könnte ich morgen nicht zu ihr<lb/>fahren?“<lb/>
+            </p>
+            <p> <lb/>D. machte ein sauersüßes Gesicht: „Nein, liebes<lb/>Kind, du wirst dich erkälten bei dem Wetter; und ein<lb/>Ahnensaal? Wir haben ja eben neue Tapeten!“ —<lb/>„Bester Mann, die müssen natürlich herunter. Dann<lb/>verschreibe ich Maler, welche auffrischen und decoriren.<lb/>Ich werde mich auch ein wenig <hi rendition="#g">à la châtelaine</hi> kleiden,<lb/>des harmonischen Eindrucks wegen. O es wird köst-<lb/>lich! Wie wird sich die geldstolze Eugenie auf die Lip-<lb/>pen beißen vor Aerger! Ist alles fertig, so geben wir<lb/>einen Ball. — Laß mich nur sorgen!“<lb/>
+            </p>
+            <p> <lb/>Andern Tags fuhr Lina zur Schwägerin und kam<lb/>spät zurück, vor sich einen Thurm von altem Gerümpel.<lb/>„Nehmt einmal die Vase und das Kamineisen. Wie<lb/>schwer mir das den ganzen Weg ward! Und wir muß-<lb/>ten langsam fahren, der Sachen wegen. Da sind die<lb/>Bilder, so. In jenem Korbe das Deckelglas! — Sieh<lb/>nur, Philipp, wie ich geerntet habe. Es kostet mich<lb/>auch ein Paar Ohrringe und meinen hübschen Shawl<lb/>für Gertrud; sonst hätte die Schwägerin nichts herge-<lb/>geben. Wir entrissen es ihr fast. Sieh, nun habe<lb/>ich auch den Obersten, durch dessen Hals sich die Ta-<lb/>petenthür öffnete. Ich stellte es ihnen so beweglich<lb/>vor, wie grausam es sey, so täglich zwei, dreihundert-<lb/>mal geköpft zu werden, und versprach der Schwägerin<lb/>dafür eine Portière. Den Hals lasse ich ihm wieder<lb/>zusammennähen. Wir beide lassen uns auch malen,<lb/>du im Pelzrock, ich im Reitanzug.“ — „Kind, aber<lb/>du reitest ja gar nicht!“ — „Sieh, wie einfältig von<lb/>dir! Bin ich nicht in Italien geritten, wo mich zwei<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0978" n="966" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=978"/>
+            </p>
+            <p> <lb/>Führer fest hielten, weil mir schwindelte? Ein Reit-<lb/>anzug sieht viel genteeler aus.“<lb/>
+            </p>
+            <p> <lb/>Von nun an saß der Amtmann mit wachsender<lb/>Unruhe, die endlich fast zu leichten Fieberanfällen wurde,<lb/>oben auf seinem Zimmer, während das untere Stock-<lb/>werk, ein genialer Schauplatz der Verwüstung, einer<lb/>Menge von Künstlern und Arbeitern preisgegeben war.<lb/>An ein Entfliehen war nicht zu denken, denn in jeder<lb/>freien Stunde mußte er zu seinem Porträt sitzen, im<lb/>Pelzrock trotz der Sommerhitze. „Wann wird das enden?“<lb/>fragte er von Woche zu Woche, während die alten<lb/>Mauern von Hammerschlägen dröhnten, aber das wußte<lb/>niemand.<lb/>
+            </p>
+            <p> <lb/>Lina huscht vergnügt herein, die dunkeln Zöpfe<lb/>wie ein Kind um den Kopf gelegt, einen Kittel voll<lb/>Oel- und Farbenklexen über ihr schwarzes Seidenkleid<lb/>geworfen. „Lieber Philipp, wie köstlich trifft es sich,<lb/>daß gestern der alte Graf Ferneck gestorben ist; nun kön-<lb/>nen—“ —„Was, Ferneck ist todt?“ rief D. bestürzt.—<lb/>„Ja wohl, sie zeigen es eben an. In acht Tagen ist<lb/>die Auction; mir fehlen gerade Waffen, und er hat<lb/>sogar Rüstungen!“ — „Mein Gott, Ferneck todt!“ wie-<lb/>derholte D. — „Nun ja, er war so alt, der liebe<lb/>Mann, und es ist nun doch nicht zu ändern; du mußt<lb/>jedenfalls zur Auction.“<lb/>
+            </p>
+            <p> <lb/>Andern Tags eine neue Freude. Beim Ausbrechen<lb/>des Kamins ward ein vermauerter Wandschrank ent-<lb/>deckt, darin ein alter Stickrahmen, ein paar wurmzer-<lb/>fressene Pantoffeln und ein Chorbuch, auf dessen Schutz-<lb/>blatt in sehr vergilbten Zügen stand: „Dieses Chorbuch<lb/>gehöret Sibylla Cornelia von B., zeitiger Abatissa des<lb/>Stiftes zu S.“<lb/>
+            </p>
+            <p> <lb/>Ein zweites Blatt lag lose im Buche. Dieselbe<lb/>Hand hatte darauf die Verse geschrieben:<lb/>
+            </p>
+            <p> <lb/>„So alle Freude schwind’t,<lb/>So jede Lust entfleucht,<lb/>Erkennt der HErr sein Kind,<lb/>Zu ihm sich nieder beugt.“<lb/>
+            </p>
+            <p> <lb/>„Er bleibt der treuste Freund,<lb/>So ich hienieden fund,<lb/>Deß Licht gar milde scheint<lb/>Auf dunkler Seelen Grund.“<lb/>
+            </p>
+            <p> <lb/>„Ob Erdenfreuden Glanz<lb/>Auch öfters mich verblend’t.<lb/>Hat Christi Liebe ganz<lb/>Sich itzt an mir verschwend’t.“<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>„O faß in deine Hand<lb/>Mein groß Geschrei und Noth,<lb/>Und heb’ in’s bess’re Land<lb/>Mich balde durch den Tod!“<lb/>
+            </p>
+            <p> <lb/>Darunter stand in sehr unsichern Zügen: „Mein Fuß<lb/>schwanket an des Grabes Rande und meine sterbenden<lb/>Lippen fragen nicht mehr umsonsten: Wird mir itzo<lb/>endlich Ruhe werden?<lb/>
+            </p>
+            <p> <lb/>S.“<lb/>
+            </p>
+            <p> <lb/>Frau Lina war so gerührt, als es ihre Zeit ir-<lb/>gend gestattete. Sie bestellte einen kleinen gothischen<lb/>Glasaufsatz für Buch, Gedicht und Pantoffeln, der eine<lb/>kleine Nische füllte.<lb/>
+            </p>
+            <p> <lb/>Der Amtmann reiste zur Versteigerung. Als er<lb/>von dort zurückkehrte, begegneten ihm und seinem schwer<lb/>bepackten Reisewagen mehrere benachbarte Gutsbesitzer,<lb/>die der Caravane sofort Halt geboten. „Um’s Him-<lb/>mels Willen,“ rief Baron O., „was haben Sie denn<lb/>da? Masten oder Wiesbäume? Kein Pardon, lieber<lb/>Freund, wir visitiren!“ — „Einige Sachen für meine<lb/>Frau,“ stotterte der Amtmann und winkte dem Kutscher.<lb/>— „Nein, nein,“ lachte O.; „Sie echappiren uns nicht,<lb/>wir müssen einmal wissen, was Ihre hübsche kleine<lb/>Frau unternehmen will.“<lb/>
+            </p>
+            <p> <lb/>Man ritt heran, riß an der Emballage, und ein<lb/>paar rostige Hellebarden kamen zum Vorschein. D. hielt<lb/>es für gerathen, aus seiner Wagenecke — neben ihm<lb/>unter dem Mantel stand die Rüstung — mit zu lachen,<lb/>obschon es ihm durchaus nicht von Herzen kam.<lb/>
+            </p>
+            <p> <lb/>„Mein süßer Philipp!“ rief Lina gerührt, „jetzt<lb/>erkenne ich, wie sehr du mich liebst. Mißdeute meine<lb/>Verehrung für unsere Vorfahren nicht; es ist ja nur<lb/>Anhänglichkeit an dich, bester D.! Theurer Mann, ja,<lb/>wenn ich nur eine Frau für den Obrist fände, so wäre<lb/>alles vortrefflich! Ich habe Gertrud schon meinen neuen<lb/>Hut geboten, aber sie fürchtet sich zu sehr, und der<lb/>Papa ist schon einmal böse geworden.“<lb/>
+            </p>
+            <p> <lb/>Der alte bäurische Amtsbote mit den Briefen trat<lb/>herein und grinste die vollendeten, zum Trocknen auf-<lb/>gestellten Bilder an. „So eene,“ sagte er, auf eine<lb/>der Damen deutend, „hank auk noch hinnern Köken-<lb/>schrank.“ Lina eilt hin, der alte schwerfällige Schrank<lb/>wird mit Mühe fortgeschoben, und durch die Spinn-<lb/>weben blicken die schönen, durchdringenden Augen einer<lb/>bleichen Frau sie an. — „Seit Se wol,“ sprach der Bote,<lb/>„de sel’ge Fru Amtmannin hev den Schrank dervör<lb/>setten laten, wilen det dat Porträ jümmer so nau de<lb/>Düren keek.“<lb/>
+            </p>
+            <p> <lb/>Allgemeiner Freudenausbruch über den glücklichen<lb/>Fund; aber Frau Lina hatte nun die gesuchte Gemahlin<lb/>für den geköpften Obristen. Alle mußten Verschwiegenheit<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0979" n="967" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=979"/>
+            </p>
+            <p> <lb/>geloben; der gemalten Aebtissin ward ein farbiges Dessin<lb/>auf ihr ehrwürdiges Gewand gepinselt, und bald hing sie<lb/>dem Obristen gegenüber. Beide Bilder hatten die Augen<lb/>fest auf einander geheftet; die feinen, bleichen Züge der<lb/>geistlichen Frau schienen sich im schweren Goldrahmen<lb/>förmlich zu beleben; oft war es, als rieselte ein zartes<lb/>Roth über die Wangen, welche von Seelenschmerz und<lb/>durchwachten Nächten Zeugniß gaben. Der Obrist nahm<lb/>sich auch recht stattlich aus, wenn gleich durch die Hals-<lb/>nath etwas ungewöhnlich hochschulterig.<lb/>
+            </p>
+            <p> <lb/>Endlich war der Ahnensaal vollendet. Der Ball-<lb/>tag kam und drei große Kutschen rollten an mit den<lb/>Freunden und Verwandten aus der Stadt. „Wollen<lb/>Sie gütigst in die Salons der gnädigen Frau treten?“<lb/>sprach der empfangende Bediente in seiner nagelneuen<lb/>roth und blauen Livrée. Dann kam Frau Lina selbst,<lb/>am Gürtel ein Schlüsselbund und eine gestickte Tasche<lb/>an silbernen Ketten.<lb/>
+            </p>
+            <p> <lb/>„Wie maskirt du aussiehst!“ scherzte Freundin<lb/>Eugenie. — „Ich?“ fragte die Amtmännin. „Ach die<lb/>Frauen unserer Familie kleiden sich alle mit nobler Ein-<lb/>fachheit. Aber seyd ihr nun bereit? Ich muß euch gleich<lb/>der Tante Schatzräthin vorstellen; sie ist so gütig unser<lb/>kleines Fest mit ihrer Gegenwart zu beehren.“<lb/>
+            </p>
+            <p> <lb/>Die dicke Schatzräthin besaß, außer den unsicht-<lb/>baren, keine Schätze, aber sie spielte unter den Ange-<lb/>hörigen eine hochwichtige Rolle, und ihre kräftige<lb/>Stimme drang bei jeder großen Frage entscheidend durch.<lb/>Dieses wichtige Mitglied des von D.’schen Stamm-<lb/>baums thronte stolz im neuen Ahnensaal, selbst ihre<lb/>vergilbten Haubenbänder schienen es unter ihrer Würde<lb/>zu halten, nur um eine Linie tiefer, als unumgänglich<lb/>nöthig, sich an dem Gruß der Dame zu betheiligen.<lb/>Die Schatzräthin wußte es und die ganze von D.’sche<lb/>Familie wußte es: sie war eine Dame von Welt.<lb/>
+            </p>
+            <p> <lb/>„Wie schön neu und sauber das alles aussieht!“<lb/>äußerte Eugenie. — „Ja, liebe Eugenie,“ war die<lb/>möglichst harmlose Antwort, „Philipp hat einen guten<lb/>Geschmack.“ — „O darin harmonirst du ganz mit ihm,“<lb/>lächelte die andere artig.<lb/>
+            </p>
+            <p> <lb/>Solche Sticheleien gingen nicht unbemerkt an der<lb/>jungen Frau vorüber; aber sie war zu erfüllt von ihrer<lb/>Festfreude, und dabei hatte sie noch eine sehr sinn-<lb/>reiche Ueberraschung in Petto. Sie war überzeugt, man<lb/>mußte in der Stadt vom Besuche in S. reden.<lb/>
+            </p>
+            <p> <lb/>Gegen Abend gesellten sich zu den Gästen aus der<lb/>Stadt die Ballgäste aus der Nachbarschaft und der Tanz<lb/>begann. Alles war in Bewegung, außer den Bildern;<lb/>das wasserköpfige Kind schien halb im Staub erstickt, der<lb/>Obrist und die Aebtissin sahen sich unverwandt an, als<lb/>ob außer ihnen nichts in der Welt existirte.<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>„Es wird hier sehr warm,“ äußerte die Schatzräthin<lb/>herablassend gegen Linas Papa, und die gelblichen<lb/>Haubenbänder senkten sich zugleich mit, wie Trauer-<lb/>flaggen. — „Meine Nerven sind vom Licht und Ge-<lb/>räusch ganz angegriffen!“ seufzte die Dame von Welt.<lb/>— „Dem wollen wir abhelfen, Tantchen,“ sagte Frau<lb/>Lina freundlich und sprang zur Flügelthüre am äußer-<lb/>sten Ende, die auf einen der gewölbten Corridors führte.<lb/>
+            </p>
+            <p> <lb/>Ein Ruf der Bewunderung folgte dieser Bewe-<lb/>gung. An der andern Seite des Corridors lag die<lb/>alte Klosterkirche. Sie war geöffnet und erleuchtet; eine<lb/>ernste, leise Orgelmelodie wallte den Gästen entgegen.<lb/>Wie auf Verabredung überschritten alle die Schwelle<lb/>des Heiligthums und standen eine Weile in stummer<lb/>Ueberraschung. Das Orgelspiel erstarb. Flüsternd ging<lb/>die Gesellschaft zu den alten Heiligenbildern und Sta-<lb/>tuen, zu der unendlich mühevoll genähten Altardecke<lb/>und den Grabsteinen. Ein blonder, junger Mann, der<lb/>Assessor aus der Stadt, hatte sich Gertrud zugesellt,<lb/>welche heute die so schwer erkauften Toilettegegenstände<lb/>trug und seit einiger Zeit in Linas Geheimnisse, selbst<lb/>das der Pseudo-Obristin, eingeweiht war.<lb/>
+            </p>
+            <p> <lb/>„Sehen Sie nur hier, gnädiges Fräulein, die<lb/>hinter dieser Mauer ruhende Aebtissin scheint dem Basrelief<lb/>nach keine Schönheit gewesen zu seyn,“ lispelte der<lb/>Assessor. „Wie heißt sie denn nur? S—i—b— ja<lb/>Sibylla; Car — Cor — Nein ich kann’s nicht lesen.“<lb/>
+            </p>
+            <p> <lb/>„O, das Basrelief,“ erwiederte Gertrud erröthend,<lb/>„stellt auch gar nicht die Aebtissin, sondern den Tod<lb/>selbst vor. Sibylla Cornelia war schön, aber vielleicht<lb/>nicht sehr glücklich.“ — „Sie überraschen mich, gnä-<lb/>diges Fräulein, woher wissen Sie —“ — „Gertrud!<lb/>Gertrud!“ rief der Amtmann, „geh’ da von der Mauer<lb/>weg! Sie ist sehr baufällig und hat einen bedenklichen<lb/>Riß. Das Todtengewölbe dahinter —“ — „Herr Gott,<lb/>das Todtengewölbe!“ schrieen die Damen und hüllten<lb/>sich schaudernd in ihre Mantillen. „Das ist ja gräßlich!<lb/>— „Kommt, kommt!“ ließ sich Frau Lina vernehmen,<lb/>„das Souper wartet.“<lb/>
+            </p>
+            <p> <lb/>Der Assessor bot Gertrud den Arm. Lina war<lb/>die vortrefflichste Wirthin, der brave Philipp nöthigte<lb/>sich heiser und die Schatzräthin entwickelte den wunder-<lb/>barsten Appetit. Gertruds volles Kindergesicht strahlte<lb/>vor Vergnügen, ihr blonder Nachbar ward mit jedem<lb/>Glase lebhafter, mit jeder Viertelstunde aufmerksamer,<lb/>so daß die Schatzräthin ihre dritte Portion italienischen<lb/>Olivensalat mit sichtbarem Groll abfertigte.<lb/>
+            </p>
+            <p> <lb/>Es mochte Mitternacht seyn, als eben wieder eine<lb/>Tanzpause eintrat. Der Assessor hatte den bewußten<lb/>Deckelkrug gefüllt und stand in hoher Begeisterung vor<lb/>Gertrud. „Es ist unverkennbar, Fräulein Gertrud,“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0980" n="968" corresp="http://opacplus.bsb-muenchen.de/title/6597069/ft/bsb10531753?page=980"/>
+            </p>
+            <p> <lb/>rief er, „Sie gleichen der Obristin auf merkwürdige<lb/>Weise, zum Verwechseln!“ — „O nicht doch!“ erwie-<lb/>derte das Mädchen. „Ich glaube, man kann kaum<lb/>verschiedener seyn, diese Dame hat einen so ernsten,<lb/>trüben Blick.“ — „Gar nicht, gar nicht! Etwas —<lb/>etwas <hi rendition="#aq">verliebt</hi> möchte ich ihn nennen, wie sie den<lb/>Obristen anstarrt. Erlauben Sie, Fräulein Gertrud, es<lb/>sind so viele Gesundheiten ausgebracht worden, ich will<lb/>Ihr Ebenbild leben lassen. Schöne Dame,“ damit ver-<lb/>neigte er sich gegen das Gemälde, „da ich Ihnen für<lb/>
+               <hi rendition="#aq">dieses</hi> Leben nichts mehr wünschen kann, so erlaube<lb/>ich mir, Ihnen <hi rendition="#aq">hier unten</hi> angenehme Ruhe zu wün-<lb/>schen, und <hi rendition="#aq">dort oben</hi> frohe Vereinigung mit jenem<lb/>verehrten Herrn, und leere darauf dieses Glas.“<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Aber er leerte es nicht. Ein sonderbares, donner-<lb/>artiges Geräusch erscholl aus der Klosterkirche. Der Amt-<lb/>mann öffnete die Thür; im Halbdunkel der letzten ver-<lb/>glimmenden Lampen sah man die Mauer am Todten-<lb/>gewölbe, an der Seite des Grabsteins, eingestürzt, ein<lb/>weißer dichter Staub stieg wie ein wallendes Gewand<lb/>aus der Oeffnung und verzog sich durch das zerbrochene<lb/>Fenster, in welches der Mond schien.<lb/>
+            </p>
+            <p> <lb/>Alle waren bestürzt. Lina lag ohnmächtig in den<lb/>Armen des plötzlich nüchternen Assessors, der Ball war<lb/>zu Ende und die Freude am Ahnensaal mit ihm. Der<lb/>Amtmann bat sehr bald um Versetzung, welche auch<lb/>erfolgte. Die Bilder wurden mitgenommen, nur zwei<lb/>nicht, <hi rendition="#aq">das alte Liebespaar</hi>.<lb/>
+            </p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

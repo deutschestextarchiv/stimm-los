@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Ungleichen</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_ungleichen_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Die Ungleichen, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die Ungleichen</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>C. F. Simon</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Stuttgart</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Kinder des Südens</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 77–139</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078</idno><idno type="shelfmark">Shelfmark: P.o.germ. 1843 b-2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="80" cert="high"><sic>chmales</sic><corr>ſchmales</corr></choice><choice corresp="102" cert="high"><sic>Seine ſensitives</sic><corr>Sein ſensitives</corr></choice><choice corresp="107" cert="high"><sic>der, Ihnen</sic><corr>der Ihnen</corr></choice><choice corresp="130" cert="high"><sic>Küche gehen!</sic><corr>Küche gehen!“</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die Ungleichen</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0083" n="77" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=83"/>
+            </p>
+            <p> <lb/>Die Ungleichen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0084" n="78" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=84"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0085" n="79" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=85"/>
+            </p>
+            <p> <lb/>„Glück ohne Ruh’<lb/>Liebe biſt Du.“<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">D</hi>er Portier klopfte hart an die Thür Nr. 52 und<lb/>lauſchte dann einen Moment mit verdrießlichem Geſicht.<lb/>Wenn der Portier überhaupt Etwas dachte, ſo waren<lb/>ſeine Gedanken gewiß nicht heiterer Natur, auch ſein grauer<lb/>Rock, der auf jedem der weißen Metallknöpfe ein „P“<lb/>zeigte, und ſein ergrauendes Haar wie ſeine müde Hal-<lb/>tung ſprachen nicht dafür, daß die Portierſtelle in einem<lb/>Frauenbade große Annehmlichkeiten oder Vorzüge darböte.<lb/>Eben wollte der Graue in der „P“-Livrée noch einmal<lb/>und ſtärker anpochen, als drinnen eine Frauenſtimme<lb/>„Herein“ rief. Der Portier öffnete und überreichte wort-<lb/>karg und müde, wie er es in ſeinem zugigen Thorweg<lb/>geworden war, einer ſchwarz gekleideten Blondine eine<lb/>Viſitenkarte. Auf der Karte ſtand, „Szenſivanyi Geza“;<lb/>eine leiſe, faſt mädchenhafte Verlegenheit zog über die<lb/>kräftig gezeichneten Züge der nicht mehr jugendlichen Dame,<lb/>ſie ſchob einen Haufen Papiere und Schreibereien auf dem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0086" n="80" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=86"/>
+            </p>
+            <p> <lb/>Sophatiſch zuſammen, legte ein ſchwarzes Spitzentuch über<lb/>die Haare und fragte mit einem weichen, norddeutſchen<lb/>Dialect: „Wo iſt denn der — der Herr Szenſivanyi ?“<lb/>
+            </p>
+            <p> <lb/>„Wo ſollte er ſein?“ knurrte der Sohn des March-<lb/>feldes, „er ſteht unten und wartet!“<lb/>
+            </p>
+            <p> <lb/>„Er ſteht unten —!“ wiederholte die Dame, wie um<lb/>ſich ſelbſt von dieſer Thatſache zu überzeugen, „gut, ſo<lb/>führen Sie ihn herauf!“<lb/>
+            </p>
+            <p> <lb/>Einige Sekunden war es wieder ſo ſtill in dem Zim-<lb/>mer der Dame in Trauer, wie es dort all’ die Tage, ſeit<lb/>ſie es bewohnte, zu ſein pflegte. Sie — ihr Name iſt<lb/>Eleonore — war eine Schriftſtellerin und dieſer Beruf<lb/>pflegt nicht mit äußerm Lärm betrieben zu werden. Sie<lb/>hatte Glück gehabt mit ihren Dichtungen, aber ſie war<lb/>nicht eitel, ſie nannte ſich eine „gut gelaunte alte Perſon“<lb/>und war einfach und unſcheinbar gleich den ausgedehnten<lb/>Haiden unweit des Nordseeſtrandes, welche ſie ihre Hei-<lb/>mat nannte. Als Eleonore Schritte vernahm, erhellte ſich<lb/>ihr Antlitz wie von einem Lichte erleuchtet; ſie öffnete die<lb/>Thür und heftete ihre grauen Augen forſchend auf ein<lb/>chmales, brünettes Männergeſicht, das von dunklen, krau-<lb/>ſen, empor geſtrichenen Haaren umrahmt war. Der<lb/>Fremde verbeugte ſich. Er war mittelgroß und von ele-<lb/>gantem, geſchmeidigen Wuchse.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0087" n="81" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=87"/>
+            </p>
+            <p> <lb/>„Sie haben mich nicht erwartet?“ fragte der Ange-<lb/>kommene in ſanftem, melancholiſchem Sprachton und<lb/>jener langſamen Ausdrucksweiſe, welche bekundet, daß<lb/>der Redende zuvor jedes Wort aus einer andern Sprache<lb/>übersetzt.<lb/>
+            </p>
+            <p> <lb/>„Doch, ich habe Sie alle die Tage erwartet!“ ſagte<lb/>Eleonore freundlich und reichte ihm die Hand. „Seien<lb/>Sie willkommen, ich freue mich, daß wir nach jahre-<lb/>langem brieflichen Verkehr uns jetzt Auge in Auge kennen<lb/>lernen!“<lb/>
+            </p>
+            <p> <lb/>Die zwei ganz ungleichen Menſchen ſaßen einander<lb/>gegenüber, ſie die kühle blonde Tochter des Nordens, er<lb/>der Sohn einer heißen ſüdlichen Sonne, ſie mit dem<lb/>blauen Blute eines alten germaniſchen Geſchlechtes in den<lb/>Adern, er mit jedem Zuge, mit jedem Gedanken ein Ma-<lb/>gyar, ſie eine ſtrenge Lutheranerin, er ein lauer Katho-<lb/>lik, ſie über die Grenzen der weiblichen Jugend hinaus,<lb/>er inmitten des brauſenden Lebensſtromes — nur Eins<lb/>theilten ſie: ſie verſtanden ſich noch ehe ſie einander etwas<lb/>geſagt hatten.<lb/>
+            </p>
+            <p> <lb/>„Ich muß Ihnen die Honneurs von „P.“ machen,“<lb/>nahm die Schriftſtellerin munter das Wort, „ich zeige<lb/>Ihnen gleich das Beſte, treten Sie an’s Fenſter!“<lb/>
+            </p>
+            <p> <lb/>Sie ſchauten in einen ziemlich verwilderten Garten<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0088" n="82" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=88"/>
+            </p>
+            <p> <lb/>hinunter und, in der Höhe des Fenſters, auf eine grüne<lb/>Wand von Baumkronen und Zweigen.<lb/>
+            </p>
+            <p> <lb/>„Ja, das ſind unſere ungariſchen Akazien!“ ſagte er.<lb/>Die ſtehen hier in der Kälte!“<lb/>
+            </p>
+            <p> <lb/>„O, es iſt nicht immer kalt hier, Herr Szenſivanyi,<lb/>es kann auch ſehr warm werden; was fingen wir armen<lb/>badenden Frauen denn ſonſt hier an?“<lb/>
+            </p>
+            <p> <lb/>Geza fuhr mit der Hand durch ſein ſchwarzes ſtraffes<lb/>Haar und fragte besorgt: „Sind Gnädige nicht gern<lb/>hier?“<lb/>
+            </p>
+            <p> <lb/>„O nein,“ lachte die Dame, „die Gegend iſt ſo trau-<lb/>rig, nach meiner erſten Umſchau habe ich geweint, obwol<lb/>mich nicht leicht etwas zum Weinen bringt; dieſe ſchatten-<lb/>loſen Felder und Weinberge ſtimmten mich ſo trübe, nach-<lb/>dem ich eben aus Steyermark komme, wo ich mich in ſo<lb/>erhabene Naturſchönheit verſenkte!“<lb/>
+            </p>
+            <p> <lb/>„Mein Gott, weshalb bleiben Sie an einem Orte,<lb/>wo Sie ſich traurig fühlen? ich kann Ihnen die ſchönſten<lb/>Bäder nennen, da iſt —“<lb/>
+            </p>
+            <p> <lb/>„Aber die Cur!“ unterbrach ſie ihn lachend, „Sie<lb/>vergeſſen ganz die Cur!“<lb/>
+            </p>
+            <p> <lb/>„Nun, wenn Sie nicht gern da ſind, ſo muß ſich<lb/>doch das Uebrige finden!“<lb/>
+            </p>
+            <p> <lb/>„O nein, das findet ſich nicht, aber ich finde mich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0089" n="83" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=89"/>
+            </p>
+            <p> <lb/>in die Nothwendigkeit — wir Norddeutſchen ſind ſehr<lb/>consequent!“<lb/>
+            </p>
+            <p> <lb/>Der Schriftſteller ſchüttelte voll Mitgefühl den Kopf,<lb/>es that ihm ſo weh, daß eine Frau, eine Schriftſtellerin,<lb/>an einem Orte leben ſollte, der ihr mißfiel.<lb/>
+            </p>
+            <p> <lb/>Als ſie zu dem kleinen Theater im Cursaal gingen,<lb/>bot er ihr den Arm. Sie lehnte in einer gewiſſen trocke-<lb/>nen Art ab, die vielleicht etwas milder betont geweſen<lb/>wäre, wenn nicht die neugierigen Blicke des übrigen<lb/>Publicums, ausſchließlich Frauen und Kinder, auf den<lb/>zwei Helden von der Feder geweilt hätten. Die Bühne<lb/>ruhte auf einem Billard und mehreren alten Biertonnen,<lb/>aus Sparſamkeitsrückſichten wurde bei Tageslicht geſpielt.<lb/>Die ganze Zuſammenſtellung war ein Stück künſtleriſchen<lb/>Elendes, welches den regen Schönheitsſinn des jungen<lb/>Mannes verletzte, der den edelſten Idealen mit der gan-<lb/>zen Kraft ſeiner Seele huldigte. Da ſeine Nachbarin<lb/>aber anſcheinend aufmerkſam dem höchſt mittelmäßigen<lb/>Spiel zusah, ſo beſchäftigte ſich Geza mit ihr durch Ver-<lb/>mittelung der Bühne, bei luſtigen Stellen lächelte er im<lb/>Voraus, weil ſie ja auch ſogleich lachen mußte, bei ver-<lb/>ſchiedenen Anſpielungen auf örtliche oder Volkseigenthüm-<lb/>lichkeiten harrten ſeine Blicke ſchon der ihrigen, welche ſie<lb/>langſam und treuherzig zu ihm erhob. Nach dem Schau-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0090" n="84" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=90"/>
+            </p>
+            <p> <lb/>ſpiel mußte er das Eiſenwaſſer des Brunnens koſten, und<lb/>die Allee beſehen, und ſoupiren, und endlich ſetzte er ſich<lb/>neben ihrem Sopha und ſie zeigte ihm Stück für Stück<lb/>eine Menge kleiner Bilder, welche ihre Reiſeerinnerungen<lb/>bis zum Bade „P.“ bildeten. Da war Philippine Wel-<lb/>ſer’s Portrait und das kurfürſtliche Palais in Kaſſel, die<lb/>Büſte des Jupiter und der Traunſee, die Wartburg und<lb/>Paul Heyse — bei jedem der ſyſtemlos dargereichten Bil-<lb/>der wachte eine besondere Erinnerung auf und er nahm<lb/>mit dem Bilde aus ihrer Hand auch eine Vorſtellung ihres<lb/>Gemüthes in ſein Gemüth auf.<lb/>
+            </p>
+            <p> <lb/>„Reiſten Sie ganz allein?“ fragte er auf einmal be-<lb/>unruhigt.<lb/>
+            </p>
+            <p> <lb/>„Freilich, weshalb nicht? ich bin fünfundvierzig<lb/>Jahre alt!“<lb/>
+            </p>
+            <p> <lb/>„O — in der That — das hätte ich nicht gedacht.<lb/>Für wie alt halten Sie mich?“<lb/>
+            </p>
+            <p> <lb/>„Ich Sie —? ach, Herr Szenſivanyi, es iſt ſo ein-<lb/>fältig, aber ich kann niemals wiſſen wie alt die Leute<lb/>ſind, ich glaube ich achte nicht darauf, ich ſehe nur ob ſie<lb/>lebendig oder intereſſelos ſein mögen und denke wie ihr<lb/>Weſen iſt — warten Sie — ja, wenn Sie fröhlich aus-<lb/>ſehen, dann hält man Sie für ſehr, ſehr jugendlich, aber<lb/>ſo, mit Ihrer traurigen Miene, da ſehen Sie viel älter aus!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0091" n="85" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=91"/>
+            </p>
+            <p> <lb/>„Ich zähle einunddreißig Jahre — ſehen Sie, wie<lb/>friſch und heiter Sie ſind, Gnädige, und ich ſtehe ſchon<lb/>jenſeits der Illuſionen !“<lb/>
+            </p>
+            <p> <lb/>„Morgen gehen wir ſpazieren, dann erzählen Sie mir<lb/>recht viel von Ihren Schickſalen und Ihren Arbeiten,<lb/>nicht wahr? — Wir Curleute gehen immer früh ſchlafen,<lb/>ich werde Ihnen noch Streichhölzer mitgeben — ſo, gute<lb/>Nacht, ſchlafen Sie gut in „P.!“<lb/>
+            </p>
+            <p> <lb/>Er küßte ihre Hand und ſuchte ſein Zimmer auf.<lb/>
+            </p>
+            <p> <lb/>Die Promenade fand ſtatt. Geza meinte zwar, er<lb/>ſei ſo oft und bitter getäuſcht, daß er ſich ganz in ſich<lb/>ſelbſt verſchlöſſe, begann dann aber doch unaufgefordert<lb/>durch Worte, als freien Seelenerguß ſeine ganze Lebens-<lb/>geſchichte mit allen Hoffnungen und Täuſchungen, mit all’<lb/>ihrer kurzen Luſt und bittrem Herzeleid zu erzählen. Die<lb/>Dichter haben eine andere Geſchichte als die prosſaiſchen<lb/>Menſchen, jene glücklichen Alltagsmenſchen, von denen<lb/>Shakeſpeare ſagt: „Du biſt ein glücklicher Mann, Du<lb/>denkſt wie Jedermann denkt!“ — Der Sohn einer ange-<lb/>ſehenen Familie, begabt und gebildet, wird nicht ohne<lb/>große Kämpfe Literat und das ſchwankende Schiff der<lb/>Belletriſtik ſchleudert ihn leichter in den Strudel, als die<lb/>zäheren Kinder der Kunſt und Wiſſenſchaft, an deren<lb/>Wiege keine Mutter von einem Sitz im Miniſterium, oder<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0092" n="86" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=92"/>
+            </p>
+            <p> <lb/>einer Feldzeugmeiſteruniform, nebſt unzähligen Orden<lb/>träumte! Jene werden von Haus aus in ihrer künftigen<lb/>Stellung erzogen, wir müſſen, wie ein erwachſener Baum,<lb/>erſt dann unſere Zweige binden, unſere Krone zuſtutzen<lb/>laſſen, wenn wir im vollen Laube ſind. Eleonore kannte<lb/>das, ſie, eine Frau, hatte einſam genug den Dornenpfad<lb/>durch die Familienanſichten zurückgelegt. Nach außen hin<lb/>ſieht ſich die Herzensgeſchichte der Menſchen immer mehr<lb/>oder weniger ähnlich, die des jungen Literaten war nicht<lb/>überraſchend, aber traurig und um ſo rührender, als er<lb/>ſie in ſeiner ſanften Art und mit den einfachen deutſchen<lb/>Worten ſchilderte, die ihm zu Gebote ſtanden, hier und<lb/>da unerwartet mit einer dichteriſchen, hochpoetiſchen Sen-<lb/>tenz durchflochten. Er hatte ein ſchönes, reiches Mädchen<lb/>geliebt, deren Vater grauſam gegen Beide war, das arme<lb/>Kind grämte ſich und ſtarb — er hielt die erkaltende<lb/>Hand ſeiner Verlobten in der ſeinigen und floh ſeitdem<lb/>alle Jugendfreuden und jede Geſelligkeit. Jetzt ſchlief ſie<lb/>ſchon ſeit Jahren in ihrem Grabe. Endlich redete Geza<lb/>von ſeinem feurig und ſchmerzlich geliebten Vaterlande,<lb/>von ſeinem Streben und Hoffen zum Segen deſſelben —<lb/>und dann ſprang er über einen Graben und ſagte:<lb/>„Sehen Sie, die Rainweiden blühen ſchon, ich werde<lb/>Ihnen welche pflücken!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0093" n="87" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=93"/>
+            </p>
+            <p> <lb/>„Ich nenne ſie Liguſtrum!“<lb/>
+            </p>
+            <p> <lb/>„So heißt ſie auch; und wie heißt man dieſe Blume<lb/>in Deutſchland?“<lb/>
+            </p>
+            <p> <lb/>„Kornblume oder Cyane!“<lb/>
+            </p>
+            <p> <lb/>„Ja, Cyane — kennen Sie alle Blumen und Pflanzen?“<lb/>
+            </p>
+            <p> <lb/>„So ziemlich, nur nicht mit den botaniſchen Namen!“<lb/>
+            </p>
+            <p> <lb/>„Sehen Sie, Gnädige, ich bin ſeit meinem Unglück<lb/>nirgends lieber als im botaniſchen Garten zu Peſt, manch-<lb/>mal ſchwankte ich, ob es nicht gerathen ſei Kunſtgärtner<lb/>zu werden, die Manipulationen würde ich in zwei Jahren<lb/>erlernen, das Uebrige weiß ich!“<lb/>
+            </p>
+            <p> <lb/>„Sie ſagen das ſo ernſthaft?“<lb/>
+            </p>
+            <p> <lb/>„Mein Gott, ja, man lebt doch für Etwas auf der<lb/>Welt, Sie können nicht ahnen, wie man durch die Jour-<lb/>naliſtik aufgerieben wird!“<lb/>
+            </p>
+            <p> <lb/>Eines Tages durchblätterten ſie die Schriften und<lb/>Bücher, welche Geza geſchrieben, für die er mit einer<lb/>ganzen übermächtigen Partei gerungen, derentwegen er<lb/>ſchwere, große Opfer gebracht hatte.<lb/>
+            </p>
+            <p> <lb/>„Erzählen Sie mir jetzt von ſich,“ ſagte er plötzlich,<lb/>indem er ihre Hand, die auf der Sophalehne ruhte, in<lb/>die ſeine nahm. Sie fühlte eine Art Dankbarkeit, daß er<lb/>die Lebensgeſchichte einer alten Person zu wiſſen wünſche;<lb/>ihr Herz ſuchte eben nicht und ſie war fern von Gefall-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0094" n="88" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=94"/>
+            </p>
+            <p> <lb/>ſucht, ſie hatte eine ſo reine mütterliche Freude an Geza’s<lb/>Begabung.<lb/>
+            </p>
+            <p> <lb/>„Gut, ich werde Ihnen erzählen“, ſagte ſie gefällig,<lb/>„es iſt ſo glücklich, daß ich das Schlimme, was ich er-<lb/>lebte, vergeſſen, oder doch verſchmerzt habe, während das<lb/>viele Gute gleichſam noch in friſcher Blüthe ſteht. Ich<lb/>erinnere mich des Schmerzlichen, aber ich erblicke es nur<lb/>mit den Segnungen zugleich, die mir aus demſelben er-<lb/>wuchſen.“<lb/>
+            </p>
+            <p> <lb/>Geza nahm ihre Finger feſter zwiſchen die ſeinigen,<lb/>als könnte etwas von Eleonoren’s abgeklärter geſunder<lb/>Natur aus dieſer ruhigen Rechten in ſein Weſen hinüber-<lb/>ſtrömen.<lb/>
+            </p>
+            <p> <lb/>„Ich war nie hübſch“, begann Eleonore, „ſpäter ſagte<lb/>wohl einmal Jemand, ich hätte früher ganz gut ausge-<lb/>ſehen, aber leider wußte ich das in meiner Jugend nicht,<lb/>vielleicht wäre ich viel eher ſelbſtſtändig und lebenserfah-<lb/>ren geworden, wenn man mir das geſagt hätte!“<lb/>
+            </p>
+            <p> <lb/>„Nicht hübſch?“ ſtaunte Geza, „mit Ihren ſanften<lb/>Zügen und dem Ausdruck in Ihren Augen?“<lb/>
+            </p>
+            <p> <lb/>„Nun, im Alter ſieht man leicht gut aus, an die<lb/>Jugend werden andere Anſprüche gemacht. Im Ganzen,<lb/>wenn ich mich erinnere — es iſt ſchon ſo lange her —<lb/>fand ich ziemlich viel Beifall, ich kümmerte mich aber<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0095" n="89" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=95"/>
+            </p>
+            <p> <lb/>nicht darum und wußte, man ſuchte hauptsächlich meine<lb/>gute Laune. Trotzdem liegt meine Jugend nicht ſehr hell<lb/>in meiner Erinnerung. Ich verlor früh meine Mutter<lb/>und mein Vater heiratete eine zweite Frau. Die Leute<lb/>ſagen, ſie ſei eine gute Frau geweſen, ich weiß auch<lb/>nichts Böſes von ihr, aber eigentlich auch nichts Gutes.<lb/>Ich wollte, ſie wäre mitunter ſchlimm geweſen und dann<lb/>wieder freundlich. Die Stimmung würde nicht ſo ſchwer<lb/>und ſtagnirend geworden ſein. Ich machte vielfache Ver-<lb/>ſuche, von ihr verſtanden zu werden, bald hoffte ich eine<lb/>Anknüpfung von Herz zu Herz zu finden, dann wieder<lb/>glaubte ich, es müßten endlich geiſtige Anklänge zu finden<lb/>ſein — was ich that und gab, diente aber nur dazu,<lb/>meine Stiefmutter tiefer zu überzeugen, ich ſei von Haus<lb/>aus überſpannt und verſchroben —! Sie ſeufzte und er-<lb/>trug mich mit Geduld. Sehen Sie, mein Freund, Sie<lb/>und ich, wir Beiden bedurften nur der Minuten, um<lb/>unſern gegenseitigen Werth zu bemeſſen, um die Parole<lb/>des Verſtändniſſes zu finden — der Frau meines Vaters<lb/>bin ich immer fremd geblieben!“<lb/>
+            </p>
+            <p> <lb/>Geza’s Augenbrauen zogen ſich drohend zuſammen,<lb/>als gälte es, die Dame vor den Unbilden, welche ſie<lb/>lächelnd andeutete, noch nachträglich zu ſchützen, ach, er<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0096" n="90" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=96"/>
+            </p>
+            <p> <lb/>mit ſeinem ſo leicht verletzten Gefühl wußte, was es<lb/>heißt, mißverſtanden, mißkannt zu werden.<lb/>
+            </p>
+            <p> <lb/>„Meine Stiefmutter“, fuhr Eleonore fort, „hatte eine<lb/>Tochter, ein ſchönes, lebenskluges, gewandtes Geſchöpf,<lb/>ſo lieblich und feſſelnd als ſich nur jemals die Selbſtſucht<lb/>verkörperte. Niemand wunderte ſich, daß meine Eltern<lb/>das ſchöne Geſchöpf vergötterten, ich ſelbſt gewahrte kaum,<lb/>daß nach wenig Jahren Ottilien’s lichte, blonde Erſchei-<lb/>nung die arme Eleonore völlig in den Schatten drängte,<lb/>es ſchien uns Allen, das müſſe ſo ſein. Alles Mühen<lb/>war für mich, alles Blühen für ſie. Sie wuchs höher<lb/>als ich und blickte, wie dazu berechtigt, über meine ein-<lb/>fachen Lebensintereſſen hinweg. Daß ich mitunter kleine<lb/>Gedichte ſchrieb und mich in Aufſätzen verſuchte, wurde<lb/>belächelt und als Erguß meiner bekannten Ueberſpanntheit<lb/>behandelt. Meine Umgebung erblickte erſt dann den Stem-<lb/>pel der Begabung auf meiner Stirn, als ſie zugleich die<lb/>Honorare in meiner Hand erſchaute. Kein Wunder, wenn<lb/>die Mama und Ottilie, welche geſund waren, wie die<lb/>Fiſche im Waſſer, im Sommer in’s Bad reiſten, wäh-<lb/>rend der kränkliche Vater, um die Curkoſten zu ſparen,<lb/>daheim blieb und ich mit ihm zu ſeiner Pflege und Un-<lb/>terhaltung. Es galt, Ottilien in die Welt zu führen<lb/>und eine gute Partie für ſie zu finden. In eine ſolche<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0097" n="91" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=97"/>
+            </p>
+            <p> <lb/>ſtille Sommersaison, wo das geſellige Vaterhaus wie<lb/>ſcheintodt dalag, fiel der Beſuch eines jungen Mannes,<lb/>von deſſen Liebenswürdigkeit und Begabung man in un-<lb/>ſerer Stadt viel redete. Er hieß Baron Kurzen, hatte<lb/>ſich der Jurisprudenz gewidmet und man prophezeite ihm<lb/>mit ziemlicher Gewißheit eine glänzende Carrière, da er<lb/>ſich neben ſeinen persönlichen Vorzügen einer hohen und<lb/>einflußreichen Verwandtſchaft erfreute. Eugen Kurzen war<lb/>an meinen Papa empfohlen, er kam oft und öfter in<lb/>unſer Haus, ſein unverkennbares Intereſſe für mich ſtei-<lb/>gerte ſich, als ich ihm Einiges von meinen dichteriſchen<lb/>Verſuchen mittheilte, er drang ſo lange in mich, meine<lb/>Arbeiten zu veröffentlichen, bis ich ſeiner verlockenden<lb/>Ueberredung nachgab. Als der erſte Abdruck aus ſeiner<lb/>Hand in meine zitternden Hände gelegt wurde, da geſtand<lb/>er mir, ſeine Bewunderung für mich ſei längſt Liebe ge-<lb/>worden und er bitte um mein Herz und meine Treue<lb/>für’s Leben!“<lb/>
+            </p>
+            <p> <lb/>Eleonore machte eine Pauſe, es zuckte doch eine Wehmuth<lb/>um ihre Mundwinkel, als ſie des Jugendglücks gedachte;<lb/>gleich aber waren ihre Züge wieder heiter und ſie ſagte<lb/>lächelnd: „Nicht wahr, Herr Szenſivanyi, es iſt komiſch,<lb/>mich altes Mädchen als glückſtrahlende Braut zu denken, ich<lb/>möchte mir ſelbſt mitunter abſtreiten, daß es ſo war!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0098" n="92" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=98"/>
+            </p>
+            <p> <lb/>Geza’s Augen nahmen einen weichen, überaus dich-<lb/>teriſchen Ausdruck an, als er entgegnete: „Die Schönheit,<lb/>welche Baron Kurzen feſſelte, iſt keine ſolche, daß die<lb/>Jahre ſie vermindern könnten!“<lb/>
+            </p>
+            <p> <lb/>„O Sie Schmeichler!“ zürnte Eleonore, „Sie wür-<lb/>den eine Wieſenblume glauben machen, ſie ſei eine Roſe<lb/>— nun, ich weiß doch ſeit jener Zeit, was ein ſtolzes<lb/>Glück, was reiche Lebenshoffnungen ſind und vielen, vie-<lb/>len Frauen ward es nie ſo gut. Ich war ganz Liebe<lb/>und Bewunderung, im Geheimen that es mir doch auch<lb/>wohl, meiner ſchönen Schweſter einen ſolchen vielbenei-<lb/>deten Verlobten vorſtellen zu können und ihn eben durch<lb/>mein biſchen nie anerkanntes ſchriftſtelleriſches Talent ge-<lb/>wonnen zu haben. Mutter und Schweſter kamen, es<lb/>wurden Feſte gegeben, an meiner Ausſteuer gearbeitet und<lb/>der Tag unſerer Hochzeit beſtimmt — —!“<lb/>
+            </p>
+            <p> <lb/>„Ich bitte Sie, erzählen Sie nicht weiter!“ rief Geza,<lb/>ſprang auf und lief im Zimmer umher, „oder wenn es<lb/>geſagt werden muß, ſo ſprechen Sie kurz: Eugen ſtarb!“<lb/>
+            </p>
+            <p> <lb/>„O nein, mein Freund, Eugen ſtarb nicht, aber er<lb/>liebte meine Schweſter und nachdem ich zurückgetreten war,<lb/>ward Ottilie ſeine Gattin! Seien Sie ruhig, Herr Szen-<lb/>ſivanyi, es iſt das nun ſchon lange her und die Ehe der<lb/>zwei jungen Leute ward leider keine glückliche!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0099" n="93" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=99"/>
+            </p>
+            <p> <lb/>„Natürlich nicht!“ ſchaltete der Andere ein.<lb/>
+            </p>
+            <p> <lb/>„Neben meinem eigenen ſchweren Schickſal ward mir<lb/>die Aufgabe, meinen immer kränklicher werdenden Vater<lb/>zu pflegen; derſelbe mußte den Staatsdienſt verlaſſen und<lb/>unſere Einkünfte wurden dadurch um mehr als die Hälfte<lb/>verringert, was die Laune meiner Stiefmutter ungemein<lb/>herabdrückte. Ich wurde heiter, mein Freund, um des<lb/>alten freudloſen Mannes wegen, der das mir gethane<lb/>Unrecht ſo tief empfand, daß er ſelbſt ſchwer darunter<lb/>litt — ich wurde heiter, weil ich lernte auf kein Glück<lb/>mehr rechnen. Auch noch das Letzte trug ich — den<lb/>Verluſt des Greiſes, der wie ein dankbares Kind an mir<lb/>hing — und dann widmete ich mich meinem Berufe und<lb/>Allem, was ſchön und edel und aufſtrebend iſt!“<lb/>
+            </p>
+            <p> <lb/>„Und Sie kennen nicht jene ſchwindelnde Empfindung<lb/>des Verlorenſeins im Universum? Sie rufen ſich nie die furcht-<lb/>bare Frage zu: Weshalb — für wen, für was lebe ich?“<lb/>
+            </p>
+            <p> <lb/>„O nein, mein armer Freund, ich lebe ſo gern, ich<lb/>liebe ſo Viele und ſo Vieles, jede meiner Lebensſtunden<lb/>hat ja einen Zweck und ein Ziel!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ja!“ ſprach Geza langſam und bewundernd,<lb/>indem er einen Schritt zurück trat und die Arme über<lb/>die Bruſt kreuzte. „Ihre Erſcheinung iſt wie die einer<lb/>Heiligen, ſo mild und erdenfremd!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0100" n="94" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=100"/>
+            </p>
+            <p> <lb/>„Läſtern Sie nicht, Sie ſchwärmeriſcher Menſch; ich<lb/>wollte nur, ich könnte Sie lehren gern zu leben!“<lb/>
+            </p>
+            <p> <lb/>„O, Sie können es mich lehren, Eleonore, Sie<lb/>können es und,“ er lächelte, „ich denke, Sie werden es!“<lb/>
+            </p>
+            <p> <lb/>Der Morgentrunk aus der Curquelle äußerte indeß<lb/>ganz die entgegengeſetzte Wirkung des claſſiſchen Lethe-<lb/>waſſers, Geza vergaß und begrub ſeine Gedanken vom<lb/>vorigen Tage keineswegs, im Gegentheil, brennender wie<lb/>je verlangte ihn, den Anker ſeines raſtloſen Lebensſchiffes<lb/>an dieſe gleichmäßige Natur zu befeſtigen, nur fand ſich<lb/>nicht der Moment, ſie war ſo freundlich und doch ſo<lb/>würdig, daß ſein Wunſch wie eine Art Friedensbruch an<lb/>ihrem Vertrauen ſchien. Endlich aber ertrug er’s nicht<lb/>mehr, er kniete vor ihr nieder und legte ſeine Stirn auf<lb/>ihre Hand. Als ſie dieſelbe fortziehen wollte, ſagte er:<lb/>„O, Sie glauben nicht, wie ſehr mich manchmal mein<lb/>Kopf ſchmerzt und wie wohl es thut, ihn hier ruhen zu<lb/>laſſen — was kann es Ihnen ſchaden, wenn meine Stirn<lb/>auf Ihrer Hand liegt?“<lb/>
+            </p>
+            <p> <lb/>Eleonore erröthete, ſie hatte vergeſſen, daß ſie alt<lb/>und er jung war. Auf einmal und mit unerwarteter<lb/>Heftigkeit ſchlang Geza ſeine Arme um ſie und küßte<lb/>ihre Lippen.<lb/>
+            </p>
+            <p> <lb/>„O, mein Gott, was ſoll das — was berechtigt Sie,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0101" n="95" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=101"/>
+            </p>
+            <p> <lb/>mich ſo zu beleidigen?“ flammte die Dame auf und richtete<lb/>ſich vor ihm in die Höhe.<lb/>
+            </p>
+            <p> <lb/>„Ich werde Sie um keinen Preis beleidigen, aber ich<lb/>liebe Sie — ja, ich liebe Sie!“<lb/>
+            </p>
+            <p> <lb/>„War mein Betragen ſo, als dächte ich Sie zu ero-<lb/>bern?“ rief Eleonore gekränkt.<lb/>
+            </p>
+            <p> <lb/>„O, niemals, Sie waren gütig, aber durchaus kühl!“<lb/>
+            </p>
+            <p> <lb/>Eleonore athmete auf: „natürlich, ich habe nie daran<lb/>gedacht, Sie in dieſer Weiſe zu lieben!“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß das, aber ich hoffe, Sie werden mich lieben<lb/>lernen, ich biete Ihnen Alles, was ein Mann zu bieten<lb/>hat, mich ſelbſt, meine Hand, meine Liebe — weshalb<lb/>ſoll ich nicht hoffen glücklich zu werden, weshalb wollen<lb/>Sie mir verbieten mein Lebensideal, nun ich es gefunden,<lb/>endlich gefunden, mit allen Banden an mich zu feſſeln?“<lb/>
+            </p>
+            <p> <lb/>Die ſtarke, muthige Frau ſank in einen Seſſel und<lb/>weinte. Geza ſaß ihr gegenüber am Tiſche, ſtützte die<lb/>Wange auf die Hand und blickte ſie an. Er fand bei-<lb/>nahe eine Befriedigung darin, daß ſie da ſaß und um<lb/>ihn weinte. Sie ſchluchzte und ächzte nicht, nur liefen<lb/>die Thränen unaufhaltſam hernieder, ſelbſt ihre Art zu<lb/>weinen beruhigte ihn. Er drang nicht in ſie um eine<lb/>Antwort oder Entſcheidung, ſein richtiges Gefühl lehrte<lb/>ihn, man müſſe ſie ihren Eindrücken überlaſſen, damit ſie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0102" n="96" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=102"/>
+            </p>
+            <p> <lb/>entſcheide; er bat auch nicht, wozu? Er bot ſeine ganze<lb/>Zukunft ſo redlich und vollſtändig als er konnte, ſie war<lb/>offenbar tief ergriffen, mehr konnte, durfte er für den<lb/>Augenblick nicht erwarten.<lb/>
+            </p>
+            <p> <lb/>Nach einer Weile trocknete ſie ſich die Augen, trat<lb/>an’s Fenſter und blickte auf die ſtillen Akazienbäume unter<lb/>demſelben, dann näherte ſie ſich Geza, legte ihre Hände<lb/>auf ſein dunkles Haar und ſprach: „Es ſteht feſt, Geza,<lb/>ich kann nicht Ihre Gattin werden!“<lb/>
+            </p>
+            <p> <lb/>„Und weshalb nicht, um Gottes willen, weshalb nicht?“<lb/>
+            </p>
+            <p> <lb/>„Es giebt viele Gründe, vor Allem aber mein Alter.“<lb/>
+            </p>
+            <p> <lb/>„Hier!“ ſagte er und zeigte in dem Buche, das er<lb/>durchblättert hatte, auf folgenden Vers:<lb/>
+            </p>
+            <p> <lb/>„Wann Du geboren, ich weiß es nicht,<lb/>Will’s nicht wiſſen, ob ich’s fände.<lb/>Sei mir ein Kreis, ein ewiges Licht,<lb/>Ohne Anfang, ohne Ende!“<lb/>
+            </p>
+            <p> <lb/>Sie ſeufzte, er betrachtete ihre Hände und ſprach, die-<lb/>ſelben küſſend: „Wie ſchön die ſind!“<lb/>
+            </p>
+            <p> <lb/>„Das wird Alles im Grabe liegen!“ rief ſie ernſt.<lb/>
+            </p>
+            <p> <lb/>„Weshalb laſſen Sie mir nicht Ihre Hände und<lb/>reden ſo ſchauerliche Dinge?“<lb/>
+            </p>
+            <p> <lb/>„Weil — mein Gott, und wenn Alles Andere nicht<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0103" n="97" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=103"/>
+            </p>
+            <p> <lb/>wäre, wir ſind ja Beide ohne Vermögen. Ich verliere<lb/>meine Apanage, wenn ich heirate!“<lb/>
+            </p>
+            <p> <lb/>„Haben wir nicht bisher gelebt? Vereint würde das<lb/>ſich beſſer einrichten.“<lb/>
+            </p>
+            <p> <lb/>„O, nein, Geza, die Sorge um uns ſelbſt ertrugen<lb/>wir getroſt, aber wir werden es nicht ertragen, daß<lb/>wir einander, einer um des Andern willen, in Sorgen<lb/>ſähen, in Bedrängniß — ich bin von Haus aus einfach,<lb/>aber Ihre Liebe würde es nicht erdulden, wenn ich mir<lb/>Gewohntes verſagen müßte!“<lb/>
+            </p>
+            <p> <lb/>„Also warten wir noch — ich habe immer Unglück!“<lb/>ſagte der Ungar.<lb/>
+            </p>
+            <p> <lb/>Eleonore ſchüttelte unmerklich den Kopf, er kam ihr<lb/>vor wie ein junger Falke, dem man die blendende Haube<lb/>über die Augen geworfen und der ſich nun geduldig von<lb/>Frauenhand leiten läßt, bis Blick und Schwingen wieder<lb/>frei werden.<lb/>
+            </p>
+            <p> <lb/>„Es iſt am Beſten Sie reiſen morgen früh ab!“<lb/>Eleonore mißtraute plötzlich, zu ihrem Schrecken, der eigenen<lb/>Feſtigkeit.<lb/>
+            </p>
+            <p> <lb/>„Nein, nein, ich kann nicht — ich gehe nicht!“<lb/>
+            </p>
+            <p> <lb/>Die Dame ſchaute ihn ſo beſtürzt an, daß er also-<lb/>gleich mit ſeiner von Natur ſo weichen Stimme bat:<lb/>
+            </p>
+            <p> <lb/>„O, laſſen Sie mich noch einen Tag da — ich werde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0104" n="98" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=104"/>
+            </p>
+            <p> <lb/>ja noch lange genug unglücklich und vereinſamt ſein!“ —<lb/>Sie ſagte nicht nein — konnte es nicht ſagen.<lb/>
+            </p>
+            <p> <lb/>Als er ſchlafen gegangen war, öffnete die Schrift-<lb/>ſtellerin das Fenſter und ließ die feuchte Nachtluft über<lb/>ſich dahin wogen. „So ſpiele ich denn meine Romane<lb/>ſtatt ſie zu ſchreiben!“ flüſterte ſie. „Armer Bub! —<lb/>Alles iſt eine Laune von ihm, die wieder verfliegen wird,<lb/>raſch wie ſie kam — ja, wenn ich jung wäre — aber<lb/>ich bin es nicht! Wenn ich das vergäße — der Aermſte,<lb/>er würde ſo unglücklich werden!“<lb/>
+            </p>
+            <p> <lb/>Am nächſten Morgen verging eine Stunde nach der<lb/>andern, ohne daß Geza ein Lebenszeichen von ſich gab.<lb/>Mitten in ihrer Beſchäftigung überkam Eleonore der Ge-<lb/>danke: „Wenn er in einem Anfall von Empfindlichkeit<lb/>oder Hypochondrie in der Frühe abgereiſt wäre!“ Sie<lb/>fühlte ihre Hände am Körper herabſinken und kalt werden.<lb/>„Es wäre am Beſten ſo — vielleicht!“ flüſterte ſie trotz-<lb/>dem und athmete dann doch tief und erleichtert, als ſie<lb/>ſeine Schritte auf dem Corridor und ſein Pochen an der<lb/>Thür vernahm.<lb/>
+            </p>
+            <p> <lb/>Er blickte ihr befremdet in das erregte Geſicht: „Ich<lb/>meinte,“ ſagte ſie raſch, „Sie wären ohne Abſchied von<lb/>dannen gereiſt!“<lb/>
+            </p>
+            <p> <lb/>Seine hübſchen Züge nahmen einen guten kindlichen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0105" n="99" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=105"/>
+            </p>
+            <p> <lb/>Ausdruck innigen Vertrauens an, als er entgegnete: “Wie<lb/>konnten Sie nur vermuthen, ich vermöchte Sie ohne Ab-<lb/>ſchied zu verlaſſen ?“<lb/>
+            </p>
+            <p> <lb/>Es war nichts Heftiges, Plötzliches in dieſem Manne,<lb/>er erglühte gleichſam von innen heraus, wenn ihn eine<lb/>große Idee entzündete, aber es war kein Sprühen und<lb/>Praſſeln dabei, wie beim künſtlichen Feuerwerk, ſondern<lb/>er entflammte gleich einem Alpenglühen, oder leuchtete<lb/>auf wie der Silberblick des geräuſchlos ſchmelzenden Me-<lb/>talls. Eleonore kam ſich als ein proſaiſches, materielles<lb/>Weſen neben ihm vor, obwohl ſein Verhalten ſtets in den<lb/>Grenzen jener geſelligen und conventionellen Formen blieb,<lb/>die manche „Genies“ überſpringen zu dürfen glauben.<lb/>Geza war ein taktvoller, wohlerzogener Mann, auf den<lb/>erſten Blick.<lb/>
+            </p>
+            <p> <lb/>Eleonore irrte, wenn ſie in ihrer Gewiſſenhaftigkeit<lb/>vorausſetzte, es müſſe für beide Theile beſſer ſein ſich<lb/>nach der ſtattgehabten Gefühlserregung zu trennen. Sie<lb/>empfanden, Jeder habe gegen den Anderen etwas gut zu<lb/>machen, er, daß er ſie durch ſeinen Antrag bekümmerte,<lb/>ſie, daß ſie ſein treues Anerbieten zurückwies. Geza ſagte<lb/>in ſeiner rührend einfachen Art, die nächſtliegenden, deut-<lb/>ſchen Ausdrücke zu wählen: „Ich könnte nicht anders für<lb/>Sie fühlen, wenn ich Ihr trauter Gatte wäre!“ —<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0106" n="100" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=106"/>
+            </p>
+            <p> <lb/>Und ſie, was wünſchte ſie denn enthuſiaſtiſcher als ſein<lb/>Glück? Ja, ſie rechnete darauf ihn beglücken zu helfen,<lb/>trotz der Vorausſetzung, ſeine liebende Verblendung werde<lb/>bald von ihm weichen. Weil Geza ſich froher, verſtan-<lb/>dener wußte, fand er in ſich den Muth an den Abſchied<lb/>zu denken. Eleonoren’s Züge wurden ernſter, aber ihre<lb/>Augen blickten heller und treuer. Sie hatte Geza eine<lb/>Strecke hinausbegleitet und ſie ſaßen neben der Landſtraße<lb/>unter ein paar mächtigen Linden, welche einem ländlichen<lb/>Wirthshauſe gegenüber ſtanden. Eleonore — er ſagte<lb/>ein oder zwei Mal gleichſam ſchüchtern: „Elly!“ — blickte<lb/>ihm voll in die Augen: „Wie können wir ſo fröhlich und<lb/>warmen Herzens ſcheiden, Geza, da wir es ſo vorwurfs-<lb/>frei thun, da wir wiſſen, wir werden einander nie mehr<lb/>verlieren und können als treue Freunde auf einander rechnen.<lb/>Sie werden es mir eines Tages danken, daß ich Ihre<lb/>Hand nicht annahm. Sie wiſſen, daß Sie in alle Zu-<lb/>kunft dennoch eben ſo ſicher in Rath und That auf mich<lb/>rechnen können, als wäre ich Ihnen wie jene mütterliche<lb/>oder ſchweſterliche Verwandte von Gott berufen.“<lb/>
+            </p>
+            <p> <lb/>Es war ein ſtiller ſonniger Tag. Als der Wagen<lb/>verſchwunden war, erſtieg Elly den Hügel, auf welchem<lb/>die Kirche weiß und weitſchauend zwiſchen den Grab-<lb/>kreuzen ſtand, und blickte zu der lebensgroß in Holz ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0107" n="101" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=107"/>
+            </p>
+            <p> <lb/>ſchnitzten <hi rendition="#aq">mater dolorosa</hi> unter dem Kreuze des Heilands<lb/>empor. Die Seele Eleonoren’s war ſo licht wie die Land-<lb/>ſchaft, ſo dankdurchglüht wie die gereiften, goldig wogen-<lb/>den Saaten von der Julisonne. Sie legte ihre verſchlun-<lb/>genen Hände auf die Füße der Mutter Gottes, blickte<lb/>zum blauen Himmel und flüſterte: „Ich danke Dir, mein<lb/>Gott, daß Du meine Hand wie einen Schild auf dies<lb/>ſchöne, ſo leicht verwundbare Menſchenherz gelegt haſt,<lb/>laß mich meine Miſſion würdig erfüllen und ohne Selbſt-<lb/>ſucht. Was lohnt ſich denn ſchöner und reicher als —<lb/>entſagen?“<lb/>
+            </p>
+            <p> <lb/>Sie ſchaute auf die heilige Gruppe: „Was iſt Freude,<lb/>was iſt Schmerz? Dies iſt mein letzter Frühlingstraum,<lb/>ich weiſe ihn lächelnd zurück — dies iſt ein Abſchied und<lb/>mir iſt als hätte ich einen Verirrten gefunden und ihn<lb/>auf den Pfad der Hoffnung geleitet!“<lb/>
+            </p>
+            <p> <lb/>Geza ſchrieb. Briefe voll Sehnſucht, voll Bitten und<lb/>Entmuthigung. Seine Heimat, von deren beruhigendem<lb/>Einfluß Elly ſo viel gehofft hatte, erſchien Geza verödet<lb/>und eng, er unterſchrieb ſich: „Ihr treuer verlaſſener Geza.“<lb/>So ſollte es nicht ſein, ein Mann mit einem ſolchen<lb/>Aeußern, ſo viel Begabung, Erziehung und Wiſſen, durfte<lb/>ſich nicht einſam fühlen. Die Freundin dachte ſeine Herzens-<lb/>empfindungen zurückzudrängen, wenn ſie immer von Neuem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0108" n="102" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=108"/>
+            </p>
+            <p> <lb/>ſeinen Ehrgeiz entflammte. Er arbeitete, er nahm ihre<lb/>Pläne ſo hin und betrachtete ſie, als ob er ſie ſelbſt ent-<lb/>worfen hatte — aber er vereinſamte ſich in Folge ſeiner<lb/>angeſtrengteren Arbeiten noch immer mehr und ſchrieb:<lb/>„Ich bin für Andere wie geſtorben!“ Ihr dagegen ſtattete<lb/>er getreulich Bericht über alle ſeine Schritte und Ideen<lb/>ab; ja, er gewöhnte ſich zu Allem ihren Rath einzuholen<lb/>— wenigſtens durfte ſich Eleonore ſagen, ſie helfe ihm<lb/>an Dem tragen, was ſeine poetiſchen Schwingen über-<lb/>mäßig herabdrückte — der Wucht der Verhältniſſe! —<lb/>Es iſt eine ſchwere Aufgabe in einem engumgrenzten<lb/>Sprachgebiet, das ſich noch innerlich in Parteien zerreißt,<lb/>Lorbeeren zu pflücken, das Loos eines Journaliſten iſt<lb/>nirgends ein liebliches zu nennen, in Ungarn aber bietet<lb/>daſſelbe noch ganz absonderliche Schwierigkeiten. Die<lb/>Schriftſtellerin hoffte den mit ganzem Herzen erwählten<lb/>Freund zu einer gewiſſen heitern Höhe, zu natürlicher<lb/>Lebensfreude anzufeuern, indem ſie die eigene Gemüths-<lb/>friſche und Eindrucksfähigkeit wie einen ſchmeichelnden<lb/>Duft über ihre Briefe breitete. Seine ſenſitives Gefühl<lb/>empfand dieſen Eindruck vollſtändig, aber nicht in befrie-<lb/>digender Art, Das, was ihm geboten ward, erinnerte ihn<lb/>doppelt ſchmerzlich an das, was ihm verſagt wurde, er<lb/>zog ſich von jedem geſelligen Verkehr zurück und umgab<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0109" n="103" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=109"/>
+            </p>
+            <p> <lb/>ſich mit freudloſer Einſamkeit. Ihre Hände zitterten,<lb/>wenn ſie ſeine Briefe eröffnete, ihre Theilnahme war wie<lb/>ein aufgeſtauter Bach, dem es verwehrt wird eine dür-<lb/>ſtende Flur zu netzen und zu erquicken. „Ob er jemals<lb/>heiter ſein würde, wenn ich — —?“ … ſie ſtockte und<lb/>erröthete; es war ja nicht möglich, daß er neben einer<lb/>ergrauenden Lebensgefährtin auf die Länge glücklich würde<lb/>— mit der Zeit mußte ihm ein junges, ſchönes Mädchen<lb/>begegnen und er ſie lieben. Sie betrachtete oft und lange<lb/>ſein hübſches, ernſtes Bild, das ſtets in ihrer Nähe auf-<lb/>bewahrt wurde. Elly hat nie geſagt ſie fühle ſich ver-<lb/>laſſen; wenn an ihre Thür gepocht ward, ſo erheiterte ſich<lb/>ihr Geſicht und jeder Gaſt fand ſie guter Laune, ihre Be-<lb/>kannten erwarteten und empfingen die fröhlichſte Anregung<lb/>von ihr und ſie meinte lächelnd: „Ich kann ja ſonſt nichts<lb/>für all’ Eure Güte zurückgeben, als daß ich Euch Froh-<lb/>ſinn bringe!“ Sie heuchelte gewiß keinen Frohſinn; ſie<lb/>empfand ihn, aber manchmal flog mitten im heitern Ge-<lb/>ſpräch eine trübe Wolke über ihre Stirn, oder ſie ward<lb/>von einer plötzlichen Zerſtreutheit überwältigt. Zwei Au-<lb/>gen aber laſen dennoch in dem Herzen, dem kein Seufzer,<lb/>keine Klage entſchlüpfte, dieſe Augen gehörten Elly’s alter<lb/>treuer Dienerin Hanna an, einem alten Familienerbſtück,<lb/>das ſich weigerte nach dem Tode von Elly’s Vater bei<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0110" n="104" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=110"/>
+            </p>
+            <p> <lb/>der „zweiten Gnädigen“ — die Stiefmutter wurde ſtets<lb/>von Hanna als unbefugter Eindringling behandelt — zu<lb/>bleiben und ihr gefolgt war. Eines Tages ſtand Hanna<lb/>vór Geza’s Bild und ſagte, den Kopf halb nach ihrer<lb/>ſogenannten Gebieterin zurückgewendet: „Den ſollten wir<lb/>heiraten!“<lb/>
+            </p>
+            <p> <lb/>„Was fällt Dir ein, Hanna, Du ſiehſt, er iſt ein<lb/>junger, hübſcher Mann!“<lb/>
+            </p>
+            <p> <lb/>„Nun? Und ſind wir denn Nichts? Das würde nicht<lb/>übel ſein, wenn wir einen alten Mann nähmen, das muß<lb/>ſich ausgleichen.“<lb/>
+            </p>
+            <p> <lb/>„Rede nicht davon, Hanna, Du verſtehſt die Verhält-<lb/>niſſe nicht!“<lb/>
+            </p>
+            <p> <lb/>„So? Und verſtehe ich auch nicht, daß gnädiges Fräu-<lb/>lein immer an ihn denken und voll Unruh’ ſind, wenn<lb/>dieſe Briefe einmal ausbleiben, deren Handſchrift ſo un-<lb/>deutlich iſt, daß ich ſie nie leſen kann?“<lb/>
+            </p>
+            <p> <lb/>„Nun ja — aber muß man ſich deshalb heiraten?“<lb/>
+            </p>
+            <p> <lb/>„Na ob —!“ entgegnete Hanna und legte ein Ge-<lb/>wicht auf die Worte, als wenn ſie eine lange überzeugende<lb/>Rede gehalten hätte.<lb/>
+            </p>
+            <p> <lb/>Als Hanna am nächſten Morgen den Schreibtiſch ihrer<lb/>Herrin abſtäubte, war Geza’s Bild von demſelben ver-<lb/>ſchwunden, Elly hatte es mit den Worten: „Ich will ihn<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0111" n="105" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=111"/>
+            </p>
+            <p> <lb/>nicht unglücklich machen!“ in Seidenpapier eingeſchlagen<lb/>und in einem Auszug verwahrt.<lb/>
+            </p>
+            <p> <lb/>Inzwiſchen feuerten ſich die getrennten Freunde zu<lb/>reger Thätigkeit an, Geza drängte es ſich für eine andere<lb/>literariſche Thätigkeit frei zu machen und Eleonore arbei-<lb/>tete für ihn; ſie beſorgte die Ueberſetzung ſeiner Aufſätze,<lb/>welche in verſchiedenen deutſchen Blättern, nicht ohne Er-<lb/>folg, ſeinen Namen bekannt machten. Anfangs war Szen-<lb/>ſivanyi im höchſten Grade erfreut und voll Dankbarkeit,<lb/>daß Elly’s Hand die engen Grenzen geſprengt hatte, welche<lb/>ſeinen Geiſtesproducten bislang gebieteriſch gezogen waren,<lb/>aber alsbald überwog wieder die traurige Betrachtung:<lb/>„Mein Name taucht auf und geht wieder unter — gäbe<lb/>man mir Muße ein größeres Werk zu bieten, dann erſt<lb/>würde es ſich zeigen, was mein Geiſt vermag!“ Elly, die<lb/>ſo geduldig, ſo Schritt für Schritt ihren Weg gegangen<lb/>war, fühlte ſich betroffen und niedergeſchlagen, ſie fragte<lb/>ſich, ob überhaupt jemals ein Tag kommen würde, kom-<lb/>men könnte, wo Geza ſpräche: „Ich bin zufrieden!“ Sein<lb/>Weſen kam ihr vor wie ein glühendes Eiſen, das Alles<lb/>verzehrt und verſengt, ohne ſelbſt Genüge zu empfinden.<lb/>Das Bewußtsein, ihm nicht helfen zu können, war ihr<lb/>ein ungemein ſchmerzliches; ſie faltete ihre Hände in ein-<lb/>ander und legte ihre Stirn darauf: „Wenn ich zu ihm<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0112" n="106" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=112"/>
+            </p>
+            <p> <lb/>ginge — würde ich ihm dann nicht doch vielleicht helfen<lb/>können, etwas froher zu werden, oder denke ich nur ſo<lb/>aus Selbſtſucht — weil — nein, nein, ich liebe ihn ja<lb/>nicht wie eine Braut — ich eine Braut! — nur wie<lb/>eine zärtliche Schweſter. —“<lb/>
+            </p>
+            <p> <lb/>Geza empfing Elly’s Briefe, die regelmäßig, wie die<lb/>Zeitung eintrafen, als eine freundliche Thatſache, immer<lb/>mit dem halben Vorwurf: „Weshalb kommt ſie nicht<lb/>ſelbſt, weshalb muß ich zwiſchen all’ den Tauſenden, die<lb/>ein Haus, eine Familie beſitzen, einſam, heimatlos umher<lb/>gehen ihretwegen —?“ Der Gedanke, auch dieſe Briefe,<lb/>voll Theilnahme, voll lebenskräftiger Ideen und ermuthi-<lb/>gender Pläne für die Zukunft, könnten eines Tages auf-<lb/>hören, kam ihm nicht, ſie ſelbſt konnte und wollte ihn ja<lb/>nicht entbehren, woher hätte ſie denn ſonſt ſo viel Opfer-<lb/>freudigkeit geſchöpft?<lb/>
+            </p>
+            <p> <lb/>Mehr und mehr zerfiel Geza mit ſeinen Verhältniſſen;<lb/>im tiefſten Herzen ſprach er: „Sie könnte mir helfen —<lb/>ſie will es nicht!“<lb/>
+            </p>
+            <p> <lb/>„Sie will es nicht“, wiederholte er leidenſchaftlich,<lb/>und faſt krank vor Erregung, bis er eines Tages folgen-<lb/>den Brief erhielt:<lb/>
+            </p>
+            <p> <lb/>„Lieber Geza! Indem ich eine liebe alte Pathe be-<lb/>traure, wird mir, als eine letzte Segensgabe der Verſtor-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0113" n="107" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=113"/>
+            </p>
+            <p> <lb/>benen, mein innigſter Wunſch erfüllt, der, Ihnen Freiheit<lb/>bringen zu können. Löſen Sie ſich, ſo bald nur möglich,<lb/>von Ihren journaliſtiſchen Verbindlichkeiten und bereiten<lb/>Sie ſich zu einer Reiſe, nach Nord oder Süd, wohin es<lb/>Sie ziehen mag. Ich habe ein für meine Anſprüche weit-<lb/>aus genügendes Vermögen geerbt, die einliegende Adreſſe<lb/>iſt die meines Bankiers, ſie haben ſich nur an ihn zu<lb/>wenden. Ich ſchreibe in größter Haſt um Sie keine Mi-<lb/>nute länger als es nothwendig gebunden und eingeengt<lb/>zu wiſſen, jetzt, jetzt, Geza, ſchenken Sie Ihrem Vater-<lb/>lande den Ruhm eines tüchtigen ungariſchen Schrift-<lb/>ſtellers.Ihre Elly.“<lb/>
+            </p>
+            <p> <lb/>Geza’s Antwort war noch in ſelber Stunde auf der<lb/>Poſt, ſie lautete: „Ja, Elly, ich breche mit meiner äußern<lb/>Lebensſtellung, aber nicht, um Das von Ihnen zu nehmen,<lb/>was ich weder erwartet noch gefordert habe, während Sie<lb/>mir verſagen, was ich erflehe —! Sie lieben mich nicht,<lb/>wozu ſtrebe ich denn weiter? Unglücklicher als ich es bin<lb/>kann ich ſchwerlich werden. Gott ſchütze Sie, ich gehe in<lb/>die weite Welt, und jede Minute, die ich länger hier<lb/>athme, ſcheint mir eine Centnerlaſt. Bis in den Tod<lb/>Ihr Geza.“<lb/>
+            </p>
+            <p> <lb/>Dieſem Briefe folgte eine telegraphiſche Depeſche. Die-<lb/>ſelbe war ſo kurz, daß ſich Geza wie ein Träumender<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0114" n="108" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=114"/>
+            </p>
+            <p> <lb/>in die Haare fuhr: „Beſtimmen Sie den Tag unſerer<lb/>Hochzeit.Elly.“<lb/>
+            </p>
+            <p> <lb/>Rückantwort: „Am 6. Abends bin ich bei Dir. Geza.“<lb/>
+            </p>
+            <p> <lb/>Der junge Literat verbrachte die Nacht, indem er ziel-<lb/>los in den Straßen und dann in ſeiner Stube umher<lb/>lief, bei jeder Straßenlaterne, die einen hellen Schein<lb/>über das Trottoir warf, trat er heran und überlas das<lb/>Telegramm, welches er krampfhaft in der Rechten zuſam-<lb/>men drückte: „Beſtimmen Sie den Tag unſerer Hoch-<lb/>zeit. Elly.“<lb/>
+            </p>
+            <p> <lb/>Wie kurz, wie kalt — und doch welch’ eine Fluth<lb/>von Erwartungen, Hoffnungen und Plänen in dieſer einen,<lb/>unromantiſchen Zeile.<lb/>
+            </p>
+            <p> <lb/>Wie würde er ſie finden, ſeine —? Das Wort Braut<lb/>war ihm doch ſehr ungeläufig für eine Frau wie Elly.<lb/>Ja, wie würde er ſie finden; er fragte ſich das bis zur<lb/>fieberhaften Aufregung, er konnte kaum etwas Anderes<lb/>denken. Mit der furchtbarſten Unruhe erwartete er die<lb/>Stunde ſeiner Abreiſe und auf dem langen, langen Wege,<lb/>da war’s ihm als wollte ſein Kopf zerſpringen und als<lb/>könnte er nie lebendig an’s Ziel kommen. Die letzte<lb/>Station war die längſte, welche jemals auf einer euro-<lb/>päiſchen Bahn vorkommen kann, ſo etwas konnten nur<lb/>phlegmatiſche, norddeutſche Gemüther ertragen, deren freud-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0115" n="109" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=115"/>
+            </p>
+            <p> <lb/>loſe Heimatgauen der Zug durchbrauſte, Geza nicht. Es<lb/>wurde dunkel, er ſah die Flächen nicht mehr, welche ihm<lb/>wie eine unbegrenzte Sahara vorkamen, die Vorſtellung<lb/>bemächtigte ſich ſeiner, er würde Elly nie wieder ſehen<lb/>und in alle Ewigkeit ſo weiter brauſen — da pfiff es<lb/>und der Zug hielt vor einem erleuchteten Bahnhofe. War<lb/>ſie — konnte ſie zwiſchen dem Menſchenſchwarm ſein, der<lb/>ſich da durcheinander drängte? Geza ſaß da, in der Hand<lb/>ſeine Reiſetaſche und rührte ſich nicht. Da erſchien ein<lb/>grauer Männerkopf mit einer benummerten Mütze und<lb/>fragte: „Sind Sie der Herr aus Ungarn für das gnä-<lb/>dige Fräulein?“<lb/>
+            </p>
+            <p> <lb/>„Ja!“ entgegnete Geza zaghaft wie ein ertappter<lb/>Ausreißer.<lb/>
+            </p>
+            <p> <lb/>„So bitte ich Sie, mir zu folgen, ich ſoll Sie hin-<lb/>führen!“<lb/>
+            </p>
+            <p> <lb/>Geza’s Aufregung war in einen faſt apathiſchen Zu-<lb/>ſtand übergegangen; er würde ſich nicht gewundert haben,<lb/>wenn der Mann ihn aufgefordert hätte, einen Fluß zu<lb/>durchſchwimmen oder eine mannshohe Mauer zu über-<lb/>klettern — indeß der Biedere that nichts dergleichen. Der<lb/>Weg ging durch mehrere Straßen und dann wurde an<lb/>einem freundlichen Hauſe mit einem Gärtchen davor die<lb/>Schelle gezogen. Eine alte Dienerin ſchloß auf und öff-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0116" n="110" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=116"/>
+            </p>
+            <p> <lb/>nete die Thür eines hell erleuchteten Zimmers. In der<lb/>Mitte deſſelben ſtand Elly, in einen ſchlichten ſchwarzen<lb/>Anzug gekleidet, ganz wie damals, als er ſie vor länger<lb/>denn Jahresfriſt kennen lernte. Die zwei Menſchen ſagten<lb/>nichts; als er ſie in ſeine Arme zog fühlte er, daß ſie<lb/>zitterte und daß ihre Hände vor Erregung kalt waren.<lb/>Sie lehnte ſich an ſeine Schulter und ſeufzte tief auf,<lb/>als gälte es ein erſtickendes Etwas von ſich zu wälzen.<lb/>
+            </p>
+            <p> <lb/>„Sag’ mir, daß Du mich liebſt, Elly!“ ſprach Geza<lb/>faſt drohend; „ſag’ es mir, ſag’ es mir!“ ſchloß er bit-<lb/>tend. Elly machte ſich von ihm los, ſtellte ſich neben den<lb/>zierlich gedeckten Theetiſch in das volle Licht und ſprach,<lb/>die Hände in einander geſchlungen: „Ich bitte Dich, be-<lb/>trachte mich zuvor, ob ich wirklich ſo bin, wie Du es Dir<lb/>in Deinem guten Herzen dachteſt. Ich weiß es ja, ich<lb/>bin zu alt — jetzt kannſt Du noch zurücktreten, Geza,<lb/>es iſt ſogar vernünftiger und beſſer für uns Beide wir<lb/>leben als Freunde weiter, wie zuvor. Glaub’ mir, ich<lb/>werde Dich achten und hochſchätzen wie bisher, aber laß<lb/>uns nur dieſe Stunde nicht dereinſt bereuen!“<lb/>
+            </p>
+            <p> <lb/>Sie ſah ſo ernſt, ſo ſchlicht und demüthig aus, wie<lb/>ſie daſtand, ſeines Richterſpruches gewärtig, daß Geza in<lb/>ein lautes, herzliches Gelächter — o, er hatte lange,<lb/>lange nicht gelacht —! — ausbrach und ihre Hände er-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0117" n="111" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=117"/>
+            </p>
+            <p> <lb/>faſſend verſicherte: „Allerdings, ich habe Dich anders ge-<lb/>dacht, ich wußte nicht, daß Du ſo lieb und weiblich wärſt<lb/>als Du es biſt, und ich gebe nichts von Dir, nicht ein-<lb/>mal dieſen, Deinen kleinen Finger her!“<lb/>
+            </p>
+            <p> <lb/>Jetzt erſchien Hanna mit allerhand guten Speiſen;<lb/>als ſie dieſelben hingeſetzt hatte und Elly ihr geſagt:<lb/>„Sieh, Hanna, es kommt mit ihm ſo, wie Du es ge-<lb/>wollt haſt!“ da faßte die alte Person mit ihren derben<lb/>Fäuſten ſeine wohlgeformten weißen Hände und fragte:<lb/>„Wiſſen Sie denn eigentlich, wie gut Die da iſt und wie<lb/>lieb Sie ihr ſind?“<lb/>
+            </p>
+            <p> <lb/>„O, nun macht ſie ſtatt meiner die Liebeſerklärung!“<lb/>rief Elly im verſtellten Bedauern.<lb/>
+            </p>
+            <p> <lb/>„Wie danke ich ihr dafür!“ ſprach Geza und küßte<lb/>die alte graue Dienerin wie man eine Mutter küßt.<lb/>
+            </p>
+            <p> <lb/>Mit einiger Schwierigkeit ward der liebe Gaſt endlich<lb/>vermocht ſich an dem Theetiſch niederzulaſſen und ſeine<lb/>Blicke von Elly ab auf die Speiſen zu richten, welche<lb/>ſeiner harrten. Nachdem er Meſſer und Gabel aufge-<lb/>nommen legte er ſie plötzlich wieder hin und fragte: „Elly,<lb/>ißt Du immer mit ſilbernen Beſtecken?“<lb/>
+            </p>
+            <p> <lb/>„Ja, Lieber, was Du ſieheſt gehört Alles Dir —!“<lb/>
+            </p>
+            <p> <lb/>Geza wurde nachdenkend, er muſterte ein Stück<lb/>nach dem andern und ſagte dann: „Ich glaubte immer,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0118" n="112" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=118"/>
+            </p>
+            <p> <lb/>Du wärſt eher arm als reich und eigentlich freute<lb/>mich das!“<lb/>
+            </p>
+            <p> <lb/>„Aber ich ſagte Dir doch damals, ich wäre nicht be-<lb/>dürftig und ſchrieb Dir dann von der Erbſchaft —!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ja, ich erinnere mich — ich vergaß das, weil<lb/>ich nur daran dachte, ob Du mich liebteſt!“<lb/>
+            </p>
+            <p> <lb/>„Gott ſegne Dich dafür, wie ich es thue!“<lb/>
+            </p>
+            <p> <lb/>Zwei Stunden ſpäter meinte Geza: „Sịeh, mir iſt,<lb/>als lebte ich ſchon ſeit Tagen und Wochen in dieſem Ge-<lb/>mach und unter Deiner ſorglichen Pflege — wie ſchön<lb/>und leicht wird mein Leben von nun an ſein!“<lb/>
+            </p>
+            <p> <lb/>Elly’s Züge wurden ernſt: „Gott gebe es, ich kann<lb/>das Gefühl der Unruhe nicht überwinden!“<lb/>
+            </p>
+            <p> <lb/>„Du glaubſt, ich werde Dich unglücklich machen?“<lb/>
+            </p>
+            <p> <lb/>„O, ich dachte nicht an mich —!“ Sie trat an das<lb/>Fenſter und ſchaute hinaus in die Mondnacht. Geza<lb/>fühlte ſich durch ihre Worte erkältet, eine Ungarin würde<lb/>ihn mit heißen Schwüren umarmt haben, und im An-<lb/>triebe ihrer Leidenſchaft das herrlichſte Glück vorausſehen.<lb/>Elly’s Liebe war ein Fürchten, ein Sorgen um ihn —<lb/>er verſtand die Größe und den Edelmuth ihres Empfin-<lb/>dens, aber es würde ihn mehr gefreut haben, wenn ſie<lb/>in zärtlicher Selbſtvergeſſenheit dem Augenblicke angehörte.<lb/>
+            </p>
+            <p> <lb/>Hanna trat mit einem ſilbernen Leuchter ein.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0119" n="113" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=119"/>
+            </p>
+            <p> <lb/>„Noch eine Bitte, Elly“, ſagte Geza, bevor er ging,<lb/>„laß mich morgen nicht wieder dies Trauerkleid an Dir<lb/>ſehen; wenn Du wüßteſt, wie mich dieſe Farbe betrübt.“<lb/>
+            </p>
+            <p> <lb/>„Es iſt die Trauer um unſere Wohlthäterin!“<lb/>
+            </p>
+            <p> <lb/>„O, ſie rechtet nicht mehr um ſolche Dinge, aber<lb/>vielleicht fürchteſt Du das Urtheil der Welt —!“<lb/>
+            </p>
+            <p> <lb/>„Der Welt — nein Geza, von heute ab biſt Du<lb/>meine Welt, und Dein Wille meine Lebensvorſchrift,<lb/>glaubſt Du, ich hätte mich Dir nur halb gegeben?“<lb/>
+            </p>
+            <p> <lb/>Im Nachklang dieſer Worte erreichte der Reiſende das<lb/>Giebelzimmer des Hauſes, welches ſauber für ihn herge-<lb/>richtet war. Er betrachtete Alles, das Papier auf dem<lb/>Schreibtiſch, die gefüllte Cigarrenkiſte, die geblumten Vor-<lb/>hänge und die ſpiegelglatten Leintücher: „Dies Alles ge-<lb/>hört mir!“ ſagte er dann halblaut, „eine Elly gibt nicht<lb/>halb!“<lb/>
+            </p>
+            <p> <lb/>„Du kommſt mir ganz fremd vor!“ meinte Geza, als<lb/>ihn ſeine Verlobte am andern Morgen in einem hellen<lb/>Kleide begrüßte — „nicht wahr, ich hatte kein Recht<lb/>dazu, Dich zum Ablegen der Trauer zu zwingen? Du<lb/>hätteſt es nicht thun ſollen!“<lb/>
+            </p>
+            <p> <lb/>Elly nahm ſeine Hand und küßte ſie ſtatt aller Ant-<lb/>wort. Sie, die Kühle, Gleichmüthige, war wie ein<lb/>folgſames Kind.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0120" n="114" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=120"/>
+            </p>
+            <p> <lb/>Geza ſtand vor einem Nelkenbeete — die Nelken,<lb/>welche die verſtorbene Pathe hatte pflanzen laſſen! —<lb/>und betrachtete die Blumen, als Elly ihre Hand auf<lb/>ſeinen Arm ſchob und ſprach: „Wir müſſen nun wohl<lb/>auch Lebenspläne für unſere nächſte Zukunft machen.“<lb/>
+            </p>
+            <p> <lb/>Die dunklen, ungariſchen Augen wendeten ſich ihr faſt<lb/>erſchrocken zu: „Lebenspläne? Wozu Lebenspläne? Wir<lb/>laſſen uns trauen und im nächſten Frühling besorge ich<lb/>den Garten, die ſchöne gelbe Nelke fehlt ganz!“<lb/>
+            </p>
+            <p> <lb/>„Wir können hier nicht bleiben, Geza, es iſt hier zu<lb/>kalt für Dich, auch ich muß in eine neue Umgebung kom-<lb/>men, um — um meine Natur etwas geſchmeidiger und<lb/>beweglicher zu gewöhnen.“<lb/>
+            </p>
+            <p> <lb/>„Sieh, das thut mir weh, Elly, ich hoffte, wenn ich<lb/>verheiratet wäre, würde ich völlige Ruhe haben, höchſtens<lb/>Promenaden und einen kleinen Ausflug in ſchöne Gegen-<lb/>den — was braucht man denn ſonſt?“<lb/>
+            </p>
+            <p> <lb/>Elly lächelte: „In ſchöne Gegenden, zu ſüdlicheren<lb/>Thälern wollen wir ja eben ziehen. Nach der Trauung<lb/>zeige ich Dir den Rhein und ſeine Schönheiten und bis<lb/>dahin könnteſt Du ein paar Wochen nach Berlin reiſen!“<lb/>
+            </p>
+            <p> <lb/>„Nach Berlin? — o Elly, kaum bin ich da, ſo<lb/>treibſt Du mich wieder fort!“<lb/>
+            </p>
+            <p> <lb/>„Du kannſt ja erſt noch da bleiben und während Du<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0121" n="115" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=121"/>
+            </p>
+            <p> <lb/>fort biſt hebe ich meinen Haushalt auf und packe meine<lb/>Sachen und meine Hanna ein!“<lb/>
+            </p>
+            <p> <lb/>„Ja Hanna geht mit uns, aber muß ich denn nach<lb/>Berlin?“<lb/>
+            </p>
+            <p> <lb/>Elly wagte nicht: „Ja!“ in ſein bittendes bekümmer-<lb/>tes Geſicht zu ſagen, ſie ſtrich über ſeine dunklen Haare<lb/>und entgegnete zögernd: „Wir können vielleicht einen<lb/>andern Plan finden, um Dir die Unbequemlichkeiten des<lb/>Umzugs zu erſparen, jedoch wenn Du nach Berlin<lb/>gingeſt, gäbe ich Dir gute Empfehlungen an bedeutende<lb/>Perſönlichkeiten mit und Du könnteſt mir dann auch mein<lb/>Hochzeitskleid nach Deinem Geſchmack auswählen!“<lb/>
+            </p>
+            <p> <lb/>Geza’s Augen erhellten ſich wieder: „Ja, das will<lb/>ich thun, ich werde jetzt ſtudiren, was Dir am beſten<lb/>kleidet. Ich will, daß meine Frau ſehr hübſch ausſieht!“<lb/>
+            </p>
+            <p> <lb/>Es ging wie ein Stich durch ihr Herz — armer<lb/>Geza, wie würde er ſich gefreut haben, wenn ſie in der<lb/>That jung und hübſch geweſen wäre. Bis zu einem ge-<lb/>wiſſen Grade zeigte ſich Szenſivanyi durchaus nachgiebig.<lb/>Wenn ihm Elly den Weg, den er zu gehen hatte, mit<lb/>irgend einer zündenden Idee erleuchtete, ſo war er ſanft-<lb/>müthig und erfaßte die Sache mit ſeinem vornehmen,<lb/>überlegenen Anſtand, in einigen Punkten aber blieb er<lb/>unbeweglich und Elly hütete ſich dann, ſeiner ſo lebhaft<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0122" n="116" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=122"/>
+            </p>
+            <p> <lb/>kund gegebenen Ueberzeugung entgegen zu treten. So<lb/>weigerte er ſich, mit Elly einen Beſuch bei deren Stief-<lb/>mutter und der verheirateten Schweſter Ottilie Kurzen zu<lb/>machen: „Nein, bitte mich nicht darum, ich kann die<lb/>Frau nicht begrüßen, die Dir Deine Jugend ſo lieblos<lb/>vergällt hat, ich kann dem Manne nicht die Hand reichen,<lb/>der Dich verrathen und verlaſſen hat — ich müßte ihn<lb/>in’s Geſicht ſchlagen, mein Blut kocht ſchon bei dem Ge-<lb/>danken, mit dieſen Menſchen an einem Tiſche ſitzen zu<lb/>müſſen — ich gehe nicht!“<lb/>
+            </p>
+            <p> <lb/>Elly erſchrak vor dem leidenſchaftlichen Ausdruck ſeines<lb/>ſonſt ſo milden Antlitzes, und bat Gott, dieſer Zorn möge<lb/>niemals gegen ſie aufflammen.<lb/>
+            </p>
+            <p> <lb/>Madame de Staël ſagt: „Man kennt ſich zehn Stun-<lb/>den oder zehn Jahre!“ Was ſich am erſten Tage des<lb/>Brautſtandes feſtſtellte, das trugen ſie in den Eheſtand<lb/>hinüber, ſie gingen leiſe und friedlich neben einander her,<lb/>ſie wohnten in einem ſchönen, geſchützten Thale, hatten<lb/>ein grün überwachſenes Haus und einen Garten mit einem<lb/>Wäſſerchen, das hindurchplätſcherte. Während Geza ſeine<lb/>Blumen überwachte, waren Elly’s Augen unabläſſig auf<lb/>ihn gerichtet; ſie empfand ein ſtetes Mitleiden mit ihm<lb/>— weil er eine alte Frau hatte. Ueber dieſer Frau<lb/>wachte wiederum die alte Hanna, mitunter etwas tyranniſch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0123" n="117" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=123"/>
+            </p>
+            <p> <lb/>fordernd, ſie ſolle nicht immer und einzig nur an „den<lb/>Herrn“ denken. Den Namen Szenſivanyi lernte Hanna<lb/>niemals richtig ausſprechen. „Der Herr“ war übrigens<lb/>glücklicher als er es je geträumt hatte. Sein ſenſitives<lb/>Gemüth wurde in keiner Weiſe gereizt und er fühlte ſich<lb/>von treueſter Liebe und Sorge umgeben. Während die<lb/>Zeit faſt unbemerkt dahinglitt, hatte er neben ſeiner Frau<lb/>noch keinen Moment der Langeweile empfunden, ſie war<lb/>ſtets aufgelegt und heiter, ſie ging und kam immer herz-<lb/>lich und geräuſchlos, ſie verſtand und erfüllte ſeine kleinen<lb/>Wünſche noch ehe er ſie ausſprach. Wie einſam die Bei-<lb/>den lebten, Elly hatte doch einige intereſſante Perſönlich-<lb/>keiten an ihren Theetiſch geladen, die ſich bei dem Dich-<lb/>terpaare ungemein heimiſch fühlten, ein benachbarter Curort<lb/>führte nicht ſelten auch einen Bekannten Geza’s oder Elly’s<lb/>daher, die ein paar anregende Stunden in der Chau-<lb/>mière, ſo hatte „der Herr“ das Häuschen getauft, ver-<lb/>lebten. Geza fagte ſtets: „Die Gäſte meiner Frau!“<lb/>
+            </p>
+            <p> <lb/>Elly bezeichnete die Beſuche als: „Die Bekannten<lb/>meines Mannes!“<lb/>
+            </p>
+            <p> <lb/>Geza’s großes Werk war indeß, obwohl er ein Jahr<lb/>die beſte Ruhe dazu hatte, noch nicht ganz vollendet. Er<lb/>begann bald ein Drama, bald kleinere Aufſätze, aber<lb/>meinte immer: „Es geht mir zu gut!“ — Mitunter,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0124" n="118" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=124"/>
+            </p>
+            <p> <lb/>wenn es minder gut ging, d. h. wenn eine hypochondriſche<lb/>Stimmung über Szenſivanyi kam, dann redete Elly un-<lb/>vermerkt von ſeinem großen Werke und er arbeitete wieder<lb/>einige Zeit fleißig und zum Vortheile ſeiner Stimmung<lb/>an demſelben.<lb/>
+            </p>
+            <p> <lb/>Wenn Geza weitere Ausflüge machte, ſo pflegte ihm<lb/>ſeine Gattin bis zu einem ſchön gelegenen Kaffeehauſe<lb/>entgegen zu kommen. Eines Tages war er aber ſchon<lb/>vor ihr da und ſie ſah ſeine ſchlanke Geſtalt, wie er ihr<lb/>haſtig entgegeneilte, ihre Hände erfaſſend drückte er die-<lb/>ſelben mit ungewohnter Heftigkeit: „Mein Gott, was iſt<lb/>Dir, Geliebter, Du ſiehſt bleich und erregt aus?“<lb/>
+            </p>
+            <p> <lb/>„Da im Kaffeegarten ſitzen zwei Herren, welche ſich<lb/>über die Chaumière unterhielten und ſich erzählten: der<lb/>ungariſche Dichter, welcher darin wohne, habe eine alte<lb/>deutſche Wittwe des Geldes wegen geheiratet, und ſie<lb/>halte ihn dafür tüchtig unter dem Pantoffel!“ berichtete<lb/>er mit kurzen, fliegenden Athemzügen.<lb/>
+            </p>
+            <p> <lb/>„Weiter nichts?“<lb/>
+            </p>
+            <p> <lb/>„Nun, ich denke das iſt ſchlimm genug — ſo Etwas<lb/>von Dir zu ſagen, Elly!“<lb/>
+            </p>
+            <p> <lb/>„Und von Dir, Geza,“ neckte Elly, „Du ſtändeſt<lb/>unter dem Pantoffel!“<lb/>
+            </p>
+            <p> <lb/>„Eigentlich, meinte Geza, ſie ernſthaft anblickend,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0125" n="119" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=125"/>
+            </p>
+            <p> <lb/>haben ſie darin Recht, ich ſtehe unter dem Pan-<lb/>toffel!“<lb/>
+            </p>
+            <p> <lb/>„Eigentlich haben ſie auch darin Recht, Lieber, daß<lb/>Du eine alte Frau geheiratet haſt, nur in der Wittwe<lb/>und der Geldſpekulation haben ſie geirrt; ich muß geſte-<lb/>hen, Dir geht das Talent zu finanziellen Spekulationen<lb/>gänzlich ab!“<lb/>
+            </p>
+            <p> <lb/>„Sieh, ſieh,“ lachte Geza und führte ſie ſorgſam die<lb/>letzten Stufen empor, „Du benutzeſt doch jeden Anlaß<lb/>mich zu tadeln!“ Dabei drückte er ihre Hand an ſich<lb/>und Beide lachten. Als ſie ſo mit ihren heiteren Geſich-<lb/>tern Geza’s noch kaum im Zorne verlaſſenen Platz ein-<lb/>nahmen, ſagte einer der Männer am Nebentiſch, eben<lb/>der, welcher über die Bewohner der Chaumière berichtet<lb/>hatte: „Sieh da, ich glaube, das ſind die Zwei von<lb/>da unten!“<lb/>
+            </p>
+            <p> <lb/>„Na, die ſehen ganz beruhigend aus!“ meinte der<lb/>Andere.<lb/>
+            </p>
+            <p> <lb/>Die Vorausſetzung, Geza ſtehe unter der Oberherr-<lb/>ſchaft ſeiner Frau, hielt ſich übrigens auch im nahen<lb/>Städtchen aufrecht, in deſſen Kaffeehauſe er die Zeitungen<lb/>manchmal las. Szenſivanyi empfand nämlich oft, wenn<lb/>er von ſeiner Chaumière fern war, eine plötzliche Unruhe,<lb/>ein momentanes Heimweh, er warf die Zeitung hin, eilte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0126" n="120" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=126"/>
+            </p>
+            <p> <lb/>besorgt bis an das Gitterthor vor ſeinem Garten und<lb/>blickte dann aufathmend zu Elly’s erleuchteten Fenſtern<lb/>empor: „Dort iſt ſie — ſie wartet meiner — ſie iſt<lb/>geſund und fröhlich!“ — ſprach er und ging dann durch<lb/>die Gartenwege, um immer und immer von Neuem wie-<lb/>der ihre Fenſter anzublicken. Er nannte ſie ſeine zweite<lb/>Seele, weil ſie einander keinen Gedanken, kein Gefühl<lb/>verhehlten.<lb/>
+            </p>
+            <p> <lb/>Die anderen Zeitungsleſer, welche ſahen, wie Geza<lb/>ſo unvermuthet zu ſeinem Hute griff, fern davon, den<lb/>wahren Grund zu erkennen, ſagten lächelnd, über ihre<lb/>Blätter hinausblinzelnd: „Es iſt Theezeit — ſeine Alte<lb/>hat ihn gut geſchult!“<lb/>
+            </p>
+            <p> <lb/>Gewöhnlich kam Elly ihrem wiederkehrenden Manne<lb/>bis an die Stiege entgegen. Eines Tages hatte ſie indeß<lb/>ſeinen Schritt überhört, weil ſie ſelbſt erregt im Balcon-<lb/>zimmer auf- und abging. Wenn, ſo ſelten das auch kam<lb/>— wenn ſeine Frau von irgend Etwas aus der Ruhe<lb/>gebracht wurde, ſo pflegte Geza durchaus gefaßt ſie durch<lb/>Rath und That in’s Gleichgewicht zurück zu bringen. So<lb/>legte er auch jetzt fragend die Hand auf ihre Schulter<lb/>und hemmte dadurch ihr Weitergehen.<lb/>
+            </p>
+            <p> <lb/>„Verzeih, daß ich Dich nicht kommen hörte, Geza,<lb/>Du findeſt mich ſo beunruhigt, weil ich eben einen höchſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0127" n="121" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=127"/>
+            </p>
+            <p> <lb/>betrübenden Brief von Ottilie erhielt. Denk nur, ihr<lb/>Mann iſt hoffnungslos erkrankt und ihre Vermögensver-<lb/>hältniſſe ſind der Art zerrüttet, trotz des guten Einkom-<lb/>mens, welches ſie beziehen, daß ſie mich um ein Darlehn,<lb/>vielmehr eine Unterſtützung erſucht! Sag’ mir, wie Du<lb/>darüber denkſt?“<lb/>
+            </p>
+            <p> <lb/>„Natürlich wirſt Du ihr die Unterſtützung ſofort zu-<lb/>kommen laſſen, Du biſt edelmüthig genug dazu!“<lb/>
+            </p>
+            <p> <lb/>„Ottilie gibt mir zu verſtehen, ob wir nicht ihr Töch-<lb/>terchen zu uns nehmen wollten?“<lb/>
+            </p>
+            <p> <lb/>„Nein, nein, das thun wir nicht!“ rief Szenſivanyi<lb/>mit jener inſtinktiven Beſtimmtheit, die ſanfte und ſchwär-<lb/>meriſche Gemüther manchmal überkommt. „Sie würde<lb/>Dich immer an ihren Vater erinnern und Dir endlich<lb/>Kummer machen, wie das ihre Eltern thaten, ich will<lb/>nicht, daß dieſe Familie Dich noch einmal in Leid ſtürzt!“<lb/>
+            </p>
+            <p> <lb/>Elly pflegte in ſolchen Fällen ſtets nachzugeben, und<lb/>wohl ihr, hätte ſie das Wort: „Poeten ſind Propheten“<lb/>immer feſtgehalten. Zu ihrem Unglück that ſie das nicht.<lb/>Ottilien’s Gatte, Baron Kurzen, war geſtorben, ſie ſelbſt<lb/>behauptete in Folge des Kummers zu kränkeln und mel-<lb/>dete ſich in der Chaumière als Gaſt an, um von da aus<lb/>den nahen Curort zu beſuchen. Geza entſchied: „Sie<lb/>ſoll nicht unter meinem Dache wohnen!“ er warnte Elly,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0128" n="122" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=128"/>
+            </p>
+            <p> <lb/>die Schlange noch einmal an ihr Herz zu nehmen; doch<lb/>Elly behauptele, ſeine Weigerung ſei hart und ſelbſtſüch-<lb/>tig, und öffnete dennoch der Schweſter ihre gaſtliche Thür.<lb/>
+            </p>
+            <p> <lb/>Ottilie war ein ſchönes Weib, ſchöner noch als in<lb/>ihrer frühen Jugend, und ſie ging im vollen Bewußtsein<lb/>ihrer Vorzüge umher. Geza empfing ſeine Schwägerin<lb/>ſo kalt, daß Elly doppelt freundlich ſein zu müſſen glaubte.<lb/>Er erwiderte auf die Vorſtellungen ſeiner Frau: „Ich<lb/>überlaſſe Dir den koketten pompe <hi rendition="#aq">funèbre</hi>!“<lb/>
+            </p>
+            <p> <lb/>Ein Trauerpomp umgab Ottilien allerdings und von<lb/>ihren beengten Vermögensverhältniſſen war nichts zu mer-<lb/>ken. Geza, der ritterliche, bis zur Aufopferung höfliche<lb/>Geza, war in ſeinem eigenen Hauſe, ſeit Ankunft der<lb/>Schwägerin, mürriſch und einſilbig; er hielt ſich ſeiner<lb/>Frau ſtets zur Seite und erfaßte ſtets von Neuem lieb-<lb/>koſend Elly’s Hand, als müßte er ſie gegen ein unbe-<lb/>kanntes Weh ſchützen. Ottilie benahm ſich ſehr unge-<lb/>zwungen und richtete ſich ſo ſorgſam in ihren Zimmern<lb/>ein, als gedächte ſie dieſelben auf Jahre zu bewohnen.<lb/>Ihre Jungfer machte mit zahlloſen Forderungen der alten<lb/>Hanna den Kopf ſo wirr, daß dieſe auf und davon gehen<lb/>wollte. Geza nahm in der That ſeinen Hut und floh<lb/>ſein bis jetzt ſo ſtilles, friedliches Haus.<lb/>
+            </p>
+            <p> <lb/>„Du haſt einen guten Tauſch gemacht mit dieſem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0129" n="123" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=129"/>
+            </p>
+            <p> <lb/>Szenſivanyi, Lenore!“ bemerkte die Wittwe, indem ſie<lb/>ſich anmuthig auf die Chaiselongue ſtreckte, „ſein Mund<lb/>iſt nicht hübſch, aber im Ganzen ſieht er ſehr gut und<lb/>
+               <hi rendition="#aq">comme il faut</hi> aus. Lieber Gott, ich habe mit dem<lb/>Eugen eine ſchlimme Ehe gehabt!“<lb/>
+            </p>
+            <p> <lb/>„Nun, der Gram hat Dir mindeſtens nicht geſchadet!“<lb/>
+            </p>
+            <p> <lb/>„Ah bah! ich emancipirte mich von ſeinen Eigenheiten<lb/>und genoß das Leben — man lebt nur einmal und ich<lb/>bin nicht zur Krankenwärterin geboren —! Was ſind<lb/>denn eigentlich für Gäſte in Eurem Curort? gewiß nichts<lb/>Gentiles!“<lb/>
+            </p>
+            <p> <lb/>„Wie Du’s nehmen willſt, ein Baron Trapper, der<lb/>hier in der Nähe begütert iſt, ein junger Lord, einige<lb/>Officiere — ich ſetze voraus, Du fragſt nicht nach den<lb/>anweſenden Damen ?“<lb/>
+            </p>
+            <p> <lb/>„O nein — die Damen ſind mir gleichgiltig!“<lb/>
+            </p>
+            <p> <lb/>Ottilie war zum mindeſten aufrichtig; „frech“, nannte<lb/>es Geza, der ein haarſcharfes Maß an das weibliche<lb/>Benehmen legte — er fand Alles in dieſer Frau, was<lb/>die Kehrseite zu Elly’s Vorzügen bildete und dennoch —<lb/>dennoch ließ er ſich von ihr beſtricken! Ottilie bemächtigte<lb/>ſich ihres Schwagers, nicht etwa, weil er ihr ſo vor-<lb/>zugsweiſe gefiel, o nein, ſie verſtand ſein Weſen gar<lb/>nicht, nur deshalb ſtörte ſie das Glück dieſer Ehe, weil<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0130" n="124" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=130"/>
+            </p>
+            <p> <lb/>ſie ſich über das „Turteltaubenpaar“ ärgerte und die<lb/>Schweſter beneidete. Eben Geza’s an den Tag gelegte<lb/>Abneigung bildete die Brücke, über welche ſie ihre „Em-<lb/>pfindungen“ flattern und hüpfen ließ. Sie ſang im Halb-<lb/>dunkel mit ihrer ſchönen Altſtimme ſentimentale Lieder,<lb/>ſie bat ihn, ihr ungariſche Sprachſtunden zu geben, ſie<lb/>war bald Feuer, bald Eis, ſie ſpielte jeden Tag eine<lb/>neue Rolle und die arme ſanfte Elly trat mehr und mehr<lb/>in den Hintergrund neben dieſem mouſſirenden Sprudel,<lb/>und wenn ſie ja einmal verſuchte, ſich neben der jüngern<lb/>und ſchönern Rivalin mit ihren Geiſteswaffen zu behaup-<lb/>ten, ſo wußte dieſe mit einem gelegentlichen: „Nun in<lb/>Deinem Alter ſieht man das Leben ſchon nüchterner an —‚“<lb/>oder: „Dein armer Mann kennt nur die Vergnügungen<lb/>ſiebenzigjähriger Greiſe Ꝛc.“ niederzuſchlagen. Aus den<lb/>kleinen, geiſtesbelebten Theeabenden wurden große und<lb/>ziemlich lärmende Geſellſchaften, in denen Ottilie von<lb/>Kurzen wie eine Königin herrſchte und unzählige Dinge<lb/>„zur Zerſtreuung ihres armen Schwagers“ erdachte. Kein<lb/>Wunder, daß Geza noch lange Zeit glaubte, er dulde<lb/>Ottilie blos, indeß ſie ihm ſchon unentbehrlich geworden<lb/>war. Auch Elly, obwohl betrübt über die Aufregung,<lb/>die ihr Haus ergriffen, und über die Zerſtreuungsſucht,<lb/>der ſich Geza ergeben hatte, kam nicht auf den Gedanken,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0131" n="125" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=131"/>
+            </p>
+            <p> <lb/>er könne ſein Herz einer Frau hinwerfen, deren Leichtſinn<lb/>er ſo gut kannte — und dennoch widerſtand er dem<lb/>Zauber nicht.<lb/>
+            </p>
+            <p> <lb/>Vielleicht in ein und derſelben Stunde gewahrte das<lb/>Ehepaar, an welchem Abgrunde es wandelte. Elly, die<lb/>argloſe Elly, war wie vernichtet und Geza, zu ſchwach,<lb/>ſich der neuen Leidenſchaft zu erwehren, war wenigſtens<lb/>zu wahr, um hinter dem Rücken ſeiner Frau ein geheimes<lb/>Liebesverſtändniß anzuknüpfen. Er wollte mit ihr reden,<lb/>er wollte ihr ſagen, daß er ſie als die liebſte Freundin<lb/>ehre und ehren werde, daß ihr Bündniß aber ein gar zu<lb/>ungleiches ſei, um Beſtand zu haben — er wollte ihr<lb/>Alles wiederholen, was ſie einſt ſelbſt ein Jahr lang ihrer<lb/>Ehe entgegen gehalten hatte. Zögernd erſtieg Geza die<lb/>Treppe zu Elly’s Arbeitscabinet, früher war er ſtets mit<lb/>ein paar Sprüngen oben geweſen, heute ging es langſam,<lb/>Schritt vor Schritt.<lb/>
+            </p>
+            <p> <lb/>Er erſchrak faſt, als das Thürſchloß dem Drucke ſei-<lb/>ner Hand wich und Elly ihn anſah. O Gott, wie war<lb/>ihr frohes Geſicht verändert — unter den Augen lagen<lb/>tiefe dunkle Schatten, die Wangen waren bleich und die<lb/>Hände zitterten, obwol ſie ſich mühte dieſes Beben zu<lb/>verbergen. Nein er konnte ihr Todesurtheil nicht ſo aus-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0132" n="126" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=132"/>
+            </p>
+            <p> <lb/>ſprechen wie er es gewollt hatte, es mußte ein Ausweg<lb/>gefunden werden — ſie zu ſchonen!<lb/>
+            </p>
+            <p> <lb/>„Elly“, begann er unruhig, „ich gehe in die Stadt,<lb/>warte nicht auf mich, es könnte ſpät werden, da ich Ot-<lb/>tilie aus dem Curhauſe abholen muß und — und ...“<lb/>
+            </p>
+            <p> <lb/>Der weiche Mann ſank auf einen Stuhl und barg<lb/>ſein Geſicht in die Hände, indeß Elly unbeweglich neben<lb/>ihrem Seſſel ſtehen blieb.<lb/>
+            </p>
+            <p> <lb/>„Ich habe Dir vorſchlagen wollen,“ begann ſie, müh-<lb/>ſam ihre Stimme beherrſchend, „ob Du nicht dieſe gute<lb/>Jahreszeit benutzen willſt Deine Heimat zu beſuchen, viel-<lb/>leicht, daß Du dort neues Intereſſe für Deine Arbeiten<lb/>ſchöpfteſt!“<lb/>
+            </p>
+            <p> <lb/>Er ſah ſie an: „Ich will mir’s überlegen, liebe<lb/>Elly!“<lb/>
+            </p>
+            <p> <lb/>„Weshalb überlegen?“ fragte ſie, und ein Hoffnungs-<lb/>ſtrahl flog über ihre Wangen wie Morgenroth, „Du kannſt<lb/>jetzt, in dieſer Stunde, den Entſchluß faſſen und ſchon<lb/>heute Abend unterwegs ſein!“<lb/>
+            </p>
+            <p> <lb/>„Es geht nicht, ich verſprach Deiner Schweſter — —“<lb/>
+            </p>
+            <p> <lb/>„Ich ſchicke Hanna zu ihr, außerdem hat ſie Be-<lb/>ſchüßer genug —!“ Elly ſagte das mit Bitterkeit und gab<lb/>ihm unglücklicher Weiſe dadurch eine feindliche Richtung.<lb/>
+            </p>
+            <p> <lb/>„Ganz recht, Baron Trapper macht ihr ſehr den<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0133" n="127" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=133"/>
+            </p>
+            <p> <lb/>Hof, er iſt ein rechter Haſenfuß und mir in der Seele<lb/>zuwider!“<lb/>
+            </p>
+            <p> <lb/>Elly ſeufzte — er war eiferſüchtig auf dieſen Baron.<lb/>
+            </p>
+            <p> <lb/>„Vielleicht wenn ich Dich ſo recht innig bitte,“ nahm<lb/>ſie wieder das Wort, „entſchließeſt Du Dich doch zu die-<lb/>ſer Reiſe, unſerer beider Seelenruhe ſteht auf dem Spiele<lb/>und ein einziger mannhafter Entſchluß würde uns mit<lb/>Gottes Hülfe unſer ſchönes, ſtilles Glück zurückgeben.“<lb/>
+            </p>
+            <p> <lb/>„Ja, ein Entſchluß, ein Entſchluß — das iſt leicht<lb/>geſagt, aber was mich dieſer Entſchluß koſtet, iſt es nicht<lb/>mehr als der mögliche Gewinn? Sieh’ mich nicht an, Du<lb/>arme Frau, ich bin nicht Der, für den Du mich hielteſt,<lb/>Du kannſt mich fortan nicht mehr achten und lieben,<lb/>denn —!“<lb/>
+            </p>
+            <p> <lb/>„Geza, um Gottes Barmherzigkeit willen, halt ein —<lb/>wenn Du nicht gehen willſt oder kannſt, dann, Geza, dann<lb/>muß ich gehen!“<lb/>
+            </p>
+            <p> <lb/>„Du, Elly — Du? — freilich, ich hätte es denken<lb/>ſollen, Du willſt gehen, damit Ottilie keinen Vorwand<lb/>hat länger hier zu bleiben, alle Weiber ſind ſchlau, ſelbſt<lb/>Du! Geht also Beide und ich werde vereinſamt ſein wie<lb/>zuvor!“<lb/>
+            </p>
+            <p> <lb/>„Wenn Du vielleicht mit mir gehen wollteſt —!“<lb/>wagte ſeine Frau zu ſagen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0134" n="128" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=134"/>
+            </p>
+            <p> <lb/>„Und jenem Baron zum Geſpött werden? Nein, liebe<lb/>Freundin, das werde ich nicht!“<lb/>
+            </p>
+            <p> <lb/>Einen Augenblick gedachte ſie ihn fußfällig zu bitten,<lb/>er möge allein oder mit ihr entfliehen, aber was vermochte<lb/>ſie, was vermochten ihre Worte gegen ſeine furchtbare<lb/>Verblendung? All’ ſein Denken betraf ja nur jenes ſchöne,<lb/>herzloſe Weib. Ja, wenn Ottilie ihn geliebt hätte —<lb/>aber Elly wußte es, ſie liebte den Unglücklichen nicht.<lb/>
+            </p>
+            <p> <lb/>Geza hatte Gefühlsſcenen nicht gern; es war ihr klar,<lb/>ſie könne hier nichts gewinnen, nur noch verlieren, deshalb<lb/>äußerte ſie ſo ſorglos wie möglich: „Wir können ja Alles<lb/>noch überlegen!“<lb/>
+            </p>
+            <p> <lb/>„Ja, wir können überlegen!“ Er küßte dankbar ihre<lb/>Hand dafür, daß ſie ihn entſchlüpfen ließ und bereitete<lb/>ſich, Ottilien eine Stunde eher, als es ſein Plan geweſen<lb/>war, zu folgen. Im Antriebe einer ſeiner thörichten<lb/>Schlußfolgerungen, wie ſie die Leidenſchaft zieht, glaubte<lb/>er ein Recht zu beſitzen, Ottilien ſeine Liebe zu geſtehen,<lb/>ſeit Elly von ſeiner Verirrung wußte. Eleonore las mit<lb/>furchtbarer Beſtimmtheit in dem ſonſt ſo rückhaltsloſen<lb/>Herzen ihres Gatten; ſie bildete ſich ein, es müſſe ein<lb/>Wort geben, welches dieſen unſeligen Zauber löſte, aber<lb/>ſie fand es nicht. In der Thür wandte ſich Geza noch<lb/>einmal zu ihr, er blickte ſie ſchmerzvoll an und ſagte,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0135" n="129" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=135"/>
+            </p>
+            <p> <lb/>wie damals, als er um ſie warb: „Elly, Du biſt wie<lb/>eine Heilige!“ Doch dann ließ er die bittere Gegenwart<lb/>hindurchklingen, indem er ſchloß: „Aber wir ſind zu un-<lb/>gleich — allzu ungleich!“<lb/>
+            </p>
+            <p> <lb/>Jetzt ſtieg er raſch die Stufen hinab, ſie lauſchte ſei-<lb/>nen Schritten und als dieſelben verhallt waren, ſank ſie<lb/>lautlos zur Erde und murmelte mit den bleichen, beben-<lb/>den Lippen: „Wir ſind zu ungleich!“<lb/>
+            </p>
+            <p> <lb/>In dieſer Viertelſtunde kam ein furchtbarer Gedanke<lb/>über das arme verlaſſene Weib; ſie wähnte, einer von den<lb/>drei Bewohnern der Chaumière müſſe heute ſeine Lauf-<lb/>bahn auf Erden beſchließen und ſchauderte dann wieder<lb/>vor ihren eigenen wilden Phantasien. Während ſie ſo<lb/>mit ihrem Schickſal rang, öffnete ſich behutſam die Thür<lb/>und Hanna trat herein. Die alte Person ſchien erwartet<lb/>zu haben, was ſie fand, ein troſtloſes, zerbrochenes Herz.<lb/>
+            </p>
+            <p> <lb/>„Gnädiges Fräulein!“ ſagte Hanna — ſie nannte<lb/>ihre Herrin in vertrauten Momenten noch immer ſo —<lb/>„ich habe mit zu dieſer Ehe geholfen und ſo habe ich ein<lb/>Recht, mich darein zu miſchen!“<lb/>
+            </p>
+            <p> <lb/>„Ich habe jetzt Niemanden als Dich, Hanna!“<lb/>
+            </p>
+            <p> <lb/>„Das verhüte der Himmel, haben Sie denn recht<lb/>laut gerufen: Herr hilf mir! und immer lauter, und im-<lb/>mer von Neuem? Verſuchen Sie es, armes Kind, Sie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0136" n="130" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=136"/>
+            </p>
+            <p> <lb/>ſollen ſehen es hilft, ich werde die Fenſter öffnen und<lb/>eine Viertelſtunde in meine Küche gehen!<lb/>
+            </p>
+            <p> <lb/>Nach einer Viertelſtunde kam ſie wieder.<lb/>
+            </p>
+            <p> <lb/>„Ja, es hat geholfen!“ ſagte Elly, die am Fen-<lb/>ſter ſaß.<lb/>
+            </p>
+            <p> <lb/>„Wir Norddeutſchen haben ſchon unſere Mittel, gnä-<lb/>diges Fräulein!“ meinte Hanna ſehr befriedigt.<lb/>
+            </p>
+            <p> <lb/>„Nenne mich nicht gnädiges Fräulein, Du weißt, der<lb/>Herr hört es nicht gern!“<lb/>
+            </p>
+            <p> <lb/>„Lieber Gott, wir hören ja auch nicht gern, was er<lb/>jetzt ſagt!“<lb/>
+            </p>
+            <p> <lb/>„Armer, geliebter Geza, ach, er iſt viel, viel verlaſſe-<lb/>ner als ich!“<lb/>
+            </p>
+            <p> <lb/>„Was werden wir denn jetzt thun, Frau Szenſivanyi?“<lb/>fragte die Alte, welche verſtand, daß man handeln muß,<lb/>um einer mächtigen Gemüthsbewegung nicht zu erliegen.<lb/>
+            </p>
+            <p> <lb/>„Ich werde gehen, Hanna!“<lb/>
+            </p>
+            <p> <lb/>„Ihn verlaſſen —?“<lb/>
+            </p>
+            <p> <lb/>„Geza verlaſſen —? O, was denkſt Du, Hanna,<lb/>meinen Gatten, das Licht meiner Augen — nein, nie-<lb/>mals! Sieh, ich weiß es doch, Hanna, er kann auf die<lb/>Länge nicht ohne mich leben, ich muß ihm fehlen, damit<lb/>er mich wieder ſuche. Deiner Obhut überlaſſe ich ihn,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0137" n="131" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=137"/>
+            </p>
+            <p> <lb/>deſſen Leben mir theurer iſt als das meine, überlaſſe ich<lb/>unſer Paradies, unſere Chaumière!“<lb/>
+            </p>
+            <p> <lb/>„O — Sie wollen allein hinaus?“<lb/>
+            </p>
+            <p> <lb/>„Allein! Ich habe verſucht den ewigen Geſetzen der<lb/>Natur zu trotzen — und nehme meine Strafe. Ach,<lb/>möchte nur Geza gerettet werden, um jeden Preis vor<lb/>ſchweren Selbſtvorwürfen gerettet, ich wollte gern die<lb/>ganze Wucht dieſes Schickſals auf mich allein nehmen!“<lb/>Sie ſchwieg und große, erleichternde Thränen entquollen<lb/>ihren Augen. — „Du wirſt mir von ihm ſchreiben,<lb/>Hanna; ſende die Briefe an Deine Schweſter, ich weiß<lb/>noch nicht wohin ich gehe. Die Welt iſt wie verödet und<lb/>ausgeſtorben!“<lb/>
+            </p>
+            <p> <lb/>Geza fand die angebetete Wittwe von einem huldi-<lb/>genden Männerſchwarm umgeben.<lb/>
+            </p>
+            <p> <lb/>„Ah, ſchon da, Schwager?“ rief die Baronin, „hat<lb/>Ihre würdige Gattin Ihnen ſchon Urlaub gegeben und<lb/>konnten Sie ſich ſo zeitig von Ihren unſterblichen Dich-<lb/>tungen losreißen ?“<lb/>
+            </p>
+            <p> <lb/>Geza wechselte die Farbe. „Ueber meine Dichtungen<lb/>zu urtheilen kann ich Niemandem wehren, aber ich geſtatte<lb/>über meine Frau keine anderen als die achtungsvollſten<lb/>Aeußerungen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0138" n="132" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=138"/>
+            </p>
+            <p> <lb/>„Bei Gott, Schwager, Sie ſind der empfindlichſte<lb/>Mann und der höflichſte Gatte, den ich kenne!“<lb/>
+            </p>
+            <p> <lb/>„Ich bin Ungar, Gnädige!“<lb/>
+            </p>
+            <p> <lb/>Ottilien imponirte Szenſivanyi’s Verehrung für ſeine<lb/>Frau; ſie ſah, daß er noch nicht ganz und gar besiegt<lb/>war und blieb den ganzen Abend hindurch ungemein<lb/>freundlich gegen ihn, trotzdem konnte die Liebeserklärung,<lb/>welche ihrem Schwager faſt das Herz verbrannte, an<lb/>dieſem Abend nicht ausgeſprochen werden. Baron Trap-<lb/>per führte die beiden Verwandten in ſeinem Wagen zur<lb/>Chaumière zurück und, abgeſehen davon, daß es bereits<lb/>ſehr ſpät geworden war, hätte Geza nie unter dem Dache,<lb/>das auch Elly barg, ſeine Gefühle für Ottilie ausſprechen<lb/>können. Er warf ſich auf das Sopha ſeines Gartenzim-<lb/>mers, um dort zu ſchlafen und bat die alte Hanna, Elly<lb/>nicht zu ſtören. Hanna wiſchte ſich verſtohlen die Augen.<lb/>Wo war Elly? Sie mochte ſchon weit, weit jenſeits der<lb/>grünen Berge ſein, welche das Thal mit der Chaumière<lb/>umgrenzten.<lb/>
+            </p>
+            <p> <lb/>Das wunde Herz eilt, einem geheimnißvollen Natur-<lb/>triebe folgend, ſo gern wieder in die Heimat der Jugend.<lb/>Auch Elly zog gen Norden, an die Gräber ihres Vaters<lb/>und der verſtorbenen Pathe. Als ſie dort gebetet hatte<lb/>war es ihr, als ob nun die Aufgabe ihres Lebens gelöſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0139" n="133" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=139"/>
+            </p>
+            <p> <lb/>ſei und auch ſie könne ſich ſchlafen legen für immer auf<lb/>Erden. Aber er lebte ja noch, ihr Geza, er war noch<lb/>zurückzuführen. Sie mußte leben für ihn.<lb/>
+            </p>
+            <p> <lb/>Es war auf einem Dampfboote, wo Elly an der<lb/>Brüſtung lehnte und unverwandt in’s Waſſer blickte. Ein<lb/>ältlicher Herr hatte ſie ſchon längere Zeit mit Intereſſe<lb/>beobachtet und näherte ſich ihr endlich mit der Frage:<lb/>Wünſchen Sie vielleicht die Zeitung zu leſen?“<lb/>
+            </p>
+            <p> <lb/>Die Schriftſtellerin nahm das Blatt dankend und der<lb/>Herr äußerte: „Vielleicht ſtimmt der Anblick des Waſſers<lb/>Sie trübe?“<lb/>
+            </p>
+            <p> <lb/>„Ich war wol ſchon trübe ehe ich es ſah — mein<lb/>Gemüth iſt von Natur nicht zur Schwermuth geneigt!“<lb/>
+            </p>
+            <p> <lb/>„Sie tragen Trauer?“<lb/>
+            </p>
+            <p> <lb/>„Ja, ich traure um einen Todten, der mir viel<lb/>Schmerz bereitete — indeß, man kann ja auch um Le-<lb/>bende trauern!“<lb/>
+            </p>
+            <p> <lb/>„Und die Todten ſich nahe, unzertrennbar nahe füh-<lb/>len — ich verlor eine Gattin!“<lb/>
+            </p>
+            <p> <lb/>„O, die Glückliche!“ ſeufzte Elly und blickte dann in<lb/>die Zeitung. Mit einem leiſen Schrei gewahrte ſie dort<lb/>die Verlobungsanzeige der Baronin Ottilie von Kurzen<lb/>mit dem Baron Trapper — es ſchwindelte ihr.<lb/>
+            </p>
+            <p> <lb/>An der Landungsſtation fand ſie einen Brief von<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0140" n="134" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=140"/>
+            </p>
+            <p> <lb/>Hanna, welcher ſo kurz war, als ihn eben eine alte nord-<lb/>deutſche Magd ſchreibt.<lb/>
+            </p>
+            <p> <lb/>„Liebe Frau! Der Herr hat ſich nach der Verlobung<lb/>drei Tage eingeſchloſſen, nichts angerührt, ſoviel ich bat,<lb/>vom Eſſen. Die Andere iſt inzwiſchen weggefahren, Gott<lb/>ſei Dank die Jungfer auch. Ich kochte dem Herrn ſein<lb/>gepfeffertes Fleiſch und er hat dann etwas gegeſſen, als<lb/>ich in Ihrem Namen bat, er ſieht ſehr miſerabel im Ge-<lb/>ſichte aus und iſt ganz ſtill. Ich mußte ihm Ihr Schreib-<lb/>zimmer aufſchließen, er war den ganzen Abend da. Ge-<lb/>ſtern Morgen ſagte er: Alte, bete für mich, grüße ſie und<lb/>ſchreibe ihr, ich wäre fort; ſie kann getroſt wieder kom-<lb/>men! — Ich half ihm ſeine Sachen packen, ſonſt wäre<lb/>die Hälfte vergeſſen worden. Um Mittag iſt er fort ge-<lb/>fahren, beim Abſchiede küßte er mich, gerade ſo wie an<lb/>dem erſten Tage, wo er zu uns kam. — Es grüßt Sie<lb/>Ihre Hanna.“<lb/>
+            </p>
+            <p> <lb/>Die alte Dienerin bewohnte die Chaumière noch bis<lb/>in den Winter hinein ganz allein und ſah wie ein kopf-<lb/>hängeriſcher alter Haushund aus. Endlich kam Frau<lb/>Szenſivanyi zurück, aber das Haus blieb beinahe eben ſo<lb/>ſtill als es geweſen war. Im Frühling wurden die Zim-<lb/>mer „des Herrn“ ſehr hübſch und elegant eingerichtet und<lb/>vermittelſt einer Glaſthür mit einem Perron in Verbin-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0141" n="135" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=141"/>
+            </p>
+            <p> <lb/>dung geſetzt, dem gegenüber Elly eine kleine Fontaine an-<lb/>legen ließ. Dieſe Arbeit und die Pflege der Blumen be-<lb/>ſchäftigte ſie von früh bis ſpät.<lb/>
+            </p>
+            <p> <lb/>„Kommt er denn?“ fragte Hanna.<lb/>
+            </p>
+            <p> <lb/>„Ich weiß es nicht — aber man hofft doch immer!“<lb/>
+            </p>
+            <p> <lb/>Als die Georginen und Aſtern blühten, kam zwar<lb/>nicht Geza, aber doch ein Lebenszeichen, nämlich unter<lb/>Kreuzband eine Zeitung, welche die Aufführung und an-<lb/>erkennende Aufnahme ſeines Dramas mittheilte. — Elly<lb/>war ganz verklärt vor Freude; am ſelben Tage wurden<lb/>in den Zimmern des Herrn die neuen weißen Gardinen<lb/>aufgeſteckt und allerhand Backwerk hergerichtet. Aber Woche<lb/>auf Woche verging ohne weitere Kunde. Elly kämpfte<lb/>hart mit ſich, ob ſie nicht nach Peſt reiſen ſollte, ihn zu<lb/>ſehen — indeß ſie wollte ſeinem Gefühl nicht vorgreifen<lb/>und wartete, obwol das Warten immer ſchwerer wurde.<lb/>Die Blumen verblühten eine nach der andern, da traf<lb/>eine Packetanweiſung aus Peſt ein. Elly lief mit Hanna<lb/>durch einen ſchlimmen Regen zur Poſt. Sie vermochte<lb/>kaum die Schnur zu löſen — in den Papieren lag im<lb/>prachtvollen Einbande Geza’s Roman, ſeiner geliebten<lb/>Gattin gewidmet, und eine gute Anzahl lobender Kritiken,<lb/>die ungariſchen von einer deutſchen Uebersetzung begleitet.<lb/>
+            </p>
+            <p> <lb/>Hanna glaubte ihre Herrin würde zu viel von der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0142" n="136" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=142"/>
+            </p>
+            <p> <lb/>Freude und Aufregung bekommen. Ernſtlich besorgt ward<lb/>aber die Alte, als Elly plözlich ausrief: „Am Weihnachts-<lb/>abend wird er kommen!“<lb/>
+            </p>
+            <p> <lb/>„Hat er ſo geſchrieben?“<lb/>
+            </p>
+            <p> <lb/>„Nein, er ſchreibt nichts, aber ich ahne es!“<lb/>
+            </p>
+            <p> <lb/>„Wir ahnen nun ſchon anderthalb Jahr umsonſt!“<lb/>erwiderte Hanna.<lb/>
+            </p>
+            <p> <lb/>Die Hausfrau arbeitete und bereitete vor, als ob kein<lb/>Zweifel an Geza’s Wiederkehr ſtatthaben könne, immer<lb/>ängſtlicher ſchüttelte Hanna den Kopf — wenn er noch<lb/>einmal ausblieb, dann — dann war Alles vorbei! Die<lb/>Alte begriff dieſe Bücherſchreiber nicht. Er konnte es ſo<lb/>gut haben.<lb/>
+            </p>
+            <p> <lb/>Am Tage vor dem Weihnachtsfeſte, einem Tage, der<lb/>allen Norddeutſchen ſo unendlich lieb und werth iſt, weil<lb/>Abends im häuslichen Kreiſe für Alt und Jung Liebes-<lb/>gaben beſcheert und ausgetauſcht werden — an dieſem<lb/>Tage wurden Geza’s Zimmer geheizt, ein feſtliches Abend-<lb/>brod für ihn gerichtet und Abends, zur Zeit als die<lb/>Poſt im Städtchen eintreffen mußte, da ging Elly über<lb/>den Schnee, welcher gefallen war, dahin, ihm entgegen,<lb/>von Hanna’s ſorgenvollen Seufzern begleitet. Die ein-<lb/>fame Frau blieb oft ſtehen und lauſchte und ſpähte durch<lb/>das abendliche Dämmerlicht — plötzlich drückte ſie die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0143" n="137" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=143"/>
+            </p>
+            <p> <lb/>Hand auf’s Herz, ihr ſchwindelte und ſie ſpannte doch<lb/>alle Sinne an. Eine Geſtalt, in einen Pelz gehüllt,<lb/>kam raſch daher geſchritten, Elly wollte rufen, aber die<lb/>Stimme verſagte ihr — da erblickte er ſie und erkannte<lb/>das treue Weib. Er ſprach kein Wort, aber er küßte<lb/>den Saum ihres Kleides und ſie umfaßte ihn und zog<lb/>ihn empor an ihr Herz.<lb/>
+            </p>
+            <p> <lb/>Sie traten geräuſchlos, Hand in Hand! über den<lb/>Perron in ſein durchwärmtes, erleuchtetes Gemach, wo<lb/>ſeltene Blattpflanzen den Schreibtiſch umgaben, wie eine<lb/>ſüdliche Laube. Geza nahm den Hut ab, beugte ſein<lb/>Haupt und ſagte: „Schau her, Elly, mein Haar iſt grau<lb/>— ich bin in dieſem Schmerzensjahr ein Greis geworden!“<lb/>
+            </p>
+            <p> <lb/>Elly ſtieß einen Freudenſchrei aus, zog die Kapuze<lb/>vom Kopfe und löſte ihr Haar — „Geza!“ rief ſie zwi-<lb/>ſchen Lachen und Weinen, „jetzt ſind wir die Gleichen!“<lb/>
+            </p>
+            <p> <lb/>„Ja,“ ſagte er und blickte ihr in die Augen, „ver-<lb/>ſuche es noch einmal mit mir, ich weiß es, nur der Tod<lb/>kann uns noch ſcheiden, ich habe nie feſter an Glück ge-<lb/>glaubt als an dieſem Tage — unſere Haare ſind grau<lb/>geworden, aber unſere Herzen ſind jung geblieben!“<lb/>
+            </p>
+            <p> <lb/>„Warſt Du krank, Geza?“ fragte Elly beſorgt und<lb/>ſich an ihn lehnend.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0144" n="138" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=144"/>
+            </p>
+            <p> <lb/>„Nein, nicht krank, aber es nagte das Heimweh nach<lb/>Dir und der Chaumière und dem Frieden an mir!“<lb/>
+            </p>
+            <p> <lb/>„Und Du hatteſt kein Vertrauen zu mir, weil Du<lb/>nicht heimkehrteſt?“ rief ſie vorwurfsvoll.<lb/>
+            </p>
+            <p> <lb/>„O Du armes Kind, wie hätte ich je an Dir zwei-<lb/>feln können? Ach nein, ich wußte Du erwarteteſt mich,<lb/>aber ich mußte Dir in mir einen neuen Menſchen brin-<lb/>gen. Der Läuterungsproceß, den Du vor Jahren in bit-<lb/>terem Herzensweh ſo ſchön durchkämpfteſt, er mußte ſich<lb/>erſt an mir vollziehen, ich wollte dem Vaterlande würdige<lb/>Gaben gereicht haben, ehe ich die Ruhe ſuchen und was<lb/>ich mir errungen, zu Deinen Füßen niederlegen konnte!<lb/>Wir mußten gleich werden, und ſind es geworden, auch<lb/>darin, daß die Begeiſterung ſelbſtlos in uns fortglüht!<lb/>Die Jugend liebt und ſchafft ſelbſtſüchtig!“<lb/>
+            </p>
+            <p> <lb/>„O, mißachte das Blühen, das Verlangen des Men-<lb/>ſchenherzens nicht!“<lb/>
+            </p>
+            <p> <lb/>„Mißachten? Nein, es iſt ein ſchönes, köſtliches Wer-<lb/>den, aber doch immer nur ein Werden zum Sein der<lb/>höhern Reife und Vollendung!<lb/>
+            </p>
+            <p> <lb/>„Und ſo ſind alle Jugendfreuden für Dich dahin?“<lb/>ſagte ſie traurig. „Dahin einer armen alten Frau halber?“<lb/>
+            </p>
+            <p> <lb/>„Mein Kind!“ ſprach Geza und lächelte, er hatte ſie<lb/>bis heute nie wieder „mein Kind“ genannt, nachdem ſie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0145" n="139" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=145"/>
+            </p>
+            <p> <lb/>in den Flitterwochen einmal bei dieſer Bezeichnung trau-<lb/>rig geworden war. „Wir begingen vielleicht einen Irr-<lb/>thum, als wir uns heirateten, und wollen nicht darüber<lb/>rechten, wer am meiſten darunter gelitten hat. Als ich<lb/>Dich erwählte, ſuchte ich die Frau meines Herzens und<lb/>Du den Mann, der Dir eine Stütze ſein ſollte — ich<lb/>ward es nicht, denn Dein Charakter war feſter als der<lb/>meine. Heute ſuche und finde ich Deine edle Seele, heute<lb/>gebe ich Dir eine im ſchweren Kampfe geſtählte Hand.<lb/>Kannſt Du mit ſicherem Vertrauen zu mir aufblicken?“<lb/>
+            </p>
+            <p> <lb/>„O Gott, ich danke Dir!“ ſagte Elly ſtatt aller Ant-<lb/>wort. „Geza, von tauſend Frauen hat nicht eine ſolch’<lb/>ein Weihnachtsfeſt, ich bin ſo wunderbar glücklich — daß<lb/>ich wünſche zu ſterben!“<lb/>
+            </p>
+            <p> <lb/>„Nein,“ ſagte er, „wie könnte ich denn noch einmal<lb/>vereinſamt, ohne Dich leben?“<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

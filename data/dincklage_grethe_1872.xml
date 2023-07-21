@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die quade Grethe</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_grethe_1872</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Die quade Grethe, 1872.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die quade Grethe</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1872</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 107–168</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die quade Grethe</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               
+                  <hi rendition="#c #larger">Die quade Grethe.</hi>
+               
+               <lb/>—————<lb/>„Nimm den Keſſel, mein Junge,<lb/>und trag' ihn auf die Wieſe<lb/>zum Vater, und beeile Dich,<lb/>mein Junge, und vergiß die<lb/>Harke nicht, und achte dar-<lb/>auf, was Dir Vater befiehlt,<lb/>und denke nicht an Deine<lb/>eigenen Sachen. Du weißt,<lb/>mein Sohn, Vater hat einen heißen Kopf und<lb/>kann es nicht vertragen, wenn Du bei der Feld-<lb/>arbeit an die Bücher denkſt!“<lb/>
+            </p>
+            <p> <lb/>Dieſe ſorglichen Ermahnungen wurden dem<lb/>breitſchulterigen Knaben Jan Witte von ſeiner<lb/>Mutter zu Theil. Er hörte die in milder Stimme<lb/>geredeten Worte nicht mit jener bubenhaften Un-<lb/>
+               <pb facs="#0124" n="110" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=124"/>ruhe an, welche zwölfjährige Jünglinge gewöhnlich<lb/>prickelt und ſo unendlich läſtig macht; nein, er ſtand<lb/>ruhig und geſetzt auf beiden Füßen da, faßte mit ſei-<lb/>ner kräftigen Hand den Keſſel und legte die Harke<lb/>dienſtwillig auf die Schulter, ſich nicht regend<lb/>bis die letzte Silbe verhallt war. Wenn der liebe-<lb/>volle Mutterblick, welcher auf ſeinen Zügen ruhte,<lb/>aus minder kranken und getrübten Augen ge-<lb/>kommen wäre, als es der Fall war, Frau Witte<lb/>würde, trotz der gehorſamen Haltung ihres Spröß-<lb/>lings, in ſeinen blauen, offen ſchauenden Augen<lb/>einen unverkennbaren Anflug von Zerſtreutheit<lb/>entdeckt haben, wie denn ſeine ganze Phyſiognomie<lb/>etwas Sinnendes, über ſich hinaus Gerichtetes<lb/>hatte, das der täglichen Praxis des Lebens ſo<lb/>wenig förderlich zu ſein pflegt. Uebrigens war<lb/>es ein angenehmes, blühendes Geſicht das Jan<lb/>zeigte, namentlich waren Naſe und Stirn kräf-<lb/>tig und — wenn man den Vorausſetzungen<lb/>der Forſcher trauen darf! — <hi rendition="#g">wißbegierig</hi> ge-<lb/>baut und machten bereits einen vollkommen<lb/>männlichen Eindruck, während der rothe, glück-<lb/>lich geſchweifte Mund und das fein gerundete<lb/>Kinn einem Mädchen hätten zur Zierde gereichen<lb/>dürfen. Das Hübſcheſte an dem Jungen, dem<lb/>
+               <pb facs="#0125" n="111" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=125"/>indeß Hände und Füße ganz ſo wie ſeinen Alters-<lb/>genoſſen häufig genug im Wege ſtanden, war<lb/>ſein gelbblondes, krauſes Haar, das er ſelbſt<lb/>hübſch fand, denn er hielt es über ſeine Jahre<lb/>hinaus ſorgſam, ſtets in Ordnung; es hatte ſogar<lb/>einmal der Schulinſpector die gelben Locken be-<lb/>merkt, bei Gelegenheit ſeiner amtlichen Rundreiſe,<lb/>und geſagt: „Das ſind echte altdeutſche Haare,<lb/>laß ſie mit Ehren grau werden!“ Dieſe wohl-<lb/>gemeinte Anrede zog Jan alsbald bei ſeinen eige-<lb/>nen Haaren zu einem Studium der altdeutſchen<lb/>Geſchichte und der Junge wurde ein fleißiger<lb/>Beſucher aller der Umwohnenden, welche Kenntniſſe<lb/>oder Bücher genug beſaßen, ſeiner Wißbegier<lb/>entgegen zu kommen: eine unerſättliche Wiß-<lb/>begier, die ſich alsbald auch anderer Zweige der<lb/>Gelehrſamkeit bemächtigte. Ach, warum wird<lb/>dieſer brennende Wiſſensdurſt faſt ausſchließlich<lb/>ſolchen Kindern zu Theil, die kaum das tägliche<lb/>Brod haben und bei denen ſo viel mehr auf die<lb/>Leiſtungen der Hände, als auf die dürftig renti-<lb/>renden geiſtigen Errungenſchaften des Geiſtes<lb/>gerechnet wird?<lb/>
+            </p>
+            <p> <lb/>Jan und ſeine Mutter hatten gar viel von<lb/>dem heftigen Vater „der verfluchten Bücher“<lb/>
+               <pb facs="#0126" n="112" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=126"/>wegen zu leiden; als der Knabe einſt beklagte,<lb/>daß die Mutter ſeinethalben ſo viel böſe Tage<lb/>habe, entgegnete die ſanfte Frau: „Kind, es muß<lb/>ja irgend etwas zum Streiten da ſein, wär's dies<lb/>nicht, ſo wäre es was Anderes!“<lb/>
+            </p>
+            <p> <lb/>Sie ſagte das ruhig ohne Bitterkeit, und Jan,<lb/>der bereit war der Mutter zu Liebe den Büchern<lb/>zu entſagen, ſah ein, daß ſie Recht hatte, und las<lb/>nach wie vor in jeder freien Minute, verſteckt<lb/>auf dem Heuboden oder in irgend einem Schuppen,<lb/>ſogar in grünen Eichenwipfeln verborgen. Die<lb/>Mutter ſchätzte ſeine Lernbegier, <hi rendition="#g">nicht</hi> weil ſie<lb/>dieſelbe verſtand, ſondern weil ſie ihn ſo ſehr<lb/>liebte. Sie hatte viele Kinder verloren und war<lb/>arm und faſt blind. Nicht daß die Wittens arm<lb/>waren, drückte ſie; es gab Leute im Dorfe, die<lb/>für noch ärmer galten. Das Schlimme beſtand<lb/>darin, daß ſie <hi rendition="#g">verarmt</hi> waren. Der Hausvater<lb/>ſagte im finſtern Groll gegen das Schickſal:<lb/>„Wir haben ſo viel Unglück gehabt wie ſonſt gar<lb/>Niemand im Kirchſpiel!“ und er bäumte ſich<lb/>gegen jedes neue Mißgeſchick, gegen den Regen,<lb/>der ſein Heu verdarb, gegen den Nachtfroſt,<lb/>welcher die Ernte beeinträchtigte, gegen die Ver-<lb/>gänglichkeit ſeiner Kleidungsſtücke, ja gegen das<lb/>
+               <pb facs="#0127" n="113" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=127"/>langſame Erblinden ſeiner Frau — er konnte ſich<lb/>nie und über gar nichts mehr freuen, ſo über-<lb/>laſtet war die Wagſchale ſeiner Prüfungen. Ver-<lb/>feindet mit den Schickungen, mit den Menſchen,<lb/>mit ſich ſelbſt, lebte und ſchaffte er weiter, haſtig<lb/>und erfolglos, als geſchähe es zum Trotz. Dieſe<lb/>zähe, zähneknirſchende Natur hatte ſelbſtverſtänd-<lb/>lich die Lebensgefährtin zu Boden gerungen. Wer<lb/>in Frau Mariannens Geſicht ſchaute, der ſah,<lb/>wie beim Anblick eines zerklüfteten Thales, ſofort<lb/>rückwärts, um zu erſpähen, welches Wildwaſſer,<lb/>welcher Orkan die Blüthen entwurzelt, die Pfade<lb/>unterwühlt habe. Es war eins dieſer ängſtlichen,<lb/>duldſamen Ehegeſichter, wie ſie Unvermählte faſt<lb/>nie zeigen. Die blauen Augen waren matt und<lb/>zum Aufſchauen unfähig, in den tiefliegenden<lb/>Ecken derſelben war immer eine kleine, helle<lb/>Thräne, die geduldig des Abtrocknens harrte —<lb/>das kam von der Augenkrankheit. Die hellblonden<lb/>Haare trug ſie über der hohen, viel durchfurchten<lb/>Stirn unter die Haube geſtrichen, die Form des<lb/>Antlitzes war mager und knochig, Mund und<lb/>Kinn ungemein klein. Die ſchmalen Lippen<lb/>ſchienen nicht nur in gewöhnlicher Art ängſtlich<lb/>
+               <pb facs="#0128" n="114" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=128"/>geſchloſſen, ſondern auch die äußeren Winkel zogen<lb/>ſich nach innen zuſammen, was ſich gar furchtſam<lb/>ausnahm. Einſt mochte dieſer Mund recht hübſch<lb/>geweſen ſein, damals als er noch lachen konnte.<lb/>Alte Leute erinnerten ſich, daß Witte ſeiner Mari-<lb/>anne das Ehegelöbniß abrang, indem er ſich das<lb/>Meſſer auf die Bruſt ſetzte und ihr die Wahl ließ,<lb/>eine Leiche oder einen Bräutigam vor ſich zu ſehen.<lb/>So fing die Ehe gleich mit Schrecken und Drohung<lb/>an. Als junger Ehemann war Witte ſo „geck“<lb/>verliebt, daß er alle jungen Männer des Dorfes<lb/>nach und nach mit ſeinen eiſernen Fäuſten durch-<lb/>walkte und zerbläute, nur in Gedanken der Mög-<lb/>lichkeit Marianne könnte ſie wohlgefällig anſehen.<lb/>Unglücklicher Weiſe war ſie immer gehorſam und<lb/>ſeine Launen wuchſen zur Tyrannei heran.<lb/>
+            </p>
+            <p> <lb/>Man ſollte denken, die unterdrückten, an-<lb/>ſcheinend ſchwachen Perſonen müßten weiche, un-<lb/>bedeutende Züge haben, und doch iſt das ſelten<lb/>der Fall; ja, ſie beſitzen manchmal, wie auch<lb/>Marianne, geradezu heroiſche Naſen und hohe<lb/>ausdauernde Stirnen — ſie ſind ja auch Helden,<lb/>
+               <hi rendition="#g">paſſive</hi> Helden, deren Siege ſtatt mit Lorbeern<lb/>mit Dornen gekrönt werden. Von Marianne<lb/>wußte, oder ahnte doch wenigſtens <hi rendition="#g">ein</hi> Sterb-<lb/>
+               <pb facs="#0129" n="115" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=129"/>licher, daß ſie eine Heldin war; dieſer einzige<lb/>Eingeweihte war ihr Sohn! Er ſtellte ſeine alte<lb/>ſtille Mutter neben die Engel und die Heiligen<lb/>des Himmels. Der Sohn einer ſolchen Mutter<lb/>mußte wie ein Auserwählter durch's Leben<lb/>gehen — <hi rendition="#g">ihretwegen</hi>!<lb/>
+            </p>
+            <p> <lb/>Wohl kann ein guter, großherziger Knabe<lb/>ſeine freie glückliche Mutter zärtlich lieben; aber<lb/>eine Freudloſe, Gequälte faßt mit der frommen<lb/>linden Hand die Kindesliebe bis in die tiefſten<lb/>Wurzeln. Jan hatte, ſo lange er lebte, ſeine<lb/>Mutter auch nicht <hi rendition="#g">eine</hi> Secunde etwas thun<lb/>ſehen oder ſagen hören, das nicht von milder<lb/>Würde und tiefſtem Gottvertrauen gezeugt hätte.<lb/>Er beſaß ſchon früh das Gemüth eines Mannes<lb/>und ſah vor ſich ein tadelloſes Weib. Dies voll-<lb/>kommenſte Menſchenweſen aber war zu einem<lb/>Martyrium verdammt, das dem Sohne, der ihr<lb/>nicht helfen konnte, unendlich peinlicher erſchien,<lb/>als es in der That war; denn Marianne war<lb/>ihren Eheherrn nicht anders gewohnt, ſie hatte<lb/>die Erinnerung ſeiner einſtigen Liebe zu ihr und<lb/>er mußte doch auch ſehr darunter leiden, daß ſie<lb/>jetzt hinfällig und faſt blind wurde — das ent-<lb/>ſchuldigte den armen Mann.<lb/>
+               <pb facs="#0130" n="116" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=130"/>So iſt die Frau, welche den Knaben Jan<lb/>mit dem Kaffeekeſſel und ihren Ermahnungen auf<lb/>die Wieſe zu ſeinem Vater ſchickte. Jan ſchritt<lb/>mit den beſten Vorſätzen in ſchweren Holzſchuhen<lb/>ſeines Wegs; da er indeß <hi rendition="#g">eine</hi> Hand frei hatte,<lb/>war es wohl kein Unrecht, mit ihr aus der Taſche<lb/>ſeines Leinenwamſes ein altes Legendenbuch zu<lb/>ziehen und in demſelben, immer vorwärts gehend,<lb/>zu leſen. Die fromme Lectüre führte folgerichtig<lb/>auf die Erwägung: <hi rendition="#g">welcher</hi> heilige Johannes<lb/>der Schutzpatron ſeiner Wahl werden ſollte. Da<lb/>ſtand, im härenen Gewande, Johannes der Täufer,<lb/>der auch eine fromme Mutter hatte und voll<lb/>ernſter Kraft und demüthiger Selbſtentſagung<lb/>ſeine Sendung vollführte. Wie verlockend war<lb/>aber auch der Jünger Johannes, der lockige<lb/>Jüngling mit dem gottbegeiſterten, liebewarmen<lb/>Herzen! Johannes von Nepomuk, der edle Bi-<lb/>ſchof von Prag, verdiente wohl nicht minder der<lb/>Nacheiferung; wenn man Alles recht erwägen<lb/>wollte, war eine Entſcheidung in der That nicht<lb/>leicht. Jan kehrte noch einmal nachdenklich zum<lb/>Täufer zurück und hatte ihn eben auf Seite 31<lb/>gefunden, als ein: „Pſt! Pſt!“ neben ihm ihn<lb/>aus ſeiner Träumerei aufſchreckte und zugleich<lb/>
+               <pb facs="#0131" n="117" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=131"/>eine kleine kräftige Hand ſich des Keſſels, den er<lb/>trug, bemächtigte.<lb/>
+            </p>
+            <p> <lb/>„Wenn Du nicht beſſer aufpaſſeſt, Jan, ſo<lb/>wird Dein Vater ſicher keinen Kaffee bekommen,<lb/>halb haſt Du ihn ſchon ausgeſchüttet!“ rief das<lb/>kleine Mädchen, das ihn unterbrochen hatte und<lb/>jetzt rüſtig neben ihm fortſchritt.<lb/>
+            </p>
+            <p> <lb/>„Gieb mir nur den Keſſel zurück, Grethe,“<lb/>bat der Knabe beſchämt, „ich werde jetzt vorſichtiger<lb/>ſein, Du haſt ja ſelbſt ſchon das Vesperbrod für<lb/>Deine Leute zu tragen!“<lb/>
+            </p>
+            <p> <lb/>„Pah, daraus macht ſich eine ordentliche<lb/>Bauerntochter nichts, ich gehe in's zwölfte Jahr,<lb/>Jan, ich bin kein Kind mehr!“<lb/>
+            </p>
+            <p> <lb/>Der blonde Junge ſah das Mädchen nach-<lb/>denklich, faſt ſtaunend an. Sie war beinahe eben<lb/>ſo groß als er ſelbſt, gerade gewachſen, drall und<lb/>das, was der Landmann ſo bezeichnend „flörig“<lb/>nennt. „Flörig“ heißt nicht blumenhaft, ſondern<lb/>
+               <hi rendition="#g">blumig</hi>, und hat keine geiſtige, nur eine ganz<lb/>äußerliche Bedeutung. Grethe war ein Füchschen<lb/>und hatte neben den üblichen Schönheiten der Roth-<lb/>haarigen, der feinen Hautfarbe, den klaren blauen<lb/>Augen und vollen Lippen, zugleich die Energie<lb/>und Sinnesſprödigkeit, zu denen hartes, rothes<lb/>
+               <pb facs="#0132" n="118" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=132"/>Haar geneigt iſt. Kommt es daher, weil der<lb/>„Voß“ von Jugend auf ſtets unverſchuldeter<lb/>Weiſe geneckt und gehänſelt zu werden pflegt, oder<lb/>hat das landläufige Sprichwort: Rothe Haare<lb/>und Erlenholz wachſen auf keinem guten Boden! —<lb/>einige Berechtigung? Grethe war ein hübſches,<lb/>geſchicktes und wohlhabendes Mädchen und der<lb/>Verzug ihrer Eltern. Bei alledem mied man den<lb/>„Voß“ gern und man hatte ihr noch einen zwei-<lb/>ten, viel ſchlimmeren, weil nicht unverdienten<lb/>Spitznamen gegeben, ſie hieß gemeinhin: „Die<lb/>quade Grethe!“<lb/>
+            </p>
+            <p> <lb/>Die Bezeichnung „quad“ iſt nicht gerade mit<lb/>„böſe“ zu überſetzen, man giebt ſie ſchon kleinen<lb/>unartigen Kindern; doch ſchließt ſie jede Sanft-<lb/>muth aus und man würde ſie vielleicht mit:<lb/>„frech“ oder „boshaft“ annähernd überſetzen. Das<lb/>Wort „quad“ wurde hiſtoriſch durch eine frieſiſche<lb/>Häuptlingsfrau, welche in der Weltgeſchichte wie<lb/>in der Tradition als „quade Folke“ aufgeführt<lb/>wird.<lb/>
+            </p>
+            <p> <lb/>„Ich wußte, daß Du daherkommen würdeſt,“<lb/>nahm Grethe wieder das Wort, mit jenem Ton<lb/>von Dreiſtigkeit, der ihr eigen war, „deshalb<lb/>wartete ich hier im Eſch. Wenn das mein Alter<lb/>
+               <pb facs="#0133" n="119" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=133"/>ſähe, er zerſchlüge mir die Knochen im Leibe;<lb/>weißt, Jan, in der Heuzeit ſind ſich unſere Väter<lb/>noch mehr ſpinnefeind wie ſonſt im ganzen Jahre!<lb/>Geh' nicht ſo in Gedanken, dummer Junge; habe<lb/>ich hier ſo lange geſeſſen, damit Du jetzt dahin-<lb/>trittſt wie ein Storch und kein Sterbenswörtchen<lb/>ſagſt?“<lb/>
+            </p>
+            <p> <lb/>„Du biſt doch gleich wie Feuer im Flachs,<lb/>Ete; wenn Du Deinen Schnabel nicht ſtill<lb/>hältſt, wann ſoll ich ſprechen? Aber da es Dein<lb/>Vater nicht will — weshalb gehſt Du dann<lb/>mit mir?!“<lb/>
+            </p>
+            <p> <lb/>„Narr, weil es der Alte verboten hat und<lb/>weil es ſchnurrig iſt, Dich von Deinen Büchern<lb/>reden zu hören, und weil — ja, weil Du der<lb/>hübſcheſte Junge im Dorfe biſt und noch dazu<lb/>unſer Nachbar! Mir iſt's einerlei, ob Du arm<lb/>biſt; das Leidenmögen iſt die Hauptſache!“<lb/>
+            </p>
+            <p> <lb/>„Ja,“ entgegnete Jan nachdenklich, „Du biſt<lb/>beſſer gegen mich als gegen die anderen Kinder!“<lb/>
+            </p>
+            <p> <lb/>„Die Kröten —!“ rief Grethe, „meinetwegen<lb/>mögen die Hexen ſie holen, ich frage nichts nach<lb/>ihnen, ich frage nach Niemand als nach Dir, Jan,<lb/>und wenn wir groß ſind, Jan, dann heirathe ich<lb/>Dich!“<lb/>
+               <pb facs="#0134" n="120" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=134"/>„Nein, Ete,“ ſprach Jan ernſthaft, „das kann<lb/>nimmer nicht geſchehen!“<lb/>
+            </p>
+            <p> <lb/>„Nicht geſchehen? Weshalb nicht? Weil unſere<lb/>Eltern in Feindſchaft ſind? O, ich werde ihnen<lb/>was flöten! Wenn wir unſern Kram zuſammen-<lb/>werfen, dann iſt's einerlei, ob die Wieſe eigentlich<lb/>Euch oder eigentlich uns gehörte; laß mich nur<lb/>machen, mein Burſche. Du biſt mir reich genug<lb/>und wenn Du nichts Anderes haſt als Dein zer-<lb/>riſſenes Wams da!“<lb/>
+            </p>
+            <p> <lb/>Jan blickte verlegen auf ſeine defecte Jacke<lb/>und entſchuldigte ſich: „Weißt, Ete, Mutter hat<lb/>ſchlimme Augen und kann nicht mehr nähen!“<lb/>
+            </p>
+            <p> <lb/>„Nun was weiter? heute Abend hängſt Du<lb/>den Flicken auf Euren Gartenzaun und ich bringe<lb/>ihn Dir morgen in der Früh’ in Stand. So wie Du<lb/>biſt, mag ich Dich nicht mehr umhergehen ſehen!“<lb/>
+            </p>
+            <p> <lb/>„O, ich weiß, Du biſt kundig, Du nähſt wie<lb/>ein Schneider, ich danke Dir auch vielmals; aber<lb/>wenn auch unſere Eltern in guter Nachbarſchaft<lb/>lebten und ich ſo viel Geld hätte, als nur Einer,<lb/>ich kann doch niemals heirathen — niemals,<lb/>Grethe!“<lb/>
+            </p>
+            <p> <lb/>„Findeſt Du ein anderes Mädchen „flügger“<lb/>als mich?“ fragte Grethe gereizt.<lb/>
+               <pb facs="#0135" n="121" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=135"/>„O gewiß nicht, Grethchen, gewiß nicht, ich<lb/>glaube wohl, Du biſt ein hübſches, ſchickſames Mäd-<lb/>chen; aber weißt Du, ich will geiſtlich ſtudiren!“<lb/>
+            </p>
+            <p> <lb/>„Du?“ ſpottete Grethe, „Du willſt Student<lb/>werden, wie Brinckmann's Albert? Aber weißt<lb/>Du denn nicht, daß das Studiren einen Haufen<lb/>Geld koſtet?“<lb/>
+            </p>
+            <p> <lb/>„Ja — ja —!“ ſeufzte Jan trübſelig, „ich<lb/>weiß es, aber ich rechne, es kommt eine Hülfe<lb/>von Gott —! Ich möchte doch — ich möchte doch!“<lb/>er drückte die Hände wie in tiefer Sehnſucht auf<lb/>die Bruſt und richtete den Blick nach Oben.<lb/>
+            </p>
+            <p> <lb/>„Die Hülfe ſoll, wie ich hoffe, wohl aus-<lb/>bleiben!“ meinte Grethe in ihrer kaltherzigen<lb/>Weiſe. „Sieh nicht am hellen Tage in die Sterne<lb/>und nimm Deinen Keſſel, damit die Alten nicht<lb/>merken, wir hätten zuſammen geredet — ſieh, ſieh!<lb/>da wühlt Jeder wüthend in ſeinem Heu herum und<lb/>flucht im Herzen auf den Andern, zwiſchen ihnen<lb/>ein kleiner „Schloot“ und die Hecke, ſonſt hätten<lb/>ſie ſich ſchon todt geſchlagen — iſt es nicht zum<lb/>Kranklachen?“<lb/>
+            </p>
+            <p> <lb/>„O nein, gar nicht; wie kann man über Un-<lb/>frieden lachen, Grethe?“<lb/>
+            </p>
+            <p> <lb/>„Unfrieden muß ſein, Jan, wie der Sturm<lb/>
+               <pb facs="#0136" n="122" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=136"/>ſein muß und die Mücken und alles Schlimme.<lb/>Vergiß nicht Dein Wams hinzuhängen. Adje,<lb/>ich krieche hier durch die Büſche !“<lb/>
+            </p>
+            <p> <lb/>Als Jan ſeinen Vater gewahrte, bemühte er<lb/>ſich, eine ſichere, eilige Haltung anzunehmen, und<lb/>kaum waren die Lebensmittel abgeliefert, als er<lb/>mächtig anfing zu rechen und zu arbeiten. Wenn<lb/>er ſich Mühe gab, hatte er, wie ſein Vater meinte,<lb/>einen guten „Schlag“, aber die Freude an der<lb/>Arbeit fehlte. Vater Witte war ein dunkler, ver-<lb/>grämter Mann. Er war kein böſer oder ſchlechter<lb/>Mann, bewahre! Ja, wenn er ſich irgend welcher<lb/>Schlechtigkeit bewußt geweſen wäre, dann hätte in<lb/>all' den Widerwärtigkeiten ſeines Lebens doch eine<lb/>Gerechtigkeit gelegen; aber jetzt ward er geſtraft<lb/>und heimgeſucht und konnte nicht erſinnen, wes-<lb/>halb? Er wußte ſo viele Andere, die das Schlimmſte<lb/>verdient hatten und denen es beſonders gut ging<lb/>— unter den <hi rendition="#g">Anderen</hi> war ſein Nachbar gemeint,<lb/>Grethe's Vater, dem eine ihm verpfändete Wieſe<lb/>Witte's nach langem Proceſſiren zugeſprochen war<lb/>— jene Wieſe, die in jedem Jahre zur Zeit der<lb/>Heuernte einen erneuten Anfall von gelinder<lb/>Hundswuth über den einſtigen und den jetzigen<lb/>Beſitzer brachte. Keiner der Väter hatte jemals<lb/>
+               <pb facs="#0137" n="123" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=137"/>etwas von Romeo und Julie und deren feind-<lb/>lichen Familien gehört — ſie waren daher ſicher,<lb/>als Gegner in die Grube zu fahren. Während<lb/>der Arbeit brummte Vater Witte eine Reihe von<lb/>Klagen, die, ſo lange Jan zurückdenken konnte,<lb/>ſich jedes Jahr beim Heumachen wiederholten und<lb/>dadurch eine traditionelle Würde erhalten hatten.<lb/>Die Familienfehde war nämlich ſchon vor des<lb/>Knaben Geburt ausgebrochen; Jan und Grethe<lb/>durften ſich als Erbfeinde betrachten, ein Wort,<lb/>das die deutſche Sprache in tadelnswerther Vor-<lb/>liebe cultivirt, indeß die Bezeichnung <hi rendition="#g">Erbfreund</hi>
+               <lb/>ſo gut wie gar nicht exiſtirt. Jan horchte nur<lb/>ſcheinbar auf die Anſchuldigungen ſeines Vaters<lb/>und ſammelte ſeine Aufmerkſamkeit erſt wieder<lb/>vollſtändig, als derſelbe ſprach: „Ich freue mich<lb/>darauf, wenn Du erſt allein die Arbeit beſorgſt,<lb/>dann brauchen meine Augen die „Wiſche“ (Wieſe),<lb/>die uns geſtohlen iſt, nicht mehr zu ſehen!“<lb/>
+            </p>
+            <p> <lb/>Jan hatte ſich ſein Leben lang vor ſeinem<lb/>Vater gefürchtet; nicht aus perſönlicher Feigheit,<lb/>aber mit der Abneigung höher geſtimmter Ge-<lb/>danken vor dem Lärm und Wirbel kleinlicher Er-<lb/>regungen. Seit er heute vor dem jungen Mädchen<lb/>einen Entſchluß ausgeſprochen, dem er zum erſten<lb/>
+               <pb facs="#0138" n="124" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=138"/>Male rückhaltslos Worte gab, ſchien er ſich ſeinem<lb/>künftigen Berufe bereits anheim gegeben; er ſchaute<lb/>offen in die finſteren Züge des grollenden Mannes<lb/>und ſagte freundlich: „Es thut mir leid, Vater,<lb/>daß ich Euch darin nicht werde helfen können, denn<lb/>mit Gottes Hülfe gedenke ich geiſtlich zu werden!“<lb/>
+            </p>
+            <p> <lb/>Witte verſtummte vor Erſtaunen über die Kühn-<lb/>heit und Beſtimmtheit ſeines Kindes; ſeit vielen<lb/>Jahren hatten die Seinen nie einen directen<lb/>Widerſpruch gewagt. Jan blickte ihn noch immer<lb/>an in jener feſt auf die Fußſohlen geſtemmten<lb/>Haltung, welche der Erwartung einiger tüchtiger<lb/>Ohrfeigen vorausgeht; aber die Ohrfeigen kamen<lb/>nicht, der Alte mußte ſich erſt die grenzenloſe<lb/>Thorheit ſeines Sprößlings recht klar machen, und<lb/>dann ſagte er mit dem Verſuch eines bittern Lä-<lb/>chelns: „Johannes, mein Sohn, das iſt Kinderei!<lb/>Von mir aus iſt es unmöglich, Dir das Geld zu<lb/>geben, und wenn es da wäre, ſo müßten ich und<lb/>Mutter auf unſern alten Tag verhungern, wenn<lb/>Niemand bleibt für uns zu arbeiten!“ Er ſagte<lb/>das ungemein gelaſſen, und ſein Sohn machte eine<lb/>neue Entdeckung, eine Entdeckung, der er athemlos<lb/>vor Ueberraſchung gegenüber ſtand: man konnte<lb/>ſeinem Vater imponiren!<lb/>
+               <pb facs="#0139" n="125" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=139"/>Jan war ganz bedrückt über dieſe Thatſache,<lb/>und doch auch wurde ihm ſo froh und hoffnungs-<lb/>voll. Wie erhaben mußte ein Beruf ſein, deſſen<lb/>bloße Erwähnung ſeinen zornmüthigen Vater ſtill<lb/>und friedſam ſtimmte! Und dennoch — es ſchien<lb/>unmöglich, die zwei Gegengründe des alten Witte<lb/>zu überwinden.<lb/>
+            </p>
+            <p> <lb/>Unmöglich? O, wie leicht ſehen ſelbſt die<lb/>Kühnſten unter uns Unmöglichkeiten, welche eine<lb/>höhere Macht hinweghebt, als gälte es nur ein<lb/>Stäubchen fortzublaſen. Eben in dieſer Stunde<lb/>ſtieg ein Gelübde zu den Wolken empor, das<lb/>Jan's innigſten Wünſchen Thür und Thor erſchloß.<lb/>
+            </p>
+            <p> <lb/>Unter allen mageren Tanten, „Möken“ ge-<lb/>nannt, des Dorfes — mehr oder weniger war<lb/>das ganze Dorf mit einander verwandt! — be-<lb/>fand ſich eine <hi rendition="#g">einzige</hi> dicke Möke. Daß ſie ſo<lb/>behäbig einherſchritt, war kein Zufall; o nein,<lb/>ihre Corpulenz war ein eben ſo untrügliches<lb/>Zeichen ihres Reichthums und behaglichen Lebens,<lb/>wie bei den Chineſen der Knopf und die Pfauen-<lb/>feder ein Zeichen hohen Ranges ſind. Reich, un-<lb/>abhängig und gutmüthig ſein, ſchafft in allen<lb/>bewohnten Erdzonen unfehlbar einen Kreis von<lb/>Nachtretern und Nachbetern, deren Speculations-<lb/>
+               <pb facs="#0140" n="126" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=140"/>talent ſich, je nach dem innewohnenden Schick,<lb/>entfaltet. Lisbeth-Möke nahm im Dorfe eine<lb/>wahrhaft olympiſche Stellung ein; ſelten täuſchten<lb/>ſich die Bittſteller über die Bereitwilligkeit der<lb/>reichen Witwe ihnen beizuſtehen, faſt regel-<lb/>mäßig aber täuſchte ſich die Witwe über den<lb/>Grad der Dankbarkeit ihrer Bittſteller. <hi rendition="#g">Vorher</hi>
+               <lb/>waren ſie ſtets eitel Erkenntlichkeit, <hi rendition="#g">nach</hi> der<lb/>Hülfe aber wurden ſie alsbald lau und gingen<lb/>ihrer eigenen Wege. Das ärgerte Lisbeth-Möke,<lb/>denn ſie liebte es gefeiert zu werden und ihre<lb/>Rathſchläge befolgt zu ſehen; es ſchien ihr ein<lb/>wahres Unrecht, wenn die Leute ſich nicht um ſie<lb/>bekümmerten, oder gar in Noth waren, <hi rendition="#g">ohne</hi> ihre<lb/>Hülfe zu ſuchen. Dieſer Vernachläſſigung hatten<lb/>ſich die Wittens im höchſten Grade ſchuldig ge-<lb/>macht, obwohl ſie noch im ſechſten Geſchlecht mit<lb/>Lisbeth-Möke verwandt waren. Sie redete daher<lb/>nicht gern von ihnen oder ſagte höchſtens: „Das<lb/>ſind eigene „ſture“ Leute!“ „ Stur“ heißt wört-<lb/>lich „ſteil“, wir könnten es „ſtarr“ überſetzen.<lb/>Andere Verwandte, die minder „ſtur“ waren,<lb/>umgaben deſto eifriger die werthe Bäuerin; ja ſie<lb/>war vermocht worden, einen Neffen kindesgleich<lb/>in ihr Haus zu nehmen und denſelben geiſtlich<lb/>
+               <pb facs="#0141" n="127" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=141"/>ſtudiren zu laſſen. Da ſie ſelbſt kinderlos war,<lb/>konnte nichts ihr Haus höher ehren, als wenn<lb/>nun dennoch ein Diener Gottes aus demſelben<lb/>hervorging. Zu dieſem Behuf wurde Casperchen<lb/>Dormann mit einer grünen Schülermütze und meh-<lb/>reren Tuchröcken ausgeſtattet, und ihm ſelbſt an-<lb/>heim gegeben, ſeinem Kopfe die tiefen Lehren der<lb/>Quarta zu eigen zu machen, was er in den Ferien<lb/>betheuerte, beſtens gethan zu haben — obwohl<lb/>ſeine Zeugniſſe das Gegentheil bewieſen. Das<lb/>unumſtößliche Reſultat der neuen Laufbahn war<lb/>indeß eine große Tabakspfeife und eine Recht-<lb/>haberei, welche, nach dem Ausſpruche des Groß-<lb/>knechtes, „noch über das Hundebellen ging!“ ſo<lb/>wenig gönnte ſie Anderen das Wort. Als Casper-<lb/>chen Untertertia erklommen hatte und die grüne<lb/>Mütze mit einer rothen vertauſcht, da war ſeiner<lb/>Aufgeblaſenheit kein Maß und Ziel mehr; er<lb/>meinte, ſeine Wohlthäterin müſſe ihm für den<lb/>geiſtigen Glanz Dank wiſſen, welchen er über<lb/>ihre fette Perſon, die Freundſchaft, ja das ganze<lb/>Dorf verbreite. Es gab kleine Reibereien, aber<lb/>die natürliche Gelaſſenheit der Pflegemutter trug<lb/>ſtets den Sieg davon. Heute, an dem Tage, wo<lb/>Jan Witte die Hand der quaden Grethe ausſchlug<lb/>
+               <pb facs="#0142" n="128" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=142"/>und ſeinem Vater imponirte, da brachte es<lb/>Casperchen dahin, ſeine Tante in wirklichen Zorn<lb/>zu bringen. Die brave Frau brannte eben Kaffee,<lb/>ein Geſchäft, das mit größtem Ernſte und tiefer<lb/>Einſicht betrieben wird, denn die gute Kaffee-<lb/>ſtimmung einer oder mehrerer Wochen hängt von<lb/>dem Gelingen, von dem Mittel-, Dunkel- oder<lb/>Tiefbraun der Bohnen von ihrem Platzen,<lb/>Schwitzen rc. ab. Lisbeth brannte alſo mit ge-<lb/>wiegter Erfahrung ihre Bohnen, als ein Kuh-<lb/>käufer kam, welcher einen Handel machen wollte,<lb/>den die Hausfrau perſönlich zu leiten hatte. Dem<lb/>hoffnungsvollen Tertianer wurden indeſſen die<lb/>koſtbaren Südfrüchte anempfohlen. Der Vieh-<lb/>handel zerſchlug ſich; als die Bäuerin, ſchon ge-<lb/>reizt, zu ihren Bohnen zurück eilte — da fand<lb/>ſie die geräumige Küche von einem brenzlichen<lb/>Geruch erfüllt, über den Herdflammen hing<lb/>regungslos der eiſerne Kaffeebrenner und neben<lb/>demſelben ſaß rauchend der Tertianer, die Mütze<lb/>auf dem Kopfe, frechen Hohn auf den Lippen.<lb/>
+            </p>
+            <p> <lb/>„Warum haſt Du den Brenner nicht gedreht,<lb/>wie ich Dir befohlen habe?“ fragte mit anſchei-<lb/>nend ruhiger Stimme Lisbeth.<lb/>
+            </p>
+            <p> <lb/>Casperchen erkannte leider nicht, daß dies die<lb/>
+               <pb facs="#0143" n="129" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=143"/>Ruhe vor dem Orkan ſei, und entgegnete mit der<lb/>Miene höchſter Würde: „Weil es ſich nicht paßt<lb/>für einen Studenten, ſolche Mägdearbeit zu ver-<lb/>richten!“<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">Mägdearbeit</hi> — das war der Tropfen,<lb/>der den Eimer überfließen machte, der Strohhalm,<lb/>welcher des Kameeles Rücken brach. Lisbeth-<lb/>Möke ließ den Kaffee getroſt zu Kohlen brennen,<lb/>ſchritt an die Thür, öffnete dieſelbe und ſprach:<lb/>„Geh' da hinaus und unterſteh' Dich nicht, jemals<lb/>wieder herein zu kommen!“<lb/>
+            </p>
+            <p> <lb/>Der Junge ließ die Pfeife fallen, ſchwankte<lb/>wie betrunken einige Schritte und ſank dann vor<lb/>ihr auf die Kniee. Aber wenn gelaſſene Naturen<lb/>endlich in Harniſch kommen, dann ſind ſie bis<lb/>in den letzten Nerv empört, dann ſiedet ihr letzter<lb/>Blutstropfen. „Geh’,“ wiederholte die Tante,<lb/>„es iſt beſſer, Du lernſt arbeiten!“<lb/>
+            </p>
+            <p> <lb/>„Möke,“ ſtammelte der Junge, „Ihr werdet<lb/>keinen geiſtlichen Studenten mehr haben, wenn<lb/>Ihr mich fortjagt!“<lb/>
+            </p>
+            <p> <lb/>„Keinen Studenten, Du Kiekindiewelt? Sei<lb/>ruhig, morgen habe ich einen Andern — geh'!“<lb/>
+            </p>
+            <p> <lb/>Casper gab ſich und ſeine ſtolzen Hoffnungen<lb/>verloren und taumelte hinaus, in ſeiner Ver-<lb/>
+               <pb facs="#0144" n="130" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=144"/>wirrung aber gerade gegen den alten Witte, wel-<lb/>cher mit Jan vom Heu zurückkam.<lb/>
+            </p>
+            <p> <lb/>„Casper,“ rief die alte Frau, „bleib' ſtehen!“<lb/>
+            </p>
+            <p> <lb/>Casper athmete wieder; nein, ſie konnte ſich<lb/>nicht von ihm trennen.<lb/>
+            </p>
+            <p> <lb/>„Vetter,“ redete Lisbeth den alten Witte an,<lb/>„ich habe da meinen Studenten weggejagt. Wie<lb/>man redet, hat Euer Jan Sinn an den Büchern<lb/>und iſt gehorſam alle Wege — wenn Ihr mir den<lb/>Johannes zum Studiren gebt, ſo kaufe ich Euch<lb/>Eure Wieſe vom Nachbar zurück. Ihr habt mich<lb/>nie um was gebeten, ſo will ich ſehen, ob ſo<lb/>ſtille Leute meine Gutheit beſſer ertragen als die<lb/>Anderen, die nie genug bekommen — Casper, Du<lb/>kannſt jetzt gehen!“<lb/>
+            </p>
+            <p> <lb/>Vater Witte nahm dieſe Einmiſchung in ſeine<lb/>Familienangelegenheiten in keineswegs roſiger<lb/>Laune auf; im Gegentheil kanzelte er die Wohl-<lb/>thäterin tüchtig ab, indeß dieſe mit eingeſtemmten<lb/>Armen gemüthlich zuhörte und, als er ſchwieg,<lb/>nur entgegnete: „Den zweiten Schnitt könntet Ihr<lb/>ſchon dieſes Jahr haben, Vetter!“<lb/>
+            </p>
+            <p> <lb/>Dieſer Vorſtellung widerſtand der alte Hypo-<lb/>chonder nicht — <hi rendition="#g">den zweiten Schnitt</hi> von<lb/>
+               <hi rendition="#g">ſeiner einſtigen Wieſe</hi>! — für den Preis<lb/>
+               <pb facs="#0145" n="131" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=145"/>war ſelbſt ein Witte käuflich, wenn auch nicht<lb/>
+               <hi rendition="#g">dankbar</hi>. Er knurrte zornig: „Auch dahin<lb/>bringt mich der verfluchte Nachbar, daß ich Al-<lb/>moſen annehmen muß!“<lb/>
+            </p>
+            <p> <lb/>Der Nachbar war einmal Witte's Sündenbock<lb/>und Blitzableiter, natürlich wurde auch jetzt das<lb/>beginnende Studententhum auf das Kerbholz des<lb/>Nachbars verzeichnet. Marianne Witte weinte an<lb/>dieſem Tage eine Freudenthräne. „Vater hat<lb/>Recht,“ flüſterte ſie ihrem Knaben in der Ecke des<lb/>Viehſtalles zu, „wir Alten werden jetzt ganz an<lb/>den Bettelſtab kommen, aber ich bringe dieſes<lb/>Opfer mit Freuden, ich trage ja um Gottes- und<lb/>Deinetwillen, was da kommt; er, Du weißt es,<lb/>wäre ja doch nie zufrieden, ob Du nun bleibſt<lb/>oder gehſt — halt nun feſt, Johannes, halt feſt!<lb/>Ich habe kein anderes Wort für Dich, ſo lange<lb/>mein Athem geht und aus dem Grabe heraus!“<lb/>
+            </p>
+            <p> <lb/>Das war des Sohnes Prieſterweihe, und als<lb/>er ſie hinaustrug in den mondenlicht-erfüllten<lb/>Garten, da ſchlüpfte eine behende kleine Geſtalt<lb/>durch die Hecke, zwei warme pulſirende Händchen<lb/>griffen nach den ſeinigen und Grethe's Stimme<lb/>lispelte:<lb/>
+            </p>
+            <p> <lb/>„Du wirſt nun Alltags im Sonntagsrocke<lb/>
+               <pb facs="#0146" n="132" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=146"/>gehen und nicht mehr arbeiten und klug und ge-<lb/>lernt werden — aber ſie ſollen Deine gelben<lb/>Haare nicht abſcheeren — <hi rendition="#g">denn Du gehörſt</hi>
+               <lb/>
+               <hi rendition="#g">mir</hi>!“<lb/>
+            </p>
+            <p> <lb/>Ehe noch eine Antwort erfolgen konnte, war<lb/>ſie fort, und der Sohn floh wie entſetzt zur<lb/>Mutter, um ſich an dem Blick ihrer armen trüben<lb/>Augen gleichſam zu reinigen von dem, was im<lb/>Mondſchein über ihn gekommen war. Gab es<lb/>denn keine Schranken für dieſes Mädchen?<lb/>
+            </p>
+            <p> <lb/>Als Johannes Witte das katholiſche Gymna-<lb/>ſium der Provinz bezog, ſaßen in ſeinem Heimath-<lb/>dorfe drei Frauen gleich den drei Parzen und<lb/>ſpannen an ſeinem Schickſal. Lisbeth-Möke hatte<lb/>von ihrem neuen Schützling allbereits eine Menge<lb/>Legenden erlernt und wünſchte oft <hi rendition="#aq">anno domini</hi>
+               <lb/>geboren zu ſein, wo, wie ſie jetzt erfuhr, alle<lb/>lieben Heiligen lebten; aber <hi rendition="#aq">anno domini</hi> war<lb/>jetzt wohl ſchon ſeit vielen hundert Jahren<lb/>vorüber!<lb/>
+            </p>
+            <p> <lb/>Indem Johannes mit unermüdlicher Ausdauer<lb/>aus den niederen Klaſſen des Gymnaſiums ſich<lb/>in die höheren hinaufarbeitete, reckte und dehnte<lb/>ſich unvermerkt auch ſein Körper, bis über ſechs Fuß<lb/>und zwei Zoll hinaus. Kraft, Geſundheit und eine<lb/>
+               <pb facs="#0147" n="133" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=147"/>freie, ſchuldloſe Seele leuchteten aus ſeinen Zügen,<lb/>ſeine friſchen Farben und die ſtets ausgewachſenen<lb/>Röcke ließen ihn jünger erſcheinen als er es, reif<lb/>für die Univerſität und die meiſten Männer an<lb/>Länge überragend, ſein konnte.<lb/>
+            </p>
+            <p> <lb/>Seine drei irdiſchen Schutzpatroninnen waren<lb/>voll Bewunderung ihres Johannes — es fiel<lb/>Niemandem ein, ihn noch Jan zu nennen —;<lb/>mit ſeinem himmliſchen Schutzpatron war aber<lb/>unſer Student noch immer nicht recht im Klaren.<lb/>In ſeiner Schülerwohnung, dem engen und un-<lb/>freundlichen Hauſe eines Schuſters voll Leder-<lb/>geruch und rauchenden Kaminen, umſchwebte ihn<lb/>der aſcetiſche Täufer aus der Wüſte; aber daheim,<lb/>im grünen Dorfe, ſeiner Mutter, der Lisbeth-<lb/>Möke und der großgewachſenen, roſigen Grethe<lb/>gegenüber, da fühlte er wie der Jünger, dem<lb/>die ſchmerzensreiche Mutter mit dem Schwerte im<lb/>Herzen in die Arme gelegt wurde. Wie verſtand<lb/>er ſeine beiden Mütter, Marianne und Lisbeth,<lb/>ſo gut! Wie ſtill und demüthig wurden dieſe<lb/>Matronen bei ſeinen lehrreichen Erzählungen!<lb/>Sie fühlten ſich vor ihm wie in der Kirche —<lb/>aber Grethe, nein, Grethe verſtand er nicht; vor<lb/>ihr war er linkiſch und ſeine Röcke ſchienen<lb/>
+               <pb facs="#0148" n="134" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=148"/>ihm plötzlich noch enger als eben zuvor. Grethe<lb/>war eine tüchtige, unerbittliche Haushälterin ge-<lb/>worden, ſogar ihre Eltern fürchteten ſich vor ihr<lb/>und arbeiteten gekrümmt und hinfällig um ſie<lb/>herum. Unterdrückte Alte ſehen ſo leicht hin-<lb/>fällig aus. Grethe wollte und that immer das<lb/>Rechte. Alles leuchtete an ihr, die Haare, die<lb/>Kleidung und ihre Handlungen; man ſagte, ſie<lb/>wäre „kreck“, was ſoviel heißt wie: immer am<lb/>Fleck! — Sie wußte, daß ihr Niemand einen<lb/>Vorwurf machen konnte. Am wenigſten Johannes,<lb/>den ſie, wenn die Ferien zu Ende waren, mit<lb/>ſelbſtgebackenen Roggenzwiebäcken, einer großen,<lb/>in Kohlblättern verwahrten Butter, einem Körbchen<lb/>Eier rc. verſah; ſie wetteiferte in ſeiner Ver-<lb/>proviantirung mit Lisbeth-Möke, ſo daß er dahin-<lb/>ging wie ein terminirender Bettelmönch und die<lb/>Schuſterfamilie in den ländlichen Reichthümern<lb/>ſchwelgte, die ihr Miether heranſchleppte. Ob-<lb/>gleich es Johannes keine Freude machte, daß die<lb/>Erbfeindin ſeines Hauſes für ihn ſorgte, als ob<lb/>es ſich von ſelbſt verſtände, ſo hat ein Bettel-<lb/>ſtudent nicht eben Urſache wähleriſch zu ſein; und<lb/>hübſch und verſtändig war Grethe doch, wenn ſie<lb/>auch keinen Werth auf die Legenden legte, weil<lb/>
+               <pb facs="#0149" n="135" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=149"/>es unnütz ſei, dieſe Sachen zu wiſſen. Es fiel<lb/>Johannes nicht ein, daß irgend ein Sterblicher<lb/>noch daran zweifeln könne, er werde Prieſter; aber<lb/>in Grethe's ſicherblickenden, klaren, blauen Augen<lb/>— da ſtand es doch: Du gehörſt mir! wenn<lb/>er es auch ganz anders las, als es da ſtand.<lb/>Grethe's Neigung zu ihrem einſtigen Spielgefähr-<lb/>ten war zur Leidenſchaft herangewachſen; zu jener<lb/>Leidenſchaft, die mit allen Kräften ein und das-<lb/>ſelbe Ziel verfolgt, kalt, ruhig, unbeirrt, der<lb/>ganzen Welt gegenüber, wenn es ſein muß, er-<lb/>barmungslos, aber um das Eine entſchloſſener<lb/>kämpfend, wie um das Leben. Grethe hatte ſich<lb/>keine Rechenſchaft darüber gegeben, daß ſie den<lb/>Altar eines Prieſters berauben wollte, daß ſie<lb/>ein Herz an ſich zu reißen ſtrebte, welches dem<lb/>ihrigen keineswegs entgegenſchlug — ſie <hi rendition="#g">fühlte</hi>
+               <lb/>ſich in ihrer Energie, in ihrer eigenartigen Schön-<lb/>heit, ſie ſtellte ſich keine Frage, ſchwankte vor<lb/>keiner Wahl, ſondern folgte einem übermächtigen<lb/>Drange. Dieſer Drang war aber kein Vorwärts-<lb/>drängen; ſie wartete mit der äußeren Ruhe eines<lb/>geübten Spielers, wann die Karte fallen möchte,<lb/>auf welche ſie ihr ganzes Daſein geſetzt hatte, und<lb/>war ſicher, daß ihre Hand nicht zittern würde,<lb/>
+               <pb facs="#0150" n="136" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=150"/>ſobald es gelte, die Gelegenheit zu erfaſſen.<lb/>Solche Seelenſtärke iſt einer Judith, einer Char-<lb/>lotte Corday würdig, wo ſie einem <hi rendition="#g">höheren</hi> Im-<lb/>pulſe folgt; Grethe aber wartete nur gleich<lb/>
+               <hi rendition="#g">Delila</hi>, wann die Samſonslocke zu erfaſſen ſei.<lb/>
+            </p>
+            <p> <lb/>Bald nach Johannes' Abgang zur Univerſität<lb/>bekam Lisbeth-Möke einen Schlaganfall. Sie lebte<lb/>nur noch ein mattes, lallendes, verhauchendes Da-<lb/>ſein. Das Ohr und Auge der Liebe hätten ſie<lb/>verſtanden; aber Johannes war fern und ſie war<lb/>kinderlos. Grethe vernahm den Unfall der reichen<lb/>Bäuerin an einem ſtürmiſchen Februarabend, der<lb/>Wind heulte und trieb ſchwere, naſſe Schneemaſſen<lb/>vor ſich her, aber das ſchöne, goldhaarige Mäd-<lb/>chen empfand die Kälte nicht, in ihrer Bruſt ſchlug<lb/>es wie mit heller Lohe empor, <hi rendition="#g">jetzt, jetzt</hi> galt<lb/>es zu handeln, <hi rendition="#g">jetzt</hi> mußte die Brücke vor Jo-<lb/>hannes abgebrochen werden, die ihn zu jenem<lb/>Beruf führte, der trennender als der Tod zwiſchen<lb/>den Nachbarskindern ſtehen ſollte — der Student<lb/>mußte <hi rendition="#g">enterbt</hi> und ſo hülfsbedürftig werden,<lb/>daß Grethe's Hand ſeine letzte, liebevolle Rettung<lb/>ſein konnte.<lb/>
+            </p>
+            <p> <lb/>Das Mädchen baute ſeinen Plan auf die ſeit<lb/>Casperchen's Verſtoßung beſtehende Feindſchaft<lb/>
+               <pb facs="#0151" n="137" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=151"/>der Dormanns gegen Lisbeth-Möke und deren<lb/>Schützling Johannes; zugleich war der jetzt zum<lb/>Manne erwachſene Casper nächſter Erbe der ſter-<lb/>benden Frau — dieſe Thatſachen mußten benutzt<lb/>werden, um jenes etwa ſchon feſtgeſtellte Ver-<lb/>mächtniß für Johannes Witte womöglich umzu-<lb/>ſtoßen, oder, was allerdings leicht war, zu ver-<lb/>hindern, daß die Erblaſſerin noch eine Beſtimmung<lb/>zu Gunſten ihres Pflegeſohnes treffe. Mit dieſen<lb/>Plänen, Gedanken und Erwägungen im Kopfe<lb/>kämpfte Grethe ſich durch den Sturm jener ver-<lb/>hängnißvollen Nacht, um den Dormanns <hi rendition="#g">ſelbſt</hi>
+               <lb/>die Kunde zu bringen und ſie möglichſt bald an<lb/>Lisbeth's Sterbelager zu rufen. Die Beſchwerden<lb/>und Gefahren des Weges waren nicht geringe und<lb/>der Fußpfad zwiſchen den überſchwemmten Marſch-<lb/>flächen zu beiden Seiten kaum erkennbar, ſchmal<lb/>und von Waſſer durchweicht; aber Grethe ſchritt<lb/>weiter, ohne ſich eine Secunde zu beſinnen, ſie<lb/>konnte Alles gewinnen und Nichts verlieren —<lb/>als das Leben !<lb/>
+            </p>
+            <p> <lb/>Die Familie Dormann, und vor Allem Casper,<lb/>der Vieles vergeſſen, aber auch keine Demuth ge-<lb/>lernt hatte, erblickten natürlich eine Abſicht in<lb/>Grethe's opferwilligem Thun, jedoch keineswegs<lb/>
+               <pb facs="#0152" n="138" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=152"/>den <hi rendition="#g">wahren</hi> Beweggrund, ein Irrthum, in wel-<lb/>chem man beſtärkt wurde, als das muthige Mäd-<lb/>chen erklärte, ſie habe keine Stunde verlieren<lb/>wollen, aus Furcht, daß die todkranke Lisbeth von<lb/>allerhand Unberufenen zu Schenkungen und Ver-<lb/>mächtniſſen beredet werde, die Casper's Erbtheil<lb/>ſchmälerten und ihn, dem ſchon ſo viel Unrecht<lb/>gethan ſei, nun auch noch ſeines rechtmäßigen Be-<lb/>ſitzes beraube. Grethe war nicht gerade geſprächig,<lb/>aber ihre wenigen Worte wirkten überzeugend auf<lb/>die Dormanns; ſie fanden, daß ſie ihr Recht, das<lb/>ja auch ſo ſehr ihr Vortheil war, bis auf's Aeußerſte<lb/>vertheidigen müßten, und beeilten ſich mit möglichſter<lb/>Schnelle zu der Sterbenden zu gelangen. Lisbeth-<lb/>Möke lag in der Kammer, was aber in der Küche<lb/>vorfiel, beſchäftigte die Leidtragenden weit mehr.<lb/>Da ſaß der Schulmeiſter, die Kneifbrille auf der<lb/>Naſe, und ſchnörkelte und malte allerhand auf<lb/>einen weißen Bogen. Nur dann und wann ſtarrte<lb/>er ein kleines Blättchen an, auf welchem in etwas<lb/>ſchwerfälliger Schrift die Worte ſtanden: „Der<lb/>Student Johannes Witte ſoll erben 1000 Gulden!“<lb/>
+            </p>
+            <p> <lb/>„Nun ſieh’ nur,“ ſagte der Schulmonarch ver-<lb/>drießlich, „das hat die alte Perſon, Gott gebe ihr<lb/>ein ſanftes Ende! aufgeſchrieben; auf ſolch ſimples<lb/>
+               <pb facs="#0153" n="139" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=153"/>Bauerngeſage läßt ſich aber kein Gericht ein, da<lb/>müſſen eine hohe Obrigkeit und ein Endesunter-<lb/>zeichneter und ein: ſchreibe tauſend Florin! und<lb/>eine Menge Umſtände dabei ſein. Ich ſchreibe ſeit<lb/>einer Stunde mit trockenem Munde, und da ſitzt<lb/>der Bote, den die Alte mit dem Papier auf's Amt<lb/>ſchicken will, und ſie meint, das geht nur ſo im<lb/>Handumdrehen!“<lb/>
+            </p>
+            <p> <lb/>Grethe hatte zwar kein Verſtändniß für ge-<lb/>richtliche Formalitäten, aber ihr natürlicher Scharf-<lb/>ſinn ſagte ihr doch, die unbehülflichen Schriftzüge<lb/>der Bäuerin möchten immerhin einiges Gewicht<lb/>haben; ſie ſprach alſo: „Wartet nur, Magiſter,<lb/>Ihr ſollt gleich eine Taſſe Kaffee bekommen,“<lb/>ſtellte Haidſoden um das Feuer und entzündete<lb/>dieſelben mit jenem Blättchen, das dem Schrei-<lb/>benden zu ſimpel ſchien.<lb/>
+            </p>
+            <p> <lb/>Jetzt war allerdings der Schrecken des Schul-<lb/>monarchen groß, da ſich Grethe mit ſeiner eigenen<lb/>Ausſage entſchuldigen konnte; nach vielen Hin-<lb/>und Herreden mußte er noch zufrieden ſein, als<lb/>ſich das Mädchen erbot, über das Geſchehene zu<lb/>ſchweigen und man, geſtützt auf die Unzurechnungs-<lb/>fähigkeit der Kranken, beſchloß, auch die Reinſchrift,<lb/>die auf nichts Bindendes geſtützt war, zu vernichten<lb/>
+               <pb facs="#0154" n="140" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=154"/>und das ganze Legat todtzuſchweigen. Auch die<lb/>Dormanns hielten dieſen Weg für den beſten, be-<lb/>ſchenkten den Schulmeiſter mit einem Goldſtück,<lb/>und alle Betheiligten waren überzeugt, ſehr klug<lb/>gehandelt zu haben.<lb/>
+            </p>
+            <p> <lb/>Wenige Tage ſpäter erhielt Johannes folgenden<lb/>Brief von Grethe: „Du mußt nun zurückkommen,<lb/>Lisbeth-Möke iſt todt und hat Alles an Casper<lb/>Dormann hinterlaſſen; aber fürchte Dich nicht vor<lb/>der Arbeit, ich werde eben ſo gut für Dich ſorgen<lb/>als die Verſtorbene, ich weiß wohl, daß Du jetzt<lb/>viel mehr biſt als die Bauern. Deine Mutter iſt<lb/>recht ſchwach. Es ſchreibt Dir dies<lb/>Margarethe Dierkſen.“<lb/>
+            </p>
+            <p> <lb/>Das war ein Brief wie ein Beilhammer; an<lb/>der einen Seite wuchtig niederſchmetternd, an der<lb/>andern ſcharf ſchneidend. Johannes hatte wohl<lb/>noch einige zwanzig holländiſche Gulden, er hätte<lb/>es abwarten können, wo die Hülfe käme; aber er<lb/>wollte es nicht, er mußte zeigen, daß es nicht Ar-<lb/>beitsſcheu und Hochmuth ſeien, die ihn von den<lb/>Eltern hinweg riefen, Gott rief ihn zu der<lb/>ſchwachen, geduldigen Mutter, und er ſchnürte ſein<lb/>Bündel — und ging, nein <hi rendition="#g">eilte</hi>! heim. Als er<lb/>ſpät Abends ankam, legte er das Geld vor den<lb/>
+               <pb facs="#0155" n="141" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=155"/>Vater, der grollend am Torffeuer ſaß, und trug<lb/>einen Packen Vorräthe und ſein ganzes aufſchluch-<lb/>zendes Herz an das Krankenbett ſeiner Mutter,<lb/>indem er betheuerte: „Mutter, ich verlaſſe Euch<lb/>nun nicht wieder!“ Die Mutter betete und dankte<lb/>Gott, ſie würde es für Sünde angeſehen haben,<lb/>den geliebten Sohn um ihrethalben zu ſich zurück-<lb/>zurufen; nun war er da, was ihre Augen nicht<lb/>mehr ſehen konnten, das ertaſteten ihre mageren,<lb/>zitternden Finger, und ihre feinen ängſtlichen Lip-<lb/>pen murmelten: „Gott ſei Dank, Du biſt da!“<lb/>ſo unermüdlich, als betete ſie den Roſenkranz.<lb/>
+            </p>
+            <p> <lb/>Vater Witte hatte all' die Jahre gezürnt, daß<lb/>er allein die ſaure Müh’ und Arbeit trage, indeß<lb/>ſein Sohn ſich's wohl ſein ließe. Jetzt aber klagte<lb/>er das Schickſal der Grauſamkeit gegen ſein ganzes<lb/>Geſchlecht an, weil nun all' das Mühen und Hoffen<lb/>ſeines Sohnes ebenſo verloren ſei, wie das Mühen<lb/>und Hoffen aller ſeiner Vorfahren, bis auf ihn.<lb/>
+            </p>
+            <p> <lb/>Nächſten Tag lief die Kunde durch’s Dorf,<lb/>Wittens Student ſtehe mit Holzſchuhen und in<lb/>Hemdsärmeln auf dem Felde und grabe! Alte<lb/>Leute unterbrachen den gemeſſenen Gang ihrer<lb/>Arbeit, um ihm die Hand zu ſchütteln, und hinter<lb/>der Hecke ſtand, leuchtenden Auges, Grethe, und<lb/>
+               <pb facs="#0156" n="142" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=156"/>jetzt ſagten es auch ihre rothen, blühenden Lippen:<lb/>„Er gehört mir!“<lb/>
+            </p>
+            <p> <lb/>Die alte Marianne meinte zwar bei der Rück-<lb/>kehr ihres Sohnes, ſie würde vor Freuden ſterben;<lb/>aber ſo gut wurde es ihr nicht, ſie lebte noch<lb/>weiter, um dem Liebling zu geſtehen, daß ihr klei-<lb/>nes Beſitzthum ganz und gar verſchuldet ſei und<lb/>daß nur Mitleid die beiden Greiſe noch unter dem<lb/>ererbten Dache dulde; nachdem die Freude ſie er-<lb/>füllt hatte, machte ſich dann die treueſte Mutter<lb/>auch wieder Vorwürfe, daß ſie eines Ereigniſſes<lb/>froh geworden wäre, welches ihn aus ſeinem ge-<lb/>liebten und erwählten Beruf drängte!<lb/>
+            </p>
+            <p> <lb/>Alle dieſe Gedanken ſtimmten ſie aufgeregt und<lb/>fieberhaft, der Arzt beſtätigte, was der Sohn ſich<lb/>ſelbſt ſagen mußte: „Arbeit, Sorge und Entbeh-<lb/>rung haben ſie zerbrochen, ſie wird leben, ſo lange<lb/>man ſie zu ſtärken vermag!“ Johannes verſuchte<lb/>es, er kochte, wachte und betete für ſie, aber die<lb/>Sorge konnte er ihr nicht nehmen. — Während<lb/>Johannes von früh bis ſpät arbeitete, um die<lb/>Noth und — die Gedanken zu verſcheuchen, ſpa-<lb/>zierte der jugendliche Casper mit einer unglaub-<lb/>lich langen Pfeife im ſchönen Mittagsſonnenſchein<lb/>durch's Dorf. Die lange Pfeife ſagte nämlich,<lb/>
+               <pb facs="#0157" n="143" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=157"/>wie die langen Nägel der Chineſen: „Wir brauchen<lb/>nicht zu arbeiten!“ Casper triumphirte bis in die<lb/>letzte Fiber ſeines Herzens hinein über die todte<lb/>Tante, ſchließlich hatte er's ihr doch abgewonnen,<lb/>und das war ihre gerechte Strafe; nun wollte er<lb/>ſich auch nie im Leben mehr um etwas mühen.<lb/>Pfui — arbeiten!<lb/>
+            </p>
+            <p> <lb/>Als er am Ende des Dorfes vor dem Schlag-<lb/>baum ſtehen blieb und in Gottes weiter Welt nicht<lb/>wußte, was er jetzt anfangen ſolle, da kam Grethe<lb/>daher; ſie trug die Geräthe, in welchen ſie den<lb/>Dienſtleuten das Mittagsbrod auf's Feld gebracht<lb/>hatte. Dieſe Labe in der Hand der jungen Ge-<lb/>bieterin war indeß den Arbeitern kein ungetrübter<lb/>Genuß; gewöhnlich hatte ihr ſcharfer Blick irgend<lb/>etwas entdeckt, das ſie, als Tafelunterhaltung, ſcharf<lb/>rügte. Wie alle ſtrengen Herren hatte ſie neben-<lb/>bei immer vollauf Grund, ihrer Umgebung zu miß-<lb/>trauen; es lag zu viel Genugthuung darin, die<lb/>Tadelbereite zu hintergehen.<lb/>
+            </p>
+            <p> <lb/>Casper, der Exgymnaſiaſt, war ſeit der Erb-<lb/>ſchaftsgeſchichte überzeugt, Grethe habe ein beſon-<lb/>ders warmes Intereſſe für ihn; eine Ueberzeugung,<lb/>die ihm allemal wunderleicht einging. „So, ſo,<lb/>Etchen!“ rief er, „Du kommſt eben recht; mir<lb/>
+               <pb facs="#0158" n="144" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=158"/>wurde Zeit und Weile lang, durch den Schlag-<lb/>baum laſſe ich Dich aber nicht ohne Weggeld —<lb/>Blixum, Du biſt ein hübſches Mädchen!“<lb/>
+            </p>
+            <p> <lb/>Es drängten ſich einige raſche Worte nicht eben<lb/>freundlicher Art auf ihre Lippen, aber ſie ſchluckte<lb/>dieſelben wieder hinunter und erwiderte ſauerſüß:<lb/>„Schämſt Du Dich etwa nicht, noch Geld von uns<lb/>armen Brinkſitzern zu fordern, Du, der nicht weiß,<lb/>wo ſein Reichthum zu Ende iſt?“<lb/>
+            </p>
+            <p> <lb/>„So meine ich's nicht,“ ſchmunzelte Casper über-<lb/>legen, „ich wollte nur ſagen —!“<lb/>
+            </p>
+            <p> <lb/>„Und ich,“ unterbrach Grethe und ſtieß den<lb/>Schlagbaum unſanft auf, „ich flöte in Dein<lb/>Sagen; wenn Du was könnteſt, ſo hätteſt Du<lb/>Johannes Witte wohl einmal dieſe Zeit her ge-<lb/>fragt, weshalb er denn dazumal ſich in Deine<lb/>Stelle geſetzt hat? Aber Du fürchteſt Dich vor<lb/>ihm, weil er ſtark iſt und alle Sprachen der Welt<lb/>aus den Büchern gelernt hat!“<lb/>
+            </p>
+            <p> <lb/>„O — ich mich fürchten? Bilde Dir das nicht<lb/>ein, gar nicht; aber weißt Du, alle Leute halten<lb/>mit ihm und ich käme in eine Teufelswirthſchaft!“<lb/>
+            </p>
+            <p> <lb/>„Wenn <hi rendition="#g">ich</hi> Du wäre, mein Junge, ich ließe<lb/>das doch nicht auf mir ſitzen!“<lb/>
+            </p>
+            <p> <lb/>„Oho — er hat Schaden genug und muß ar-<lb/>
+               <pb facs="#0159" n="145" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=159"/>beiten wie ein Pferd, damit bin ich zufrieden;<lb/>ich danke, mir die Knochen von ihm zerſchlagen<lb/>zu laſſen!“ -<lb/>
+            </p>
+            <p> <lb/>„Nun ja, dann geh' weiter. — Guten Tag auch!“<lb/>
+            </p>
+            <p> <lb/>„Aber Du weißt, daß man Demjenigen, der<lb/>das Hecke (Schlagbaum) aufmacht, einen Lohn giebt,<lb/>ich will keinen Deut, aber ich verlange <hi rendition="#g">münd</hi>-<lb/>
+               <hi rendition="#g">liche</hi> Bezahlung —!“ mahnte Casper und näherte<lb/>ſich ihr, die ſich raſch an ihm vorüberdrängte.<lb/>
+            </p>
+            <p> <lb/>„Dir kann man ja, wie ich ſoeben vernehme,<lb/>was man will ſchuldig bleiben!“ Grethe lachte,<lb/>ſie that das ſelten, es klang dies Lachen nicht gut.<lb/>
+            </p>
+            <p> <lb/>„Und was würdeſt Du thun?“ fragte der reiche<lb/>Jüngling erregt und faßte ſie am Zipfel des blau-<lb/>leinenen Fürtuchs.<lb/>
+            </p>
+            <p> <lb/>„Laß mich — was ſcheert's die Grethe, ob Du<lb/>jene paar hundert Gulden, welche die Wittes dem<lb/>Bauer Almann ſchulden, abbezahlſt oder läßt es<lb/>bleiben, Almann mahnt ſie noch in zehn Jahren<lb/>nicht!“<lb/>
+            </p>
+            <p> <lb/>„Ich ſoll die paar hundert Gulden bezahlen,<lb/>
+               <hi rendition="#g">ich</hi>?“ ſtaunte Casper, der keinen Begriff von edler<lb/>Rache hatte.<lb/>
+            </p>
+            <p> <lb/>„Freilich, Du wirſt kein ſolcher Narr wie Al-<lb/>
+               <pb facs="#0160"/>146<lb/>mann ſein; dann heißt's: Bezahlt, oder aus dem<lb/>Neſte mit Euch!“<lb/>
+            </p>
+            <p> <lb/>„Ja ſo!“ meinte Casper und ließ die Schürze<lb/>fahren, worauf Grethe lachend von dannen ſchritt.<lb/>Wenn es bitter klang, ſo ward es auch von einer<lb/>bittern Ueberzeugung hervorgerufen: der Gewiß-<lb/>heit, daß ſie Johannes vom Studium geriſſen und<lb/>an die Arbeit gebannt habe, aber nicht an ſich,<lb/>
+               <hi rendition="#g">nicht an ſich</hi>! Er arbeitete wie ein Eremit für<lb/>ſeine zerfallende Hütte, wie ein barmherziger Bru-<lb/>der für ſeine Kranken, aber nicht wie Einer der<lb/>ernten, der fröhlich leben will! Die Entſagung<lb/>ſchafft anders als die Hoffnung. Grethe würde<lb/>das nicht verſtanden haben, aber ſie liebte ihn.<lb/>Seine Mutter ſuchte Johannes zu täuſchen, aber<lb/>ſie wußte Alles und ſagte freundlich: „Wenn ich<lb/>erſt fort bin, da könnt Ihr Euch neue Ueberlegungen<lb/>machen und es wird beſſer gehen!“ Sie fühlte,<lb/>
+               <hi rendition="#g">nicht</hi> die Verhältniſſe feſſelten ihn unter dieſes<lb/>Dach der Noth, ſondern die Kindesliebe, die Liebe<lb/>zur Mutter! Der Vater förderte des Sohnes<lb/>Arbeit nicht, er hemmte ihn nur; denn es kam<lb/>weniger darauf an, daß die Arbeit geſchehe, als<lb/>daß ſie genau nach <hi rendition="#g">ſeinen Anordnungen</hi> aus-<lb/>geführt werde! Dieſer Arbeitseigenſinn war es<lb/>
+               <pb facs="#0161" n="147" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=161"/>auch, der Witte ſo ſehr zurückgebracht hatte. Es<lb/>war eine trübſelige Wirthſchaft. Johannes fragte<lb/>ſich mitunter, ob die Prüfung nicht ſelbſt für<lb/>
+               <hi rendition="#g">ſeinen</hi> eiſernen Willen zu ſchwer ſei? — Die<lb/>friedlichſten Tage für ihn waren noch die, wo er<lb/>in's Moor hinausging zum Torfgraben; er war<lb/>dann wenigſtens allein mit dem graublauen Him-<lb/>melsgewölbe über ſich und hätte ſeufzen dürfen,<lb/>wenn die Seelenfolter zu ſcharf angezogen wäre!<lb/>Er hieb in den zähen, freudloſen, ſchlammigen<lb/>Erdboden, daß es wie ein Aechzen durch ſeinen<lb/>jungen, mit angeſtrengteſter Kraft arbeitenden Kör-<lb/>per bis tief in das ſchwarze Gefaſer unter ſeinen<lb/>Sohlen hinunter dröhnte. Dort, wo der Spaten<lb/>ein tauſendjähriges, lichtloſes Wachsthum zerriß,<lb/>erſeufzte es; aber Johannes hatte ein Gelübde<lb/>gethan, nicht zu ſeufzen. Die ſchwere Arbeit hält<lb/>den ſchweren Sorgen gleichſam das Gleichgewicht;<lb/>aber die Wagſchale mit den Sorgen ſoll noch tiefer<lb/>ſinken.<lb/>
+            </p>
+            <p> <lb/>Eines Tages trat der Vater an die Moorkuhle<lb/>und ſagte dem erſchrockenen Sohne: „Laß das nur,<lb/>Jan, es lohnt ſich nicht Dir die Knochen zu zer-<lb/>arbeiten; in vier Wochen werden wir aus dem<lb/>Hauſe geſetzt!“<lb/>
+               <pb facs="#0162" n="148" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=162"/>Johannes ſah das leere Lächeln um den Mund<lb/>des Alten. „Herr Gott, er hat den Verſtand ver-<lb/>loren!“ durchzuckte es ihn wie ein Blitzſtrahl.<lb/>Aber bald erklärte ſich Alles; Casper hatte die<lb/>Schuld an ſich gebracht und den alten Witte drin-<lb/>gend gemahnt. Wäre der Vater irrſinnig gewor-<lb/>den, der Staat hätte für ihn geſorgt; aber was<lb/>wartete des Verarmten und ſeines todkranken<lb/>Weibes? Johannes warf ſich auf die braune,<lb/>blüthenloſe Torfdecke und ſchrie zu Gott in ſeiner<lb/>Seelenangſt! Was ihn ſelbſt betraf, das kümmerte<lb/>ihn in dieſer Stunde nicht, ſelbſt ſein leuchtender<lb/>Beruf ward nur wie ein Nebelbild neben den<lb/>grauen, geliebten Häuptern, die jetzt auf Stroh<lb/>im Armenhauſe — ach, es war nur eine zerfallene<lb/>Hütte! — liegen ſollten. Wer trug die Schuld?<lb/>
+               <hi rendition="#g">Er</hi>, er ſelbſt! Wäre er daheim geblieben und<lb/>hätte gearbeitet, es ſtände anders um Haus und<lb/>Hof! Plötzlich kam dem Unglücklichen ein neuer<lb/>Gedanke: „Vater, habt Ihr es Mutter geſagt?“<lb/>
+            </p>
+            <p> <lb/>„Nun natürlich, ſie kann es am beſten ertra-<lb/>gen, ſie ſtirbt doch bald, aber ich — —“<lb/>
+            </p>
+            <p> <lb/>Johannes war ſchon fort, er jagte dahin wie<lb/>ein Gehetzter; ihm war als hinge das Leben ſeiner<lb/>Mutter an jeder Minute, die ſie in ihrer jammer-<lb/>
+               <pb facs="#0163" n="149" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=163"/>vollen Verlaſſenheit hinbringe. Aber die Gute,<lb/>Geduldige lag da wie am Morgen, ſtill und er-<lb/>geben; als ſie die keuchenden Athemzüge ihres<lb/>Sohnes vernahm, da ſprach ſie: „Der alte Gott<lb/>lebt noch, Johannes, und wenn es denn doch ſo<lb/>kommen muß, ſo ſind wir Alten ja des Leidens<lb/>lange gewöhnt, Ihr Jungen müßt das noch lernen!“<lb/>
+            </p>
+            <p> <lb/>Johannes redete über die Angelegenheit ſeiner<lb/>Eltern mit mehreren Bekannten, denen er ver-<lb/>traute; ſie zuckten die Achſeln und beſtätigten, vom<lb/>jungen Casper-Bauer ſei nichts Erſprießliches zu<lb/>hoffen — ſie ſelbſt wollten zwar herzlich gern hel-<lb/>fen, konnten aber nicht! — Das waren die alten<lb/>Redensarten, die unter dem Strohdach wie im<lb/>Palaſte leere Worte geben, wo nur die That ret-<lb/>ten kann.<lb/>
+            </p>
+            <p> <lb/>Vater und Sohn gingen nächſten Tags doch<lb/>wieder an die Arbeit, ohne zu wiſſen für wen ſie<lb/>ſich mühten. Wenn es Tauſende giebt, die ſich<lb/>nie fragen, weshalb ſie auf dieſer Erde wandeln,<lb/>ſo giebt es dagegen Millionen, die ſich dem <hi rendition="#g">Nu</hi>-<lb/>
+               <hi rendition="#g">tzen</hi> ſo unterthan fühlen, daß ſie ſchaffen um der<lb/>allgemeinen Ordnung willen, aus Gewohnheit.<lb/>Der alte Witte war beinah' heiter in dem Bewußt-<lb/>ſein, daß nun das längſt vorausgeſagte Letzte,<lb/>
+               <pb facs="#0164" n="150" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=164"/>Schlimmſte hereinbreche; aber Johannes trug an<lb/>dieſer Schickung wie an einem Bannſtrahl, der<lb/>die Seinen traf, weil ihr unwürdiger Sohn nach<lb/>dem Höchſtgeweihten getrachtet hatte.<lb/>
+            </p>
+            <p> <lb/>Schon in nächſter Woche wurde freilich Alles<lb/>anders.<lb/>
+            </p>
+            <p> <lb/>In der Nacht, als die Kranke wieder lange<lb/>und ſchmerzvoll gehuſtet hatte, ſetzte ſich Johannes<lb/>auf den Rand der tiefen Wandbettſtelle und be-<lb/>gann flüſternd: „Mutter, ich wollte Euch noch<lb/>ſagen, daß ich hoffe, unſere Sorgen ſollen bald<lb/>vorüber ſein. Da es nun doch mit dem Studiren<lb/>für mich aus iſt, ſo dünkt mich am beſten, ich<lb/>heirathe und werde Bauer!“<lb/>
+            </p>
+            <p> <lb/>Marianne richtete ihre matten Augen auf den<lb/>Sohn, der ſo verwunderlich redete; aber ſelbſt wenn<lb/>dieſe armen Augen hätten ſehen können, war es<lb/>doch viel zu dunkel in der Küche, um in den Mie-<lb/>nen des Heirathsluſtigen Aufklärung zu finden.<lb/>Sie entgegnete nichts und faltete nur die<lb/>Hände.<lb/>
+            </p>
+            <p> <lb/>„Nachbars Grethe würde gut für Euch ſorgen,<lb/>Mutter!“ fügte Johannes unſicher hinzu.<lb/>
+            </p>
+            <p> <lb/>„Kind!“ ſeufzte die Alte. „Du biſt ein<lb/>Bettler!“<lb/>
+               <pb facs="#0165" n="151" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=165"/>„Nachbar Dierkſen kam heute zu mir hinaus<lb/>auf den Acker und bot mir das Mädchen an!“<lb/>
+            </p>
+            <p> <lb/>„Weshalb bot er, unſer Feind, Dir das reiche,<lb/>hübſche Mädchen an?“ fragte Marianne haſtig.<lb/>
+            </p>
+            <p> <lb/>„Weshalb — ? Nun, Mutter, weil — weil er<lb/>dachte, die Grethe gefiele mir und ich traute mich<lb/>nicht, um ſie zu fragen!“<lb/>
+            </p>
+            <p> <lb/>„Ich bin blind — ich bin blind —!“ ſagte<lb/>Marianne, wie zweifelnd. „Die Welt geht ihren<lb/>Lauf!“<lb/>
+            </p>
+            <p> <lb/>„Habt Ihr etwas wider die Grethe, Mutter?“<lb/>
+            </p>
+            <p> <lb/>„Sie hieß die <hi rendition="#g">quade</hi> Grethe!“<lb/>
+            </p>
+            <p> <lb/>„Als Kind, Mutter; jetzt iſt ſie häuslich, ar-<lb/>beitſam und rechtſchaffen!“<lb/>
+            </p>
+            <p> <lb/>„Sie wird für Deinen Vater ſorgen, wenn ich<lb/>fort bin,“ fügte Marianne nachdenklich hinzu;<lb/>nicht allein war das ein Hauptgrund ihrer Zu-<lb/>ſtimmung, ſondern ſie ſtrebte offenbar ſich die<lb/>
+               <hi rendition="#g">guten</hi> Seiten der Heirath klar zu machen.<lb/>Sonderbarer Weiſe dachte Niemand daran, Vater<lb/>Witte könnte Einſpruch gegen die Tochter ſeines<lb/>Feindes erheben; die Betheiligten fühlten zu<lb/>deutlich, daß der Haß des grauen Tollkopfs weniger<lb/>Abneigung als <hi rendition="#g">Neid</hi> war! Im Mitbeſitz der<lb/>nachbarlichen Glücksgüter mußte die langjährige<lb/>
+               <pb facs="#0166" n="152" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=166"/>Feindſeligkeit in ſich ſelbſt zuſammenfallen, die<lb/>das ganze Leben der ſanften Marianne, ſeit ſie<lb/>verheirathet war, verbittert und vergällt hatte!<lb/>O, hätte Vater Witte, der immer über die Un-<lb/>bilden des Schickſals klagte, ſeine eigenen Un-<lb/>gerechtigkeiten überſchauen können — aber er konnte<lb/>es nicht, denn er hielt feſt an der Ueberzeugung,<lb/>daß er ſelbſt immer und überall der unſchuldig<lb/>Gekränkte ſei.<lb/>
+            </p>
+            <p> <lb/>Die Verlobungsangelegenheit ging, Dank der<lb/>umſichtigen Einrichtungen Grethe's, ohne Hinder-<lb/>niß und mit aller bäuerlichen Feierlichkeit ab.<lb/>
+            </p>
+            <p> <lb/>Casper zeigte ſich tief beleidigt und beſtand<lb/>nun aus eigenem Antriebe, dem Antriebe ſich an<lb/>Grethe zu rächen, auf der ſchleunigen Verſteigerung<lb/>der Witte'ſchen Erbſtelle. Wenn Casper auch nicht<lb/>gerade ſehr ſchlau war, ſo ſchärfte doch der Zorn<lb/>gegen das Mädchen, welche ihm, der ihr unzwei-<lb/>deutige Erklärungen gemacht hatte, einen blut-<lb/>armen Pracher, Casper's Gegner, vorgezogen hatte,<lb/>ſeine Verſtandeskräfte und er beſchloß, eine Ver-<lb/>ſteigerungsweiſe anzuwenden, die leider nicht von<lb/>ihm ſelbſt erfunden iſt.<lb/>
+            </p>
+            <p> <lb/>Es mußte Grethen Alles daran liegen, das<lb/>Witte'ſche Erbe, welches ſie noch kaum in Casper's<lb/>
+               <pb facs="#0167" n="153" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=167"/>Hände geſpielt hatte, für ſich und ihre Nachkommen<lb/>zu erhalten. Die Ländereien grenzten überall mit<lb/>den ihrigen, und es wäre eine Schmach geweſen,<lb/>das Stammerbe ihres Ehemanns in fremden Hän-<lb/>den zu laſſen. Von einem Uebereinkommen unter<lb/>der Hand ließ Casper ſchon gar nicht reden, na-<lb/>mentlich da bereits ein paar Advocaten die Naſe<lb/>in dieſe Angelegenheit geſteckt hatten. Der alte<lb/>Querkopf Witte machte eine milde Löſung vollends<lb/>unmöglich; er gedachte den Nachbar Dierkſen mit<lb/>ſich, d. h. mit der Verwandtſchaft eines erklärten<lb/>Bankerotteurs zu ſtrafen; er <hi rendition="#g">wollte</hi> alles Un-<lb/>glück auskoſten, er <hi rendition="#g">wollte</hi>, daß ſeine Habe unter<lb/>den Hammer käme !<lb/>
+            </p>
+            <p> <lb/>Am Morgen des anberaumten Ganttages, als<lb/>die bräutliche Grethe mit ihrem innerlich raiſon-<lb/>nirenden Vater noch einmal die Geldkräfte abwog,<lb/>welche angelegt werden ſollten, da fragte ſie ſich,<lb/>ob denn dieſer letzte, folgenſchwere Schritt noth-<lb/>wendig geweſen wäre, um Johannes an ſich zu<lb/>binden? hätte nicht vielleicht Freundlichkeit daſſelbe<lb/>gethan, wie die Noth, in Folge von Casper's Ein-<lb/>ſchreiten? — „Pah, Freundlichkeit,“ unterbrach ſie<lb/>ſich ſelbſt, „<hi rendition="#g">Nothwendigkeit</hi> bindet, andere<lb/>Dinge ſind eitel Spielwerk!“ — Während der<lb/>
+               <pb facs="#0168" n="154" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=168"/>Verſteigerung wurde dem liebenden Mädchen aber<lb/>klar, was verrathene Liebe aus Casper gemacht<lb/>hatte; ſeine Anhänger boten bis in ſchwindelnde<lb/>Höhe, die Dierkſens mußten zahlen, daß ihnen<lb/>ſchwarz vor den Augen wurde, und dabei entgingen<lb/>ihnen noch gerade die Grundſtücke, die für ſie am<lb/>gelegenſten waren.<lb/>
+            </p>
+            <p> <lb/>„Vater!“ rief am Abend Johannes mit froher<lb/>Stimme, „Vater, wir ſind reich, wir zahlen alle<lb/>unſere Schulden und behalten noch etwas übrig!“<lb/>
+            </p>
+            <p> <lb/>„Ja, den Bettelſtab!“ entgegnete der Vater,<lb/>der um jeden Preis die Tragik retten wollte.<lb/>
+            </p>
+            <p> <lb/>„Und meine kräftigen Arme!“ fügte der Sohn<lb/>verweiſend hinzu.<lb/>
+            </p>
+            <p> <lb/>„Jan, mein Junge,“ flüſterte die Mutter,<lb/>„nimmſt Du <hi rendition="#g">ſie</hi> nun doch noch?“<lb/>
+            </p>
+            <p> <lb/>„Mutter, ſie hat mein Wort, ſie meint es gut<lb/>mit uns und wird Euch rechtſchaffen ehren und<lb/>pflegen!“<lb/>
+            </p>
+            <p> <lb/>„Wann iſt die Hochzeit?“<lb/>
+            </p>
+            <p> <lb/>„Dienſtag in fünf Wochen!“<lb/>
+            </p>
+            <p> <lb/>„Bis dahin kann ſich viel ändern!“<lb/>
+            </p>
+            <p> <lb/>Es änderte ſich wirklich bis dahin Vieles;<lb/>zuerſt der arme Johannes ſelbſt, der einen Brief<lb/>von ſeinem ehemaligen Gymnaſialdirector erhielt,<lb/>
+               <pb facs="#0169" n="155" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=169"/>welcher ſeine ganze Seele beſchäftigte. Der Di-<lb/>rector intereſſirte ſich ungemein für ſeinen ehe-<lb/>maligen Schüler und theilte demſelben mit, daß<lb/>eine fromme Corporation in Nordamerika erbötig<lb/>ſei, ihn für die ferneren Studien zum Prieſter<lb/>frei zu halten, auf ſeine guten Zeugniſſe hin, und<lb/>daß der Director, die Profeſſoren des Gymnaſiums,<lb/>ſo wie einige Menſchenfreunde, ſich erbötig er-<lb/>klärten, das Reiſegeld nach Amerika für Johannes<lb/>zu erlegen, um ihn der Kirche zu erhalten. Der<lb/>Zweck ſeiner Ueberſiedelung in den fernen Welt-<lb/>theil ſei der, ihn mit den dortigen Sitten bekannt<lb/>zu machen; denn man wünſchte tüchtige geiſtliche<lb/>Kräfte nach Nordamerika hinüber zu ziehen.<lb/>
+            </p>
+            <p> <lb/>War es zu ſpät für Johannes, das erſehnte<lb/>Loos zu ergreifen? — Da lag ſeine kranke Mutter,<lb/>dort ſtand ſeine opferwillige Braut — ſie hatte<lb/>ihm noch nicht mit Worten geſagt, daß ſie ihn<lb/>liebe, und Johannes hatte freilich auch nicht dar-<lb/>nach gefragt; aber jede ihrer Handlungen legte<lb/>Zeugniß dafür ab, daß ſie nur ihn, nur ſeinen<lb/>Beſitz wolle und erſtrebe.<lb/>
+            </p>
+            <p> <lb/>Er ſuchte kein Alleinſein mit Grethe, aber<lb/>wenn ihre ſchlanke Geſtalt um das Krankenlager<lb/>der Mutter glitt, um Alles ſo gut und ſorgſam<lb/>
+               <pb facs="#0170" n="156" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=170"/>zu ordnen, dann ergriff er manchmal die Hand<lb/>der Erröthenden und drückte dieſelbe in der ſeini-<lb/>gen. Seit er aber jenen Brief wie ein brennen-<lb/>des Feuer auf ſeiner Bruſt fühlte, da berührte<lb/>er die Hand der rothen Grethe nicht mehr, und<lb/>ſie biß vor innerem Weh die weißen Zähne tief<lb/>in die Lippen, um nicht aufzuſchreien. O, nur<lb/>noch dieſe paar Wochen vorüber, dann gehörte er<lb/>ihr, nur jetzt kein neues Hinderniß!<lb/>
+            </p>
+            <p> <lb/>Aber das Hinderniß, oder doch die hindernde<lb/>Veränderung kam. Frau Marianne, für deren<lb/>Lebenskraft die lange Krankheit Zeugniß abzulegen<lb/>ſchien, rief eines Tages früh ihren Sohn herbei.<lb/>Der Huſten hatte ſich gelegt, ſie fühlte keine<lb/>Schmerzen, ihr war himmliſch wohl zu Muthe,<lb/>denn ſie fühlte, daß ſie erlöſt werden würde. Erſt<lb/>ſollte ihr nun Johannes Alles ausſprechen, was<lb/>er aus Liebe zu ihr verſchwiegen hatte, und dann<lb/>wollte ſie dem Kaplan beichten und ſich für das<lb/>Ende vorbereiten. Sie hörte ruhig an, was Jo-<lb/>hannes ſagte, und nickte zuweilen mit dem Kopfe,<lb/>dann ſprach ſie: „Mein Sohn, wohin Deine<lb/>Liebe Dich zieht, dahin gehe. Sieh' nicht mit den<lb/>Augen auf Deinen Weg, nicht mit dem Menſchen-<lb/>verſtande, aber mit der Seele, und es wird der<lb/>
+               <pb facs="#0171" n="157" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=171"/>rechte ſein! Frag' nicht, ob die Menſchen Dich<lb/>verlaſſen, aber frag' Dich ſtündlich, ob die Engel<lb/>und die Heiligen an Deiner Seite ſind. Der<lb/>Menſch kann Alles tragen und erreichen mit<lb/>
+               <hi rendition="#g">Geduld</hi>, deshalb ſind die geduldigen Seelen<lb/>die ſtarken Seelen. Wer ſich in Ungeduld wider<lb/>Gottes Hand ſetzt, der hat keine Stütze im Him-<lb/>mel und auf Erden und ſchwebt wie ein Vogel<lb/>über dem großen Waſſer. Lebe, als ob Tag an<lb/>Tag Aſchermittwoch wäre, und vergiß nicht, daß<lb/>der Tod Dich gemerkt hat. Dann wird Dein<lb/>Ende herannahen wie ein Oſtertag und Du wirſt<lb/>ihm entgegenrufen: Hallelujah! Ich fühle es,<lb/>mein Sohn, Du haſt gekürt zwiſchen dem Bräu-<lb/>tigamsrock aus glänzenden Laken und dem <hi rendition="#g">häre</hi>-<lb/>
+               <hi rendition="#g">nen</hi> Kleide des <hi rendition="#g">Täufers</hi>, mein Kind iſt mir<lb/>zweimal geboren!“<lb/>
+            </p>
+            <p> <lb/>Die todkranke Mutter brach in Dankgebete<lb/>aus und der Sohn ſtimmte mit ein; nie war ſo<lb/>unter dieſem Dache gedankt und gelobt worden,<lb/>als an Mariannens Sterbetage. Sie machte auch<lb/>ihr Teſtament, indem ſie zum erſten Male un-<lb/>erſchrocken den Mund gegen ihren Eheherrn<lb/>aufthat und ſagte: „Ich verordne, daß mein<lb/>Sohn Johannes zum geiſtlichen Berufe zurück-<lb/>
+               <pb facs="#0172" n="158" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=172"/>kehrt, nicht weil es mein Wille iſt, ſondern weil<lb/>Gott es will!“ Es lag ſo viel Verklärung und<lb/>Zuverſicht über dem Antlitz der Greiſin, daß ſelbſt<lb/>Witte nicht zu widerſprechen wagte, obgleich er<lb/>den Gedanken ſehr thöricht fand und keineswegs<lb/>der Anſicht war, Marianne ſei dem Tode nahe.<lb/>Sie, die immer gehalten hatte, was ſie verſprach,<lb/>erfüllte auch ihre letzte Vorausſetzung — ſie<lb/>
+               <hi rendition="#g">ſtarb</hi> mit Sonnenuntergang. Der Witwer klagte<lb/>in faſt zornigem Schmerz ſein Schickſal an und<lb/>ſtürmte im Hauſe umher, bis er endlich kraftlos<lb/>in einen tiefen Schlaf verſank. Die Nachbarinnen<lb/>hatten Abends die Leiche gewaſchen und in jenes<lb/>Todtenhemd gekleidet, das jede Braut mit in die<lb/>Ausſteuer bekommt und das ſie ſorgſam bis zur<lb/>letzten Ruhe aufbewahrt. Johannes wollte keine<lb/>Todtenwache, die geliebte Leiche ſollte unter ſeinem<lb/>Schutz und Gebet da liegen, bis die Erde ſie auf-<lb/>nahm. Und ſo ſaß er die lange Nacht an ihrer<lb/>Seite; er hatte das verhüllende Leintuch von ihrem<lb/>friedlichen, abgezehrten Antlitz gezogen und wenn die<lb/>Oellampe flackerte, war's als lächle ſeine Mutter ihn<lb/>an. Am nächſten Tage ging Johannes über Land, um<lb/>den Bauer Almann aufzuſuchen, der ſo lange die<lb/>Rückzahlung des Witte'ſchen Kapitals geſtundet hatte.<lb/>
+               <pb facs="#0173" n="159" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=173"/>Er bat den braven Mann, für ſeinen Vater zu<lb/>ſorgen; auf einige Jahre reiche zu deſſen Erhal-<lb/>tung der Ueberſchuß vom Verkaufe, und von da<lb/>ab hoffe er, Johannes, im Stande zu ſein die<lb/>Sohnespflicht abzutragen. Almann gelobte dem<lb/>Bittenden in die Hand, daß der alte Witte keinerlei<lb/>„Gebrech an Nahrung und Nothdurft“ leiden ſolle.<lb/>Johannes wachte auch die nächſte Nacht und die<lb/>darauf folgende, wo er die Leiche ſchon in den<lb/>einfachen Sarg, den „Hushold“, gebettet hatte.<lb/>Am Abend vor der Beſtattung kam Grethe,<lb/>ſchwarz gekleidet, herein und kniete neben der<lb/>Leiche. Ihr Haar ſchimmerte wie Feuer im<lb/>Abendlicht, als ſie den Kopf betend ſenkte. Jo-<lb/>hannes kniete ihr gegenüber an der andern Seite<lb/>des Sarges.<lb/>
+            </p>
+            <p> <lb/>„Margarethe,“ begann er ſanft, als ſie ſich<lb/>bekreuzigt hatte, „dieſe Todte hat mir in ihren<lb/>letzten Stunden eine Bitte an Dich aufgegeben,<lb/>von welcher mehr als das irdiſche Glück meines<lb/>Lebens, nämlich meine Seligkeit abhängt. <hi rendition="#g">Gieb</hi>
+               <lb/>
+               <hi rendition="#g">mich frei</hi>, Margarethe, und laß mich geiſtlich<lb/>werden!“<lb/>
+            </p>
+            <p> <lb/>Ein herzzerreißender Schrei durchſchnitt den<lb/>dämmrigen Raum des ärmlichen Gemaches, Grethe<lb/>
+               <pb facs="#0174" n="160" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=174"/>ſchnellte wie eine Feder in die Höhe und griff<lb/>mit den Händen in ihre ſchimmernden Haare.<lb/>„Ich kann — ich <hi rendition="#g">kann</hi> Dich nicht losgeben!“<lb/>keuchte ſie, „nimm mir Alles, Alles, ſtich mir die<lb/>Augen aus, hau' mir die rechte Hand ab — tritt<lb/>mich mit Füßen, aber verlaß mich nicht! Meine<lb/>Augen haben zeitlebens nichts geſehen, meine<lb/>Gedanken nichts gewollt, als Dich, Johannes; die<lb/>Leute ſagen, ich wäre ſtolz, ich bin es nicht, ich<lb/>liege hier vor Deinen Füßen und ſchreie in<lb/>meiner Herzensqual: verlaß mich nicht, es iſt ein<lb/>Mord an meiner Seele, wenn Du mich verſtößt!“<lb/>
+            </p>
+            <p> <lb/>Johannes ſtand hoch aufgerichtet, das junge<lb/>Blut drängte ſich ihm zum Herzen, in ſeinen<lb/>Schläfen hämmerte es, als ſollten ſie zerſpringen,<lb/>er riß ſeine Augen los von dem verzweifelnden<lb/>Weibe und blickte die Leiche an. „Grethe,“ ſagte<lb/>er dumpf, „ſie hat mein Gelübde mit hinüber-<lb/>genommen; ſelbſt um den Preis Deines und mei-<lb/>nes Lebens — wir müſſen uns trennen!“<lb/>
+            </p>
+            <p> <lb/>Grethe faßte ſeinen Arm, ihre Augen funkel-<lb/>ten wie die eines Raubthieres: „Iſt das Dein<lb/>letztes Wort, dann wehe Dir und mir!“<lb/>
+            </p>
+            <p> <lb/>„Es iſt mein letztes Wort — leb' wohl, Mar-<lb/>garethe!“<lb/>
+               <pb facs="#0175" n="161" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=175"/>Sie wand ihre Schürze um den Kopf und floh<lb/>hinaus über die Diele, dort aber hielt eine dreiſte<lb/>Hand ſie auf und Casper's Stimme ſprach höh-<lb/>nend: „Hältſt Du ſchon wieder Leichengebete, wie<lb/>bei Lisbeth-Möke. Wir treffen an allen guten<lb/>Plätzen zuſammen!“<lb/>
+            </p>
+            <p> <lb/>Ein grelles Lachen klang unter der Schürze<lb/>hervor; Grethe riß ſich heftig los und floh hinaus.<lb/>
+            </p>
+            <p> <lb/>In der letzten Nacht gedachte ſich Johannes<lb/>einen Strang grauen Haares von dem Haupte der<lb/>Todten zu trennen, aber er unterließ es, er wollte<lb/>nichts mitnehmen als ihr geliebtes, heiliges Bild,<lb/>es ſollte Alles, Alles an ihr zur Ruhe gehen —<lb/>jedes Löckchen. Als bei der Beerdigung der Sand<lb/>den Sarg bedeckte, da trat Johannes hinweg aus<lb/>dem Kreiſe der Leidtragenden und ſchritt hinab<lb/>von dem Kirchhof und fort, um nicht wiederzu-<lb/>kehren; den Vater hatte er ſchon Morgens um<lb/>ſeinen Segen gebeten, und die Mutter und Grethe<lb/>— von denen hatte er Abſchied genommen.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>Die Zeit verging. Grethe heirathete Casper<lb/>Dormann, und alle Leute fanden, ſie habe paſſend<lb/>gewählt, das junge Ehepaar ſelbſt ausgenommen.<lb/>
+               <pb facs="#0176" n="162" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=176"/>Die Bezeichnung „quade Grethe“ kam mehr und<lb/>mehr und mit großem Rechte wieder in Schwung.<lb/>Mit Johannes war der gute Geiſt gänzlich von<lb/>ihr gewichen, und es konnte ſcheinen, ſie habe<lb/>Casper nur deshalb gewählt, weil ſie ihm am<lb/>meiſten grollte und es ihr der Mühe werth war,<lb/>ihn recht mit Bedacht zu reizen und zu ärgern,<lb/>eine Aufmerkſamkeit, die er ihr nach Kräften ver-<lb/>galt, obwohl er ſich auch wieder mächtig vor ſeiner<lb/>ſchöneren Hälfte fürchtete. Bosheit und Feigheit<lb/>wohnen gern zuſammen. Vater Witte lebte bei<lb/>Almann gepflegter und ſorgloſer denn je vorher,<lb/>er trug den Nimbus des verlaſſenen, unglücklichen<lb/>Mannes bequem und unverkürzt, und hätte voll<lb/>Klagen, aber doch wohlauf, ſein Ende erwartet,<lb/>wenn nicht ein neues Schickſal ihn ereilt hätte;<lb/>ein Schickſal, über das ihm ſein Stolz zu klagen<lb/>verbot und das ihn doch ſchwerer traf als alle<lb/>vorhergehenden. Er wurde menſchenſcheu und<lb/>war Schwindeln und ſchlagartigen Anwandlungen<lb/>ausgeſetzt. Mühſam und am Stabe ſchlich der<lb/>Mann umher, der bis dahin noch über ſeine Jahre<lb/>rüſtig erſchien, ein einziger Tag hatte ihn ſtumm<lb/>gemacht und ſeinen Muth gebrochen. Er ſprach<lb/>den Namen ſeines Sohnes ſeit Jahr und Tag<lb/>
+               <pb facs="#0177" n="163" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=177"/>nicht mehr aus und die Hausgenoſſen vermieden<lb/>ebenſo den Fernen zu nennen. Deshalb fuhr das<lb/>Dienſtvolk und die Arbeitsleute, die eben auf der<lb/>Diele Buchweizen draſchen, förmlich zuſammen,<lb/>als ſie die Hausfrau laut und gellend: „Johannes“<lb/>rufen hörten; ſie drängten Alle nach der Küche<lb/>und ſahen dort einen ſtattlichen gebräunten Mann<lb/>im prieſterlichen Anzuge ſtehen, vor deſſen fra-<lb/>genden Blicken ſie wie ſcheu zurückwichen. „Iſt<lb/>mein Vater todt?“ fragte der Ankömmling über-<lb/>raſcht und ängſtlich.<lb/>
+            </p>
+            <p> <lb/>Aber ſchon öffnete ſich die Kammerthür und<lb/>auf der Schwelle ſtand der Greis; er wehrte den<lb/>Sohn mit Hand und Stab von ſich zurück und<lb/>ſprach heiſer und mit pfeifendem Athem: „Du biſt<lb/>nicht mehr mein Sohn, <hi rendition="#g">ich verfluche Dich</hi>!“<lb/>Mühſam nur ſtieß er die Worte hervor, ſeine<lb/>hinfällige Geſtalt ſchwankte hin und her und ſank<lb/>dann mit einem lauten Seufzer bewußtlos zu<lb/>Boden.<lb/>
+            </p>
+            <p> <lb/>Eine große Volksmenge verſammelte ſich und<lb/>umſtand Johannes, der, mit bleicher Stirn, alle<lb/>möglichen Belebungsverſuche anſtellte. Man ſchickte<lb/>zum Arzt und zum Seelſorger. Die Nachricht:<lb/>,,Wittens Johannes iſt wieder da und der Alte iſt<lb/>
+               <pb facs="#0178" n="164" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=178"/>mit einem Fluch auf ihn geſtorben!“ jagte wie<lb/>auf Windesflügeln weiter. Der Arzt kam zuerſt<lb/>zur Stelle, weil er beritten war. Er unterſuchte<lb/>den Kranken und ſagte dann: „Da iſt nichts zu<lb/>helfen, er kann noch vierundzwanzig Stunden<lb/>hinſchlummern, aber er erwacht <hi rendition="#g">hier</hi> nicht wieder,<lb/>und ſo iſt es für ihn am beſten!“ Den Schluß<lb/>der Rede richtete er vorwurfsvoll an Johannes,<lb/>und der Gruß des Geiſtlichen: „Er iſt von einem<lb/>großen Erdenleid erlöſt!“ war geradezu eine An-<lb/>klage des Sohnes.<lb/>
+            </p>
+            <p> <lb/>„Was heißt dies Alles?“ fragte Johannes faſt<lb/>betäubt und hielt ſich an der Bettpfoſte aufrecht.<lb/>
+            </p>
+            <p> <lb/>„Wir wiſſen leider den ganzen Verhalt,“ ent-<lb/>gegnete der Prieſter. „Ihr eigener Vetter ſchrieb<lb/>uns, daß Ihr früherer Beſchützer in Amerika Sie<lb/>wegen ehrloſer Streiche aus ſeinem Kreiſe und der<lb/>Stadt verbannen mußte, daß Sie unſerer heiligen<lb/>Kirche abſchworen, um —“<lb/>
+            </p>
+            <p> <lb/>Johannes hatte wie taumelnd nach der Stirn<lb/>gegriffen, dann aber unterbrach er den Sprecher:<lb/>„Welcher Bube hat meinen ehrlichen Namen durch<lb/>dieſe nichtswürdigen Lügen beſudelt?“<lb/>
+            </p>
+            <p> <lb/>„Euer eigener Vetter, Wilm Sanders!“ riefen<lb/>einige der Umſtehenden, die der Forſetzung des<lb/>
+               <pb facs="#0179" n="165" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=179"/>Geſprächs ungeduldig harrten. „Wilm Sanders,<lb/>der anno 47 nach Amerika auswanderte!“<lb/>
+            </p>
+            <p> <lb/>„Wilm Sanders?“ ſprach Johannes und ſchaute<lb/>ſtreng in die verwirrten Geſichter der Männer;<lb/>„mein Vetter <hi rendition="#g">ſtarb</hi> in dem Jahre <hi rendition="#g">vor meiner</hi>
+               <lb/>
+               <hi rendition="#g">Ankunft</hi> in Amerika, ſeine hinterlaſſene Tochter<lb/>Geſina habe ich im vorigen Monat mit einem<lb/>braven Deutſchen aus hieſiger Gegend, einem jungen<lb/>Overhaus, copulirt.“<lb/>
+            </p>
+            <p> <lb/>Staunend blickten die Umſtehenden einander<lb/>an, ſie trennten ſich augenſcheinlich ſchwer von<lb/>einer ſo empörenden und abſonderlichen Geſchichte.<lb/>„Aber,“ warf Almann mißtrauiſch ein, „wenn<lb/>Ihr ein gutes Gewiſſen hattet, weshalb ſchriebt<lb/>Ihr nicht an Euren Vater?“<lb/>
+            </p>
+            <p> <lb/>„Ich ſchrieb ihm regelmäßig jedes Halbjahr,<lb/>empfing aber vor zwei Jahren die letzte Antwort<lb/>von ihm. Ihr Männer, ſeht hier meine Legitima-<lb/>tionen, welche genügend darthun, daß ich der Hirt<lb/>einer angeſehenen katholiſchen Gemeinde bin und<lb/>daß mein Wandel ſich des beſten Lobes erfreut.<lb/>Und dann, ich bitte Euch, helft mir, daß ich <hi rendition="#g">Den</hi>-<lb/>
+               <hi rendition="#g">jenigen</hi> finde, den ich als den Mörder dieſes<lb/>Greiſes betrachte und der mir den Segen meines<lb/>Vaters in Fluch verwandelte! — O Gott, und dies<lb/>
+               <pb facs="#0180" n="166" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=180"/>iſt der Empfang, auf den ich mich ſo viele Jahre<lb/>aus tiefſtem, ſehnſüchtigem Herzen freute!“<lb/>
+            </p>
+            <p> <lb/>Johannes bedeckte ſeine überſtrömenden Augen<lb/>und die Anweſenden beeilten ſich, die Hand des<lb/>Tiefgekränkten zu ſchütteln und ihn ihrer Theil-<lb/>nahme zu verſichern.<lb/>
+            </p>
+            <p> <lb/>Von dem Sterbebette ſeines Vaters, dem er<lb/>unter Gebet die Augen zugedrückt hatte, forderte<lb/>Johannes die Gerichte auf, ſeinen Verleumder<lb/>und Ehrenräuber zu erforſchen. Auf dem Poſt-<lb/>amte waren alle Briefe des jungen Prieſters aus<lb/>Amerika angekommen und dem jüngſt verſtor-<lb/>benen, durchaus gut beleumundeten Briefträger<lb/>ausgehändigt.<lb/>
+            </p>
+            <p> <lb/>Die angeblichen Epiſteln des Wilm Sanders<lb/>fanden ſich bei deſſen Verwandten vor; es waren<lb/>deren zwei, beide in oſtfrieſiſchen Städten auf die<lb/>Poſt gegeben und, wie es in denſelben hieß, durch<lb/>einen befreundeten Schiffscapitän in's Vaterland<lb/>beſorgt. Beide Schreiben ſtellten ſich alsbald als<lb/>gefälſcht heraus, da ſie auf deutſchem Papier neueren<lb/>Datums geſchrieben waren. Hier ſtockten die Nach-<lb/>forſchungen und nach verſchiedenen Verhören konn-<lb/>ten alle Betheiligten ihre vollſtändige Unſchuld an<lb/>dem ruchloſen Betruge darthun. Johannes verließ<lb/>
+               <pb facs="#0181" n="167" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=181"/>die Heimath für immer und man vergaß die ganze<lb/>Geſchichte.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>Von den Gefangenen eines norddeutſchen Ar-<lb/>beitshauſes für weibliche Sträflinge wird ein gut<lb/>Theil zu Feldarbeiten im Intereſſe der Anſtalt ver-<lb/>wandt und die umwohnenden Städter ſind ganz ge-<lb/>wöhnt, die grau gekleidete, keck ausſchauende Frauen-<lb/>ſchaar, paarweiſe unter der Führung eines Aufſehers,<lb/>vorüber ſchreiten zu ſehen. Zwiſchen den durch-<lb/>gehends äußerſt gemeinen Erſcheinungen dieſer<lb/>
+               <hi rendition="#g">leichten</hi> Verbrecher fällt eine hohe Frauengeſtalt<lb/>mit feinen, wenn auch trotzigen und ſcharfen Zü-<lb/>gen auf. Sie hat mit ihrer zarten Hautfarbe, ihrem<lb/>leuchtend rothen Haar und der gebieteriſchen Hal-<lb/>tung des Kopfes etwas an ſich, das ſie ſofort<lb/>auffallen läßt. Dieſe Frau verbüßt zwei und ein<lb/>halbes Jahr Arbeitshaus, wegen Fälſchung von<lb/>Urkunden und Unterſchlagung von Briefen. Sie<lb/>heißt in der Anſtalt: die quade Grethe! Ihr eigener<lb/>Mann zeigte den Gerichten an, daß ſie falſche<lb/>Briefe geſchrieben und den letztverſtorbenen Poſt-<lb/>boten beſtochen habe, ihr die an den alten Witte<lb/>gerichteten Briefe auszuliefern; er, Casper, legte<lb/>dieſe Briefe aus Amerika ſo wie den Entwurf zu<lb/>
+               <pb facs="#0182" n="168" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=182"/>den gefälſchten Schriftſtücken dem Richter vor.<lb/>Grethe leugnete nichts, ſie ſagte nur, ihrem Manne<lb/>zugewendet: „Ich habe mich an Johannes, den ich<lb/>liebte, gerächt und werde mich an Dir, den ich<lb/>haſſe, rächen, einerlei, ob es mir den Hals koſtet<lb/>— ich freue mich meiner That!“<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>Anmerkung:<lb/>
+            </p>
+            <p> <lb/>In Kursiv wurden die Buchstaben/Worte gesetzt, die im Original-Scan in Antiqua-Schrift gesetzt sind, Beispiel: anno domini<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

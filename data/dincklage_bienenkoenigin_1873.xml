@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Bienenkönigin</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_bienenkoenigin_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Die Bienenkönigin, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die Bienenkönigin</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>A. H. Payne</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Der Salon für Literatur, Kunst und Gesellschaft</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 817–846</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898</idno><idno type="shelfmark">Shelfmark: Per. 262 f-1873,2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="828"><sic>eintrat Die</sic><corr>eintrat. Die</corr></choice><choice corresp="829"><sic>feierlich, ob</sic><corr>feierlich, „ob</corr></choice><choice corresp="832"><sic>unvollkommeneu</sic><corr>unvollkommenen</corr></choice><choice corresp="833"><sic>ſein. Die Eiferſucht,</sic><corr>ſein.“ Die Eiferſucht,</corr></choice><choice corresp="842"><sic>Bienen korbhauſe</sic><corr>Bienenkorbhauſe</corr></choice><choice corresp="842"><sic>kald</sic><corr>kalt</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die Bienenkönigin</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0073" n="817" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=73"/>
+            </p>
+         </div>
+         <div>
+            <p>
+               
+                  <hi rendition="#c #larger">Die Bienenkönigin</hi>
+               
+               <lb/>Erzählung aus dem Emsland von <hi rendition="#g">E. von Dincklage</hi>.<lb/>
+            </p>
+            <p> <lb/>Obwol es noch Herbſt war, blies ein ſo ſchneidender Nordoſtwind<lb/>über die weite Haide- und Sandfläche, daß die Schulkinder auf dem<lb/>Wege zur Stadt feuerrothe Naſen, blaue Wangen und thränende Augen<lb/>bekamen und zuſammengeduckt, wie die Vögelchen in’s eigene Gefieder<lb/>und in die eigene Lebenswärme, mit ihren Holzſchuhen über die Stein-<lb/>ſtraße dahin klapperten, dem alten, niedern Thor zu, welchem bereits<lb/>vom Magiſtrat mehrfach in bedenklicher Weiſe die Nothwendigkeit zu<lb/>gemeiner Stadt Wohl abgeſprochen war, wasmaßen es ſo finſter und<lb/>nachdenklich dreinſchauen mochte. Mit den Kindern kam der Wind zu-<lb/>gleich in’s Thor, zauſte die Mädchen, riß den Jungen die Mützen vom<lb/>Kopf und pfiff und lachte dazu. Als die Kinder in der Schule waren,<lb/>wurden die Straßen faſt ganz leer, ſo daß der Luftzug Stallthüren und<lb/>Bodenluken aufriß, als wollte er, ein rechter Raufbold, drinnen Händel<lb/>anzetteln. Auf einmal kommen zwei ſchwarze, wunderliche Geſtalten da-<lb/>her, ſo wunderlich, daß der Nordoſt aufwiehert, wie ein junges Weide-<lb/>fohlen und ſie auch, eins — zwei — drei, am Kragen hat. Die Schwar-<lb/>zen waren große Brummfliegen in Menſchengeſtalt und ſurrten auch<lb/>richtig — jede an einer Seite der Gaſſe — in <hi rendition="#aq">alle</hi> Häuſer hinein.<lb/>
+            </p>
+            <p> <lb/>Sie trugen fadenſcheinige, ſchwarze Fracks, auf dem Rücken ein<lb/>kleines, ſchmales Mäntelchen, wie eine Frauenſchürze; dieſer Schemen<lb/>eines ſpaniſchen Mantels mochte ehemals ſchwarz geweſen ſein, indeß<lb/>der welke, dünne Stoff jetzt in ein mildes Olivengrün übergegangen<lb/>war. Von dem ſchwachbehaarten Cylinder wehte ein langer Flor, wozu<lb/>ſie in den weißen Baumwollhandſchuhen ſehr geſtärkte und lebhaft ge-<lb/>bläute Taſchentücher trugen, der Art, daß alle vier Zipfel herabhingen.<lb/>Wenn ſie von Zeit zu Zeit die Pantomime des Thränenabwiſchens<lb/>machten, ſo raſſelten die Tücher wie Papier. Die Schwarzen ſchnurrten<lb/>über jeder Schwelle denſelben Refrain:<lb/>
+            </p>
+            <p> <lb/>„Die wolehrſame Frau Burgemeiſterin Wittfeld, geborene van<lb/>Steen, des wolehrſamen Herrn Burgemeiſters hieſiger Stadt, Wittfeld<lb/>ſeliger, betrübte Wittfrau, läßt hierdurch anſagen, daß ihr Sohn, der<lb/>weiland Architekt Heinrich Caspar Amandus Wittfeld van Steen, geſtern<lb/>Abend zehn Uhr, im ſiebenundvierzigſten Jahre ſeines Alters, in dem<lb/>Herrn entſchlafen iſt. Das Begräbniß findet Montag um zehn<lb/>Uhr ſtatt!“<lb/>
+            </p>
+            <p> <lb/>Weiter ſummte die bis in’s innerſte Gebein fröſtelnde Fliege und<lb/>weiter pfiff der Wind, um ſich in dem großen Steinhauſe der Familie<lb/>Wittfeld ſelbſt einmal anzuſchauen, weshalb die Pfahlbürger ſothane<lb/>Trauerkunde ſo ungemein gelaſſen aufnahmen? — Der verſtorbene Ar-<lb/>chitekt hatte durch zwanzig Jahre alle Kirchen und Amtsgebäude, ſo wie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0074" n="818" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=74"/>
+            </p>
+            <p> <lb/>die beſſeren Privathäuſer und eine Brücke über die Ems erbaut, und<lb/>zwar in anerkannt ſolider Weiſe — man hätte ihm dankbar ſein ſollen,<lb/>aber er war ein abgeſchloſſener, ſtiller und ungeſelliger Mann, der nicht<lb/>Weib, nicht Kind hatte und ſich nie um Dinge kümmerte, welche nicht<lb/>ſeines Amtes waren — wie konnte man <hi rendition="#aq">lebhafte</hi> Theilnahme für einen<lb/>Verſtorbenen fühlen, der Zeitlebens als ein Fremdling innerhalb des<lb/>Weichbildes ſeiner Vaterſtadt verkehrte, ſeit er dereinſt von einem län-<lb/>gern Aufenthalt in Italien heim kam? Aber man wußte, <hi rendition="#aq">das</hi> war der<lb/>Hochmuth, der leidige Burgemeiſterhochmuth, welcher in der ganzen<lb/>Sippſchaft ſteckte, am meiſten in der alten Frau, wie viel ſie für Kirchen,<lb/>Klöſter und für die Armuth thun mochte! Der verſtorbene Architekt lag<lb/>jetzt ſtill auf ſeinem Todtenbett ausgeſtreckt, ſein rieſiger Körper ſchien,<lb/>unberührt von der letzten Krankheit, gleichſam freiwillig und wunſchlos<lb/>das irdiſche Daſein aufgegeben zu haben. Die Züge des Todten waren<lb/>durchaus nicht regelrecht, ſie ſprachen mehr Kraft als Energie aus, ja<lb/>die breite, gewölbte Stirn, auf welche braunes, weiches Haar fiel, hätte<lb/>die eines Dichters ſein können. Der Mann ſah mehr eingeſchlafen, als<lb/>geſtorben aus, eine gefällte Eiche mit grüner Krone dahingeſunken. Das<lb/>Zimmer war einſam, nur flammten zwei große, gelbe Wachskerzen, zwi-<lb/>ſchen denen ein Crucifix ſtand, im Luftzug. Des heimgegangenen Aman-<lb/>dus Wittfeld Bauwerke hatten eine gewiſſe Aehnlichkeit mit ihrem todten<lb/>Erbauer; ſie ſchienen eher ein Trotz der Zeit und der Elemente, als der<lb/>Hort frohen Lebens zu ſein, ihre Solidität machte ſie ſchwerfällig, als<lb/>hätten ſie eigentlich viel größer werden ſollen wie ihre Ausführung.<lb/>
+            </p>
+            <p> <lb/>Dieſer letztere Umſtand fühlte ſich ſchon ein wenig bei den Kirchen,<lb/>unabweisbar aber bei den Wohngebäuden heraus, die noch dazu ſtets<lb/>eine gewiſſe phantaſtiſche und unerwartete Verzierung, einen in die an-<lb/>tike Zeit zurückſchauenden Porticus, eine Säulenhalle im ſüdlichen Ge-<lb/>ſchmack oder irgend ein phantaſtiſches, landesfremdes Beiwerk zeigten.<lb/>Das ſteinerne Haus der Wittfelds verleugnete ſeinen Erbauer und Be-<lb/>ſitzer nicht. Ueber der aufgeſtuften Eingangsthür ſprang ein halbrunder<lb/>Balcon vor, der auf fünf doriſchen Säulen eine mit Metallplatten be-<lb/>deckte Kuppel trug. Der Volkswitz nannte dieſe Zierrath „den Bienen-<lb/>korb“ und die im Hauſe kräftig herrſchende ehrſame Wittib „die Bienen-<lb/>königin“. Indeß war der „Schwarm“ oder das „Jung-Imm“ der Frau<lb/>Burgemeiſterin gar bedeutend gelichtet und der Tod hatte eine reiche<lb/>Ernte zwiſchen ihren zehn Kindern gehalten, ſo daß die Matrone im<lb/>weißen Haar ihre Hausgenoſſenſchaft bis auf wenig Köpfe gelichtet ſah.<lb/>
+            </p>
+            <p> <lb/>Die Burgemeiſterin war ſelbſt die letzte Trägerin des Namens van<lb/>Steen, welcher durch mehrere Generationen gleichfalls die Burgemeiſter-<lb/>würde inne hatte. Mit ihrem bedeutenden Vermögen wollte ſie den<lb/>erlöſchenden Namen auf den älteſten ihrer Söhne vererben, aber ſobald<lb/>dieſer Aelteſte ſich einige Jahre Wittfeld van Steen genannt hatte, ſo<lb/>ſtarb er dahin, und heute lag der <hi rendition="#aq">letzte</hi> Träger des Doppelnamens auf<lb/>der Bahre. Auch der Name Wittfeld ſchien im Ausſterben begriffen,<lb/>zwar lebte noch ein alter Stiefſohn der Wittwe, aber ſeine Gemüthsart,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0075" n="819" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=75"/>
+            </p>
+            <p> <lb/>Gewohnheit und Alter ließen keine Ausſicht zu einem Ehebund auf-<lb/>kommen. Was die Töchter der Bienenkönigin anlangt, ſo waren der<lb/>eigenen Mutter die Mädchen von Klein auf mehr Laſt als Freude, die<lb/>Wittwe hatte keine Achtung vor den Frauen. Hinter zwei Töchtern<lb/>hatte ſich die Pforte des Kloſters geſchloſſen, die Dritte war entführt<lb/>und von der Mutter verſtoßen worden. Nach ihrem Tode nahm ſich<lb/>indeß die Mutter eines hinterlaſſenen und armen Töchterchens der miß-<lb/>rathenen Verlorenen an, das denn im Steinhauſe erwuchs.<lb/>
+            </p>
+            <p> <lb/>Die vierte Tochter, die alte, magere, zaghafte Liſette, huſchte in<lb/>dunklen, unmodiſchen Kleidern um die Mama herum, ſie war ſo dürr,<lb/>ſo leiſe und ängſtlich, als hätte ſie ſich ernſtlich vorgenommen, eines<lb/>guten Tags in Nichts zu zerfließen. Es war, als ob die corpulente<lb/>Wittwe mit der lauten Befehlshaberſtimme alle Lebensluft für ſich allein<lb/>einathmete und ſo viel Energie vergeudet hätte, daß für ihre Nachkom-<lb/>men nichts übrig blieb. Sie häufte Zins auf Zins — für wen? Ach,<lb/>jetzt allein für die arme, verſchüchterte Liſette, denn die Bienenkönigin<lb/>hatte es geſchworen, ihre entflohene Tochter erhielt keinen rothen Heller<lb/>und blieb enterbt von Kind auf Kindeskind! Der jungen Enkelin ward<lb/>das oft genug wiederholt und ſie konnte zufrieden ſein, daß vor Kurzem<lb/>die Großmutter den Colonialwaarenhändler Auguſt Krei, der den Witt-<lb/>felds ein Capital ſchuldete, bewogen hatte, ſeine Hand der jungen Agnes<lb/>anzubieten. Seit ihrer Verlobung wurde Agnes doppelt in’s Joch der<lb/>Unterwürfigkeit und Arbeit geſpannt, denn die Braut eines <hi rendition="#aq">Krei</hi> konnte<lb/>wahrhaftig <hi rendition="#aq">keine</hi> Anſprüche machen. Geſtern war der Stolz der Wittwe<lb/>— ihr ſtets gehorſamer Amandus — geſtorben! Niemand wußte, wohin<lb/>denn nun all’ ſeine Erſparniſſe, die nicht unbedeutenden Capitalien des<lb/>ſehr ökonomiſchen Architekten fließen würden; ſelbſt die Leichenbitter,<lb/>welche endlich in eine Schänkſtube geſchnurrt waren und ſich Eierbier<lb/>geben ließen, wußten darüber nicht irgend Glaubwürdiges. — Des<lb/>Verſtorbenen Nachlaß war <hi rendition="#aq">ſo viel</hi> wichtiger als er ſelbſt, daß ſeine Leiche<lb/>wie in Grabesruhe da lag, wo er geſtern noch athmete; nur der Wind<lb/>bewegte dann und wann wie liebkoſend ſein braunes Haar, und es flü-<lb/>ſterte zwiſchen den Papieren des Schreibtiſches ſo wunderlich, als ob ſie<lb/>eine Geſchichte erzählen wollten.<lb/>
+            </p>
+            <p> <lb/>Die verwittwete Frau Burgemeiſterin hatte gegen acht Uhr in der<lb/>Frühe das Haus verlaſſen, um majeſtätiſch wie immer zur Kirche zu<lb/>gehen. Sie trug ihren altmodiſchen, ſchwarzen Atlaspelz und hinter ihr<lb/>drein ſchritt ihre alte Magd Mieke, deren große Vogelnaſe ſich zwiſchen<lb/>zwei rothgeweinten Augen emporhob, und trug die Feuerkieke der Wohl-<lb/>ehrſamen mit dem blitzenden gelben Meſſingbeſchlag.<lb/>
+            </p>
+            <p> <lb/>Kaum war die Burgemeiſterin mit ihrem weiblichen Adjutanten<lb/>und Oberſpion wie ein Ereigniß dahin gegangen, als gebeugt und vor-<lb/>ſichtig Liſette, ihre Tochter, das Haus verließ, in ein leichtes, ſchwarzes<lb/>Wolltuch gehüllt, die Straße hinabeilte und endlich in das kleine, alter-<lb/>thümliche Haus einer Hinterſtraße verſchwand. Wäre ſie weniger fromm<lb/>und weniger alt geweſen, man hätte auf ein Rendezvous ſchließen müſ-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0076" n="820" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=76"/>
+            </p>
+            <p> <lb/>ſen, ſo furchtſam wie ſie dahin trippelte. Die Furchtſamkeit hat ſtets<lb/>etwas Kindiſches an ſich und bei Liſette war die Scheu vor ihrer Mut-<lb/>ter und ihr reines, ſelbſtloſes Herz das Einzige, was ihr je von ihrer<lb/>Jugend zum Bewußtſein gekommen war. Ein Rendezvous war’s doch,<lb/>wenn auch nur mit ihrem ſechzigjährigen Stiefbruder, der in’s Geſicht<lb/>„Herr Doctor“, hinter dem Rücken aber der „Philoſoph“ genannt wurde<lb/>und welcher, wie Diogenes in ſeiner Tonne, in ſeinem alten, ſchimmeli-<lb/>gen Häuschen dahin lebte. Die Hausthür führte auf einen engen Gang<lb/>und an dieſem lag des Doctors Stube, die ganz voller Tabaksrauch<lb/>war. Er ſelbſt, ein kleines, liſtiges Männchen, ſaß in einem knaſter-<lb/>braunen Rock vor ſeinem verräucherten Schreibtiſch und legte bei Liſet-<lb/>ten’s Eintritt ein großes, beſchriebenes Blatt, in welchem er geleſen, zur<lb/>Seite. Gefühlsäußerungen waren in dieſer Familie ſo wenig Mode,<lb/>daß die Geſchwiſter nichts Beſonderes äußerten, obwol zwiſchen ihrem<lb/>„Gute Nacht!“ von geſtern und ihrem ſtummen Morgengruß von heute<lb/>der Tod Einen der Ihren abgerufen hatte. Liſette ſetzte ſich dem Bru-<lb/>der gegenüber und rang die Hände in einander.<lb/>
+            </p>
+            <p> <lb/>„Weißt’s alſo ſchon, Settchen“, kicherte der kleine Herr, indem er<lb/>die lange Pfeife wie ein Tambourmajor vor ſich hinhielt, „der liebe<lb/>Junge, der vollkommene Amandus, Gott hab’ ihn ſelig! hat mir eine<lb/>Freude gemacht, wie ich ſeit fünfzig Jahren, ſeit <hi rendition="#aq">ſie</hi> unſern armen Va-<lb/>ter kaperte, willſt Du oder willſt Du nicht? keine gehabt habe — hi, hi<lb/>— ich als Teſtamentsexecutor werde ihr die Sache feierlich und im<lb/>Bratenrock mittheilen — hi, hi!“<lb/>
+            </p>
+            <p> <lb/>„Ach, Joſef, die Mama überlebt das nicht; wenn ich an die Tage<lb/>denke, wo unſere Agnes in’s Haus kommen ſollte, ach, das war entſetz-<lb/>lich und nun <hi rendition="#aq">dieſes</hi> —!“<lb/>
+            </p>
+            <p> <lb/>„Die Mama überlebt es nicht? Sei ruhig, Settchen, die lebt, bis<lb/>ſie Euch Alle unter die Erde commandirt hat, mich natürlich ausgenom-<lb/>men; mich erhält die Bosheit munter und friſch, denn die Mama ärgert<lb/>ſich über nichts mehr, als über meine Geſundheit, ich hege und pflege<lb/>mich für ſie, ich härte mich ab und treibe Gymnaſtik, ich habe mir einen<lb/>falſchen Zahn einſetzen laſſen, damit ich pfeifen kann, ich habe bei einem<lb/>Tyroler Unterricht im Jodeln genommen — Alles aus kindlicher Liebe<lb/>— ſieh, und heute ſoll wett und quitt gemacht werden, was ſie mich ſeit<lb/>fünfzig Jahren ausfreſſen ließ, ich komme mir vor wie ein Henker, der<lb/>einem lange heuchleriſch entkommenen Verbrecher endlich, endlich die<lb/>Brandmarke auf die Stirn drücken kann!“<lb/>
+            </p>
+            <p> <lb/>Der kleine Greis hatte ſich, wie in Extaſe erhoben und ſeine kleinen<lb/>Augen funkelten vor Aufregung.<lb/>
+            </p>
+            <p> <lb/>Liſette ertrug die Rede ihres Bruders, wie man den Sturm oder<lb/>ein unabwendbares Naturereigniß erträgt. Ihre Hände waren feſt in<lb/>einander gefaltet und ihre Lippen zitterten wie im Gebet.<lb/>
+            </p>
+            <p> <lb/>„Auguſt Krei wird ſicher erwartet haben, der Bruder bedächte<lb/>Agnes von ſeinem Eigenen!“ flüſterte ſie.<lb/>
+            </p>
+            <p> <lb/>„Ganz recht — das giebt eine Bettelwirthſchaft, eine rechte Augen-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0077" n="821" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=77"/>
+            </p>
+            <p> <lb/>weide für die Immenkönigin! Es kommt jetzt von allen Seiten, ich<lb/>halte ſie zwiſchen dieſen meinen Fäuſten und werde auch noch das Letzte,<lb/>das, was an ihrem ſtolzen, liebloſen Herzen frißt und ſie wiederum an<lb/>dem Frieden ihrer Umgebung zehren macht wie ein Vampyr, auch das<lb/>Letzte werde ich erfahren!“<lb/>
+            </p>
+            <p> <lb/>„Haſt Du ſie nicht zeitlebens <hi rendition="#aq">genug</hi> gekränkt?“<lb/>
+            </p>
+            <p> <lb/>Der Philofoph ſetzte ſich; ſein Geſicht wurde ganz vergnügt und er<lb/>brachte mit ein paar mächtigen Zügen ſeine Pfeife wieder in Brand.<lb/>„Ja — hi — hi! Das habe ich! War doch ein glorreicher Tag, als<lb/>ich nach all’ den Univerſitätsjahren, die ſie mich hatte durchſtudiren<lb/>laſſen um ſchweres Geld, zurückkam, im leeren Ranzen ſtatt des gewieg-<lb/>ten Theologen einen nüchternen Philoſophie-Ehren-Doctor! O Gau-<lb/>dium, als ſie dann inne wurde, daß ſtatt des beſcheidenen Caplans, der<lb/>ſich im Faſten übt, der Philoſoph einen unerſättlichen Magen hat und<lb/>auch keinen Deut einbringt — die Alte hätte an den Wänden herauf<lb/>laufen mögen — und opferte ſofort, als Sühne meines Abfalls und des<lb/>guten Scheins wegen, ganz im Geiſte des altteſtamentariſchen Feldherrn<lb/>Jephta, zwei blühende Töchter dem Kloſter!“<lb/>
+            </p>
+            <p> <lb/>„Verſündige Dich nicht, ſie gingen <hi rendition="#aq">gern</hi> und ich beneide ſie — ge-<lb/>blüht hat wol Keine von uns, außer <hi rendition="#aq">Die</hi>, deren Namen wir nicht nennen<lb/>dürfen!“<lb/>
+            </p>
+            <p> <lb/>„Freilich, <hi rendition="#aq">die</hi> hatte doch einen Tropfen vom Blut der Alten; es<lb/>wäre gut, wenn Agnes auch einmal lernte den Mund aufthun!“<lb/>
+            </p>
+            <p> <lb/>„O, das Kind — wenn <hi rendition="#aq">wir</hi> ſchweigen?“<lb/>
+            </p>
+            <p> <lb/>„Kind? Das Lamm läßt ſich zur Schlachtbank führen, aber der<lb/>junge Fuchs beißt ſich das Bein ab und läßt einen Fuß im Eiſen — nur<lb/>um <hi rendition="#aq">frei</hi> zu ſein!“<lb/>
+            </p>
+            <p> <lb/>„Niemand als wir Zwei wiſſen um das Geheimniß“, wagte Liſette<lb/>zu ſagen, als ſie ihren Bruder ruhiger ſah; „iſt keine Möglichkeit, Doc-<lb/>tor, daß wir der Mama dies Letzte erſparen?“<lb/>
+            </p>
+            <p> <lb/>„Die Feigen ſind ärgere Betrüger als Diebe und Mörder“, zürnte<lb/>Joſef. „Geh’ nach Haus, Liſette, bete bei dem Todten, das <hi rendition="#aq">Leben</hi> ver-<lb/>ſtehſt Du nicht mehr, es hat Dich hingeworfen wie eine verwelkte taube<lb/>Blüthe! In einer Stunde bin ich da — mein Tag iſt gekommen.“<lb/>
+            </p>
+            <p> <lb/>Liſette, von innerm Grauen getrieben, wußte in der That keinen<lb/>Rath und Schutz als den Todten; im Steinhauſe angekommen, ſteckte ſie<lb/>den Kopf in’s Wohnzimmer und rief einem jungen, blonden Mädchen,<lb/>das müßig am Fenſter lehnte, zu: „Ich bitte Dich, Agnes, komm mit<lb/>mir neben ihm beten!“<lb/>
+            </p>
+            <p> <lb/>„Was hilft uns alles Beten?“ ſagte die Blonde, ohne den Kopf zu<lb/>wenden, „wir können die Dinge erwarten, ob Leben oder Tod — Eins<lb/>iſt ſo ſchlimm wie das Andere!“<lb/>
+            </p>
+            <p> <lb/>„Was aber heute kommt“, zitterte Liſette, „das iſt ſchlimmer, als<lb/>
+               <hi rendition="#aq">Alles</hi>, was da war!“<lb/>
+            </p>
+            <p> <lb/>„Schlimmer als mein Eintritt in den Bienenkorb?“<lb/>
+            </p>
+            <p> <lb/>„Nenne das Haus nicht ſo — ja, ja, <hi rendition="#aq">noch ſchlimmer</hi>!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0078" n="822" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=78"/>
+            </p>
+            <p> <lb/>Agnes ſah ihre Tante mit den großen, hellblauen Augen an, rich-<lb/>tete ihre ſchmächtige Figur auf und folgte, ohne fernere Einwendung,<lb/>der voran Haſtenden die Stiege hinauf.<lb/>
+            </p>
+            <p> <lb/>Um zehn Uhr ſaß die Burgemeiſterin, einer Souverainin in der<lb/>That gleich, in ihrem großen Seſſel, vor ſich ein offenes Gebetbuch, in<lb/>der Hand, zwiſchen Daumen und Zeigefinger, ſo daß ſie bei einem leich-<lb/>ten Stoß ſich um ihre eigene Achſe drehte, die Schnupftabaksdoſe aus<lb/>Horn. Die Wittwe war eine große und wirklich ſchöne Greiſin. Ihr<lb/>ſchneeweißes Haar lag glatt auf der breiten Stirn, Naſe und Geſichts-<lb/>ſchnitt ſchienen der Antike nachgebildet, obwol dies alte Antlitz faſt un-<lb/>heimlich wurde, weil nichts Weibliches, nichts Mütterliches heraus-<lb/>ſchaute. Die ſcharfen Augen, lichtblau gleich denen der Enkelin, welche<lb/>ihr überhaupt mehr glich, als eines ihrer Kinder, <hi rendition="#aq">ruhten</hi> auf nichts;<lb/>wohin ſie ſich wendeten, da forſchten, taxirten, erſchreckten ſie, und mit<lb/>der Härte des Blickes ſtimmte das breite, eigenwillige Kinn der Ma-<lb/>trone vollſtändig überein.<lb/>
+            </p>
+            <p> <lb/>Die Wittwe Wittfeld van Steen erwartete jetzt die Condolenz-<lb/>beſuche ihrer nächſten Bekannten, Nachbarn und aller Derer, welche<lb/>ihrem Hauſe verwandt oder verpflichtet waren, mithin nahezu der gan-<lb/>zen Stadt. Es iſt Sitte, daß man bei ſolchen Veranlaſſungen in<lb/>Trauerkleidern kommt, neben dem Sarge betet und dann verſucht, die<lb/>Leidtragenden zu tröſten, wobei den Honoratioren eine Stärkung, je nach<lb/>der Tageszeit, angeboten wird. Allerdings nahezu die ganze Stadt,<lb/>wenigſtens die Hausmütter und Hausväter aller bürgerlichen Heerdſtellen<lb/>waren zu erwarten — Frau Wittfeld kannte ſie Alle, <hi rendition="#aq">ſie</hi> hatte ſtatt<lb/>ihres gutmüthigen Ehegeſponſes burgemeiſterlich in der Stadt geſchal-<lb/>tet und gewaltet und da war kein Pfennig der Communalſteuer erlaſſen<lb/>und kein ſchadhaft gewordener Schornſtein war ihrem Scharfblick ent-<lb/>gangen. Nach dem Tode des wohlehrſamen Magiſtratsvorſtandes hörte<lb/>freilich die officielle Stadtbemutterung auf, aber die Leute waren nun<lb/>einmal zu ehrerbietigem Gehorſam gewöhnt, man glaubte an das Ge-<lb/>wicht ihrer Protection. Wer nicht etwa auf erſte Hypothek in ihrem<lb/>Schuldbuch ſtand, der hatte Ländereien von ihr in Pacht, wohnte in<lb/>einem Hauſe der reichen, tugendſtrengen Frau, wagte aber auch ohne<lb/>all’ dieſe Rückſichten nicht, gegen ſie aufzutreten; denn man wußte, daß<lb/>Handwerker und Geſchäftsleute, als läge ein Fluch auf ihnen, in Erwerb<lb/>und Kundſchaft von Jahr zu Jahr zurück gingen, wenn ſie verſucht<lb/>hatten, die feſte, fleiſchige Hand der Bienenkönigin abzuſchütteln. Nur<lb/>Einer hatte ſich unlenkſam erwieſen; er widerſprach nie, aber er that<lb/>gemeinhin das Gegentheil Deſſen, was ihm zu thun angedeutet war:<lb/>und dieſer Eine iſt ihr Stiefſohn Joſef, ihr „Kreuz“, ihr „Schickſal“,<lb/>wie ſie ihn Mieke gegenüber nennt. Die breiten Augenbogen der Wittwe<lb/>ziehen ſich finſter zuſammen, Joſef biegt, in eine alte Chenille mit ſechs<lb/>übereinander fallenden Kragen gehüllt, in der Hand ein groß gefaltetes<lb/>Papier, um die Ecke.<lb/>
+            </p>
+            <p> <lb/>Er pocht ſo beſcheiden, daß das tönende „Herein!“ in gar keinem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0079" n="823" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=79"/>
+            </p>
+            <p> <lb/>Verhältniß zu dieſer Anmeldung ſteht. Joſef tritt im Frack ein, er hält<lb/>einen übergroßen, einem Fiſchkeſſel ähnlichen Cylinder in der Hand.<lb/>
+            </p>
+            <p> <lb/>„Ich komme, der Mama meine Condolenz auszuſprechen und ihr<lb/>die Hand zu küſſen!“<lb/>
+            </p>
+            <p> <lb/>„Nicht nöthig — und daß Du Dir das Anſehen eines Teſtaments-<lb/>executors giebſt, iſt gleichfalls nicht nöthig! Hat Amandus, der mich,<lb/>das einzige Mal in ſeinem Leben, <hi rendition="#aq">gegen</hi> meinen Willen beredete, Agnes<lb/>in’s Haus zu nehmen, das Kind in dem Papier da bedacht?“ Sie<lb/>ſtreckte die Hand nach der letztwilligen Verfügung aus: „Sie braucht’s<lb/>nicht zu wiſſen, es iſt Zeit, daß ſie <hi rendition="#aq">Noth</hi> und <hi rendition="#aq">Sorge</hi> kennen lernt, ſie<lb/>wird ſtörrig!“<lb/>
+            </p>
+            <p> <lb/>Trotz dieſes Winkes hielt der Doctor das Teſtament zurück und<lb/>entgegnete, aus den Augenwinkeln ſchielend: „Nein, Mama, er hat der<lb/>Agnes nichts hinterlaſſen, die ganze Erbſchaft fällt in <hi rendition="#aq">eine</hi> Hand!“<lb/>
+            </p>
+            <p> <lb/>„Natürlich!“ beſtätigte die Alte und gab der Doſe einen ungedul-<lb/>digen Schwung, „in <hi rendition="#aq">meine</hi> Hand, aber das ändert nichts; ich ſetze vor-<lb/>aus, er hat Agnes, die Kirche und die Stadtarmen in ſchicklicher Weiſe<lb/>bedacht, mithin bleibt es dabei!“<lb/>
+            </p>
+            <p> <lb/>„Mama hat hier nichts zu beſtimmen, der Erbe iſt ein Fremder<lb/>— ein <hi rendition="#aq">Ausländer</hi>!“<lb/>
+            </p>
+            <p> <lb/>Joſef betonte das letzte Wort ſcharf, die Doſe, welche in lebhaftem<lb/>Kreislauf begriffen war, entſank plötzlich den ſtarken Händen und glitt<lb/>langſam über die ſchwarzen Wollfalten des Kleides zu Boden. „Aus-<lb/>länder“, wiederholte ſie mit gepreßtem Athem, „aus Am —“. Ein Zucken<lb/>in Joſef’s Zügen mochte ſie warnen, denn ſie faßte ſich und ſagte ruhi-<lb/>ger: „Na, da bin ich doch neugierig!“<lb/>
+            </p>
+            <p> <lb/>„Amandus hatte ſich während ſeiner Studienzeit in Italien mit<lb/>der Tochter eines Bildhauers verheirathet. Giovanna Baſſano hieß ſie.<lb/>Die junge Frau ſtarb bei der Geburt ihres erſten Kindes, aber ich darf<lb/>der Mama zu dem Enkel Daniele Wittfeld van Steen gratuliren! Ob-<lb/>wol Italiener ſeiner Erziehung nach, hat Amandus darauf gehalten, daß<lb/>er auch Deutſch lerne!“<lb/>
+            </p>
+            <p> <lb/>Die Wittwe fuhr empor und überragte den Stiefſohn um mehr<lb/>als Kopfes Höhe. „Das darf nicht ſein! Das <hi rendition="#aq">ſoll</hi> nicht ſein!“ keuchte<lb/>ſie, „Magdalena van Steen kann nicht einen verlaufenen Italiener zum<lb/>Enkel, ein Bettelmädchen zur Enkelin haben — das iſt wieder eine<lb/>Deiner verruchten Nichtswürdigkeiten! Und wenn es ſo wäre — der<lb/>Vagabonde kommt mir nicht über die Schwelle!“<lb/>
+            </p>
+            <p> <lb/>„Dann hat die Mama in nächſter Woche dieſes Haus einfach zu<lb/>verlaſſen! Sobald Amandus die Augen geſchloſſen hatte, habe ich, ſei-<lb/>nem Auftrag zu Folge, an Daniele’s Großvater, der des Enkels Erzie-<lb/>hung leitete, telegraphirt, der junge Menſch wird nicht ſäumen, ſeine<lb/>Erbſchhaft anzutreten!“<lb/>
+            </p>
+            <p> <lb/>„Wehe mir!“ rief die Matrone zurückſinkend, „mein letzter Sohn,<lb/>mein Stolz, iſt mit einer Schuld gegen mich auf dem Herzen von hinnen<lb/>gegangen, er läßt <hi rendition="#aq">mich</hi> büßen für ſeine Thorheit, ſeinen Wahnſinn —“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0080" n="824" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=80"/>
+            </p>
+            <p> <lb/>Der Stiefſohn trat ihr dicht unter die Augen und ziſchelte durch<lb/>die Zähne: „<hi rendition="#aq">Mama, wer iſt ohne Schuld</hi>?“ Die Matrone ſchreckte wie<lb/>vor einem Kanonenſchlag zuſammen, ſelbſt ihre feſten Nerven vibrirten.<lb/>Joſef trat zurück und fuhr ruhig fort: „Amandus ſagte mir, er hätte<lb/>ſich nicht entſchließen können, ſein mutterloſes Kind der Kälte des Nor-<lb/>dens, der Strenge dieſes Hauſes preiszugeben, ſein Sohn ſollte leben,<lb/>ſollte ſeines Lebens froh werden, er ſollte nicht die unſelige <hi rendition="#aq">Furcht</hi>
+               <lb/>kennen lernen, die lieber das theuerſte Geheimniß in den Tod nimmt,<lb/>als es ungerecht entweihen zu laſſen!“<lb/>
+            </p>
+            <p> <lb/>Die Wittwe blickte ihn mit weit offenen Augen an und rang nach<lb/>Luft. Joſef hatte feierlich geſprochen und näherte ſich jetzt der Stief-<lb/>mutter.<lb/>
+            </p>
+            <p> <lb/>„Halt!“ rief die Alte mit plötzlich erwachender Energie, „her das<lb/>Teſtament, ich glaube nicht, was meine Augen nicht ſehen!“ Joſef über-<lb/>reichte ihr das Papier mit der Bemerkung: „Das Duplicat iſt gericht-<lb/>lich deponirt.“<lb/>
+            </p>
+            <p> <lb/>„Geh’ mir aus den Augen!“ rief die Wittwe, bebend vor Zorn.<lb/>
+            </p>
+            <p> <lb/>Joſef folgte ungeſäumt dieſem Rath und rannte mit einer wahren<lb/>Bräutigamsmiene, vor lauter innerer Genugthuung, gegen ein Viertel-<lb/>dutzend leidtragender oder doch anſcheinend <hi rendition="#aq">theilender</hi> Familienmütter,<lb/>die ſich, Eine unter dem Schutz der Andern, zu dieſer Traueraudienz<lb/>geſammelt und ermuthigt hatten. Während ſie <hi rendition="#aq">nach</hi> derſelben das Haus<lb/>verließen, ziſchelten ſie einander zu: „Das hat ſie doch getroffen, ſie muß<lb/>doch für Amandus ſelig ein Herz gehabt haben!“ Die braven Damen<lb/>wußten eben nicht, daß nicht ſowol der <hi rendition="#aq">Verluſt</hi>, als der <hi rendition="#aq">Erſatz</hi> die<lb/>Wittwe bedrückte. Als bei der Mahlzeit Liſette zufällig den Namen<lb/>ihres verſtorbenen Bruders nannte, blickte die Mutter ſie mit ihrem<lb/>Thierbändigerausdruck an und ſagte:<lb/>
+            </p>
+            <p> <lb/>„Es lebt <hi rendition="#aq">ein</hi> undankbares Kind <hi rendition="#aq">weniger</hi>!“<lb/>
+            </p>
+            <p> <lb/>Nach Tiſch, während die Alte that, als ſchliefe ſie wie gewöhnlich,<lb/>denn ſie gab ſich bis auf’s Aeußerſte ſtandfeſt und unnahbar, huſchte die<lb/>hülfloſe Liſette mit dieſem Urtheilsſpruch zu Joſef, der zwar auch ſchlief,<lb/>aber ſofort mit liſtigen Augen aufwachte. „Weiß ſie’s denn wirklich,<lb/>Doctor?<lb/>
+            </p>
+            <p> <lb/>„Wirklich, <hi rendition="#aq">ſie</hi> weiß es, Mamſell!“<lb/>
+            </p>
+            <p> <lb/>„Denkſt Du, ſie wird den Knaben verleugnen, oder verfluchen,<lb/>oder — —“<lb/>
+            </p>
+            <p> <lb/>„Oder — oder ermorden? Nichts von alle Dem, Mamſell, der<lb/>Knabe iſt zweiundzwanzig Jahre alt, wenn er ſich noch von Hexen und<lb/>Drachen einſchüchtern läßt, ſo hat er nichts Beſſeres verdient und hof-<lb/>fentlich ſterben dann die Wittfelds mit ihm aus!“<lb/>
+            </p>
+            <p> <lb/>„Vielleicht aber denkt er doch hier freundliche Verwandte zu finden,<lb/>und Mama —“<lb/>
+            </p>
+            <p> <lb/>„Sei ruhig, Settchen, ſtreng’ Dein bischen Hirn an und frag’ Dich,<lb/>ob Mama nicht immer das <hi rendition="#aq">Unvermeidliche</hi> mit ihrem falſchen Stolz<lb/>vor den Leuten vergoldet und mit ihrer Scheinheiligkeit überzuckert hat<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0081" n="825" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=81"/>
+            </p>
+            <p> <lb/>— <hi rendition="#aq">Ihr</hi> wißt, Das, was der Welt Zucker ſcheint, iſt Gift — aber was<lb/>ihre Kinder denken, da dieſelben nicht reden dürfen, iſt der Mama<lb/>gleichgiltig! Hihi, die Alte hat keinen freien Muth, denn dazu gehört<lb/>ein freies Gewiſſen!“<lb/>
+            </p>
+            <p> <lb/>„Wie meinſt Du, Joſef?“<lb/>
+            </p>
+            <p> <lb/>„Ich meine nichts, geh’ nach Haus und backe und brate für den<lb/>Leichenſchmaus — Gott, wenn eine Fliege ſehen könnte, wie groß ein<lb/>Dom iſt!“<lb/>
+            </p>
+            <p> <lb/>Der ſtrenge Ordnungslauf im Steinhauſe war allerdings auf-<lb/>geſtaut, als wären die Ereigniſſe ſelbſtſtändig geworden — <hi rendition="#aq">befremdend</hi>
+               <lb/>waren die Vorgänge allerdings. Während Mama den Verſtorbenen für<lb/>undankbar erklärte, wurde zu ſeiner Beerdigung in einer großartigen<lb/>Weiſe vorbereitet, wie das für keinen der älteren Brüder, ja nicht ein-<lb/>mal für den verſtorbenen, wolehrſamen Burgemeiſter ſelbſt geſche-<lb/>hen war.<lb/>
+            </p>
+            <p> <lb/>Während bisher nur im unumgänglichen Nothfall und jahrelangen<lb/>Zwiſchenpauſen der mißliebige Joſef zu Rathe gezogen wurde, trabte<lb/>jetzt die übellaunige Magd Mieke mehrere Male täglich in die Neben-<lb/>gaſſe und eben ſo oft erſchien dann Joſef in der Chenille mit dem<lb/>Taufſchein, Trauſchein und all’ den Papieren, die der todte Sohn ſei-<lb/>ner Mutter jetzt wie feindliche Waffen entgegenſtreckte.<lb/>
+            </p>
+            <p> <lb/>Wenn die angeſehenſten Perſonen der Stadt und Umgegend zum<lb/>Leichenſchmauſe nach geſchehener Beerdigung erſchienen, ſo machte dieſer<lb/>ſelbſt Liſetten’s und Mieken’s Kochkunſt die höchſte Ehre. Drei ſchwere<lb/>Braten, viele Puddinge und Torten ragten aus den zahlreichen Schin-<lb/>ken und Zungenſchüſſeln, Saurem und Süßem, Flüſſigem und Subſtan-<lb/>tiöſem hervor. Liſette und Agnes aßen nicht mit, ſondern kochten und<lb/>richteten an, aber Auguſt Krei ſaß rothwangig und mit frohen Mienen<lb/>unten am Tiſch. Großmutter war nicht der Anſicht, man dürfe die<lb/>Menſchen im Unklaren laſſen, wohin ſie gehören, und ſie bemerkte noch<lb/>gegen den künftigen Enkel: „Du kannſt zufrieden ſein, überhaupt mit<lb/>dem Herrn Dechanten und dem Herrn Oberamtmann und den großen<lb/>Stadtbürgern an einem Tiſch zu eſſen!“<lb/>
+            </p>
+            <p> <lb/>Nachdem die Geſellſchaft warm wurde, brachte man hier und dort<lb/>einige Condolenztoaſte aus und ſtörte auch Auguſt Krei, der eben ein<lb/>großes Stück Braten im Munde hatte, durch die Geſundheit, die man<lb/>auf ſeine Agnes ausbrachte; er nahm ſein Glas und ſagte beſcheiden<lb/>ablehnend: „Bitte, bitte, allzu gütig!“<lb/>
+            </p>
+            <p> <lb/>Auf einmal räusperte ſich der kleine Philoſoph, es ward ſtill im<lb/>Saal — der Saal war das Prunkzimmer des Hauſes und hatte etwas<lb/>Kirchenähnliches, denn er lag unter der Kuppel, welche die Decke bildete,<lb/>und hatte eine Glaswand nach den fünf doriſchen Säulen und dem<lb/>Balcon zu — aber der kleine Joſef ſagte nichts und blickte nur mit<lb/>einem verheißungsvollen Wink auf die Bienenkönigin. Die Stirn der<lb/>alten Dame wurde roth unter dem weißen Haar. Das war nicht Ver-<lb/>legenheit, es war der wiederaufſteigende Zorn gegen ihn, den ſie heute<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0082" n="826" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=82"/>
+            </p>
+            <p> <lb/>in die Erde betteten und der ſie überliſtet hatte, dann heftete ſie ihre<lb/>Augen auf den Dechanten und den Oberamtmann und hub an: „Ich<lb/>danke Allen für die mir bewieſene Theilnahme und will es nicht ver-<lb/>ſäumen, meinen Freunden und Nachbarn hierdurch zu wiſſen zu geben,<lb/>daß der verſtorbene Architekt in ſeinen jungen Jahren verheirathet war<lb/>und ſeine Ehefrau ihm einen Sohn hinterließ, welcher mit Nächſtem<lb/>eintreffen ſoll, um ein Bürger dieſer Stadt zu werden!“<lb/>
+            </p>
+            <p> <lb/>Die Anſprache machte einen tiefen Eindruck und das eingetretene<lb/>Schweigen wurde nur durch Auguſt Krei’s heftiges Huſten unterbrochen,<lb/>denn er hatte ſich vor Schreck verſchluckt an einem Biſſen, der wol beſ-<lb/>ſern Looſes werth war — Auguſt war kein großes merkantiliſches Licht,<lb/>aber der neue Enkel machte ihm doch einen dicken Strich durch die<lb/>Rechnung.<lb/>
+            </p>
+            <p> <lb/>„Ich gratulire!“ ſagte der Dechant und ſeinem Beiſpiel folgten die<lb/>Anderen, obwol ſich nicht klar einſehen ließ, ob die Alte ſothane Ange-<lb/>legenheit als eine freudige Schickung betrachte.<lb/>
+            </p>
+            <p> <lb/>Wittfelds geheimnißvoller Enkel machte von dieſem Tag an die<lb/>wunderbarſten Vorausſetzungen flüſſig; bald war er ein Idiot, ein Krüp-<lb/>pel, bald Sohn einer Gräfin, bald der einer Zigeunerin. Da er aber nach<lb/>vierzehn Tagen noch immer nicht in dem ſandigen Weichbild der Stadt<lb/>erſchien, fror die Erfindungsgabe der lieben Mitbürger bei dem erſten<lb/>tüchtigen Froſtwind gleichſam ein und man wartete ruhiger ab, was da<lb/>kommen würde. Selbſt Auguſt Krei, der in jener Zeit viel Zuſpruch<lb/>hatte und das Doppelte an Cigarren, Schwefelſticken und Bruſtbonbons<lb/>verkaufte wie bisher, wußte nichts. Der arme Auguſt! Als die Trauer-<lb/>gäſte fort waren, fing <hi rendition="#aq">ſeine</hi> Trauer recht eigentlich an; denn Großmama<lb/>langte ſich den blonden Jüngling und ſagte: „Haſt gehört, Krei, mit der<lb/>Erbſchaft iſt’s nichts; wenn Du aber Miene machſt, Dein Wort nicht zu<lb/>halten, ſo künde ich Dir die Capitalien!“<lb/>
+            </p>
+            <p> <lb/>„O Großmama“, entgegnete Krei gerührt, denn er war immer ge-<lb/>rührt, wenn er getrunken hatte, „es fällt mir doch nicht ein, Agnes ſitzen<lb/>zu laſſen; das arme Mädchen, ich habe ſie ſehr gern!“<lb/>
+            </p>
+            <p> <lb/>„Nun, dann mach’, daß Du nach Hauſe kommſt. Menſchen in<lb/>Deiner Lage dürfen nicht einen ganzen Tag für nichts und wieder nichts<lb/>verlungern!“<lb/>
+            </p>
+            <p> <lb/>Vor der Zimmerthür fand Auguſt ſeine Verlobte, welche unwillig<lb/>ſagte: „Läßt Du Dir Alles von ihr gefallen, Auguſt?“<lb/>
+            </p>
+            <p> <lb/>„Laſſen ſich nicht alle Leute Alles von ihr gefallen?“<lb/>
+            </p>
+            <p> <lb/>„Haſt Du endlich gefragt, wann die Hochzeit ſein ſoll?“<lb/>
+            </p>
+            <p> <lb/>„Ich ſie fragen? Mein Kind — ſie weiß ja aber, daß mir die<lb/>Grethe gekündigt hat und ich mit meinem Vieh verhungern kann, wenn<lb/>Du nicht im Mai ——“<lb/>
+            </p>
+            <p> <lb/>„Nun, ſo verhungere meinetwegen!“ zürnte Agnes und ließ ihn<lb/>verblüfft ſtehen. Er hatte doch nur die reine Wahrheit geſagt! Aber<lb/>Frauen ſind gar zu ſonderbar und räthſelhaft; was wollte denn ein<lb/>ſolches Mädchen ohne Ausſteuer und Geld?<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0083" n="827" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=83"/>
+            </p>
+            <p> <lb/>Wenn der erſte Froſt über den Braunkohl gegangen iſt, ſchmeckt er<lb/>gar ſüß und aromatiſch, das wußte Großmama genau, denn ſie war<lb/>feiner auf die Eindrücke der Zunge, als auf die des Herzens.<lb/>
+            </p>
+            <p> <lb/>Als ſie mit Liſette in den Condolenzkaffee bei der Frau Oberamt-<lb/>männin ging, ſchickte ſie daher Agnes mit einem Korb in den Garten<lb/>vor dem Thor, um recht ſorgſam die „Kohlherzen“ abzuleſen<lb/>— hier<lb/>ſah die Bienenkönigin auf’s Herz. — „Zugleich“, meinte die Wittwe,<lb/>„wird dadurch vermieden, daß ſie ihre Zeit mit Auguſt vertändelt, der<lb/>von dem Kaffee gehört haben muß und wol weiß, daß die Braut eines<lb/>Krei nicht dahin gehört!“<lb/>
+            </p>
+            <p> <lb/>Krei wohnte in einer andern Straße und Mieke wachte darüber,<lb/>daß Agnes nicht durch dieſe Straße ging; aber Auguſt ſtellte jedes Mal,<lb/>wenn er ſich raſirt hatte, alſo Mittwochs und Sonnabends, ſeinen Ra-<lb/>ſirſpiegel derart in’s Ladenfenſter zwiſchen Käſe und Heringen, daß er<lb/>gleichſam um die Ecke in die Hauptſtraße reflectirte, und ſo ſah er<lb/>Agnes mit dem Korb, die ſich aber in der Perſpective des Raſirſpiegels<lb/>bückte, weil ſie den Gartenſchlüſſel hatte fallen laſſen.<lb/>
+            </p>
+            <p> <lb/>Die ſpionirende Mieke durfte nicht zweifeln, Mamſell Agnes nehme<lb/>es ſich recht genau mit den „Herzen“; denn es war bereits ſehr dämmerig,<lb/>als das junge Mädchen und Auguſt auf das alte Thor zuſchritt, das<lb/>jetzt freilich mitten in der Straße lag, die ſich nach außen hin ununter-<lb/>brochen fortſetzte.<lb/>
+            </p>
+            <p> <lb/>Agnes redete erregt und ſah weder rechts noch links, eben als ſie<lb/>in die Thorwölbung trat, ſagte ſie:<lb/>
+            </p>
+            <p> <lb/>„So halte ich’s nicht länger aus. Was verſchlägt’s, ich mache es<lb/>wie meine Mutter und laufe eines Tages zu Dir, ärmer und verachteter<lb/>kann ich ja doch nicht mehr werden!“<lb/>
+            </p>
+            <p> <lb/>„Um Gottes Willen, Agnes“, entgegnete Auguſt erſchreckt und<lb/>kläglich, „Du würdeſt mein ganzes Geſchäft ruiniren und — und — ich<lb/>danke auch für eine Frau, welche eines Tages ohne Weiteres herläuft,<lb/>obwol Du mir ſo lieb biſt wie —“<lb/>
+            </p>
+            <p> <lb/>Der Maßſtab von Auguſt’s Liebe iſt der Nachwelt verloren gegan-<lb/>gen, denn plötzlich ſagte eine lachende Männerſtimme neben Agnes:<lb/>„Laufen Sie zu <hi rendition="#aq">mir</hi>, laufen Sie zu mir, ich trage Ihnen den großen<lb/>Korb und habe gar keine Furcht vor jungen Damen!“<lb/>
+            </p>
+            <p> <lb/>Aufblickend ſah Agnes einen großen, dunklen Mann mit glänzenden<lb/>Augen, der ſich ohne Weiteres ihres Korbes bemächtigte.<lb/>
+            </p>
+            <p> <lb/>„Auguſt!“ ſagte Agnes und blickte bedeutſam nach dem Korb.<lb/>
+            </p>
+            <p> <lb/>„Ich bin kein Räuber!“ lachte der Fremde. „Ich bin Großſohn<lb/>von Signora Wittfeld van Steen!“<lb/>
+            </p>
+            <p> <lb/>„So —!“ rief Auguſt, „wenn ich das nicht wegen der Sprache<lb/>gedacht habe! Na willkommen!“<lb/>
+            </p>
+            <p> <lb/>„Willkommen?“ rief Agnes und faßte den Arm des neuen Couſins<lb/>mit beiden Händen. „O, <hi rendition="#aq">nicht</hi> willkommen, gehen Sie nicht in das Haus<lb/>des Unglücks, ich bin in demſelben groß geworden, ich kenne es, fliehen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0084" n="828" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=84"/>
+            </p>
+            <p> <lb/>Sie, kehren Sie um, ehe die Großmama auch <hi rendition="#aq">Sie</hi> in’s Elend ſtürzt.<lb/>Gehen Sie, um aller Heiligen willen! Gehen Sie!“<lb/>
+            </p>
+            <p> <lb/>„Seh’ ich aus wie ein hülfloſes Kind?“ lachte Daniele und reckte<lb/>ſeinen ſchlanken, hohen und doch muskelſtarken Körper in die Höhe. „Ich<lb/>fürchte mich auch nicht vor alten Weibern — dann noch eher vor jungen<lb/>— hübſchen!“<lb/>
+            </p>
+            <p> <lb/>„Ich bin nie jung geweſen“, entgegnete Agnes mürriſch, „meine<lb/>Mutter denke ich mir nur weinend und dann, als ſie ſtarb, war ich das<lb/>häßliche, elternloſe Bettelkind!“<lb/>
+            </p>
+            <p> <lb/>Nein, Daniele ſah es, ſie war nicht hübſch mit ihrem freudloſen<lb/>Ausdruck und den langen, mageren Gliedern und dem groben, ſchlecht<lb/>ſitzenden Anzug, und dennoch — dieſe Blonden in ihrer leidenſchafts-<lb/>loſen und doch ſo eindringlichen Art faſſen den Südländer in beſonderer<lb/>Weiſe; faſt eiferſüchtig fragte er: „Das Ihr — Liebhaber?“<lb/>
+            </p>
+            <p> <lb/>„Der Bräutigam — Colonialwaarengeſchäft!“ ſtellte ſich Krei mit<lb/>Befliſſenheit und tiefer Reverenz vor. Er fühlte, was davon abhänge,<lb/>ſich dem Erben angenehm zu machen.<lb/>
+            </p>
+            <p> <lb/>„Ich bin Deine nahe Verwandte“, flüſterte Agnes hoch erregt dem<lb/>jungen Vetter zu, „ich habe nie Jemanden gehabt, zu dem ich Bruder<lb/>ſagen konnte, „Du, Du würdeſt mich nicht verachten und verſpotten,<lb/>Dir könnte ich dienen ohne Murren, als die Magd, die ich im Stein-<lb/>hauſe bin, dennoch — geh’! — kehr’ zurück!“<lb/>
+            </p>
+            <p> <lb/>Ihren großen, hellen Augen entſtürzten ſchwere Thränen und ſie<lb/>preßte die ſchmalen, hart gearbeiteten Hände wie im Krampfe auf die<lb/>Bruſt. Auguſt blickte ängſtlich umher, ob Jemand die Scene beobachte,<lb/>Daniele zog eine ihrer zitternden Hände an ſich und ſagte: „Weine<lb/>nicht, meine arme Schweſter, denn ich muß jetzt bleiben — Deinetwegen,<lb/>Du ſollſt nicht länger ſchutzlos daſtehen!“<lb/>
+            </p>
+            <p> <lb/>Bei der Frau Oberamtmännin wurde eben die zweite Torte mit<lb/>allerhand Eingemachtem und Biſchof umher gereicht, als ſich unerwartet<lb/>die Thür öffnete und die Magd Mieke eintrat Die alte Perſon ſah ſo<lb/>erſchrocken aus, daß die ſiebzehn anweſenden Damen, welche alle ihre<lb/>Füße auf Feuerkieken erwärmten, ſich im Geſpräch unterbrachen und ſie<lb/>mit durchdringender Neugier anſtarrten. „Brennt’s?“ fragte Frau<lb/>Wittfeld van Steen ſcharf.<lb/>
+            </p>
+            <p> <lb/>„Frau Burgemeiſterin“, ſtammelte Mieke, „er iſt mit der Poſt ge-<lb/>kommen, unſer Großſohn, der Italiener!“<lb/>
+            </p>
+            <p> <lb/>Die Wittwe, ihrer geiſtesſtarken Rolle getreu, faßte ſich zuerſt und<lb/>befahl: „Bereite ihm einen Glühwein und ſetze ihm zum Butterbrod<lb/>Leberwurſt auf!“<lb/>
+            </p>
+            <p> <lb/>Mieke fand ſich in ihrer Berufspflicht wieder und verſchwand.<lb/>Liſette gab von da ab ſehr zerſtreute Antworten, aber die Mama aß<lb/>und trank noch eine halbe Stunde, man würde nichts von Aufregung<lb/>gemerkt haben, wenn nicht die Schnupftabaksdoſe unaufhörlich zwiſchen<lb/>ihren Fingern getanzt hätte. Als ſie fort war, nickten die Damen ein-<lb/>ander verſtändnißinnig zu und lächelten fein: „<hi rendition="#aq">Die Doſe</hi>!“ — Dann<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0085" n="829" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=85"/>
+            </p>
+            <p> <lb/>rückten ſie zuſammen und zuckten die Achſeln und ſagten mitleidig: „Ein<lb/>Italiener!“<lb/>
+            </p>
+            <p> <lb/>„Mein Himmel“, warf die Hausfrau ein, „der heilige Vater iſt ja<lb/>auch ein Italiener!“<lb/>
+            </p>
+            <p> <lb/>„O, der iſt Papſt — das iſt etwas Anderes!“ meinten die Damen.<lb/>„Man mißtraut doch immer den Italienern!“<lb/>
+            </p>
+            <p> <lb/>„Ich warte nur“, ſagte die Apothekerin feierlich, ob <hi rendition="#aq">er</hi> aus dem<lb/>Bienenkorb muß oder <hi rendition="#aq">ſie</hi> — zwei Regenten hauſen nicht zuſammen!“<lb/>
+            </p>
+            <p> <lb/>Die Damen blickten ſich an, es entſtand eine etwas gedrückte Pauſe,<lb/>dann hauchte es von fünfzehn Lippenpaaren: „Er!“ — Ein leiſer Schau-<lb/>der überlief die Damen und ſie wickelten mit einem Seufzer ihre fünf-<lb/>zehn Strickſtrümpfe zuſammen.<lb/>
+            </p>
+            <p> <lb/>Was für eine Rede ſich auch die Bienenkönigin zurecht gelegt haben<lb/>mochte, ſie hielt dieſelbe nicht, denn ſie ſelbſt wurde mit einer Anſprache<lb/>empfangen:<lb/>
+            </p>
+            <p> <lb/>„Fürchten Sie ſich nicht vor dem großen Italiener, Großmama, ich<lb/>habe ein Herz wie ein Kind und werde gut gegen Alle ſein; nur wenn<lb/>man meinen Zorn aufreizt, dann bin ich Italiener, dann ſtehe ich nicht<lb/>für Das, was mein heißes Blut verſchuldet!“<lb/>
+            </p>
+            <p> <lb/>„Ich habe mich noch <hi rendition="#aq">nie</hi> gefürchtet!“ ſagte die Burgemeiſterin<lb/>königlich.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Nie</hi>?“ ſtaunte der eben eintretende Joſef, „nie, Mama?“ wieder-<lb/>holte er. „Nun, dann hoffe ich das erſte Mal zu erleben! — Und jetzt<lb/>willkommen, Du Moſes, Du Gefundener, Gott ſegne Dich — ich thue<lb/>es, ich bin Dein alter Onkel Joſef, mein Segen gilt nicht viel, aber ich<lb/>geb’ es, wie ich’s habe!“<lb/>
+            </p>
+            <p> <lb/>Daniele, der Mühe hatte, den ſchwerfälligen Dialect ſeiner neuen<lb/>Verwandten zu verſtehen, begriff doch gleich, der Oheim ſei ſehr „<hi rendition="#aq">luſtig</hi>“<lb/>und verſprach dann, ihn morgen zu einer ernſten Conferenz aufzuſuchen,<lb/>in welcher berathen werden ſollte, wie man ſich den Winter am beſten<lb/>und unterhaltendſten durch allerhand geſellige Abwechſelung vertreiben<lb/>könne, damit man nicht vor Langeweile umkomme. Schweſter Agnes<lb/>hatte ſchon geſtanden, daß hier weder Theater, noch Carneval, ſelten ein<lb/>Ball und noch ſeltener ein Concert ſei. — „Nun wundert’s mich nicht,<lb/>daß Tauſende von Deutſchen ihrer Geſundheit wegen nach Italien<lb/>kommen, indeß noch nie ein Italiener wegen ſeiner Kränklichkeit nach<lb/>Deutſchland zog!“ rief Daniele; „ſie werden vor Langeweile krank. Aber<lb/>Schweſter Agnes und ich, wir wollen nicht krank werden, ſie ſoll ihr<lb/>Haar hübſch in Locken friſiren, ihre Hände ſchonen und lichte, modiſche<lb/>Kleider tragen, ich lehre ſie die Cither ſpielen und alle unſere Tänze<lb/>tanzen — und Italieniſch ſoll ſie lernen, bis ihre Augen froh und jung<lb/>werden und ihr Schritt leicht!“ Joſef machte einen kleinen, wunderlichen<lb/>Luftſprung und Liſette bebte, daß ſie ſich an eine Stuhllehne feſthalten<lb/>mußte.<lb/>
+            </p>
+            <p> <lb/>„Du vergißt“, ſagte die Wittwe feierlich, „daß Du in einem Trauer-<lb/>hauſe biſt!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0086" n="830" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=86"/>
+            </p>
+            <p> <lb/>„Nun“, entgegnete Daniele, „der Papa hat gut ohne mich fertig<lb/>werden können, ich kannte ihn weniger als jeden Lehrling bei meinem<lb/>Großvater, ihm lag nichts an meiner Geſellſchaft, als er lebte, an mei-<lb/>ner Trauer kann ihm, nun er todt iſt, ſchon gar nichts liegen — mir<lb/>war ein paar Tage traurig, aber das iſt lange vorüber!“ Während er<lb/>ſprach, zog er einige große Cigarren hervor und präſentirte Joſef davon.<lb/>„Wenn es der Großmama läſtig iſt, gehen wir auf mein Zimmer“, fügte<lb/>er hinzu. Die Doſe drehte ſich blitzſchnell, aber die Alte nickte nur, ſie<lb/>wußte offenbar nicht, wie ſie ſich dieſer harmloſen Sicherheit gegenüber<lb/>zu benehmen habe.<lb/>
+            </p>
+            <p> <lb/>Am nächſten Morgen ging in der obern Etage ein ungeheures Pol-<lb/>tern los. Die Wittwe ſaß wie ein verkörpertes Donnerwetter in ihrem<lb/>Lehnſtuhl. Als das Gepolter aufgehört hatte, eilte Daniele ganz freude-<lb/>ſtrahlend herein, Joſef hinterdrein. „Es wird Alles herrlich, Groß-<lb/>mama, wir haben den ganzen Saal ausgeräumt, da wollen wir Ball<lb/>ſpielen, Auguſt, Agnes, Joſef und die jungen Leute der Stadt, o, ich bin<lb/>ein tüchtiger Ballſchläger. Und tanzen wollen wir dort und Komödie<lb/>ſpielen — zu Haus gab mein Großvater immer die redlichen Landleute<lb/>und treuen Diener und ich die Intriguanten. Sie, Großmama,<lb/>werden nach den Vorſtellungen Denjenigen krönen, der’s am beſten ge-<lb/>macht hat!“<lb/>
+            </p>
+            <p> <lb/>„Es iſt hier nicht des Landes Brauch“, entgegnete die Wittwe,<lb/>„während des Advents laute Vergnügungen zu betreiben!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#b">Oh, dio mio</hi> — ich verſtoße nie gegen den Brauch des Landes, ſo<lb/>werden wir während des Advents Tombola, Mora und Ball ſpielen.<lb/>Und nun Addio, ich muß jetzt mit dem Zio Beſuche und Beſorgungen<lb/>machen!<lb/>
+            </p>
+            <p> <lb/>Daniele ſprach in ſeiner frohen Erregung um ſo ſchlechter Deutſch<lb/>und griff zu den milden Ausdrücken ſeiner Mutterſprache.<lb/>
+            </p>
+            <p> <lb/>Mit dem letzten Wort verſchwand er grüßend und war ſchon mit-<lb/>ten auf der Straße, ehe Zio Giuſeppe noch die Steinſtufen des Hauſes<lb/>hernieder haſten konnte. Die Frau Burgemeiſterin drehte ihre Tabaks-<lb/>doſe, erſt raſcher, dann gemeſſener. Mieke hatte ſie natürlich von Allem,<lb/>was oben vorgegangen, verändert und geredet war, auf’s Genaueſte in<lb/>Kenntniß geſetzt. Sie zeigte ſich in ihrer anſcheinenden Ruhe noch<lb/>ſchrecklicher als ſonſt, wo ſie laut im Hauſe umhercommandirte. So<lb/>wie ſie mochte einſt Katharine von Medicis im hohen Alter ausgeſehen<lb/>haben, berechnend — ſchonungslos.<lb/>
+            </p>
+            <p> <lb/>„Agnes!“ rief die Wittwe und das junge Mädchen trat ſofort ein.<lb/>Die Enkelin trug eine andere Friſur — war es dieſe, oder wie kam es,<lb/>daß das Mädchen größer und blühender ausſah als bisher; ihre Hal-<lb/>tung ſicherer und ihr Blick weniger mürriſch und ausdruckslos war? —<lb/>Die alte Frau ſah, daß ihre Enkelin ihr ungemein ähnlich werden<lb/>würde und mit dieſer Ueberzeugung kam die zweite, das Mädchen müſſe<lb/>
+               <hi rendition="#aq">jetzt</hi> gezwungen werden zur Unterwürfigkeit, ehe denn es zu ſpät da-<lb/>zu ſei.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0087" n="831" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=87"/>
+            </p>
+            <p> <lb/>„Agnes, wer hat Dir geheißen, den Männern oben bei Ausräu-<lb/>mung des Salons und bei der Umänderung von des — von meines<lb/>Enkelſohnes Zimmer zu helfen?“ fragte ſie.<lb/>
+            </p>
+            <p> <lb/>„Der Hausherr, Großmama!“<lb/>
+            </p>
+            <p> <lb/>Die Doſe flog wie ein Feuerrad, Agnes ſtellte ſich feſt in die<lb/>Schuhe, ſie glaubte nicht anders, als ihre Vorfahrin müßte ſie ob ſolcher<lb/>Keckheit erwürgen, aber die Erbtochter van Steen trug die <hi rendition="#aq">großen</hi> Er-<lb/>eigniſſe mannhaft, indeß ihr nur die geringfügigen auf die Galle fielen.<lb/>Sie entgegnete einfach: „Ganz recht, ſchicke mir jetzt Mieke.“ Aber die<lb/>treue Heuchlerin kam ſchon ungerufen. „Mamſell Agnes“, ſagte ſie mit<lb/>einem Ton, als wenn eine Holzſäge gefeilt wird, „<hi rendition="#aq">Mamſell</hi> Agnes, da<lb/>iſt Fräulein Nieding, die Schneiderin, um Ihnen das Maß zu nehmen,<lb/>der Herr Italiener ſchickt ſie zu Ihnen!“<lb/>
+            </p>
+            <p> <lb/>Agnes wurde roth über’s ganze Geſicht vor Freude und Genug-<lb/>thuung und beeilte ſich, die alten Menſchenſpinnen allein zu laſſen.<lb/>
+            </p>
+            <p> <lb/>„O, unſer Haus wird zur Mörderhöhle!“ winſelte Mieke und rieb<lb/>ſich die Augen mit der Küchenſchürze roth. Die Blicke der Gebieterin<lb/>hefteten ſich wie ſpottend auf ſie und ohne eine weitere Bemerkung<lb/>reichte ſie Mieke ein Schlüſſelbund und ſagte: „Gieb mir den Leinen-<lb/>beutel mit den Piſtolen!“<lb/>
+            </p>
+            <p> <lb/>Die Piſtolen der Großmutter waren keine Schießwaffen, ſondern<lb/>Goldſtücke; aber ſie traf damit recht gut in’s Centrum, und das halbe<lb/>Dutzend, das ſie in der hohlen Hand zuſammenhäufelte, das wußte ſie,<lb/>war auch nicht umſonſt aus dem ſichern Schutz des alten Schreibtiſches<lb/>geriſſen. „Trag’ das zu Auguſt Krei, ſag’ ihm, er ſoll Nachmittags<lb/>ſeinen Krant ſchließen und <hi rendition="#aq">hier</hi> mit den jungen Leuten guter Dinge ſein,<lb/>Nachtheil ſoll er nicht davon haben, wenn er ein Ort (Maß) Syrop<lb/>weniger verkauft.“<lb/>
+            </p>
+            <p> <lb/>„Es iſt viel!“ ſeufzte Mieke.<lb/>
+            </p>
+            <p> <lb/>„Ich wollte, ich könnte den <hi rendition="#aq">ganzen</hi> Beutel voll hergeben und —<lb/>aber <hi rendition="#aq">ſie</hi> ſind nicht wie Krei!“<lb/>
+            </p>
+            <p> <lb/>Daniele und ſein Zio, „Onkel“ Joſef behielt den Namen bis an<lb/>ſein Lebensende, brachten es noch vor dem Mittags-Ave-Maria dahin,<lb/>daß eine wunderliche Unruhe und Aufregung den üblichen Geiſtes-<lb/>ſchlummer der theuren und ehrſamen Mitbürger verſcheuchte. Frauen<lb/>blickten aus den Fenſtern, wo ſich der Italiener zeigte, vor den Läden<lb/>ſtanden die Jünglinge von der Elle mit froſtrothen Händen und erzähl-<lb/>ten den Vorübergehenden, der „Italiener“ habe ihren ganzen „Kram“<lb/>durchſucht und umgekehrt und das Beſte gekauft, was da geweſen.<lb/>
+            </p>
+            <p> <lb/>Die Gaſt- und Schänkwirthe ſchauten mit bunten Hausmützen aus<lb/>den geöffneten Luftſcheiben der brauntapezirten Gaſtſtuben und die<lb/>Quaſten der Mützen tanzten im Winde. Abends war der ſonſt etwas<lb/>ſtagnirende Herrenclub belebt wie eine ABC-Schule; man hörte das<lb/>Durcheinanderreden deutlich die ganze Straße herunter. Manchmal ent-<lb/>ſtand eine längere Stille, aber dieſelbe ſchloß mit um ſo lebhafteren<lb/>Acclamationen — Daniele hatte Kartenkunſtſtücke und allerhand Ta-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0088" n="832" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=88"/>
+            </p>
+            <p> <lb/>ſchenſpielergeſchicklichkeiten zum Beſten gegeben. Dann ſang er italie-<lb/>niſche Opernarien und declamirte in ſeiner weichen, unvollkommeneu<lb/>Ausſprache kleine deutſche Verſe — endlich tanzte er mit dem Apotheker<lb/>und der Thierarzt pfiff dazu, bis er vor Lachen keinen Ton mehr her-<lb/>ausbrachte. Ein Geſangverein, ein Ballſpielclub und eine Maskerade<lb/>wurden ſchon heute beſchloſſen und die vorläufigen Einrichtungen ent-<lb/>worfen. — Der nächſte Tag brachte einen Spazierritt mit Auguſt; der<lb/>arme Krei blickte auf dieſes Vergnügen noch jahrelang wie auf ein<lb/>Martyrium zurück, überhaupt ward dieſer Tag bedeutungsvoll in<lb/>Auguſt’s ſonſt ſo eintönigem Daſein. Als Abends Daniele ſeinen Cither-<lb/>unterricht mit Agnes begann und Beide ganz vertieft in ſich und ihr<lb/>Studium waren, weckte die Burgemeiſterin den ſchlaftrunkenen Auguſt,<lb/>der ſeine Augen möglichſt groß über den runden, tiefrothen Wangen<lb/>aufriß, und ſprach, ſeine blaurothe, breite Hand faſſend: „Mein Sohn!<lb/>Du weißt zwar, daß ich gelobt habe, kein Pfennig meines Vermögens<lb/>ſollte auf die Kinder meiner Tochter erben, aber wegen des van Steen’-<lb/>ſchen Hauſes, das für ein Geſchäft ſehr günſtig liegt, wegen des Gar-<lb/>tens, der Ländereien, des Tannenkamps und des Torfſtiches bin ich<lb/>durch kein Gelübde gebunden. Wenn Du wie jetzt folgſam und fleißig<lb/>biſt, werde ich Dir an Deinem Hochzeitstag Haus und Garten ſchenken<lb/>und Dir das Uebrige teſtamentariſch verſchreiben, falls Du in kindlicher<lb/>Unterwürfigkeit verharreſt! Still, ſag’ nichts, es bleibt unter uns!“<lb/>
+            </p>
+            <p> <lb/>Auguſt war überwältigt von ſo viel Großmuth, doch fiel in dieſelbe<lb/>ein bitterer Tropfen Wermuth, als Mieke ihm nach Hauſe leuchtete<lb/>durch die ſtockfinſteren Gaſſen und weinerlich ſagte: „Ach, Sie armer<lb/>Herr Auguſt, dieſer fremde Ausländer iſt zu unſerm Unglück ge-<lb/>kommen!“<lb/>
+            </p>
+            <p> <lb/>„Daß ich nicht wüßte“, entgegnete Krei, der ganz zufrieden war,<lb/>„er iſt gegen mich freundlich, beſchenkt Agnes und verſpricht — —“<lb/>
+            </p>
+            <p> <lb/>Mieke lachte — es war wie ein ſchauerliches Eulengekrächz; das<lb/>Colonialwaarengeſchäft blieb wie angedonnert ſtehen. — „Hm —<lb/>Mieke?“<lb/>
+            </p>
+            <p> <lb/>„Aber Sie ſind doch Kaufmann, Sie wiſſen doch, daß kein Menſch<lb/>in der Welt Geld zahlt, wenn er nicht etwas dafür haben will; daß<lb/>man keinen mit Höflichkeit überſchüttet, der uns nicht mit etwas <hi rendition="#aq">dienen</hi>
+               <lb/>ſoll — und —“<lb/>
+            </p>
+            <p> <lb/>„Nun, warum ſollte ich meinem Vetter nicht gern wieder dienen,<lb/>wo ich kann?“<lb/>
+            </p>
+            <p> <lb/>„Von Herrn Krei will er nicht viel — nur ſeine Braut!“ ſagte<lb/>Mieke und ſchnäuzte ſich laut und energiſch.<lb/>
+            </p>
+            <p> <lb/>„Thorheit!“ entgegnete Auguſt, „am Hochzeitstag bekommen wir ja<lb/>das van Steen’ſche Haus und wenn —“<lb/>
+            </p>
+            <p> <lb/>„Na, gute Nacht, Herr Auguſt, deſto beſſer für Sie, wenn’s Ihnen<lb/>recht iſt!“ Auguſt ſtand vor ſeiner Thür wie angenagelt und ſah dem<lb/>kleiner und kleiner werdenden Irrlicht in Mieke’s Hand und in Mieke’s<lb/>verſchlagenem Weſen nach, endlich murmelte er: „Daniele iſt reich und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0089" n="833" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=89"/>
+            </p>
+            <p> <lb/>liebt — Agnes — wenn ich reich wäre — Donnerwetter, ich muß die<lb/>Augen aufhalten, ſie iſt doch ſo ein hübſches — nein, ein beſonderes<lb/>Geſchöpf, Herr Gott, nein, ich gebe ſie nicht her!“<lb/>
+            </p>
+            <p> <lb/>Am nächſten Sonntag war die Aufmerkſamkeit eines Theils der<lb/>weiblichen Kirchenbeſucher ungemein getheilt. Die Augen der Damen<lb/>hafteten beſonders oft auf dem mit dunklem Schnitzwerken und Schilden,<lb/>in die das alte Hauszeichen eingegraben war, verzierten Kirchenſtuhl der<lb/>Familie van Steen. Solche Aufmerkſamkeit galt nicht etwa der from-<lb/>men Liſette, ſondern vielmehr dem Italiener, der in einem pelzverbräm-<lb/>ten Rock daſaß, noch faſt mehr aber der mit einem neuen Seidenkleid<lb/>und einem Sammethut angethanen Agnes — es war ein unvernünftiger<lb/>Staat, gewiß, aber man ſieht doch: „Kleider machen Leute!“ Während<lb/>ſie früher wie ein halbreifes Dienſtmädchen dreinſchaute, war ſie heute<lb/>ein ſo feines Fräulein, wie nur eines über die Straße geht!<lb/>
+            </p>
+            <p> <lb/>Auch Auguſt betete an dieſem Morgen wenig, er ſtarrte unver-<lb/>wandt zu Agnes hinüber und ſah, wie der ſchwarze Schleier ſo leicht<lb/>über ihr blondes Haar fiel und wie ihre Augen aus all’ der dunklen<lb/>Umhüllung und Umgebung hervorleuchteten — wie konnte das Alles<lb/>nur ſo geworden ſein? Auguſt würde ſich ſehr ſtolz fühlen, nur daß er<lb/>Mieke’s böſe Worte nicht los werden konnte.<lb/>
+            </p>
+            <p> <lb/>Die Natur rüſtete auf einen weißen Weihnachten und Daniele, der<lb/>von allen Dingen das Bouquet, das Aroma abſchöpfte, ließ einen Schlit-<lb/>ten erbauen und verſchrieb ein Schellengeläut. Alle Herren des Clubs<lb/>nahmen den regſten Antheil an Daniele’s Unternehmungen, es war ein<lb/>Schwung in die männliche Geſelligkeit gekommen, der einen unterhalten-<lb/>den Winter verſprach. Zio Giuſeppe ging überall mit voran, er war<lb/>unmäßig ſtolz auf ſeinen Neffen!<lb/>
+            </p>
+            <p> <lb/>Auguſt Krei machte daheim im Geſchäft die ſchauderhafteſten Miß-<lb/>griffe, er verwechſelte Gegenſtände, welche nicht die mindeſte Aehnlichkeit<lb/>mit einander hatten, ſeine Gewichtſtücke ſchienen ſich mit raffinirter<lb/>Tücke der taſtenden Hand zu entziehen, ſo daß er immer ein falſches auf<lb/>die Wagſchale ſetzte. Die alten Bauerweiber, die Kaffee, Reis und<lb/>Zucker gegen Butter und Eier eintauſchten, ſchüttelten bedenklich den<lb/>Kopf und meinten in ihrer plattdeutſchen Offenherzigkeit: „Kaufmann<lb/>Auguſt (zum Unterſchied von ſeinem vor zwölf Jahren verſtorbenen Va-<lb/>ter Gerhard) müſſe wol etwas „verdwolen“ (etwas verirrt im Kopfe)<lb/>ſein. Die Eiferſucht, angefeuert durch die Perſpective auf das van<lb/>Steen’ſche Haus, wuchs indeß nicht allzu raſch in ſeinem Herzen empor;<lb/>immer hatten Andere für ihn geurtheilt, erſt ſein Vater, dann ſein Vor-<lb/>mund, endlich die Burgemeiſterin, ſo daß er ſich nicht an dieſen Gedan-<lb/>ken- und Zeitaufwand gewöhnt hatte. Nebenbei iſt ein reicher, junger<lb/>Vetter mit Haus- und Grundbeſitz nicht gerade die Perſon, der ein jun-<lb/>ges Colonialwaarengeſchäft ohne Weiteres vor den Kopf ſtößt; aber nach<lb/>und nach gerieth Auguſt doch in einen wehmüthigen Zorn, wenn er ſah,<lb/>wie Agnes in den neuen Kleidern ſo ganz für Daniele zu leben, zu den-<lb/>ken ſchien, wenn ſie mit ihm Ball ſpielte oder zierliche Tänze aufführte,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0090" n="834" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=90"/>
+            </p>
+            <p> <lb/>wenn ſie mit geläufiger Zunge italieniſche Worte und kleine Verſe ſprach,<lb/>ja wenn ſie ihm ein leichtes Lied auf der Cither begleitete - da konnte<lb/>ihn ein wahrer Grimm erfaſſen — gegen die alte Großmutter, die das<lb/>Alles ganz ruhig mit anſah, ja ſich ſo benahm, als habe Daniele ihr<lb/>jede Verantwortung für ihre Enkelin abgenommen.<lb/>
+            </p>
+            <p> <lb/>Endlich trug er’s nicht länger, er ſtellte ſich der Alten keck gegen-<lb/>über und ſtieß heftig hervor: „Großmutter, iſt dies ein Betragen für<lb/>eine Braut?“<lb/>
+            </p>
+            <p> <lb/>„Das iſt die Sache des <hi rendition="#aq">Bräutigams</hi>!“ entgegnete die Wittwe<lb/>und bot ihm eine Priſe an, nach welcher er ſo heftig nieſte, daß der Kreis<lb/>junger Leute, der am Tiſchde Tombola ſpielte, in ein lautes Lachen und<lb/>Hurrahrufen ausbrach.<lb/>
+            </p>
+            <p> <lb/>Es half nichts, Auguſt mußte ſeine Braut zur Rede ſtellen, obwol<lb/>er in letzter Zeit eine Scheu hatte, ihr irgend welche Vorſchriften zu<lb/>machen. Er paßte den Moment ab, wo ſie das Zimmer verließ, um<lb/>einige Flaſchen Wein zu holen, und erwiſchte ſie draußen am Kleider-<lb/>zipfel. „Agnes“, ſprach er mit zitternder Stimme, „Du biſt wol ganz<lb/>andern Sinnes geworden, ſeit der italieniſche Vettersmann da iſt, jetzt<lb/>bin ich Dir zu ſchlecht!“<lb/>
+            </p>
+            <p> <lb/>„Unſinn, es iſt natürlich, daß ich ihm lieber zuhöre als Euch, das<lb/>geht Jedermann ſo, aber ich weiß ganz gut, daß er die Wohlthaten, die<lb/>er mir erzeigt, und ſeine Freundlichkeit mir nur aus Mitleid ſpendet,<lb/>weil ich ſo ein armes, verachtetes, häßliches Mädchen bin!“<lb/>
+            </p>
+            <p> <lb/>„Häßlich? Lieber Gott, ja ich wollte, Du wärſt es noch, aber der<lb/>Gerichtsvoigt und eine Menge anderer Honoratioren haben mir ſelbſt<lb/>geſagt, Du gingeſt auf wie eine Maiſonne und ich würde die hübſcheſte<lb/>Frau in der Stadt haben, wenn —“<lb/>
+            </p>
+            <p> <lb/>„Nun, wenn —?“<lb/>
+            </p>
+            <p> <lb/>„Ja“, ſchloß Auguſt kläglich, „wenn Du mir treu bliebeſt — aber<lb/>ich ſehe es ja — mit eigenen Augen!“<lb/>
+            </p>
+            <p> <lb/>„Was ſiehſt Du, Auguſt?“<lb/>
+            </p>
+            <p> <lb/>„Daß Du den neuen Vetter lieb haſt!“<lb/>
+            </p>
+            <p> <lb/>„Ja, das habe ich“, ſagte nach einem kurzen Schweigen Agnes aus<lb/>tiefer Bruſt. „Wie könnte ich anders, ich war eine Sclavin und bin<lb/>
+               <hi rendition="#aq">frei</hi>, ich war elend und bin froh!“<lb/>
+            </p>
+            <p> <lb/>„Nun, als meine Frau ſollſt Du’s wahrlich auch nicht ſchlecht<lb/>haben, ich bin kein Tyrann!“<lb/>
+            </p>
+            <p> <lb/>Auguſt wollte ſie küſſen, aber ſie entſchlüpfte ihm mit den Worten:<lb/>„Nun, wir werden ja ſehen!“<lb/>
+            </p>
+            <p> <lb/>Am Tage vor Weihnachten öffnete ſich beſcheiden des philoſophiſchen<lb/>Zio Thür und Liſette ſchlüpfte in die blauen Rauchwolken, die ſich ihr,<lb/>einen Ausweg ſuchend, entgegenwälzten.<lb/>
+            </p>
+            <p> <lb/>„Doctor“, ſagte ſie beklommen und athemlos, „ich bin ſehr gelaufen,<lb/>damit Mieke nichts merkt, ich gehe zu Dir — ich komme nämlich vom<lb/>Dechanten und habe dort für den zweiten Weihnachtstag das Aufgebot<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0091" n="835" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=91"/>
+            </p>
+            <p> <lb/>beſtellt, aber Niemand ſoll es wiſſen, ich bin ein Kind des Todes, wenn<lb/>die Mama erfährt —“<lb/>
+            </p>
+            <p> <lb/>„So ſchlage doch gleich ein Kreuzdonnerwetter in alle Weiber-<lb/>köpfe!“ fluchte der Philoſoph. „Ich ſah ihr’s ſchon an, daß irgend eine<lb/>Unthat ſchwärmen wollte, da haben wir’s, in acht Tagen wäre ich gerü-<lb/>ſtet geweſen, aber es iſt zu früh — zu früh —“<lb/>
+            </p>
+            <p> <lb/>„Gerüſtet, Bruder, Du willſt doch nicht dieſe Heirath etwa hinter-<lb/>treiben?“<lb/>
+            </p>
+            <p> <lb/>„Warum nicht? Ich hintertreibe womöglich Alles, was die Mama<lb/>brauen möchte in ihrem Hexenkeſſel; das Kind ſoll wenigſtens frei<lb/>wählen können <hi rendition="#aq">wen</hi> ſie heirathet — nun, das erſte Aufgebot ſagt noch<lb/>nicht viel —!“<lb/>
+            </p>
+            <p> <lb/>„Nicht viel, Doctor? Es wäre ein Schimpf darnach zurückzutreten,<lb/>ohnehin hat Mama vom Conſiſtorium die Erlaubniß erwirkt <hi rendition="#aq">alle drei</hi>
+               <lb/>Aufgebote in eines zu faſſen — ach, Joſef, mach’ mich nicht unglücklich,<lb/>daß ich das Alles verrathe!“<lb/>
+            </p>
+            <p> <lb/>„Ich mache Dich nicht unglücklich, Deine Feigheit thut es — Du<lb/>weißt, daß Du den armen Kindern ihre ganze Freude hinterliſtig ver-<lb/>dirbſt und doch gingeſt Du!“<lb/>
+            </p>
+            <p> <lb/>„Aber Joſef, ging ich nicht, ſo ging Mieke oder Mama — was<lb/>kommen ſoll kommt!“<lb/>
+            </p>
+            <p> <lb/>„Freilich, geh’ jetzt, ich muß einen reitenden Boten mit einem Tele-<lb/>gramm auf die Station ſchicken. Sei ruhig, ich verrathe Dich nicht,<lb/>wenn die Kinder Courage haben, mögen ſie ſich ſelbſt vertheidigen!“<lb/>
+            </p>
+            <p> <lb/>Die Kinder feierten ahnungslos ihren Chriſtabend und Großmama<lb/>ſaß heiter und gutmüthig dabei, ja ſie betheiligte ſich am Spiele und<lb/>billigte es freundlich, daß Daniele und Agnes nächſten Morgens früh in<lb/>die Chriſtmette gehen wollten. Daniele war, trotz ſeines nationalen<lb/>Mißtrauens, faſt überzeugt, der Zio habe arg gelogen, als er behauptete,<lb/>Mama wäre ein Teufel in Menſchengeſtalt.<lb/>
+            </p>
+            <p> <lb/>Die beiden jungen Kirchgänger erſchienen, obſchon es eine gar<lb/>dunkle Winternacht war, gar pünktlich an der Hausthür, um die gemein-<lb/>ſame Wanderung anzutreten. Daniele ſchloß die Hausthür auf und<lb/>Agnes leuchtete mit ihrem Laternchen, auf dem oberſten Treppenſtein<lb/>ſtehend, hinaus und ſagte: „O weh, es iſt ein tiefer Schnee gefallen und<lb/>nirgends Bahn!“<lb/>
+            </p>
+            <p> <lb/>Kaum waren die Worte verhallt, als zwei kräftige Arme ſie um-<lb/>faßten und aufhoben. Sie wehrte ſich nicht dagegen, daß er ſie nun<lb/>ſichern Schrittes dahin trug, mit leiſem Beben fühlte ſie ihre zarte,<lb/>junge Geſtalt an ſeiner Bruſt ruhen, ſie ſchlang ihren Arm um ſeinen<lb/>Hals und legte ihre Stirn an ſeine Wange.<lb/>
+            </p>
+            <p> <lb/>„Agnes!“ flüſterte Daniele, „wirſt Du jetzt noch zu Auguſt laufen,<lb/>wenn ſie Dich ängſtigen und quälen, oder kommſt Du zu mir, der Dich<lb/>tragen und halten will, ſein Leben lang?“<lb/>
+            </p>
+            <p> <lb/>„Du weißt Alles, Daniele“, entgegnete ſie, „aber ich bin ein armes,<lb/>verlaſſenes Mädchen, viel zu gering für Dich!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0092" n="836" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=92"/>
+            </p>
+            <p> <lb/>„<hi rendition="#b">Oh cara mia</hi> — könnte ich denn ein unſchuldigeres Herz finden<lb/>als das Deine?“<lb/>
+            </p>
+            <p> <lb/>„Nein, nein, Daniele, ich bin durch Großmutter böſe und gottlos<lb/>geworden, ich weiß es, ich weiß es und nicht ſo namenloſen Glückes<lb/>würdig!“<lb/>
+            </p>
+            <p> <lb/>„Agnes, iſt meine Liebe denn ſo wenig für Dich, daß ſie die Unge-<lb/>rechtigkeit der alten Frau nicht aufzuwiegen vermöchte?“<lb/>
+            </p>
+            <p> <lb/>„O, Daniele, ſetz mich zur Erde, daß ich niederknieen und Gott und<lb/>Dir danken kann! Ja, ich will gut werden, ich will Deine Liebe wie eine<lb/>Erlöſung nehmen, ich will die Feindſchaft der alten Frau mit Gehorſam<lb/>und Liebe beſiegen!“ Seine Lippen ſchloſſen ihren Mund mit herzinnigem<lb/>Kuſſe: „Du biſt jetzt keine verlaſſene Waiſe mehr!“ ſagte er und ließ ſie<lb/>ſanft zur Erde gleiten, denn hier in der Nähe der Kirche eilten dunkle<lb/>Geſtalten an ihnen vorüber und es zog ſich eine betretene Bahn längs<lb/>der Häuſer hin. Drin in dem alten Kirchenſtuhl ſaß das junge, glück-<lb/>ſelige Menſchenpaar Hand in Hand, vor ihnen flimmerten die Lichtlein,<lb/>welche ſie mitgebracht hatten, und in ihnen brannte die läuternde Flamme<lb/>einer erſten, tiefen Herzensliebe.<lb/>
+            </p>
+            <p> <lb/>„Da ſitzt Auguſt!“ flüſterte zuſammenfahrend Agnes. Sie hatte<lb/>den armen Krei ganz vergeſſen.<lb/>
+            </p>
+            <p> <lb/>„Wir werden verſuchen ihn mit ſeinem Verluſt zu verſöhnen“,<lb/>erwiederte Daniele lächelnd, „ein Mann, der die Geliebte nicht ſchätzen<lb/>kann, iſt ihrer nicht werth!“ Agnes glaubte und ſchwieg.<lb/>
+            </p>
+            <p> <lb/>Das war ein ſtill ſeliger Weihnachtstag! Die Liebenden wunderten<lb/>ſich, daß Liſette und Mieke es nicht von ihren Stirnen laſen, wie es<lb/>ſtand, aber die ſahen nichts als ihren eigenen Pfad, den ſie wie zwiſchen<lb/>rohen Eiern gehend, verfolgten, jedoch Großmama ſah es — ſie ſah es<lb/>und lächelte. Agnes hätte vor ihr niederſinken mögen und ihr danken,<lb/>danken für alle Härte und Liebloſigkeit, denn ohne ſolche Zurückſetzung<lb/>würde Daniele ja nie auf Agnes geachtet haben. Auguſt kam erſt ſpät<lb/>Abends und ſchlief dann gleich ein, er war ſo früh aufgeſtanden und<lb/>über Tag waren ſo viel einkaufende Bauern in ſeinem Laden geweſen.<lb/>
+            </p>
+            <p> <lb/>Am zweiten Weihnachtstage ging Großmutter in die Frühkirche,<lb/>die Kinder mußten zum Hauptgottesdienſt. Inzwiſchen ſaß ſie in ihrem<lb/>Lehnſeſſel und vor ihr lag die große goldene Uhr des wolſeligen Burge-<lb/>meiſters: „Jetzt, jetzt!“ murmelte die Bienenkönigin, als der kleine Zeiger<lb/>ſich der Mitte zwiſchen Elf und Zwölf näherte: „<hi rendition="#aq">Jetzt</hi> wird ſie einſehen,<lb/>daß ſie zu früh triumphirte, wenn ſie ſich ſchon als Herrin dieſes<lb/>Hauſes ſah — Herrin des Hauſes, in welchem <hi rendition="#aq">ich</hi> regieren will, bis<lb/>der Tod mich abruft. Die Alte hat die Trümpfe in der Hand, ſie wird<lb/>nicht zum Kinderſpott!“<lb/>
+            </p>
+            <p> <lb/>Ihr Geſicht erheiterte ſich mehr und mehr. Spähend ſah ſie die<lb/>Straße hinunter und murmelte dann, ihr Geſicht in ernſte Falten legend:<lb/>„Da kommen ſie — es hat getroffen, ſie hebt kaum die Füße auf und er<lb/>iſt blaß und gelb vor Aerger!“<lb/>
+            </p>
+            <p> <lb/>Die Thür flog auf, Daniele ſtand groß und drohend im Rahmen:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0093" n="837" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=93"/>
+            </p>
+            <p> <lb/>„Wo iſt das Kind“, fragte Großmama, „daß ich ihr Glück wünſche und<lb/>ſie mir für mein Chriſtgeſchenk dankt?“<lb/>
+            </p>
+            <p> <lb/>„Alte Frau“, ſprach Daniele näher tretend und mit zornbebender<lb/>Stimme, „heuchle wenigſtens nicht — geſtehe, daß Du wußteſt, <hi rendition="#aq">wie</hi> Du<lb/>mir und Agnes in’s Herz ſchnitteſt mit Deiner Hinterliſt!“<lb/>
+            </p>
+            <p> <lb/>Die Alte ſah ihm feſt in die funkelnden Augen und entgegnete:<lb/>„Freilich wußte und wollte ich’s; mich hintergeht Keiner, aber ich hatte<lb/>das <hi rendition="#aq">Recht</hi> ſo zu thun!“<lb/>
+            </p>
+            <p> <lb/>„In dieſem Hauſe hat Niemand das Recht Entſcheidungen der Art<lb/>zu treffen als ich!“ rief der Enkel feſt. „So wahr ich hier ſtehe, Groß-<lb/>mutter, aus dieſer Hochzeit wird nichts, ſoll und kann nichts werden,<lb/>ich halte mein Recht gegen Deines, <hi rendition="#b">Corpo di Bacco</hi>, wir werden ſehen,<lb/>welches am ſchwerſten wiegt!“<lb/>
+            </p>
+            <p> <lb/>Die Wittwe nahm eine Priſe und erwiederte, den Tabak vom<lb/>Kleide ſtäubend: „Natürlich das <hi rendition="#aq">meine</hi>, denn Du haſt noch <hi rendition="#aq">gar</hi> kein<lb/>Recht, außer demjenigen, welches <hi rendition="#aq">ich</hi> Dir aus gutem Willen gab — wo<lb/>ſind die <hi rendition="#aq">Papiere</hi>, unterſchrieben und unterſiegelt, die da beſtätigen, Du<lb/>ſeieſt der Sohn des Architekten Amandus Wittfeld —? in <hi rendition="#aq">Italien</hi> —<lb/>nun da könnte <hi rendition="#aq">Jeder</hi> kommen! Du haſt geſungen und getanzt und<lb/>geliebäugelt, ſtatt ſie in der Reſidenz beglaubigen zu laſſen! Die Erb-<lb/>ſchaft und das Haus gehören <hi rendition="#aq">mir</hi>, bis <hi rendition="#aq">Du</hi> ſie in aller Form angetreten<lb/>haſt, die Summen, welche Dir Joſef einhändigte, gab er Dir auf <hi rendition="#aq">ſeine</hi>
+               <lb/>eigene Verantwortung — denn wir haben keine Bürgſchaft, daß Du <hi rendition="#aq">Der</hi>
+               <lb/>biſt, für den Du Dich ausgiebſt und <hi rendition="#aq">ſchweigen</hi> wirſt Du, bis Du ein<lb/>geſetzliches Recht haſt zu reden!“<lb/>
+            </p>
+            <p> <lb/>Daniele ſchlug ſich ingrimmig vor die Stirn und taumelte gegen<lb/>die Wand: „Großmama“, ſagte er ſich dann aufraffend, „ich büße ſchwer<lb/>für meinen Leichtſinn, aber um der Barmherzigkeit willen, ſtrafe Agnes<lb/>nicht, ſchieb die Hochzeit hinaus, bis ich zurück bin!“<lb/>
+            </p>
+            <p> <lb/>„Du haſt hier im Hauſe gethan wie <hi rendition="#aq">Dir</hi> beliebte, ich werde thun<lb/>wie <hi rendition="#aq">mir</hi> beliebt!“<lb/>
+            </p>
+            <p> <lb/>Daniele murmelte einen Fluch und eilte zu Agnes, um ihr Lebe-<lb/>wohl zu ſagen, da er ungeſäumt abreiſen mußte: „Muth, armes Kind,<lb/>halt Dich nur acht, nur vier bis <hi rendition="#aq">ſechs</hi> Tage ſtandhaft und ſollteſt Du<lb/>vor dem Altar <hi rendition="#aq">Nein</hi> ſagen. Verſuch’ es Auguſt zu einem Aufſchub zu<lb/>bewegen, leider muß mich nun auch der Zio als Teſtamentsvollſtrecker<lb/>begleiten, verſprich mir, daß Du <hi rendition="#aq">feſt</hi> bleiben willſt!“<lb/>
+            </p>
+            <p> <lb/>„Muß ich <hi rendition="#aq">das</hi> verſprechen, Daniele? Du findeſt mich frei — oder<lb/>todt wieder!“<lb/>
+            </p>
+            <p> <lb/>Eine halbe Stunde ſpäter zogen vier Extrapoſtpferde den Onkel<lb/>und Neffen durch den immer dichter fallenden Schnee, welcher die<lb/>Chauſſée bereits an manchen Stellen faſt unpaſſirbar gemacht hatte.<lb/>
+            </p>
+            <p> <lb/>Agnes ſaß, den Tod im Herzen, in ihrer eiſig kalten Kammer, ſie,<lb/>welche ſtets unbemerkt und unterdrückt nur wie ein höheres Hausthier<lb/>geduldet wurde, war plötzlich zum Augenmerk der ganzen Stadt<lb/>geworden. Aus ihrer ſeligen Sicherheit war ſie unverſehens mitten in<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0094" n="838" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=94"/>
+            </p>
+            <p> <lb/>die Wogen geworfen und neben der drohenden Feindin, welche heute ihre<lb/>Streitmacht entfaltet hatte, ſtand ein verhülltes, erſchreckendes Phantom<lb/>— die <hi rendition="#aq">Schuld</hi> gegen Auguſt. Aber Auguſt war ſo gut, vielleicht, o<lb/>gewiß, trat er freiwillig zurück! Mit dieſer Hoffnung im Herzen trat<lb/>Agnes vor das Meduſenangeſicht der Großmutter. Dieſe ſchien voll<lb/>kommen ruhig; als ihr Blick zufällig auf die Enkelin fiel, ſagte ſie: „Es<lb/>iſt beſſer, Kind, daß Alles ſeinen richtigen Gang geht!“ und dann ſetzte<lb/>ſie ſich mit gutem Appetit zu Tiſche.<lb/>
+            </p>
+            <p> <lb/>Agnes war den Tag über wie verloren, es trieb ſie auch ihrerſeits,<lb/>um ihr Schickſal zu kämpfen und doch auch wieder bäumte ſich ihr Herz<lb/>dagegen, als eine Bittende vor Auguſt zu treten. Endlich legte ſie ihre<lb/>Kapuze über’s Haar, hüllte ſich in einen Shawl und eilte durch die tief<lb/>eingeſchneiten Gaſſen, durch welche ſchmale Pfade, gleich Gruben, dahin<lb/>liefen.<lb/>
+            </p>
+            <p> <lb/>Auguſt ſtand mit einer Laterne in ſeinem düſtern, gefängnißartigen<lb/>Waarenlager, zwiſchen Tonnen und Zuckerhüten, Kiſten und Säcken.<lb/>Er war ganz vertieft in Ueberzählung dieſer Gegenſtände, die er auf-<lb/>notirte, und bemerkte Agnes deshalb nicht; als er ſich einmal unterbrach<lb/>im Aufſummiren, geſchah das mit den Worten: „Drei Tonnen Heringe,<lb/>ich wußte, es mußten noch drei Tonnen ſein!“ Das Mädchen hätte auf-<lb/>ſchreien mögen vor Schmerz, daß ihn ſeine Heringe beſchäftigten in dem<lb/>Augenblick, wo das Lebensglück dreier Menſchen auf der äußerſten, haar-<lb/>ſcharfen Grenze der Entſcheidung ſtand. „Auguſt!“ rief ſie faſt drohend<lb/>und wickelte ſich feſter in ihre Hülle.<lb/>
+            </p>
+            <p> <lb/>„Sieh da, Agnes — na, endlich hat’s die Alte doch zugegeben!“<lb/>
+            </p>
+            <p> <lb/>„Ich komme, um Dir zu ſagen, daß es <hi rendition="#aq">nicht</hi> ſein kann! Auguſt,<lb/>Du hatteſt Recht mit Dem, was Du neulich ſagteſt, Du haſt es eher ein-<lb/>geſehen als ich ſelbſt — ich kann Deine Frau <hi rendition="#aq">nicht</hi> werden!“<lb/>
+            </p>
+            <p> <lb/>„Ja, mein Kind, damit kommſt Du nun wie Muſtart nach der<lb/>Mahlzeit, das Bedenken iſt vorbei, nach dem Aufgebot läßt ſich nichts<lb/>mehr ändern!“<lb/>
+            </p>
+            <p> <lb/>„Wenn wir uns Beide weigern, wenn wir erklären, wir wollten<lb/>nicht unglücklich werden —“<lb/>
+            </p>
+            <p> <lb/>„Ich mich weigern? Das wäre doch die reine Tollheit, die Alte<lb/>kündigt die Capitalien und ich bin ruinirt und weshalb ſollteſt Du<lb/>denn mit mir unglücklich werden, ich thue Dir wahrlich nichts Schlimmes!“<lb/>
+            </p>
+            <p> <lb/>„Weil — o Du weißt es ja — weil ich Daniele liebe und<lb/>er mich!“<lb/>
+            </p>
+            <p> <lb/>„So — alſo doch — ja Agnes, das thut mir im Herzen leid, Du<lb/>mußt Dir Mühe geben ihn zu vergeſſen!“ —<lb/>
+            </p>
+            <p> <lb/>Agnes ging mit raſcher Bewegung ein paar Schritte vorwärts,<lb/>warf ſich zwiſchen den Säcken und Kiſten auf die Knie und ſchrie:<lb/>„Auguſt, hab’ Erbarmen, gieb mich frei, bei Gott ich kann Deine Frau<lb/>nicht werden!“<lb/>
+            </p>
+            <p> <lb/>Auguſt antwortete nicht, er ſetzte ſich auf eine Tonne, bedeckte ſein<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0095" n="839" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=95"/>
+            </p>
+            <p> <lb/>Geſicht mit den Händen und ſchluchzte wie ein Kind. Agnes rutſchte<lb/>auf den Knieen bis zu ihm hin und ergriff ſeine Hände:<lb/>
+            </p>
+            <p> <lb/>„Auguſt — o, könnte ich Dir dieſen Schmerz erſparen, ich <hi rendition="#aq">kann</hi>
+               <lb/>es nicht — gieb mich frei!“<lb/>
+            </p>
+            <p> <lb/>„Habe ich nicht Jahr und Tag für Dich gebetet, gearbeitet und<lb/>geſorgt?“ ſchluchzte Krei; „erſt hieß es: das Geſchäft muß ſich heben!<lb/>gut, es hob ſich. Dann: es ſind theure Zeiten. Gut, ſie wurden<lb/>billiger, endlich: ja, wenn die alte Grete kündigt! gut, ſie kündigte mir<lb/>zum Mai — und nun ich <hi rendition="#aq">endlich</hi> ſo weit bin, kommt dieſer Italiener,<lb/>der <hi rendition="#aq">nie</hi> etwas für Dich that, ſtreckt die Hand aus und hat Dich!“ Er riß<lb/>ſeine Hände aus den ihrigen.<lb/>
+            </p>
+            <p> <lb/>„Ich muß jetzt gehen“, ſagte Agnes ſich erhebend, „überleg’ es Dir;<lb/>aber wiſſe auch, ich <hi rendition="#aq">kann</hi> und <hi rendition="#aq">darf</hi> nicht Ja ſagen vor dem Altar!“<lb/>
+            </p>
+            <p> <lb/>Krei drehte ſein Geſicht der Wand zu und antwortete nicht, ſie ſah,<lb/>wie er ſich mühte, das Weinen zu unterdrücken. „Ach, wenn Daniele<lb/>nur da wäre, er würde gewiß das rechte Wort finden!“<lb/>
+            </p>
+            <p> <lb/>Im Steinhauſe, neben der Großmama, fand Agnes einige alte<lb/>Bekannte der Wittwe; dieſelben unterbrachen ihr Geſpräch, um das<lb/>Mädchen anzublicken: „Mein Gott“, rief die Schweſter des Dechanten,<lb/>„wie ſieht mit einem Male Agnes ihrer Großmutter ſo ähnlich, das muß<lb/>Dir doch ſelbſt auffallen, Burgemeiſterin —!“<lb/>
+            </p>
+            <p> <lb/>Die Bienenkönigin nickte und entgegnete, auf ihre Enkelin<lb/>blickend: „Was bei mir feſter Wille iſt, das iſt bei ihr Trotz!“ und dann<lb/>lächelte ſie.<lb/>
+            </p>
+            <p> <lb/>Zwei — drei Tage vergingen in völliger Ruhe. Agnes beobachtete<lb/>Anfangs Stunde für Stunde alle häuslichen Symptome, aber keines<lb/>deutete auf eine Gewaltmaßregel, nichts änderte ſich in den alltäglichen<lb/>Begebenheiten und Niemand ſchien ſich ſonderlich um das Mädchen zu<lb/>kümmern. Sie ahnte nicht, wie prüfend Großmama in ihren Augen<lb/>las, wie zufrieden die Alte war, als der entſchloſſene Trotz neuer Hoff-<lb/>nung und jener Ermüdung wich, die großen Seelenkämpfen im Zuſtande<lb/>der Ruhe zu folgen pflegt. Auguſt ließ ſich nur flüchtig blicken, es gab<lb/>ſo viel zu thun in dieſer Zeit!<lb/>
+            </p>
+            <p> <lb/>Am vierten Tage konnte Agnes ſich dagegen nicht verhehlen, daß<lb/>im Bienenkorb etwas Beſonderes vorbereitet werde und zu Mittag<lb/>erklärte die Burgemeiſterin, wie etwas Selbſtverſtändliches:<lb/>
+            </p>
+            <p> <lb/>„Heute Abend iſt Dein Kranzwinden, ich habe dazu zwölf von<lb/>Deinen Schulkameradinnen einladen laſſen!“ Ein Zittern lief über die<lb/>junge Geſtalt der Enkelin, aber ſie ſah ein, daß ſie nichts thun könne<lb/>als ſich vorläufig ganz ergeben zu zeigen — wahrſcheinlich kam Daniele<lb/>heute oder morgen wieder, wenn nicht — Gott konnte ſie ja nicht hülflos<lb/>verlaſſen!<lb/>
+            </p>
+            <p> <lb/>Die zwölf Kameradinnen hatten Agnes immer ſtill und unterdrückt<lb/>gekannt, es fiel ihnen nicht auf, daß ſie das auch bei ihrem Kranzwinden<lb/>war. Der ſpäter erſcheinende Auguſt benahm ſich, dem Tage angemeſſen,<lb/>ſehr verlegen und aß und trank mit den Kranzjungfern um die Wette<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0096" n="810" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=96"/>
+            </p>
+            <p> <lb/>von den guten Dingen, an denen es bei Großmama Wittfeld nie zu<lb/>fehlen pflegte. Man ſang gebührlicher Weiſe: „Wir winden Dir den<lb/>Jungfernkranz“, und eine entfernte Couſine des Hauſes declamirte mit<lb/>trauriger Stimme ein ſcherzhaftes Gedicht und überreichte Agnes ein<lb/>halbes Dutzend ſilberner Theelöffel. Es war ein recht vergnügter Abend,<lb/>die jungen Damen bedauerten nur, daß der ſpaßige Italiener nicht da<lb/>ſei, dann würde es ganz anders, über Tiſche und Bänke geben.<lb/>
+            </p>
+            <p> <lb/>Die Brautführerinnen verſprachen am nächſten Morgen recht früh<lb/>zu kommen, um die Braut anzuputzen und dann hüllten ſich die Kame-<lb/>radinnen ein und nahmen eine Viertelſtunde Abſchied und man hörte<lb/>ſie noch eine Zeit lang kreiſchen und lachen, nachdem ſie endlich gegangen<lb/>waren, denn ſie ſtießen einander in die großen Schneehaufen, die hier<lb/>und da zuſammen geſchaufelt waren.<lb/>
+            </p>
+            <p> <lb/>Auguſt ergriff — zum erſten Mal nach dem zweiten Feſttage —<lb/>die Hand ſeiner Verlobten und flüſterte angſtvoll: „Agnes, Du wirſt<lb/>mir nicht den Schimpf anthun und vor dem Altar „<hi rendition="#aq">Nein</hi>!“ ſagen; ver-<lb/>ſprich es mir!“<lb/>
+            </p>
+            <p> <lb/>Agnes holte tief Athem und entgegnete: „Ich verſpreche es Dir!“<lb/>
+            </p>
+            <p> <lb/>„Es wird noch alles gut!“ dankte er mit einem zärtlichen Händedruck.<lb/>
+            </p>
+            <p> <lb/>Die Großmama mußte auch ihre beſonderen Gedanken gehabt<lb/>haben, denn Mieke blieb die ganze Nacht auf und ſchlich umher und<lb/>lauſchte, ob ſich irgend etwas im Hauſe rühre. Alles blieb ſtill, bis die<lb/>Sonne roth und froſtig über den weiten Schneeflächen emportauchte.<lb/>Rechtzeitig kamen die Brautführerinnen und Agnes ließ ſich anputzen,<lb/>zerſtreut und wortlos, auch etwas bleich — aber das muß ſo bei<lb/>Bräuten ſein. Dann ließ man ſie allein, um ſich dem Frühſtück und<lb/>den Gäſten — nur die nächſten Verwandten der Wittfelds und Auguſt’s<lb/>waren eingeladen — zu widmen. Als es Zeit wurde zur Trauung auf-<lb/>zubrechen, fand man die Thür der Braut verſchloſſen, alles Rütteln und<lb/>Rufen war vergebens — Auguſt wurde herbei geholt, er entfärbte ſich<lb/>und rief: „Sie hat ſich getödtet — ſie ſagte, ſie wollte nicht lebend —“<lb/>
+            </p>
+            <p> <lb/>Ein Blick der Bienenkönigin ſchloß ſeinen Mund: „Sie hat viel<lb/>von <hi rendition="#aq">mir</hi>“, beruhigte die Wittwe, „ſie wird ſich kein Leides anthun, ſo<lb/>lange ſie ſich noch <hi rendition="#aq">wehren</hi> kann!“<lb/>
+            </p>
+            <p> <lb/>„Aber Großmama —!“<lb/>
+            </p>
+            <p> <lb/>„Einfältiger Menſch, entweder ſie hält ſich irgendwo verſteckt, oder<lb/>iſt die Straße hinaus geflohen, auf welcher ſie Daniele erwartet! Mach’<lb/>Dich mit Deinem Knechte auf, ſie zu ſuchen, ich theile den Gäſten mit,<lb/>Agnes habe einen Fieberanfall bekommen und ſchicke zum Arzt, derſelbe<lb/>wird unbedingt beſtätigen, was ich ſage —! Nun, Mieke war das Fenſter<lb/>auf?“ fragte ſie, als die Magd das verſchloſſene Zimmer von <hi rendition="#aq">innen</hi>
+               <lb/>öffnete. Die Magd nickte:<lb/>
+            </p>
+            <p> <lb/>„Durch’s Fenſter iſt ſie in den Garten geſprungen und durch das<lb/>Pförtchen hinaus, da hören denn die Spuren auf, weil die Hinterſtraße<lb/>betreten iſt!“<lb/>
+            </p>
+            <p> <lb/>Der Arzt kam und theilte alsbald den beunruhigten Gäſten mit,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0097" n="841" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=97"/>Agnes habe einen Fieberanfall, der das Herannahen des — Typhus<lb/>befürchten laſſe, von der Hochzeit dürfe keine Rede ſein. Die Gäſte<lb/>eilten von dannen, als brenne der Fußboden unter ihnen, die Freun-<lb/>dinnen hatten jetzt <hi rendition="#aq">alle</hi> ſchon etwas <hi rendition="#aq">Beſonderes</hi> bemerkt — o, ſie<lb/>waren nicht auf den Kopf gefallen, geſtern <hi rendition="#aq">wollten</hi> ſie nur nichts ſagen,<lb/>aber ſie wußten, es käme etwas Schreckliches.<lb/>
+            </p>
+            <p> <lb/>Als Auguſt einige Stunden mit ſeinem Knechte umſonſt in den<lb/>bekannten Häuſern und auf der verſchneiten Straße geſucht hatte und<lb/>es bereits zu dämmern begann, kehrte er, von Angſt gehetzt, heim und holte<lb/>ſich Rath bei der Burgemeiſterin. „Geh’ zum Voigt, ſag’ ihm, Deine<lb/>Braut habe im Fieberparoxismus die Flucht ergriffen und veranlaſſe<lb/>ihn, die junge Mannſchaft zum Suchen aufzubieten, namentlich durch-<lb/>ſtreift die Tannen und achtet auf die Scheunen, ſie wird ſich <hi rendition="#aq">nahe</hi> an<lb/>der Straße halten, um den Herzliebſten gleich zu ſehen — wer weiß,<lb/>ſie mag, wenn ſie hungrig wird, von ſelbſt wiederkommen, die Närrin!“<lb/>
+            </p>
+            <p> <lb/>Auguſt ſchluchzte in ſein rothes Baumwolltaſchentuch: „Ach, ſie iſt<lb/>
+               <hi rendition="#aq">hin</hi>, das liebe, arme Kind — <hi rendition="#aq">hin</hi> und todt, es ſchneit ja, daß man<lb/>nicht fünf Schritte weit ſieht und draußen im Felde ſind haushohe Berge<lb/>zuſammen getrieben. O Agnes, Agnes, ich bin Dein Mörder — ich<lb/>wollte ich wäre auch todt!“<lb/>
+            </p>
+            <p> <lb/>„Geh’, Memme!“ rief die Bienenkönigin, „pfui über Euch furcht-<lb/>ſamen, einfältigen Männer!“<lb/>
+            </p>
+            <p> <lb/>Die Wittwe verachtete alle Furchtſamkeit und Verzagtheit; ſie kannte<lb/>doch nur <hi rendition="#aq">zwei</hi> Menſchen, welchen ſie wirklichen Muth zutraute, ihre<lb/>beiden Enkelkinder! und <hi rendition="#aq">dieſe</hi> gerade haßte ſie, weil ſie ihrer Herrſch-<lb/>ſucht im Wege ſtanden.<lb/>
+            </p>
+            <p> <lb/>Mit ſinkender Nacht bewegten ſich Fackeln durch die Straßen, man<lb/>gab ſich Hörnerſignale und ergriff alle erdenklichen Vorſichtsmaßregeln,<lb/>um die Verlorene zu entdecken und die Suchenden in ihrem nächtlichen<lb/>Unternehmen zu unterſtützen. Auguſt hatte ſich das Revier zunächſt<lb/>der Landſtraße vorbehalten und entwickelte eine ſtaunenswerthe Umſicht<lb/>und Ausdauer, indeß die meiſten Anderen die Sache ziemlich läſſig<lb/>betrieben; denn entweder, ſagten ſie, hat das Mädchen eine Unterkunft<lb/>gefunden oder ſie iſt doch ſchon todt. Gegen Mitternacht waren von<lb/>den zwanzig ausgezogenen Fackelträgern nur noch ſechs mehr im Felde,<lb/>die anderen waren heimlicher Weiſe nach Hauſe gekehrt.<lb/>
+            </p>
+            <p> <lb/>Endlich ließen auch Auguſt’s Kräfte nach, er hatte zu allen Auf-<lb/>regungen des Tages und zwölfſtündigem Umherſteigen im Schnee den<lb/>ganzen Tag ſo gut wie gar nichts gegeſſen — ſeine ſtets ſo rothen<lb/>Wangen wurden aſchfarben, er taumelte wie ein Betrunkener und ſank<lb/>beſinnungslos in den Schnee. Eben ſtieg der Mond empor und das<lb/>Wetter ſchien gleichfalls für dieſe Nacht mit ſeinem Unweſen ein Ende<lb/>zu machen. Einige Menſchen, welche noch in der Stadt aufgeblieben<lb/>waren, um den Ausgang der Expedition zu erwarten, ſahen, daß die<lb/>zuletzt heimkehrenden Männer einen menſchlichen Körper trugen und<lb/>riefen aus den Fenſtern: „Habt Ihr <hi rendition="#aq">ſie</hi>?“ — „Nein“, war die Antwort,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0098" n="812" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=98"/>
+            </p>
+            <p> <lb/>„es iſt der junge Krei, welcher in tiefe Ohnmacht gefallen iſt!“ — „Ein<lb/>Unglück kommt doch nie allein!“ bemerkte Dieſer oder Jener und ſchloß<lb/>das Fenſter, denn ein ſcharfer Froſtwind hatte ſich aufgemacht.<lb/>
+            </p>
+            <p> <lb/>Inzwiſchen hatten Daniele und der Philoſoph ihre Rückreiſe mit<lb/>innerer Unruhe angetreten, einer Unruhe, die um ſo peinlicher wurde,<lb/>als der ungewöhnlich ſtarke Schneefall die Eiſenbahnzüge zwang, nicht<lb/>nur langſam und unregelmäßig den Verkehr zu vermitteln, sondern<lb/>ſogar einen zwölfſtündigen Aufenthalt in einer ſehr unwirthbaren Gegend<lb/>herbeiführte. Als die Reiſenden nun gar nach dem Poſtverkehr fragten,<lb/>an der Station, wo ſie die Eiſenbahn, zunächſt der Heimat, verließen,<lb/>da wurden die Achſeln gezuckt und man mußte es ganz dem Wetter<lb/>anheimſtellen, wann und in wie langer Zeit die Landſtraße losgeſchaufelt<lb/>werden könne. Daniele miethete einen leichten, hohen Korbwagen, ein<lb/>gutes Geſpann und drei handfeſte Leute mit Schaufeln und ſo ſetzten<lb/>die beiden Wittfelds Abends die Fahrt fort. Bis Mitternacht ſtellten<lb/>ſich zahlloſe Schwierigkeiten und Unfälle dem Fortkommen entgegen, als<lb/>aber der Mond aufging und die dunklen Wolken ſich zuſammenballten<lb/>und immer höher und weiter hinwegziehend ein Stück Himmel mit<lb/>blitzenden Sternen frei ließen, da wurden die nächſten Meilen verhältniß-<lb/>mäßig raſch zurückgelegt und mit dem Schlage Zwei vom Kirchthurm<lb/>hielt das Fuhrwerk vor dem Bienenkorbe und Daniele pochte eine<lb/>Secunde ſpäter heftig an die Hausthür. Mieke öffnete nach wieder-<lb/>holtem Pochen und als der junge Mann die Zurückweichende am Arm<lb/>faßte und ſie wie mit eiſernem Griff quetſchend fragte: „Hat man Agnes<lb/>gezwungen ſich trauen zu laſſen?“ — da ſagte Mieke: „Gott bewahre,<lb/>nein, nein!“ Schon wollte der junge Mann ſich beruhigt niederlegen und<lb/>trat nur noch hinaus, um erleichterten Herzens dem Zio „Gute Nacht!“<lb/>oder ſcherzend: „Guten Morgen!“ zu ſagen, denn eine furchtbare Her-<lb/>zensangſt war von ihm genommen: da plötzlich verſtummten beide<lb/>Männer überraſcht. Um die Ecke bog die gebeugte, hagere Geſtalt der<lb/>alten Liſette und begrüßte in ihrer rathloſen Art die Heimgekehrten.<lb/>
+            </p>
+            <p> <lb/>„Liſette“, forſchte der Doctor, „woher kommſt Du, was iſt vorge-<lb/>fallen?“<lb/>
+            </p>
+            <p> <lb/>„Ich wurde zu Auguſt gerufen, geſtern ſpät, Auguſt hatte eine<lb/>tiefe Ohnmacht, ich gehe gleich wieder hin, ich wollte nur eine Medicin<lb/>holen!“ „Iſt Agnes bei <hi rendition="#aq">ihm</hi>?“ fragte Daniele in aufflammender Eifer-<lb/>ſucht durch die Zähne, „leugne nicht, iſt ſie bei ihm, <hi rendition="#aq">allein</hi> bei ihm?<lb/>Ich ſchlage Thür und Fenſter ein, ich dulde das nicht — —“<lb/>
+            </p>
+            <p> <lb/>„Mein Gott“, ächzte Liſette ihm in die Arme fallend, „ſie iſt <hi rendition="#aq">nicht</hi>
+               <lb/>bei ihm!“ „Wo iſt ſie denn?“ fragte Daniele und ſeine weiche Stimme<lb/>klang tief und grollend. „Ich weiß es nicht!“ rang es ſich von Liſetten’s<lb/>bebenden Lippen und dann ſetzte ſie ſich in den Schnee, der die Stufen<lb/>vor dem Bienen korbhauſe bedeckte.<lb/>
+            </p>
+            <p> <lb/>Mieke wußte, daß ihre fromme Herrin nicht lügen konnte und in<lb/>der Ueberzeugung, daß ſie ſelbſt dieſe Kunſt um ſo beſſer inne habe,<lb/>sagte ſie mit ihrer ſchrillen Stimme: „Die Mamſell bekam ein Fieber,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0099" n="843" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=99"/>
+            </p>
+            <p> <lb/>garſtiges Fieber, nannte es der Menſchendoctor und ſomit ſprang ſie<lb/>aus dem Bett und zum Fenſter hinaus!“<lb/>
+            </p>
+            <p> <lb/>„Schweig, Mieke — kommt herein!“ ließ ſich die gebieteriſche<lb/>Stimme der Burgemeiſterin vernehmen. Daniele ſprang die Stufen<lb/>hinauf und ſtand ihr mit blitzenden Augen gegenüber. Die alte Frau<lb/>hielt ein brennendes Licht in der Hand, ſah feſt in die wilden Augen des<lb/>Enkels und ſagte mit lautem Tone: „Agnes entfloh eine Stunde vor<lb/>ihrer Trauung!“ Im ſelben Moment fiel das Licht klirrend zur Erde,<lb/>denn Daniele ſtürzte ſich auf ſie und umfaßte ſie, als wolle er ſie erwür-<lb/>gen: „Ich fürchte mich nicht!“ gurgelte ſie noch hervor und dann befreiten<lb/>die drei Anderen ſie von dem Wüthenden. „Ich fürchte mich nicht!“ war<lb/>ihr erſtes drohend triumphirendes Wort. „Wenn Dir Dein Leben lieb<lb/>iſt“, ſtieß Daniele mühſam hervor, „ſo verläßt Du mit jenem Satan von<lb/>einer Magd noch in dieſer Stunde dies Unglückshaus, Du ſollſt nicht über<lb/>die arme Vertriebene triumphiren, ich würde Euch hinaus treiben, aber<lb/>mich graut davor Euch anzurühren, <hi rendition="#b">oh Dio mio</hi> — Ihr hier und <hi rendition="#aq">ſie</hi> —<lb/>
+               <hi rendition="#aq">ſie</hi> —?“ Er verbarg ſein Geſicht in die Hände. „Ihr ſeid noch da?“<lb/>ſchrie er nach einer Weile auffahrend. „Hier ſind meine Papiere, ich,<lb/>ich bin Herr dieſes Hauſes!“ „Und ich verlaſſe es nicht!“ rief die<lb/>Wittwe. Liſette erzählte inzwiſchen fieberhaft, was Alles zu Agnes’ Auf-<lb/>findung geſchehen ſei, ſie hoffte Daniele, der ſtets gütig mit ihr war<lb/>und vor dem ſie daher keine Scheu hatte, abzulenken.<lb/>
+            </p>
+            <p> <lb/>Inzwiſchen hatte Joſef wol ein Dutzend lange, aufgeſteckte Kerzen<lb/>zuſammengetragen, die noch von dem unglücklichen Hochzeitstage her in<lb/>allen Zimmern harrend daſtanden, er zündete eine nach der andern an<lb/>und ſtellte ſie vor der Mama im Halbkreiſe auf.<lb/>
+            </p>
+            <p> <lb/>„Dieſe Papiere vertreiben mich nicht!“ rief die Alte, „ein langes,<lb/>unbeſcholtenes, ja an gottſeligen Thaten reiches Leben ſteht mir, meinen<lb/>Mitbürgern gegenüber, zur Seite, die ganze Stadt wird <hi rendition="#aq">gegen</hi> Dich<lb/>auftreten, wenn Du es wagſt mich, ob auch nur für eine Stunde, denn<lb/>Gott Lob bedarf ich keiner Almoſen! <hi rendition="#aq">obdachlos</hi> zu machen — —“<lb/>
+            </p>
+            <p> <lb/>„Und Agnes, wurde ſie nicht obdachlos?“ ſchrie Daniele.<lb/>
+            </p>
+            <p> <lb/>„Ich bin entſchloſſen, in dieſem Hauſe zu ſterben und hinterlaſſe<lb/>Euch, Dir und Joſef, meinen Flu—“<lb/>
+            </p>
+            <p> <lb/>„Halt!“ rief Joſef, ſchob Mieke und Liſette unſanft zur Thür hin-<lb/>aus und ſchloß dieſelbe hinter Beiden ab. Da ſtanden die Zwei zitternd<lb/>im dunklen Hausflur, Liſette betend, Mieke fluchend und Minute auf<lb/>Minute verging, ohne daß die Thür ſich öffnete, es ſchien drinnen todten<lb/>ſtill.<lb/>
+            </p>
+            <p> <lb/>„Sie morden die Frau!“ knirſchte Mieke.<lb/>
+            </p>
+            <p> <lb/>„Nein — nein —“, beſänftigte Liſette, „bete, bete!“<lb/>
+            </p>
+            <p> <lb/>Wieder verrann die Zeit — Liſette kniete auf den eiſigkalten Back-<lb/>ſteinen — da öffnete ſich die Thür, von drinnen ſtrahlte es wie bei der<lb/>Weihnachtsfeier und hervor aus dem Lichtkreis trat die Burgemeiſterin,<lb/>auf Joſef’s Arm geſtützt.<lb/>
+            </p>
+            <p> <lb/>„Mieke“, ſagte Joſef mit ruhiger Stimme, „hole den Pelz Deiner<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0100" n="814" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=100"/>
+            </p>
+            <p> <lb/>Frau, ſie will den Bienenkorb verlaſſen!“ Mieke ſah ihre Gebieterin an,<lb/>dieſe nickte ſtumm mit dem Kopfe: „Mutter, ich folge Ihnen!“ rief Li-<lb/>ſette mit hervorbrechenden Thränen. Die Alte legte ihre zitternde Hand<lb/>auf den Scheitel der Knieenden und ſchritt mit dem Aufgebot ihrer gan-<lb/>zen Willenskraft der Hausthür zu. Mieke kam mit dem Pelz und Joſef<lb/>führte ſeine Stiefmutter ſorgſam auf die Straße: „Ohne Frage gehen<lb/>Sie vorläufig zu Auguſt, wenn nicht <hi rendition="#aq">meine</hi> Hütte — —“<lb/>
+            </p>
+            <p> <lb/>„Zu Auguſt!“ ſagte ſie leiſe. Mieke folgte. Liſette ſchlüpfte in die<lb/>Küche, um etwas „Warmes“ für die beiden Männer zu bereiten, ſie ſtand<lb/>ſo unberührt und harmlos zwiſchen den Parteien, daß ſie unbeargwohnt<lb/>
+               <hi rendition="#aq">Allen</hi> dienen konnte.<lb/>
+            </p>
+            <p> <lb/>Und was hatte ſich inzwiſchen im Zimmer zugetragen? Joſef hatte<lb/>ein Blatt vor die Alte gelegt und geſagt: „Kennen Sie dieſen Namen?“<lb/>Die Wittwe fuhr auf und entgegnete mit unſicherer Stimme: „Ja!“<lb/>
+            </p>
+            <p> <lb/>„Wohlan, es iſt ein trauriger Name, Mama, und eine traurige<lb/>Geſchichte, die ich von dem Hauſe zu erzählen habe, das dieſen Namen<lb/>trägt; heitere Geſchichten paſſiren dort überhaupt niemals, denn das<lb/>Haus iſt eine Irrenanſtalt bei Amſterdam!“ Joſef machte eine Pauſe, die<lb/>Bienenkönigin ſaß mit ſtockendem Athem da.<lb/>
+            </p>
+            <p> <lb/>„Vor vielen Jahren“, fuhr Joſef fort, „ſandte der hieſige Burge-<lb/>meiſter van Steen ſeine ſechzehnjährige Tochter Magdalene nach Amſter-<lb/>dam zu ihrer Ausbildung; ſie lebte dort bei einer Verwandten, denn die<lb/>van Steens ſtammen aus Holland. Da der Burgemeiſter, ein vermögen-<lb/>der Mann, außer ihr noch einen ältern Sohn hatte, ſo fiel dieſem des<lb/>Vaters Beſitzthum nach deſſen Ableben, der Tochter aber nur eine mäßige<lb/>Abfindung zu. Mademoiſelle Magdalene hatte eine lebhafte Gemüths-<lb/>art, ſie verliebte ſich in einen jungen Schiffscapitain, Aydolt Brookholt<lb/>hieß er, Mama! und da die Amſterdamer Verwandten eben ſo wie der<lb/>hochmüthige Burgemeiſter van Steen ſehr gegen dieſen Bewerber waren,<lb/>ſo willigte das junge Mädchen ein, ſich dem erwähnten Aydolt Brook-<lb/>holt <hi rendition="#aq">heimlich antrauen</hi> zu laſſen! Das geſchah in einer kleinen, armen<lb/>Kirche, Mama! Der Trauſchein war jetzt, nach ſo vielen Jahren, nicht<lb/>leicht zu erhalten, obwol die Sache ſelbſt in jener unruhigen Zeit keine<lb/>große Schwierigkeit machte. Die Trauung geſchah nach reformirtem<lb/>Ritus!“ Joſef machte eine kleine Pauſe.<lb/>
+            </p>
+            <p> <lb/>„Die Sache blieb um ſo eher geheim“, nahm er das Wort wieder<lb/>auf, „als Capitain Brookholt eine Seereiſe antreten mußte, die Jahr<lb/>und Tag dauern konnte. — Mademoiſelle van Steen kehrte in ihre<lb/>Vaterſtadt zurück, ſie hatte einige Bewerber, aber keiner ſchien ihr gut<lb/>genug. Nach einiger Zeit luden die Amſterdamer Verwandten die junge<lb/>Dame abermals dringend zu ſich ein und ſie blieb daſelbſt wol ein hal-<lb/>bes Jahr. Dies halbe Jahr war kein glückliches für ſie, ſo befriedigend<lb/>auch ihre Briefe in die Heimat lauteten, ein Sohn, dem ſie, in einem<lb/>Fiſcherdorfe verborgen, das Leben gab, ſtarb nach einigen Monaten, ohne<lb/>daß die junge Mutter, die inzwiſchen zu den Verwandten gegangen war,<lb/>ihn hätte wiederſehen oder pflegen können. Das Schiff des Capitain<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0101" n="845" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=101"/>
+            </p>
+            <p> <lb/>Brookholt, Saturn hieß es, Mama, kam wieder, auch er kam wieder,<lb/>aber als ein elender, unzurechnungsfähiger Mann. War es eine Ge-<lb/>hirnerweichung, hatte die tropiſche Sonne ihm einen Sonnenſtich zuge-<lb/>zogen? — genug, er war nicht mehr fähig, ſeinem Berufe obzuliegen,<lb/>ja, er erkannte kaum <hi rendition="#aq">die</hi> Frau, welche er so ſehr geliebt hatte, manchmal<lb/>traten ſogar bedenkliche Fälle von Gemüthsverirrung ein. Die junge<lb/>Frau brachte ihn in die nächſte Irrenanſtalt und die Aerzte erklärten<lb/>ſein Leiden einſtimmig für unheilbar, ja, ſie beſchränkten ſeine längſte<lb/>Lebensdauer auf höchſtens zwei Jahre! So weit wäre Alles gut, Mama!<lb/>nun kommt aber die <hi rendition="#aq">Schuld</hi>! Ein Brief des Burgemeiſters van Steen<lb/>rief die Tochter ſchleunig in die Heimat, ein Nervenfieber graſſirte in<lb/>unſerer Stadt und des Burgemeiſters Sohn war bereits geſtorben. Als<lb/>Magdalene zu Haus ankam, war auch ihr Vater von der Seuche er-<lb/>griffen und acht Tage darauf bettete ſie ihn neben ihren Bruder, ach,<lb/>neben ſo viele Andere, zu denen auch <hi rendition="#aq">meine</hi> arme Mutter gehörte! Wer-<lb/>den Sie nicht ungeduldig, Mama; ich muß die Geſchichte zu Ende er-<lb/>zählen, es wäre ungerecht, meine mühſam zuſammengeſtellte Biographie<lb/>der Correctur zu entziehen — <hi rendition="#aq">uns unſer</hi> Recht, <hi rendition="#aq">Ihnen</hi> das Ihrige!<lb/>Mein Vater wurde Burgemeiſter, da die Familie van Steen männlichen<lb/>Stammes ausgeſtorben war. Man rieth ihm nach verfloſſenem Trauer-<lb/>jahr wieder zu heirathen und er erwählte ein ältliches Mädchen, die mir<lb/>eine gute Stiefmutter ſein ſollte. Plötzlich tauchten allerhand Gerüchte<lb/>über Mademoiſelle van Steen auf und wurden dadurch bekräftigt, daß<lb/>man behauptete, wenn Alles wäre wie es ſein ſollte, ſo würde ja der<lb/>neue Burgemeiſter <hi rendition="#aq">ſie</hi> jeden Falls wieder heirathen. Von da ab machte<lb/>ſich die ſchöne und reiche Erbin an den gutmüthigen Mann, bis dieſer<lb/>ſeiner erſten Wahl entſagte und ſich mit ihr feierlich verlobte. Die Hoch-<lb/>zeit wurde unter allerlei Vorwänden hinausgeſchoben, bis mein damals<lb/>noch ſelbſtſtändiger Vater ungeduldig wurde, dann fand die Vermählung<lb/>ſtatt; <hi rendition="#aq">acht Tage ſpäter</hi> ſtarb nach langem Todeskampfe im Irren-<lb/>hauſe der Capitain Aydolt Brookholt, man hatte ſchon zwei Wochen<lb/>früher ſchreiben können, er <hi rendition="#aq">liege im Sterben</hi>. Ich beſitze ſeinen<lb/>Todtenſchein!“<lb/>
+            </p>
+            <p> <lb/>Tiefe Stille in dem feſtlich erhellten Gemache, die Wittwe verbarg<lb/>ihr Geſicht und Daniele ſtöhnte unter der Wucht ſeines ungebeuren<lb/>Herzenskummers. „Du haſt Dich gerächt!“ ſagte die Alte nach einer<lb/>Pauſe und erhob ihr plötzlich gealtertes, beinahe todesmattes Antlitz: „Ich<lb/>bin bereit, dieſes Haus zu verlaſſen, wenn — —“, ſie vollendete nicht.<lb/>
+            </p>
+            <p> <lb/>„Wenn ich <hi rendition="#aq">ſchweige</hi> — ja, ich werde ſchweigen meines ſeligen<lb/>Vaters wegen, deſſen Namen Sie tragen!“<lb/>
+            </p>
+            <p> <lb/>„Alſo hat mich der alte Doctor Scoper verrathen? Ich dachte,<lb/>ſein Mund wäre mit Gold verſiegelt!“<lb/>
+            </p>
+            <p> <lb/>„Nicht mit Gold, <hi rendition="#aq">mit Erde</hi>, er iſt lange todt, es lebt nur noch ein<lb/>Wärter der Anſtalt aus jener Zeit!“<lb/>
+            </p>
+            <p> <lb/>„Und wie haſt Du wiſſen können? —“<lb/>
+            </p>
+            <p> <lb/>Der Philofoph lächelte: — „Die Altvorderen bauten ſich zer-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0102" n="846" corresp="http://opacplus.bsb-muenchen.de/title/7236583/ft/bsb11045898?page=102"/>
+            </p>
+            <p> <lb/>brechliche Häuſer und dagegen Leichenkammern von ungeheurer Feſtig-<lb/>keit, ſie opferten Reichthum und Kräfte <hi rendition="#aq">dieſem</hi> Zwecke — ſo baut auch<lb/>ein böſes Gewiſſen unabläſſig und ſclaviſch an der Pyramide, unter wel-<lb/>cher es eine <hi rendition="#aq">Schuld</hi> begraben hat — ich fühlte, daß <hi rendition="#aq">Sie</hi> der Gegen-<lb/>wart nicht gehörten, Ihr <hi rendition="#aq">beſſerer</hi> Theil lag mit der Schuld einge-<lb/>ſcharrt — wo? das verrieth <hi rendition="#aq">eine</hi> einzige Silbe, die Sie bei Daniele’s<lb/>Auftauchen hervorſtießen! Seitdem haspele ich an dem ſchwarzen Faden<lb/>der Vergangenheit und erſt auf dieſer Reiſe erfaßte ich den <hi rendition="#aq">Knoten</hi> —<lb/>ich kann beweiſen, daß die <hi rendition="#aq">zweite</hi> Ehe meines Vaters eine ungiltige<lb/>war, daß die ganze Wittfeld’ſche Erbſchaft mir <hi rendition="#aq">allein</hi> zukäme, wenn ich<lb/>ſie noch gebrauchen könnte!“<lb/>
+            </p>
+            <p> <lb/>„Ich verlaſſe das Haus!“ ſagte jetzt die Wittwe und erhob ſich<lb/>mühſam, ſo daß Joſef ſie zu ſtützen eilte.<lb/>
+            </p>
+            <p> <lb/>Noch war das Krei’ſche Haus nicht von der Burgemeiſterin und<lb/>Joſef erreicht, als den langſam fortſchreitenden nächtlichen Wanderern<lb/>eine andere Gruppe begegnete. Mieke, die nicht durch eine ſchwere Ver-<lb/>gangenheit befangen war, ahnte <hi rendition="#aq">zuerſt</hi>, was dieſes ungewöhnliche Er-<lb/>eigniß bedeute und ſtieß einen ſo lauten Schrei aus, daß der unglückliche<lb/>Daniele durch denſelben aufgeſchreckt und herbeigerufen wurde.<lb/>
+            </p>
+            <p> <lb/>Wilddiebe hatten in einem Tannengehölz, ganz eingeſchneit, Ag-<lb/>nes gefunden, ein Zipfel ihres ſchwarzen Kopftuches hing mit den Fran-<lb/>zen an einem niedern Aſte — ſie war kald und todt, als die Träger ſie<lb/>enthüllten, lag ſie da wie ein ſchönes Wachsbild im Kranze und Braut-<lb/>ſchleier —! Daniele warf ſich zur Erde, küßte die Leiche, redete zärtliche<lb/>Worte in ſeiner Heimatſprache zu ihr und trug ſie dann in ſeinen Armen<lb/>liebevoll und ſorgſam nach Hauſe.<lb/>
+            </p>
+            <p> <lb/>Die Burgemeiſterin mußte ſich nun auch noch auf Mieke ſtützen,<lb/>ſo ſchwach wurde ſie.<lb/>
+            </p>
+            <p> <lb/>Der von Joſef herbeigerufene Arzt beſtätigte, daß Agnes ſchon ſeit<lb/>vielen Stunden keine Erdenbraut, ſondern eine Himmelsbraut ſei. Da-<lb/>niele wich nicht von ihrer Hülle, bis man ſie beſtattete. Am Begräb-<lb/>nißtage ſchenkte der junge Italiener Haus und Garten der Wittfeld van<lb/>Steen an die Stadt zu einer frommen Stiftung und nach den vollende-<lb/>ten Formalitäten verließ er die Stadt, um nie dahin zurückzukehren.<lb/>
+            </p>
+            <p> <lb/>Der wirkliche Inhalt dieſer Wittfeld van Steen’ſchen Familien-<lb/>ereigniſſe wurde nie recht bekannt. Joſef beſorgte von da ab die finanziellen<lb/>Geſchäfte des letzten Stammhalters mit großer Umſicht und die Damen<lb/>ſagten, daß die alte brave Großmutter ihre Enkelin Agnes ſo ſehr <hi rendition="#aq">ge-</hi>
+               <lb/>
+               <hi rendition="#aq">liebt</hi> habe, daß des Mädchens Tod ſie ganz ſtill und ſanft gemacht<lb/>hätte. Sanft und ſtill war ſie wirklich. Sie zog mit Auguſt Krei in<lb/>das van Steen’ſche Erbhaus und lohnte ſeine treue, kindliche Liebe durch<lb/>ein entſprechendes Vermächtniß. Liſette blieb bei der Mutter und lebte<lb/>förmlich auf, indeß Mieke alsbald entlaſſen wurde. Sie war die Ein-<lb/>zige, welche beim Begräbniß der Bienenkönigin laut genug ſagte: „Sie<lb/>war eine böſe, ungerechte Frau!“<lb/>
+            </p>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

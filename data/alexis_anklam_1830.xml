@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die Erscheinung von Anklam</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/118648071"><surname>Alexis</surname><forename>Willibald</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">alexis_anklam_1830</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Alexis: anklam, 1830.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die Erscheinung von Anklam</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/118648071"><surname>Alexis</surname><forename>Willibald</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>1</edition>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag von Duncker und Humblot</name></publisher>
+                  <date>1830</date>
+                  <pubPlace>Berlin</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geſammelte Novellen</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 211–229</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477</idno><idno type="shelfmark">Shelfmark: P.o.germ. 19 ue-1/2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="224"><sic>ſichwieder</sic><corr>ſich wieder</corr></choice><choice corresp="226"><sic>Knebelbart Dann</sic><corr>Knebelbart. Dann</corr></choice><choice corresp="227" cert="low"><sic>Pferd Thränen</sic><corr>Pferd — Thränen</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die Erscheinung von Anklam</titlePart>
+         </docTitle>
+         <docAuthor>Alexis, Willibald</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>Die<lb/>Erscheinung von Anklam.<lb/>
+               <pb facs="#0238" n="212" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=238"/>In der Nacht vom 9ten auf den 10ten Oktober 17 ..<lb/>zeigte ſich in der Stadt Anklam eine Erſcheinung. Es<lb/>war dies die erſte Erſcheinung, die man in Anklam<lb/>geſehen. Der Mond ſchien nur ſchwach, denn es war<lb/>Neumond. Der Bürgermeiſter Andreas *** ſah zum<lb/>obern Fenſter ſeines zweiſtöckigen Hauſes hinaus. Um<lb/>den Glockenſchlag zwölf, ungefähr zur ſelben Stunde,<lb/>wo die Fahrpoſt von Greifswalde ankommt — hier-<lb/>nach haben Andere die Zeit gemeſſen — hub die Er-<lb/>ſcheinung an. Zuerſt hörte man Tritte, wie von ſchwe-<lb/>ren Stahlſchuhen; dann bog es um die Ecke, und eine<lb/>männliche Geſtalt in einem dunkeln Mantel kam die<lb/>breite Straße heraufgegangen. Daſſelbe hat auch der<lb/>Klempnermeiſter Vogelbauer geſehen, den eine Indi-<lb/>geſtion genöthigt, aufzuſtehen. Seine Ehefrau fragte<lb/>ihn, warum er nicht wieder in's Bette komme; er<lb/>werde ſich erkälten. Er antwortete nicht, aber flog bald<lb/>darauf in die Kiſſen. Seine Glieder zitterten, und die<lb/>
+               <pb facs="#0240" n="214" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=240"/>Frau war die ganze Nacht durch für den Mann ſehr<lb/>beſorgt. Doch ließ er ſie nicht zum Apotheker gehen.<lb/>Erſt bei Tagesgrauen geſtand er ihr, ein rieſengroßer<lb/>Mann ſey die Straße heraufgekommen; vor des Bür-<lb/>germeiſters Haus habe er eine Weile geſtanden und<lb/>hinaufgeſchaut; als er dabei den Mantel auseinander-<lb/>ſchlug, ſey eine blecherne Rüſtung zum Vorſchein ge-<lb/>kommen. Andere halten dies für eine Täuſchung der<lb/>Phantaſie, die bei einem Klempnermeiſter wol ſehr na-<lb/>türlich iſt.<lb/>
+            </p>
+            <p> <lb/>Die Erſcheinung ging weiter. Die meiſten, die<lb/>ſie geſehen, wollen Unmuth in den Schritten bemerkt<lb/>haben. Uneinig iſt man darin, ob der Mantel blau<lb/>oder ſchwarz geweſen. So ging die Erſcheinung —<lb/>dies iſt durch Zeugen erwieſen — durch die ..gaſſe,<lb/>am Markte hin, bei der ***Kirche vorüber, an der<lb/>Stadtmauer entlang und in den ***Winkel. Dann<lb/>hat der Rathsdiener Elias Tams ſie wieder, grade<lb/>wie oben beſchrieben, herauskommen und auf des Bür-<lb/>germeiſters Straße einlenken geſehen. Es ſteht feſt,<lb/>und die Chroniken beſtätigen es, daß man nie in An-<lb/>klam einen Mann um dieſe Zeit im Mantel durch die<lb/>Stadt gehen ſah.<lb/>
+            </p>
+            <p> <lb/>Wie der Bürgermeiſter zu Bette gegangen, hat<lb/>er drei langſam wiederholte Schläge an einer Haus-<lb/>thür gehört. Anfangs hat er geglaubt, da bis auf<lb/>
+               <pb facs="#0241" n="215" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=241"/>eins, nur ſein Haus einen Klopfer hatte, es poche Je-<lb/>mand bei ihm. Er hat deshalb zu ſeiner Tochter hinun-<lb/>ter gerufen, deren Kammer im Erdgeſchoß auf den Gar-<lb/>ten hinausging, ſie ſolle die Magd wecken. Da aber<lb/>der Lichtſchein an den Stachelbeerſträuchern aus war,<lb/>ſchloß er, daß ſie über ihren Roman eingeſchlafen<lb/>ſey, und ſtand ſelbſt auf.<lb/>
+            </p>
+            <p> <lb/>Soweit iſt der völlige Beweis der Erſcheinung<lb/>geführt. Was ſich nun zugetragen, beruht nur auf<lb/>unbeſtimmten Ausſagen. Schräg dem Bürgermeiſter-<lb/>hauſe gegenüber ſteht ein anderes. An dieſes andere<lb/>klopfte dieſelbe Geſtalt, die er zuvor geſehen. Aber<lb/>das Haus war ganz unbewohnt und verfallen. Der<lb/>Tiſchlermeiſter Enzig hatte es kurz vor Ausbruch des<lb/>Krieges gekauft; dann, als er ſich davon gemacht, war<lb/>es ſubhaſtirt worden. Der neue Käufer hatte aber<lb/>das Kaufgeld nicht erlegen können, worauf in nächſter<lb/>Reſubhaſtation ſich gar kein Käufer gefunden. Des-<lb/>halb ſtand es wüſt und leer, und der Rath proceſſirte<lb/>mit der Bürgerſchaft über die Koſten des Abtragens.<lb/>Denn, ſo lange Krieg war, mochte Niemand in Anklam<lb/>an Wiederaufbau denken.<lb/>
+            </p>
+            <p> <lb/>Dieſelbe Thür, aus der ſeit Jahr und Tag Nie-<lb/>mand getreten, öffnete ſich vor des Bürgermeiſters leib-<lb/>haftigen Augen, die Erſcheinung trat ein und die Thür<lb/>ſchloß ſich wieder. Tams, der Rathsdiener, hatte eben-<lb/>
+               <pb facs="#0242" n="216" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=242"/>ſo vor des Bürgermeiſters leibhaftigen Augen, letzten<lb/>Michaelis das Rathsſiegel darauf gedrückt, und der<lb/>Schlüſſel befand ſich auf dem Rathhauſe oder bei’m<lb/>Bürgermeiſter. Ein Gedanke an Diebſtahl, ſo natür-<lb/>lich in anderen Zeiten, konnte in ſeiner Seele keine<lb/>Macht gewinnen, weil, bis auf das Rohr aus den ab-<lb/>gebrökkelten Wänden, nichts zu entwenden ſtand.<lb/>
+            </p>
+            <p> <lb/>Demungeachtet öffnete ſich die Thür bald wieder<lb/>und eine vergröſſerte Erſcheinung kam heraus. Voran<lb/>eine ſchwarz gekleidete Figur, ſo eine Zitrone in der<lb/>Hand; demnächſt die Erſcheinung, die ihren Mantel<lb/>kriegeriſch über die Schultern zurückgeſchlagen hielt,<lb/>und an ihrer Hand eine andere Erſcheinung, die aber<lb/>nicht ſchwarz war, ſondern weiß. Hinterher kam noch<lb/>eine graue Erſcheinung, ein hinkendes Mütterchen, die<lb/>eine Laterne in der Hand hielt und keuchend die Thür<lb/>ſchloß. Wie ſie dem Paare nachhinkte, hielt ſie hinauf<lb/>zum Bürgermeiſter die Laterne und grinſte ihn an.<lb/>Das hat den Bürgermeiſter Andreas *** ſo erſchreckt,<lb/>daß er ſogleich das Fenſter zugeſchlagen und ſich tief<lb/>in ſeine Kiſſen vergraben hat, denn es war juſt daſ-<lb/>ſelbe Geſicht der Hexe, welche ſein Großvater Johan-<lb/>nes vor drei und ſiebenzig Jahren lebendig verbren-<lb/>nen ließ.<lb/>
+            </p>
+            <p> <lb/>Die gute Stadt Anklam hätte nie erfahren, wo<lb/>ihre Erſcheinung geblieben, hätte nicht in derſelben Nacht<lb/>
+               <pb facs="#0243" n="217" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=243"/>— was aber erſt ſpäter an den Tag kam — glückli-<lb/>cher Weiſe der berüchtigte und oft beſtrafte Dieb Ernſt<lb/>Fritzenhofer auch einen Kirchendiebſtahl verſucht. Als<lb/>er nämlich, es mochte eine Woche darauf ſeyn, arretirt<lb/>wurde — was jedesmal geſchieht, wenn etwas in An-<lb/>klam fehlt — fand man zwar nicht die vermißte An-<lb/>gelegenheit, aber eine Quaſte Lyoner Gold, offenbar<lb/>von der Kanzeldecke der Hauptkirche. Inquirirt darü-<lb/>ber, hat er nicht ohne innere Angſt ein Geſtändniß<lb/>abgelegt.<lb/>
+            </p>
+            <p> <lb/>In der Abſicht zu ſtehlen (dieſes Wort hat er<lb/>aber nie ſelbſt gebraucht, vielmehr ſeine Entrüſtung dar-<lb/>über bei Vorleſung des Protokolls an den Tag gelegt),<lb/>kletterte er über die feſt verſchloſſene Kirchhofsmauer<lb/>und durch ein Kirchenfenſter, deſſen ſchwache Stellen er<lb/>ſich zu Nutze machte, in die Kirche. Kaum dort, hört<lb/>er ein Geräuſch. Die Kirchthür geht auf und es tritt<lb/>etwas ein, von dem er nicht weiß was es iſt. Angſt<lb/>ergreift ihn, er ſliegt die Kanzeltreppe hinauf und birgt<lb/>ſich dort, indem er krampfhaft den Zipfel der Decke<lb/>angreift. So blieb er fünf Minuten, wo er nichts<lb/>hört, als daß es ſich im Dunkeln ſchnaubt und An-<lb/>fangs leiſe, dann unruhiger das Schiff entlang geht.<lb/>Jetzt raſſeln Schlüſſel, die Kirchhofsthür geht auf, ein<lb/>Lichtſchein fällt matt auf die bunten Kirchenfenſter;<lb/>auch das Portal der Kirche öffnet ſich nun, und eine<lb/>
+               <pb facs="#0244" n="218" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=244"/>lange Proceſſion tritt ein. Ein Geiſtlicher in uralt<lb/>katholiſcher Tracht geht ihnen entgegen, und das einzige<lb/>Wort, was Ernſt Fritzenhofer deutlich gehört, war des<lb/>Prieſters Stimme:<lb/>
+            </p>
+            <p> <lb/>„Sie haben ſehr lange gemacht.“<lb/>
+            </p>
+            <p> <lb/>Darauf fand unter dem Altar eine Copulation<lb/>ſtatt, von welcher der Dieb aber nichts hörte, da der<lb/>Prieſter ſehr leiſe murmelte, auch der Todesſchweiß auf<lb/>ſeiner Stirne ſtand, nämlich des Diebes. Die Braut<lb/>ſah wie ein uraltes Mütterchen aus, deſſen entſinnt er<lb/>ſich, ſchloweiß gekleidet mit Flügelhaube und Steifkra-<lb/>gen. Sie hatte auch einen Modergeruch, wie eben auf-<lb/>geſtiegen aus dem Grabe; das aber hat er nie be-<lb/>ſchwören wollen. Der Bräutigam glich einem alten<lb/>ſteinernen Ritterbilde. Eine häßliche alte Hexe leuch-<lb/>tete. Als die Ringe gewechſelt und der Segen ge-<lb/>ſprochen, puſtete die Alte ihr Licht aus. Es entſtand<lb/>ein buntes Durcheinandertrippeln, Schlüſſel klingelten,<lb/>und der Dieb erinnert ſich nichts mehr gehört zu ha-<lb/>ben, als einen ängſtlichen Ruf: „Ach Herr Jeſus!“<lb/>woraus man ſchließt, daß es chriſtliche Geſpenſter waren.<lb/>
+            </p>
+            <p> <lb/>Später hat er ſich entſonnen, daß er ein Poſthorn<lb/>gehört, welches kein anderes ſein können, als von der<lb/>Greifswalder Poſt, die nach Neu-Warp abfuhr. Es<lb/>war dies das einzige Menſchliche, was ihm in der Lage<lb/>begegnet iſt. Bald darauf war alles zerſtäubt und zer.<lb/>
+               <pb facs="#0245" n="219" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=245"/>ſtoben. Noch lange blieb Fritzenhofer zuſammenge-<lb/>kauert auf der Kanzel, die Glieder waren ihm erſtarrt.<lb/>Wie er endlich nach Hauſe gekommen, — doch wußte<lb/>er kaum wie dies geſchehen — hat er gelobt, nie einen<lb/>Kirchendiebſtahl zu begehen, als er mit Entſetzen die<lb/>Quaſte von der Kanzeldecke in ſeiner Hand gefunden.<lb/>Dieſe Quaſte baumelte ihm ſein ganzes Leben vor Au-<lb/>gen. Wo er einſteigen wollte, ſchreckte ſie ihn an den<lb/>Fenſtergardinen, bis er endlich im Holſteiniſchen, ſelbſt<lb/>an dem letzten Galgen der Provinz ſchwebend, das Bild<lb/>der fatalen Quaſte vergaß.<lb/>
+            </p>
+            <p> <lb/>Wiewol die Erſcheinung in ihrer ganzen Ausdeh-<lb/>nung nur eine Stunde gedauert, blieb ſie doch das allei-<lb/>nige Geſpräch während Wochen in der guten Stadt<lb/>Anklam. Vor Fritzenhofer's Geſtändniß quälte man ſich<lb/>mit ausſchweifenden Vermuthungen, und da jeder Ein-<lb/>wohner etwas geſehen haben wollte, wuchs die Erſchei-<lb/>nung in der Umgegend bis in’s Ungeheure. Aber wor-<lb/>auf man rieth, die Gegengründe waren ſtärker. Eine<lb/>Diebesbande konnte es nicht geweſen ſeyn: wie hätte<lb/>ſie Nahrung in Anklam finden ſollen? Myſtiſche Or-<lb/>den — waren ganz außer der Zeit. Für Entführun-<lb/>gen in ganz Anklam nur ein Gegenſtand. Falſchmünzer<lb/>endlich — eine ſo nahe liegende Deutung — konnten<lb/>in jenen Zeiten ſchon lange nicht mehr mit der neuen<lb/>Münze Cours halten.<lb/>
+               <pb facs="#0246" n="220" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=246"/>Durch Fritzenhofer's Geſtändniß wurde die unna-<lb/>türliche Erklärung wieder natürlich. Sie gewann die<lb/>Oberhand. Endlich mußte ſelbſt ein wohlweiſer Rath,<lb/>da keine natürliche ausreichte, ſich dazu bequemen. Bei<lb/>Volk und Bürgern war ſie längſt gäng und gebe, zu-<lb/>mal da man ſich jetzt erinnerte in dem Spukhauſe ſchon<lb/>früher Licht geſehen zu haben, inſonderheit ſeit vor lan-<lb/>gen Monaten bei Ueberfüllung der Stadt Einquartie-<lb/>rung darin gelegt worden. So wurde unter dem Na-<lb/>men des Anklamer Geſpenſtes die Erſcheinung in Vor-<lb/>und Hinter-Pommern bekannt, und der Pöbel nannte<lb/>ſie unbegreiflicher Weiſe den verwünſchten Rittmeiſter,<lb/>da ein ſolcher zuletzt darin ſolle quartiert geweſen ſeyn.<lb/>
+            </p>
+            <p> <lb/>Die Sache wäre unaufgeklärt hingegangen, hätte<lb/>nicht der Magiſtrat in ſeinem Monatsbericht der Er-<lb/>ſcheinung erwähnt. In Berlin konnte man damals<lb/>kein Geſpenſt ſtatuiren, am allerwenigſten eines in den<lb/>Akten. Wiewol der Preußiſche Staat im ſiebenjähri-<lb/>gen Kriege einen großen Geiſt fühlte, ſo durfte man<lb/>ihm doch nicht vorwerfen, daß darin Geiſter umgingen.<lb/>Deshalb wurde von Berlin eine Commiſſion nach An-<lb/>klam geſchickt und die ſtrengſte Unterſuchung geführt.<lb/>
+            </p>
+            <p> <lb/>Klempnermeiſter und Rathsdiener deponirten, die<lb/>Bürgerſchaft wurde Mann für Mann befragt, und es<lb/>kamen viele Dinge zur Sprache, wenn auch nicht die<lb/>fraglichen. Das quäſtionirte Haus ward unterſucht<lb/>
+               <pb facs="#0247" n="221" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=247"/>und jetzt auf Koſten des Staates abgetragen, wo man<lb/>zwar einen Grund fand, aber nur einen ſteinernen.<lb/>Was das Seltſamſte blieb, war, daß der Bürgermei-<lb/>ſter die Hälfte ſeiner vorigen Ausſage zurücknahm und<lb/>nur das Klopfen des ſchwarzen Geſpenſtes beeidigte,<lb/>von dem weißen und grauen und der Laterne aber<lb/>meinte, es werde ein Traum geweſen ſeyn. Ebenſo der<lb/>Dieb Fritzenhofer, den man ſchwören ließ: „daß er<lb/>geträumt haben könne.“ Die Unterſuchung wurde un-<lb/>terbrochen durch einen Einfall, nämlich der Schweden,<lb/>endlich aber doch ſo viel ausgemittelt, daß in derſelben<lb/>Nacht ein Mann in einem ſchwarzen Mantel, auf der<lb/>Greifswalder Poſt durch Anklam nach Neu-Warp ge-<lb/>reiſ’t ſey. So hatte man wenigſtens das Reſultat,<lb/>daß das quäſtionirte Geſpenſt mit der ordinairen Poſt<lb/>nach Anklam gekommen.<lb/>
+            </p>
+            <p> <lb/>Aber die Bürgerſchaft war ſehr unzufrieden mit<lb/>der aufklärenden Commiſſion. Man dankte ihr nicht<lb/>die unſägliche Mühe. Vielmehr waren ſchon damals<lb/>Einige der Meinung, die Regierung habe kein Recht,<lb/>den Anklamern wider deren Willen ihre Erſcheinung<lb/>aufzuklären. Es kam zum Prozeß, wovon die Akten<lb/>noch bei’m Kammergericht in Berlin exiſtiren, unter<lb/>dem Rubro: „die Bürgerſchaft von Anklam contra<lb/>den Fiscus in puncto ihrer Erſcheinung.“ Es wur-<lb/>den Gutachten von den berühmteſten Gelehrten einge-<lb/>
+               <pb facs="#0248" n="222" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=248"/>fordert. <hi rendition="#g">Bieſter</hi> meinte, dahinter ſtecke eine ſyſtema-<lb/>tiſche Verſchwörung der Jeſuiten, welche zuerſt die äu-<lb/>ßerſte Grenzſtadt des Königreiches inficirten, um über<lb/>Ukermünde, Paſewalk, Prenzlow Schritt für Schritt bis<lb/>zur Hauptſtadt vorzudringen. Der ſelige <hi rendition="#g">Nicolai</hi> hielt<lb/>das Ganze für Phantasmagorien, hinter welchen der<lb/>Swedenborgianismus ſein Spiel treibe. Er verſuchte,<lb/>die ganze Erſcheinung ſelbſt wieder zu träumen; er iſt<lb/>aber aller Mühe ungeachtet, nie bis zur Citrone ge-<lb/>kommen. <hi rendition="#g">Moritz</hi> lehnte das Gutachten ab. In er-<lb/>ſter Inſtanz verlor, in zweiter gewann der Fiscus.<lb/>Die Akten lagen ſchon bei’m Ober-Tribunal, als die<lb/>Regierung zu einem Entſchluß kam. Als die Sache<lb/>nämlich grundlos zu werden drohte - da bekanntlich<lb/>in dritter Inſtanz ohne Gründe geurtheilt wird *) -<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>*) Nämlich, ohne daß die Gründe den Parteien ſchrift-<lb/>lich mitgetheilt werden, — eine weiſe Einrichtung, wie<lb/>man ſie kaum aus den Zeiten unſerer Geſetzgebungen,<lb/>wo der philoſophiſche Verſtand des achtzehnten Jahr-<lb/>hunderts die Welt beherrſchte, vermuthen durfte. Ein<lb/>„ewiger Streit“ wird nie <hi rendition="#g">endlich</hi> durch Gründe<lb/>geſchlichtet, ſondern durch die Offenbarung des Wil-<lb/>lens. Die Ueberzeugung läßt ſich nicht mathema-<lb/>tiſch erzwingen. Es muß zuletzt ein Siegel der Au-<lb/>torität aufgedrückt werden, gegen das keine Advo-<lb/>katengründe helfen.<lb/>
+               <pb facs="#0249" n="223" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=249"/>zeigte ſich eine beſondere Gährung, die, zumal bei den<lb/>Brauern, in Anklam nie ohne Reſultat bleibt. Man<lb/>fürchtete, die Grenzſtadt könne ſich vom Königreich los-<lb/>reißen und ſich zur freien Reichsſtadt proklamiren. Un-<lb/>terrichtetere beſorgten, ſie wolle ſich der Krone Schwe-<lb/>den unterwerfen; wie auch König Guſtav III. gegen<lb/>allen Zuſammenhang mit Geſpenſtern, durch ſeine Ge-<lb/>ſandten proteſtirte.<lb/>
+            </p>
+            <p> <lb/>Da ſtarb König Friedrich II. Es ward wieder<lb/>in Preußen erlaubt an Geiſter zu glauben, und die<lb/>Regierung beſchloß, die Anklamer nicht zum Aeußer-<lb/>ſten zu treiben. Die Unterſuchung wurde niedergeſchla-<lb/>gen, die Anklamer behielten ihr Geſpenſt, und das Ge-<lb/>heime Obertribunal ſein Urtheil für ſich. Aber in An-<lb/>klam war man mit dem Bürgermeiſter unzufrieden.<lb/>Man warf ihm vor: um Menſchengunſt habe er Ge-<lb/>ſpenſt und Wahrheit verläugnet. Mißvergnügt reiſ’te<lb/>er bald mit ſeiner Tochter nach Berlin, und als er<lb/>von hier, ſeinem Wunſche gemäß, in das entſernte<lb/>Preußen verſetzt wurde, verſchwand die letzte Hoffnung<lb/>der Freunde der Natürlichkeit.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>Lange Jahre nachher, — die Honoratioren von An-<lb/>klam, die dazumal lebten, waren ſchon ſparſam gewor-<lb/>den, der Bürgermeiſter Andreas ſchlummerte längſt<lb/>unter grünem Raſen an der Weichſel, und die Helden<lb/>
+               <pb facs="#0250" n="224" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=250"/>des ſiebenjährigen Krieges wurden grau und ſtumpf, —<lb/>begab ſichwieder etwas in Anklam, was einen Grund hatte.<lb/>
+            </p>
+            <p> <lb/>Der erſte Pfarrer der ***Kirche war an einem<lb/>Tage mit ſeinem Küſter geſtorben, und — ſo weit war<lb/>damals die Humanität fortgeſchritten — ſie wurden<lb/>an ein und demſelben Tage, in <hi rendition="#g">einem</hi> Leichenzuge zur<lb/>Erde beſtattet. Die Küſterwittwe, wohl dies ſchätzend<lb/>und fühlend, was es zu bedeuten, verſicherte weinend,<lb/>das ſey der glücklichſte Tag ihres Lebens.<lb/>
+            </p>
+            <p> <lb/>Die Todtenglocken läuteten noch vom Kirchhof<lb/>herüber, als der Huſaren-Major ***, ſeit vielen Jah-<lb/>ren Kommandant der Stadt, bei der Pfeife und Bowle<lb/>mit anderen Honoratioren zuſammen ſaß. Er war ein<lb/>humaner Mann mit den Bürgern, da er in die Stadt<lb/>hineingeheirathet, und jetzt ein zufriedener Mann, da er<lb/>ſeiner Frau, des ehemaligen Bürgermeiſters Tochter,<lb/>ſchon vier Monat früher die letzte Ehre erwieſen. Man<lb/>ſprach von Tod und Leben und Auferſtehung, und von<lb/>dem ſeligen Pfarrer, der ein Geiſterſeher geweſen ſeyn ſollte.<lb/>
+            </p>
+            <p> <lb/>Es war Mitternacht geworden und die Stube ganz<lb/>voll Dampf. Einige meinten, er wäre kein guter Chriſt<lb/>geweſen; Andere, er habe oft gelächelt und geäußert,<lb/>daß er große Luſt habe, nach ſeinem Tode zu ſpuken.<lb/>
+            </p>
+            <p> <lb/>Es war den Gäſten nicht angenehm, als der Ma-<lb/>jor die Pfeife jetzt weglegte und das Zeichen zum Auf-<lb/>bruch gab. Denn der Wind heulte in den Schornſtei-<lb/>nen<lb/>
+               <pb facs="#0251" n="225" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=251"/>nen und vom Kirchthurm ſchlug es Zwölf. Da öff-<lb/>nete ſich die Thür, und ein Geſpenſt trat ein. Es war<lb/>der ſelige Paſtor; er ging durch das Zimmer, machte<lb/>vor jedem eine Reverenz, wie er im Leben zu thun ge-<lb/>pflegt, trank ein volles Glas Punſch, mit Verbeugung<lb/>gegen den Gouverneur, aus, und ging dann hinaus.<lb/>Noch hatte keiner eine Sterbensſylbe geſprochen, als<lb/>die Thüre wieder aufging und der ſelige Küſter auch<lb/>eintrat. Vollgetrunken, wie man ihn zuletzt geſehen,<lb/>humpelte er, eine Zitrone in der Hand, dem Pfarrer<lb/>nach. Aber dicht vor dem Major ſtolperte das Ge-<lb/>ſpenſt an einem Nagel und fiel der Länge lang hin.<lb/>Als die Perücke ihm abfiel, war es Fritz, der tolle<lb/>Sohn des Kommandanten.<lb/>
+            </p>
+            <p> <lb/>Damals hielt man körperliche Züchtigungen für<lb/>ſehr geſund, wie es denn bekannt iſt, daß es eigene<lb/>Fuchtelklingen gab. Nachdem der Knabe, der ſchon<lb/>tief in und über die Flegeljahre getreten, heulend und<lb/>fußſtampfend ins Dunkel hinausgeſchickt war, kamen<lb/>alte Geſpenſtergeſchichten zum Vorſchein. Man ge-<lb/>dachte der Erſcheinung von Anklam; der Acciſe-Kon-<lb/>trolleur und der Kollaborator verſicherten, die Sache<lb/>ſey für die Ewigkeit begraben; ein Anderer aber meinte,<lb/>der ſelige Pfarrer habe um das Geſpenſt gewußt, und<lb/>der Küſter einmal im Trunk verſichert, er ſähe es noch<lb/>durch die Gaſſen laufen.<lb/>
+               <pb facs="#0252" n="226" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=252"/>Der Huſaren-Major, der bisher geſchwiegen, legte<lb/>die Pfeife aus dem Mund, und ſtrich ſich mit pfiffiger<lb/>Miene den Knebelbart Dann ſagte er: „das thue<lb/>ich auch.“<lb/>Nun ſahen ihn alle erſchreckt an, und fragten, ob<lb/>er denn wiſſe, wer das Geſpenſt geweſen?<lb/>
+            </p>
+            <p> <lb/>Der Major blies den letzten Rauch aus dem<lb/>Munde und ſagte: „Der Schlingel draußen.“<lb/>
+            </p>
+            <p> <lb/>Man hätte dies für eine Albernheit gehalten, wäre<lb/>es nicht der Kommandant von Anklam geweſen. Aber<lb/>dieſer blieb bei ſeiner Ausſage, daß es eben der ſchreiende<lb/>Bengel ſey, und als man beſcheiden einwarf, daß Fritz<lb/>nach genauer Ausrechnung zu jener Zeit noch nicht ge-<lb/>boren war, machte der Huſaren-Major wieder eine<lb/>ſehr pfiffige Miene.<lb/>
+            </p>
+            <p> <lb/>Indeſſen wurde neuer Tabak gebracht, und noch<lb/>eine rauchende Bowle Punſch bereitet, und der Huſa-<lb/>renmajor, welcher ſehr freundlich ſeit er Wittwer, und<lb/>bei’m Punſch geſprächig war, gab folgendes Licht über<lb/>die Erſcheinung von Anklam.<lb/>
+            </p>
+            <p> <lb/>„Vor neunzehn Jahren lagen wir gegen die Schwe-<lb/>den in Pommern, aber die Schweden waren's nicht<lb/>allein, denen wir Huſaren zu ſchaffen machten. Viel-<lb/>mehr war dazumal ein ganz anderes Soldatenleben<lb/>als jetzt. Der alte Bürgermeiſter Andreas iſt todt,<lb/>und meine Euſebie, ſeine Tochter, Gott habe ſie ſelig,<lb/>
+               <pb facs="#0253" n="227" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=253"/>wird nicht roth werden im Grabe. Sie war kugel-<lb/>rund, das netteſte, ausgelaſſenſte Mädchen, die fixeſte<lb/>Tänzerin auf den Kantonirungsbällen, und ich juſt ein<lb/>ſo ausgelaſſener Rittmeiſter wie mein Fritz ein Thu-<lb/>nichtsgut. Wie es denn ſo in der Welt zu gehen<lb/>pflegt, ſo ging es. — Winters im Quartier, des Früh-<lb/>lings auf das Pferd Thränen ſind Thränen; eine<lb/>mehr oder weniger, dachte ich. Nun kamen Briefe,<lb/>die konnte man gut zu Fidibus brauchen; ein ordent-<lb/>licher Officier gab ſich überhaupt dazumal wenig ab<lb/>mit Leſen. Aber einmal ſpät in der Nacht, es ſollte<lb/>Morgens zu einer kleinen Bataille gehen, fiel mir ſo<lb/>ein Schnitt Papier in die Augen, ich las ihn bei der<lb/>triſten Zeltlampe immer wieder und wieder, und die<lb/>Augen wurden mir ordentlich naß, als ich mich auf<lb/>die Matratze niederwarf. Aus dem Scharmützel wurde<lb/>nichts, aber Alles machte Miene zu einem ordentlichen<lb/>Treffen, wo es heiß hergehen konnte. Urlaub war<lb/>ſchwer zu bekommen in jenen Zeiten und am allerwenig-<lb/>ſten eine Heiraths-Erlaubniß vom alten Fritz für ſeine<lb/>Huſaren-Officiere. Aber ein Schuß in der Bataille,<lb/>und ein Junge konnte auf die Welt kommen, ohne<lb/>einen Vater zu haben. Ich ſchrieb zum erſtenmal<lb/>Briefe in meinem Leben, an den Pfarrer, an das Mäd-<lb/>chen; jener war nicht difficil, wie's damals wol zu ge-<lb/>hen pflegte, und der König hätte ihn auch nicht abge-<lb/>
+               <pb facs="#0254" n="228" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=254"/>ſetzt, um einen Spaß. Das Mädchen aber, Gott<lb/>weiß, welche Ammen- und Muhmen-Hiſtörchen ihr um<lb/>die Ohren klangen; ſie meinte ein honettes Mädchen<lb/>könne nur ehrlich unter die Haube kommen, wenn ſie<lb/>in der Kirche getraut würde und einen ordentlichen<lb/>Brautzug durch die Straßen hielt. Man mußte ihr<lb/>den beſonderen Appetit wol vergeben, wie ſie damals<lb/>war. Bei Sonnenſchein war's nicht zu thun, bei Mon-<lb/>denſchein in tiefſter Stille ließ ſich's machen, wenn man<lb/>den Romanengedanken des Mädchens nachgab. Was<lb/>kümmerte mich's, wie ſie's anordnete mit ſteifen Hau-<lb/>ben und dem alten weißen Chorrock des Pfaffen<lb/>aus Friedrich Wilhelm I. Zeiten. Ich wurde krank,<lb/>und ſaß auf dem Poſtwagen, bis ich Schlag 12 Uhr<lb/>als Geſpenſt in Anklam ausſtieg.“<lb/>
+            </p>
+            <p> <lb/>Man ſchüttelte den Kopf und Mancher hatte ge-<lb/>ahnet, daß es ſich ſo verhalten.<lb/>
+            </p>
+            <p> <lb/>„In dieſem Hauſe, fuhr der Major fort, was aber<lb/>damals alt war und verfallen — ich hatte darin als<lb/>Einquartirung gelegen — erwartete ſie mich mit dem<lb/>Küſter und einer alten Hexe, die für ein Paar Gold-<lb/>ſtücke gar gefällige Zeugen abgaben. Den Schlüſſel<lb/>hatte ſie aus des Vaters Regiſtratur geſtohlen, aber<lb/>das ſchlimmſte blieb der Vater ſelbſt, der oben zum<lb/>Fenſter 'naus ſchaute, und ein gefährlich wilder Mann<lb/>war, wenn er's entdeckt hätte.“ –<lb/>
+               <pb facs="#0255" n="229" corresp="http://opacplus.bsb-muenchen.de/title/BV010525333/ft/bsb10104477?page=255"/>„Aber die Hexe leuchtete ihm in's Geſicht – fiel<lb/>der Kontrolleur in die Rede – und er erkannte eine<lb/>Frau, die ſein Vater lebendig verbrennen laſſen.“<lb/>
+            </p>
+            <p> <lb/>„Kann wol ſeyn,“ fuhr der Major lachend fort, in-<lb/>dem er wieder aus vollen Zügen rauchte, „ſie lebte aber<lb/>noch vor zehn Jahren, und ich und Euſebie wurden<lb/>vor achtzehn um Mitternacht in der Kirche ehrlich ge-<lb/>traut.“<lb/>
+            </p>
+            <p> <lb/>„Aber die Regierungs-Kommiſſion —“<lb/>
+            </p>
+            <p> <lb/>„Kehrte mit einem großen Papierſtoß und einer<lb/>langen Naſe zurück, dieweil der Pfaff ein Pfifficus war,<lb/>und der alte Bürgermeiſter gerade da in's Geheimniß<lb/>gezogen wurde, als nichts mehr zu verbergen war.“<lb/>
+            </p>
+            <p> <lb/>„Alſo gar nichts von Geſpenſt?“ — ſagte der<lb/>Kollaborator mit lang gedehntem Seufzer.<lb/>
+            </p>
+            <p> <lb/>„Doch eines,“ ſetzte der Major ernſt hinzu und die<lb/>Pfeife weg. „Dasjenige, das mir in der Nacht vor<lb/>dem Scharmützel erſchien und mich zurück trieb nach<lb/>Anklam.“<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

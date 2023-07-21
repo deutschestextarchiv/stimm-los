@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">In dreifachen Banden</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_dreifache-banden_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: In dreifachen Banden, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">In dreifachen Banden</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>C. F. Simon</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Stuttgart</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Kinder des Südens</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 141–200</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078</idno><idno type="shelfmark">Shelfmark: P.o.germ. 1843 b-2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">In dreifachen Banden</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0147" n="141" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=147"/>
+            </p>
+            <p> <lb/>In dreifachen Banden.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0148" n="142" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=148"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0149" n="143" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=149"/>
+            </p>
+            <p> <lb/>1.<lb/>Unter dem blauen Himmel.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">P</hi>
+               <hi rendition="#aq">orro Felice</hi> — <hi rendition="#aq">Luogo tenente</hi>!“ rief ein Offizier<lb/>in das Poſtfenſter zu Mailand. Während der junge<lb/>italieniſche Krieger mit der Linken ſeinen Schleppſäbel er-<lb/>faßte und mit der Rechten ſeinen vollen, kohlſchwarzen<lb/>Schnurrbart glättete, folgten ſeine braunen, luſtigen, ja<lb/>da ſie nicht groß waren, liſtigen Augen den Bewegungen<lb/>der Poſtbeamten, der vor ſeinem Brief-Columbarium einen<lb/>
+               <hi rendition="#aq">ferma in poſta</hi>-Brief unter dem Buchſtaben „<hi rendition="#aq">P</hi>.“ ſuchte.<lb/>Lieutenant Porro war von kräftiger, großer Figur; ob-<lb/>wohl ſeine Züge entſchieden italieniſch waren, trugen ſie<lb/>doch keineswegs jenen berühmten römiſchen Schnitt, wel-<lb/>cher mit der Antike wetteifert, vielmehr zeigten ſich ſeine<lb/>Naſe kurz und kräftig, ſeine Backenknochen breit, ſeine<lb/>Augenbogen einander faſt berührend, ſtark und nicht allzu<lb/>gewölbt — dennoch war Felice ein gut ausſehender, wenn<lb/>nicht hübſcher Mann, von ſechs- bis achtundzwanzig<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0150" n="144" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=150"/>
+            </p>
+            <p> <lb/>Jahren, ſeine Mienen waren alle und ſtets für ein gut-<lb/>müthiges Lächeln in Bereitſchaft, und während der Beamte<lb/>noch immer fingerte und ſuchte, ſang der Offizier eine<lb/>Strophe aus einem neapolitaniſchen Gondelliede mit metall-<lb/>reicher Baritonſtimme.<lb/>
+            </p>
+            <p> <lb/>Niente!“ rief jetzt der Beamte und hielt mit der un-<lb/>vermeidlichen italieniſchen Pantomime dazu zwei Finger<lb/>der rechten Hand in die Höhe.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Be</hi>!“ entgegnete der Kriegsmann in jener üblichen<lb/>Abkürzung des „<hi rendition="#aq">Bene</hi>“, die ſo viel Gemüthliches hat,<lb/>und wandte ſich zum Gehen, als er plötzlich einer Dame<lb/>ſo nahe gegenüberſtand, daß ihn ihr Arm, der ausge-<lb/>ſtreckt war, um eine Karte ins Fenſter zu legen, beinahe<lb/>umſchlang.<lb/>
+            </p>
+            <p> <lb/>„Ah — entſchuldigen Sie!“ rief er grüßend — die<lb/>Dame achtete nicht auf ihn, ſie ſchien die Begegnung nur<lb/>körperlich und mit keinem Gedanken empfunden zu haben,<lb/>ſondern blickte geſpannt auf den abermals ſortirenden Poſt-<lb/>ſekretär; die Hand, welche die Karte hielt, war wohlge-<lb/>formt und ſteckte in einem grauen Handſchuh, um das<lb/>Gelenk derſelben legte ſich ein breites goldenes Armband,<lb/>deſſen erhabene Goldbuchſtaben die Worte „<hi rendition="#aq">Roma eterna</hi>“<lb/>bildeten, aber dieſe bevorzugte Hand ſchwankte zitternd hin<lb/>und her und Felices ſcharfe Augen entzifferten mit Mühe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0151" n="145" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=151"/>
+            </p>
+            <p> <lb/>auf der Karte: „Madame Adrienne Rohrdorff.“ Der<lb/>Beamte fragte, ob er unter „<hi rendition="#aq">A</hi>“ oder „<hi rendition="#aq">R</hi>“ zu ſuchen<lb/>habe. Die Dame ſchien in der Erregung nicht antwor-<lb/>ten zu können, ſondern zeigte mit der linken Hand auf<lb/>das „<hi rendition="#aq">R</hi>“. Jetzt war ein Brief gefunden.<lb/>
+            </p>
+            <p> <lb/>„Madame la Comteſſe de Rohrdorff,“ las der Be-<lb/>amte, zweifelnd, ob die Adreſſe mit der Karte ſtimme,<lb/>aber die Dame entriß ihm den Brief und eilte mit dem-<lb/>ſelben wie beflügelt aus dem Hofe des Poſtgebäudes. Sie<lb/>trug ein blaues Kleid, das ſich angenehm an ihre hohe,<lb/>volle Figur ſchmiegte. Porro hatte inzwiſchen auch das<lb/>Geſicht der fremden Frau geprüft und daſſelbe ungemein<lb/>pikant gefunden, es lag ein gar energiſcher, treuinniger<lb/>Ausdruck über der ganzen Erſcheinung. — Der Offizier<lb/>wechſelte einen Blick mit dem Beamten, welcher ſich vor-<lb/>gebeugt hatte, um gleichfalls durch das Thor hinterdrein<lb/>zu ſehen, und murmelte: „<hi rendition="#aq">Cibi</hi> — wenn der Brief ein<lb/>böſer iſt, ſo ſpeiſt ſie Rattengift zu Abend!“<lb/>
+            </p>
+            <p> <lb/>Es bedarf keiner Erwähnung, daß der <hi rendition="#aq">Luogo tenente</hi>
+               <lb/>ſeine Pflicht einer intereſſanten Signora gegenüber voll-<lb/>ſtändig kannte, er folgte ihr alſo in der Richtung zum<lb/>königlichen Palaſt, doch benutzte ſie nicht den Durchgang<lb/>zum Domplatz, ſondern trat in einen Bilderladen, ein<lb/>unruhig gewordenes Pferd hielt den Offizier einige Se-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0152" n="146" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=152"/>
+            </p>
+            <p> <lb/>kunden in der Verfolgung auf, als er den Laden nun<lb/>auch erreichte, fand er den Beſitzer deſſelben in höchſter<lb/>Beſtürzung, eine Dame hatte Photographien gefordert und<lb/>war dann ohnmächtig in ſeine Arme geſunken.<lb/>
+            </p>
+            <p> <lb/>Felice trat an den Seſſel, auf welchem die Bewußt-<lb/>loſe lag; er befahl Waſſer zu bringen und knüpfte die<lb/>Bänder ihres Spitzenhutes auf.<lb/>
+            </p>
+            <p> <lb/>„Gehört dieſe Dame zu Ihnen?“ fragte der Kauf-<lb/>mann mißtrauiſch.<lb/>
+            </p>
+            <p> <lb/>„Ja — eilen Sie!“<lb/>
+            </p>
+            <p> <lb/>Lieutenant Porro lehnte das bleiche Geſicht an ſeine<lb/>Uniform und legte ſeine Hand ſtützend gegen die braunen<lb/>Flechten, die am Hinterhaupt mit einer Spadiglia aus<lb/>Schildpat aufgeſteckt waren, jenem kleinen Schwert, deſſen<lb/>ſich die Italienerinnen zum gleichen Zweck bedienen. Die<lb/>herabgeſunkene Hand der Gräfin drückte den Unheilſtifter,<lb/>den Brief, zuſammen.<lb/>
+            </p>
+            <p> <lb/>Kaum waren die Schläfen der Bewußtloſen mit<lb/>Waſſer genetzt, ſo ſchlug Madame Rohrdorff ein paar große,<lb/>fragende Augen zum Lieutenant Porro auf und erhob<lb/>ihr Haupt. Sie ſagte nichts, ſondern nickte nur, als ſich<lb/>Felice in deutſcher Sprache, die er mit der gewohnten<lb/>wälſchen Sprachkeckheit redete, erbot, ſie nach Hauſe zu<lb/>führen, ihre Zuſtimmung.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0153" n="147" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=153"/>
+            </p>
+            <p> <lb/>Sie legte den Preis eines großen Dombildes auf den<lb/>Laden und bedeutete, ſie werde daſſelbe abholen laſſen.<lb/>Offenbar lag der Dame daran, ihre Adreſſe nicht zu ver-<lb/>rathen, denn als Porro nach dem Ziel der gemein-<lb/>ſchaftlichen Wanderung fragte, beſchied ſie ihn — zum<lb/>Dome!<lb/>
+            </p>
+            <p> <lb/>„Aber Gräfin“ — Porro legte als Italiener viel Ge-<lb/>wicht auf einen hohen Rang — „Sie ſind zu angegrif-<lb/>fen, als daß ich Sie dort allein laſſen dürfte!“<lb/>
+            </p>
+            <p> <lb/>„Mit Unrecht, Signore, hegen Sie dieſe Sorge, der<lb/>Dom iſt eben der Ort für die Alleingelaſſenen!“<lb/>
+            </p>
+            <p> <lb/>Sie ſtützte ſich feſter auf ſeinen Arm, als ſie die Stu-<lb/>fen emporſtiegen, die zum Portal führen, trotzdem entzog<lb/>ſich dem Lieutenant neben der erſten Säule, die ſich zu<lb/>dem wunderbaren, aufſtrebenden Gewölbe erhebt, die Hand,<lb/>welche auf ſeinem Arm gelegen hatte, und die Dame ſagte<lb/>kühl: „Ich danke Ihnen!“<lb/>
+            </p>
+            <p> <lb/>Felice blickte ſie an, dieſes bleiche, entſchloſſene, ſphynx-<lb/>artige Antlitz übte bereits einen größern Zauber auf ihn,<lb/>als all die blühenden, lächelnden, lebensvollen Geſichter,<lb/>die er bis jetzt ſo reizend fand, er ergriff ihre beiden<lb/>Hände, in deren einer noch der Brief lag, und rief mit<lb/>mühſam unterdrücktem Ungeſtüm: „Oh, Madame, wenn<lb/>Ihr Schmerz zu groß für Worte und Thränen iſt — ſo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0154" n="148" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=154"/>
+            </p>
+            <p> <lb/>erlauben Sie mir wenigſtens, da neben Ihnen zu knieen,<lb/>wo Sie ſich niederwerfen und beten wollen!“<lb/>
+            </p>
+            <p> <lb/>„Ich bin Proteſtantin!“ ſagte Sie mit großer Selbſt-<lb/>beherrſchung.<lb/>
+            </p>
+            <p> <lb/>„Fragt der Schmerz, fragt die Theilnahme darnach?<lb/>Fragten Die, welche dieſen Dom erbauten, mit welchen<lb/>Worten man hier um Troſt zu Gott flehen würde?“<lb/>Felice ſprach dieſe Worte italieniſch, ſie wurden durch ein<lb/>mattes Lächeln beantwortet und die Gräfin ſagte: „Sie<lb/>irren, Signore, ich hoffe und erflehe keinen Troſt, wenig-<lb/>ſtens keinen irdiſchen, wer nichts mehr von der Erde hofft,<lb/>der iſt dreifach gepanzert — ich danke Ihnen für Ihr<lb/>gutes Wort, ich bedarf keiner Theilnahme, nur der ein-<lb/>zigen: Laſſen Sie mich allein!“<lb/>
+            </p>
+            <p> <lb/>Porro biß ſich erröthend auf die Lippen, verbeugte<lb/>ſich und ging. Sein Säbel klirrte bedrohlich hinter ihm<lb/>drein, wie er jetzt der neuen, prachtvollen Galerie Viktor<lb/>Emanuele zuſtürzte, nicht die glänzenden Verkaufsläden zu<lb/>beiden Seiten beachtend, ſondern ſich vor dem erſten, be-<lb/>ften Café eines Stuhles bemächtigend und ſtürmiſch „Zei-<lb/>tungen“ fordernd. Ein anderer Offizier begrüßte ihn —<lb/>er bemerkte es kaum.<lb/>
+            </p>
+            <p> <lb/>„Da biſt Du ja, Porro!“ rief ein dritter Kriegsmann,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0155" n="149" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=155"/>
+            </p>
+            <p> <lb/>„ich ſuche Dich den ganzen Morgen, Du biſt ein Glücks-<lb/>kind, Deine Verſetzung nach —“<lb/>
+            </p>
+            <p> <lb/>„Hôtel de l’Europe — richtig, Hôtel de l’Europe!“<lb/>unterbrach Felice ganz erfreut und ſchob alle andere Zei-<lb/>tungen ohne Weiteres vom Tiſche herunter.<lb/>
+            </p>
+            <p> <lb/>„Er hat den Verſtand verloren! ſtaunte der Kamerad.<lb/>„Nichts vom Hôtel de l’Europe, am 22. ſollſt Du in<lb/>Deiner neuen Garniſon Neapel ſein!“<lb/>
+            </p>
+            <p> <lb/>„Heute iſt der 16., zwei Tage nimmt die Reiſe —<lb/>großer Gott, da hätte ich für Alles nur vier Tage!“ rief<lb/>Felice verzweifelnd. „Ah — <hi rendition="#aq">per bacco</hi>, das iſt ein<lb/>ſchwerer Schlag für mich!“<lb/>
+            </p>
+            <p> <lb/>Die jungen Männer ſahen dem Davoneilenden lä-<lb/>chelnd nach, kein Zweifel: Felice, der ſich in Mailand un-<lb/>aufhörlich nach ſeiner Vaterſtadt Neapel ſehnte, hatte eben<lb/>im letzten Moment ein bindendes Intereſſe für das ver-<lb/>kannte Milano gewonnen! — Vier Tage — eine Ewig-<lb/>keit für den Schmerz und die Erwartung, ein Moment<lb/>für den Lieutenant, der ſoeben eine ſchöne, unglückliche,<lb/>verlaſſene Gräfin fand. Zur ſchicklichen Zeit war Fe-<lb/>lice am nächſten Morgen im Hôtel de l’Europe, welches am<lb/>Corſo, faſt <hi rendition="#aq">vis-à-vis</hi> des Domes liegt. Der <hi rendition="#aq">Luogo</hi>
+               <lb/>
+               <hi rendition="#aq">tenente</hi> trug heute Haar und Bart ziemlich gekräuselt,<lb/>ſeine Knöpfe und die kirſchrothen Aufſchläge leuchteten<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0156" n="150" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=156"/>
+            </p>
+            <p> <lb/>tadellos und die Hände waren von nagelneuen, maisfar-<lb/>benen Handſchuhen umſchloſſen. Der Portier blickte bei<lb/>ſeiner Frage nach der Gräfin Rohrdorff auf das Schlüſſel-<lb/>brett und entgegnete: „Nr. 41 pflegt Morgens zeitig aus-<lb/>zugehen und kommt erſt Nachmittags oder Abends zurück.<lb/>Madame (er betonte das Madame) Rohrdorff iſt nicht zu<lb/>Hauſe!“<lb/>
+            </p>
+            <p> <lb/>Porro machte ſich ſeine Gedanken, ob ſie wirklich eine<lb/>Gräfin ſein möchte, geſtern noch legte er ſo großen Werth<lb/>auf dieſen Titel, heute war es ihm jedoch ſchon gleich-<lb/>gültig, was dieſe Frau war, wie ſie hieß, wenn er ſie<lb/>nur fand, wenn ſie ihre ernſten, tiefen Leidensblicke nur<lb/>auf ihn und ſein luſtiges Geſicht heften wollte.<lb/>
+            </p>
+            <p> <lb/>„Welches Kleid trug die Signora beim Ausgehen?“<lb/>— Der Portier glaubte, er hätte ſie immer nur in Blau<lb/>geſehen — ja, er erinnerte ſich jetzt gewiß, daß die Ca-<lb/>meriera aus dem zweiten Stock ſich über die blauen Klei-<lb/>der der Dame die Aeußerung erlaubt hätte, es möchte<lb/>ihnen ein Gelübde zu Grunde liegen. — Porro Felice<lb/>fahndete jede Viertelſtunde dieſes Tages, welche ihm der<lb/>Dienſt frei ließ, auf blaue Kleider, im botaniſchen Gar-<lb/>ten, beim Poſtfenſter, in den Miethwagen und Reſtau-<lb/>rationen — umſonſt, ſie mußte ſich unſichtbar gemacht<lb/>haben.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0157" n="151" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=157"/>
+            </p>
+            <p> <lb/>Am nächſten Morgen hatte der mitfühlende Portier<lb/>beobachtet, die blaue Signora ſei in den Dom gegangen,<lb/>eine Aufmerkſamkeit, welche ihm zwei Lire eintrug. Im<lb/>Dom? Konnte eine junge, hübſche Frau Tage lang im<lb/>Dome leben? Lächerlich, ja unmöglich! Er ging inzwiſchen<lb/>in die ſtillen, kühlen Hallen, er durchforſchte die drei<lb/>Schiffe (die Symbole der Dreieinigkeit), er umwandelte<lb/>den Hauptaltar — die Signora war nicht da. Wie<lb/>Lieutenant Porro ſo an den gemalten Fenſtern, an den<lb/>Skulpturen der Altäre und all der ernſten, feierlichen<lb/>Schönheit des wunderſamen Baues vorüberging, da fiel<lb/>ihm ein, was ſeine fromme Mutter ſagen würde, wenn<lb/>ſie wüßte, ihr Sohn beſuchte die Kirche, um eine prote-<lb/>ſtantiſche Frau in derſelben zu ſuchen, wenn dieſe Mutter<lb/>wüßte, er habe ſeine Finger gedankenlos in das Weih-<lb/>waſſer getaucht und gehe jetzt an den Heiligen und Mär-<lb/>tyrern vorüber, ohne einen Blick oder einen Gedanken auf<lb/>ſie zu richten?<lb/>
+            </p>
+            <p> <lb/>Da es Morgen war, zeigten ſich die gemalten Fenſter<lb/>in der oberen Hälfte des Kreuzes, das die Grundform<lb/>der Kathedrale — der viertgrößten der Welt! — bildet,<lb/>beſonders ſchön erleuchtet, ſie liegen hinter der Krypta<lb/>und gehören ihren Darſtellungen nach dem alten Teſta-<lb/>ment an. Felices Augen wurden durch jenes gefeſſelt,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0158" n="152" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=158"/>
+            </p>
+            <p> <lb/>das mit Erſchaffung der Welt beginnt und in aufſteigen-<lb/>der, freilich etwas willkürlich gezogener Linie bis zur Ge-<lb/>burt des Heilands führt. Man kann nicht wohl von<lb/>Signore Porro erwarten, daß er bibelfeſt Bild für Bild,<lb/>Scheibe für Scheibe die lebendigen Schilderungen des Ma-<lb/>lers verſtand, aber ſeine fromme Mutter war eine gute<lb/>Erzählerin der heiligen Traditionen und Legenden gewe-<lb/>ſen, ſo blickte Felice die zierlichen Gruppen an und ent-<lb/>ſann ſich, was ſeine Mutter von dieſen Geſtalten erzählte.<lb/>Der Künſtler, welcher dieſe reiche Glasdichtung zuſammen-<lb/>ſtellte, hatte Jakob, den Erzvater, mit beſonderer Vor-<lb/>liebe behandelt, einer dieſer lieblichen Farbenträume zeigt<lb/>zwei Frauen an einem Brunnen, die Sitzende in Dunkel-<lb/>blau und gebeugt, die Stehende voll und jugendlich,<lb/>weißes Gewand, mit tiefgefärbter lila Schärpe umgürtet.<lb/>Vielleicht Rahel und Lea? — Arme Lea, ſo pflichtgetreu,<lb/>ſo klaglos und doch ſo tief gekränkt, weil die Andere<lb/>ſchöner war — die Signora Porro hatte Lea ſtets be-<lb/>dauert.<lb/>
+            </p>
+            <p> <lb/>Da der Raum nicht ſehr breit war, lehnte ſich Fe-<lb/>lice an den geſchnitzten Beichtſtuhl, gleichſam an ein Dogma,<lb/>um ſicherer hinaufzublicken, da — tönte ein Seufzen, ein<lb/>unterdrücktes Aechzen unmittelbar an ſein Ohr, er fuhr<lb/>zuſammen, denn er glaubte allein zu ſein. Die Vor-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0159" n="153" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=159"/>
+            </p>
+            <p> <lb/>hänge des Beichtſtuhls waren zugezogen, aber durch die<lb/>nur angelehnte Thür deſſelben ward ein Stückchen blauen<lb/>Stoffes, ein Kleiderſaum, ſichtbar. König Enzio wurde<lb/>verrathen, weil eine ſeiner blonden Locken aus der Wein-<lb/>tonne, die ihn verſteckte, hervorgeſchlüpft war — hier ein<lb/>blauer Saum! Porro öffnete mit zitternder Hand die<lb/>Thür, die bunten Farben des Fenſters legten ſich wie ein<lb/>Regenbogen um die (wie wir es nennen) gedankenlos Da-<lb/>ſitzende, gedankenlos, weil in ſchweren Gedanken ver-<lb/>ſchüttet und vergraben wie Herculanum und Pompeji —<lb/>Aſche und Lava.<lb/>
+            </p>
+            <p> <lb/>„Endlich!“ ſagte Felice und nahm ihre Hand in die<lb/>ſeine, „endlich finde ich Sie — weiſen Sie mich nicht<lb/>wieder hinweg, es hilft nichts, denn ich bin entſchloſſen<lb/>zu bleiben, ſo lange Sie bleiben, und Ihnen zu folgen,<lb/>wenn Sie von mir fliehen!“<lb/>
+            </p>
+            <p> <lb/>Die Frau betrachtete ihn und erinnerte ſich dann ſeiner.<lb/>„Weßhalb ſollte ich vor Ihrer Freundlichkeit fliehen, flieht<lb/>der Verarmte vor dem Almoſen? Es freut ihn nicht, aber<lb/>er muß doch leben und ſein Daſein friſten!“<lb/>
+            </p>
+            <p> <lb/>„Waren Sie immer hier — jeden Tag?“<lb/>
+            </p>
+            <p> <lb/>„Jeden Tag, anfangs harrend und hoffend, dann<lb/>hoffnungslos mein Ich wieder ſuchend, um es Gott zurück-<lb/>zuführen! Nicht wahr,“ fuhr ſie lächelnd und ſich er-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0160" n="154" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=160"/>
+            </p>
+            <p> <lb/>hebend fort, „ich rede im Beichtſtuhl, ich benehme mich<lb/>wie eine Fremde im fremden Land, ich bin auch in der<lb/>That überall eine Fremde, auch da, wo man Deutſch<lb/>redet — meine Mutterſprache, denn ich habe keine<lb/>Heimat!“<lb/>
+            </p>
+            <p> <lb/>„Ihre Worte klingen ſo unendlich traurig, ſo unglaub-<lb/>lich in mein Ohr, daß ich ſelbſt ſtaune, wie mein Herz<lb/>im ſeligſten Entzücken über dieſelben aufjubelt — Sie<lb/>find heimatlos, verlaſſen. Porro Felice bietet Ihnen eine<lb/>Heimat, ein Herz, ſein biſchen Hab und Gut — es iſt<lb/>nicht allzu viel, aber wenn Sie ihn in Ihr Herz ſchlie-<lb/>ßen können, ſo iſt es genug!“<lb/>
+            </p>
+            <p> <lb/>„Oh,“ murmelte Adrienne und ihre Augen füllten<lb/>ſich mit erleichternden Thränen, „man kann mich alſo<lb/>noch lieben?“<lb/>
+            </p>
+            <p> <lb/>„Signora, wie ſoll ich Ihnen beweiſen?“<lb/>
+            </p>
+            <p> <lb/>„Nein, nein, Herr Porro, die Frage galt nicht Ihnen,<lb/>Sie haben ein zu ehrliches Geſicht, als daß ich Sie ge-<lb/>wagt hätte — ich fragte einen Fernen, Abweſenden!“<lb/>
+            </p>
+            <p> <lb/>Felice ſah ſie mit einem leidenſchaftlichen Blicke an<lb/>und bat dringend: „Trotz meines Ausſehens, Madame,<lb/>bitte ich Sie, Beweiſe meiner Verehrung für Sie zu for-<lb/>dern, ich darf verſprechen, daß mir keiner zu ſchwer ſein<lb/>wird, ſo lange Sie meinem Herzen einige Hoffnung laſſen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0161" n="155" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=161"/>
+            </p>
+            <p> <lb/>Sie waren neben einander fortgeſchritten bis zu jenem<lb/>Altar, über welchem Daniel in der Löwengrube in Mar-<lb/>mor dargeſtellt iſt. Hier ſetzte ſich die blaue Dame und<lb/>ſah nachdenkend auf die ſteinerne Gruppe. „Ich bin auch<lb/>ein Daniel,“ begann ſie leiſe, „ein Daniel in der Löwen-<lb/>grube meiner Leiden und Leidenſchaft. — Sie haben keinen<lb/>Begriff davon, was es für mich heißt, eine rettende,<lb/>ſchützende, liebende Hand nach mir ausgeſtreckt zu ſehen<lb/>und dieſelbe zurückweiſen zu müſſen. Sie ſind mir ſo<lb/>fremd — und doch glaube ich Ihnen, Sie kommen mir<lb/>mit einem ſo unbegrenzten Vertrauen entgegen, daß ich<lb/>Ihnen auch nicht die leiſeſte trügeriſche Hoffnung laſſen<lb/>mag, ich bin durch eine tiefe, wenn auch, wie Sie<lb/>ahnen, unglückliche Neigung gebunden; können Sie Deutſch<lb/>leſen?“<lb/>
+            </p>
+            <p> <lb/>„Ein wenig, in dem Hauſe meiner Mutter zu Neapel<lb/>wohnte in meiner Kindheit ein deutſcher Künſtler, der es<lb/>mich lehrte.“<lb/>
+            </p>
+            <p> <lb/>„Wohlan, hier iſt der Brief, welchem ich neben ſo<lb/>vielem Leid auch Ihre Bekanntſchaft verdanke.“<lb/>
+            </p>
+            <p> <lb/>Adrienne zog jenen Brief hervor, deſſen Größe und<lb/>Farbe ſich dem jungen Verliebten tief genug eingeprägt<lb/>hatte, und er las:<lb/>
+            </p>
+            <p> <lb/>„Meine liebe Gräfin! Es thut mir leid, daß Sie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0162" n="156" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=162"/>
+            </p>
+            <p> <lb/>auf mein Kommen oder wenigſtens einen Brief von mir,<lb/>wie ich aus Ihrer telegraphiſchen Anfrage über mein Er-<lb/>gehen entnehme, ſo lange umſonſt gewartet haben. Nicht<lb/>mein Befinden, ſondern eine plötzliche Veränderung meiner<lb/>Lebensverhältniſſe trägt die Schuld der Verzögerung.<lb/>
+            </p>
+            <p> <lb/>„Es iſt nun faſt ein Jahr her, daß ich um Ihre<lb/>Hand warb. Sie ſchlugen mir dieſelbe ab, weil zwiſchen<lb/>uns irgend ein Gelübde, irgend welches Geheimniß ſtand.<lb/>Wohlan, Sie machten ſich mir unerreichbar, ich folgte<lb/>alſo dem dringenden Wunſche meiner Mutter und verlobte<lb/>mich vor acht Tagen mit einem liebenswürdigen jungen Mäd-<lb/>chen! — Sie ſind indeß zu ſehr ein Theil meines Lebens,<lb/>Denkens und Fühlens, meines eigenſten und edelſten<lb/>Strebens, als daß ich nicht aus tiefſter Seele wünſche,<lb/>das möge ſo bleiben können. — Sie ſind eine große<lb/>Frau, was uns band und einte, muß wohl ſiegreich über<lb/>den gewöhnlichen Verhältniſſen ſtehen.<lb/>
+            </p>
+            <p> <lb/>“Ich beſchwöre Sie, mir zu antworten.<lb/>
+            </p>
+            <p> <lb/>Victor.“<lb/>
+            </p>
+            <p> <lb/>„Elender!“ murmelte Felice zwiſchen den Zähnen und<lb/>warf den Brief zu Boden.<lb/>
+            </p>
+            <p> <lb/>Adrienne blickte in das zornrothe Antlitz ihres neuen<lb/>Bewerbers und flüſterte geſenkten Hauptes: „Tauſend Mal<lb/>elender ich, von einem zweiſchneidigen Schwert verwundet,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0163" n="157" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=163"/>
+            </p>
+            <p> <lb/>voll Zorn und Kränkung, will mein Herz nicht aufhören<lb/>ihn zu lieben! Ich kann den Gedanken nicht ertragen, daß<lb/>er jetzt ohne meine große Liebe, die ihn anfeuerte, hob<lb/>und trug, ein gewöhnlicher, alltäglicher Menſch, einer von<lb/>Tauſenden wird! Oh, ich ward nicht müde, ihm die<lb/>erhabenſten Ziele zu zeigen, ihm die Wege zu ebnen, ihn<lb/>unabläſſig zu ermuthigen — jetzt iſt er nichts als ein<lb/>liebender Bräutigam!“<lb/>
+            </p>
+            <p> <lb/>Porro ſtand ungeſtüm auf, legte Adriennes Hand auf<lb/>ſeinen Arm und führte ſie hinaus.<lb/>
+            </p>
+            <p> <lb/>„Wohin bringen Sie mich?“ fragte ſie faſt unter-<lb/>würfig.<lb/>
+            </p>
+            <p> <lb/>„Ins Freie — ins Leben. — Sie dürfen nicht mehr<lb/>wie eine Mumie in den Gewölben dieſer Kirche erſtarren.<lb/>Sie irren, wenn Sie denken, dieſer — dieſer — Menſch<lb/>wäre ein liebender Bräutigam, er liebt nichts, als ſich<lb/>ſelbſt, und bemäntelt ſeine Treuloſigkeit noch mit Ihrer<lb/>Großmuth — der Mann, der das Weib ſchützen und<lb/>ſtützen ſoll —“<lb/>
+            </p>
+            <p> <lb/>„Oh, reden Sie nicht weiter, Signore,“ flehte Adrienne,<lb/>„ich kann ihn nicht tadeln hören, und wenn er fehlte, ſo<lb/>geſchah das nicht aus Berechnung, wirklich nicht, ſein Herz<lb/>iſt mit all ſeinen Impulsen gut und edel, aber die Welt<lb/>hat ihm das friſche, muthige Weſen genommen, ihn müde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0164" n="158" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=164"/>
+            </p>
+            <p> <lb/>gemacht und — —;“ ſie verſtummte, denn auf Porros<lb/>Antlitz blickte und zuckte ein böſes Wetter des Zornes<lb/>und der Eiferſucht.<lb/>
+            </p>
+            <p> <lb/>„Halten Sie ein, Madame,“ rief er, „ich bin gewiß<lb/>nicht würdig, von einem ſo treuen Herzen wie das Ihrige<lb/>wieder geliebt zu werden, aber nichts auf der Welt kann<lb/>mich hindern, Sie bis zu meinem letzten Athemzug zu<lb/>verehren — anzubeten. Ich frage Sie nicht um Erlaub-<lb/>niß dazu, Ihre Güte kann mich glücklich, Ihre Kälte<lb/>unglücklich machen, aber nichts kann die Empfindungen<lb/>meines Herzens ändern!“<lb/>
+            </p>
+            <p> <lb/>Sie waren vor dem Hôtel angekommen, Felice hatte<lb/>ſich hoch aufgerichtet und ſah wie ein Gebieter auf Adrienne<lb/>herab. Es kam eine wunderliche Empfindung, ein Schwin-<lb/>del über ſie, ihr war, als müßte ſie die Augen ſchließen<lb/>und Felice würde ſie dann in ſeine ſtarken Arme nehmen<lb/>und ſie weiter tragen, ſie wußte und fragte nicht wohin?<lb/>Er würde es ja wiſſen und ſie ganz beſchützen. Victor<lb/>hatte ſich gleichſam immer unter Adriennes Schutz geſtellt,<lb/>vor Felice war ſie wie willenlos.<lb/>
+            </p>
+            <p> <lb/>„Was ſoll ich thun?“ fragte die Frau mit der zähen<lb/>Energie und der männlichen Selbſtſtändigkeit.<lb/>
+            </p>
+            <p> <lb/>„Speiſen Sie — ruhen Sie — ſehen Sie Ihrem<lb/>Schicksal in die Augen, gegen Abend werde ich kom-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0165" n="159" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=165"/>
+            </p>
+            <p> <lb/>men, um zu vernehmen, was ich Ihnen ſein kann. Addio,<lb/>Adrienne!“<lb/>
+            </p>
+            <p> <lb/>„Adieu —!“ er ließ ihre Hand ſinken und ging.<lb/>
+            </p>
+            <p> <lb/>Ob ſie wohl träumte, die blaue Dame? Da ſtand<lb/>Victors Bild, ſein feines, ſchönes, geiſtvolles Geſicht —<lb/>im Kamin lag ein Häufchen Aſche, ſeine Briefe, eine<lb/>dunkle Locke und ein trockenes Akazienblatt, denn unter<lb/>einer Akazie hatte er ihr gesagt, daß er ſie liebe. Ob<lb/>er ſie wohl wirklich geliebt hatte, damals als ſie ſich ohne<lb/>Worte verſtanden? Und nun dieſer fremde Mann, dieſer<lb/>Porro — „guter Felice!“ ſagte ſie auf einmal und hörte<lb/>ſich verwundert ſelbſt im Zimmer reden. Sie erinnerte ſich,<lb/>daß er — nämlich Felice — ihr befohlen hatte zu eſſen,<lb/>deshalb aß ſie, aber ſie wählte eine Speiſe, die Victor gern<lb/>gegeſſen hatte und erinnerte ſich, was er damals über<lb/>dieſelbe ſagte — oh wie lange, wie lange ſeitdem —<lb/>nein, noch kein ganzes Jahr. — Was konnte ſie von jetzt<lb/>an nur immer denken, da es Unrecht war an Victor zu<lb/>denken, ihre Phantasie flatterte umher wie ein Vogel, dem<lb/>man ſein Neſt zerſtört hat.<lb/>
+            </p>
+            <p> <lb/>Gegen Abend kam Felice, unten auf der Straße war<lb/>Corſo, zwei Reihen Wagen und zwei Ströme von Fuß-<lb/>gängern, Alles elegant und fröhlich. Porro trug einen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0166" n="160" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=166"/>
+            </p>
+            <p> <lb/>Stuhl auf den Balcon für die Gräfin, er ſelbſt ſetzte<lb/>ſich ihr gegenüber ins Zimmer, neben die Glasthür.<lb/>
+            </p>
+            <p> <lb/>„Fürchten Sie ſich vor mir, Adrienne?“<lb/>
+            </p>
+            <p> <lb/>„Oh nein — gar nicht — wie ſollte ich?<lb/>
+            </p>
+            <p> <lb/>„Das iſt gut, Sie edles armes Geſchöpf! So erzäh-<lb/>len Sie mir denn von ſich, oder da ſie nicht anders<lb/>können, von ihm! Ein Mann, den eine Adrienne ſo<lb/>liebt, muß ſeine guten Seiten gehabt haben!“<lb/>
+            </p>
+            <p> <lb/>„Oh gewiß, gewiß, Felice, ach ich danke Ihnen für<lb/>das Wort! Schön war er und ſchwärmeriſch und zart<lb/>— ich kam mir immer ganz proſaiſch neben ihm vor<lb/>— wie liebte er ſein Volk und ſein Vaterland, wie lebte<lb/>er mit ganzer Seele in der Natur — wie glücklich war<lb/>er, als ich ſtets ſeine Lieblingsfarbe „blau“ trug — merk-<lb/>würdig, manchmal ſcheinen mir jetzt meine blauen Kleider<lb/>blutroth, ich möchte aufſchreien, wenn ich eine ſchöne<lb/>Blume ſehe und die Zeitungen brennen mir wie Feuer<lb/>in der Hand, denn ihr Inhalt redet ja ſtets für oder<lb/>gegen ſeine innerſten Ueberzeugungen!“<lb/>
+            </p>
+            <p> <lb/>Felice nagte an ſeinem Bart: „Sie hätten ihn an<lb/>ſich binden ſollen, Gräfin!“<lb/>
+            </p>
+            <p> <lb/>Adrienne fuhr zuſammen: „Ich konnte nicht — wenn<lb/>er treu geblieben wäre, ſo würde vielleicht eine Möglichkeit<lb/>eröffnet ſein, aber —“<lb/>
+            </p>
+            <p> <lb/>----- nnn / 206 -----<lb/>
+            </p>
+            <p> <lb/>„Alſo, eine Möglichkeit iſt doch da?“ forſchte der Of-<lb/>fizier und rückte ihr etwas näher.<lb/>
+            </p>
+            <p> <lb/>„Ich fand ſie in meiner großen Liebe — jetzt bleibt<lb/>ſich ja ohnehin Alles gleich!“ ſie blickte auf die zahlloſen,<lb/>weißen Thürmchen des Domes, nach einer Weile ſagte<lb/>ſie: „Oft ſcheint es mir, als hefteten ſich flatternde Wölk-<lb/>chen an dieſe gen Himmel deutenden Spitzen. Der Dom<lb/>ruht, eine weiße heilige Lotosblume, über dem Gewoge<lb/>und dem großen Schmerze der Menſchheit, und das ſind<lb/>ihre Staubfäden, immer zur Sonne emporgerichtet. An-<lb/>fangs erſchauerte mir vor dem Anblik des keuſchen Riesen-<lb/>baus, ich erlag in dem Bewußtſein meiner Schwäche und<lb/>Selbſtſucht, als ich aber wagte hinein zu treten, in den<lb/>ſchattigen, ſteinernen Säulenwald, als ſich das Gewölbe<lb/>wie prieſterliche Segenshände über meinem Haupte einte<lb/>und emporhob, da leuchtete in mir die Weihe des Schmer-<lb/>zes auf, wie Sonnenſtrahlen ſich in einer Thräne ſpie-<lb/>geln und bewegen — rede ich im Fieber — können Sie<lb/>mich verſtehen, Felice?“<lb/>
+            </p>
+            <p> <lb/>„Ja, ich verſtehe Sie — fahren Sie fort!“ er legte<lb/>mit ſeinen großen, kräftigen Fäuſten zart und ſorgſam<lb/>ein leichtes Tuch um ihre Schultern, denn ein Wind<lb/>hatte ſich erhoben, und ſchob ein Bänkchen unter ihre<lb/>Füße.<lb/>
+            </p>
+            <p> <lb/>----- nnn / 206 -----<lb/>
+            </p>
+            <p> <lb/>„Sie ſind ſehr gut, Felice — haben Sie eine<lb/>Schweſter?“<lb/>
+            </p>
+            <p> <lb/>„Nein, aber eine Mutter — die Sie lieben müſſen,<lb/>Adrienne!“<lb/>
+            </p>
+            <p> <lb/>„Oh, ich liebe ſie ſchon — glücklich die Frau, welche<lb/>ein Kind hat — die Mutter eines braven Sohnes!“<lb/>
+            </p>
+            <p> <lb/>„Ich bin ein gar einfacher Menſch, Gräfin!“<lb/>
+            </p>
+            <p> <lb/>„Gott ſegne Sie dafür!“<lb/>
+            </p>
+            <p> <lb/>Und ſo redeten ſie bis der Mond über die Dächer<lb/>lugte und Adrienne fröſtelnd erſchauerte, Porro ſchloß die<lb/>Glasthür und empfahl ſich. „Wann kommen Sie mor-<lb/>gen wieder?“ fragte Adrienne unbefangen.<lb/>
+            </p>
+            <p> <lb/>„Morgen führe ich Sie nach Monza, Adrienne!“<lb/>
+            </p>
+            <p> <lb/>„Ich erwarte Sie — gute Nacht, Felice, mir iſt,<lb/>als redete ich zu dem Arzte meines wilden, wunden<lb/>Herzens, wenn ich zu Ihnen ſpreche. — Gute Nacht,<lb/>Guter!“<lb/>
+            </p>
+            <p> <lb/>Als Felices Schritte verhallt waren, ſank Adriennes<lb/>Stirn wie in einer Betäubung, auf die marmorene Tiſch-<lb/>platte; ſie ſah wunderbare Nebel um ſich wallen und<lb/>wogen und fern, fern tauchte mitunter ein ſchönes, trau-<lb/>riges Männergesicht auf! Nach einer Weile raffte ſich<lb/>die einsame Frau auf, ſie ſtellte ſich, kräftig wie ſie war,<lb/>auf die Füße und murmelte: „Der Arzt hat mir geſagt,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0167" n="163" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=167"/>
+            </p>
+            <p> <lb/>daß die Seele nicht krank werden kann, der Wahnsinn iſt<lb/>immer eine Körperkrankheit — mein Körper iſt nicht krank,<lb/>ich fühle ihn wie geſtählt — Hunger, Durſt, Hitze, Kälte<lb/>— iſt das nicht Alles Kinderſpiel gegen die Qualen dieſer<lb/>letzten Tage —? Was wollen meine Augen noch ſehen,<lb/>meine Ohren noch hören, meine Gedanken noch wünſchen,<lb/>nun ich ihn verloren habe —? Sein Bild iſt noch da,<lb/>ich finde es dann und wann im Traume, aber ſeine<lb/>Stimme iſt verhallt in der weiten, endloſen Einſamkeit,<lb/>ihr Klang iſt mir verloren!“<lb/>
+            </p>
+            <p> <lb/>Sie ſchritt über dem Teppich auf und nieder und<lb/>ſagte dann: „Ich wage nicht einzuſchlafen, denn ich<lb/>muß ja wieder erwachen und das Erwachen iſt ſchrecklich,<lb/>die Erinnerung bäumt ſich, ihre Laſt des Schmerzes auf<lb/>ſich zu nehmen und doch muß ſie hinein in die Ketten,<lb/>mit dem Morgenroth, wie ein Galeerenſclave in die ſeini-<lb/>gen — und Victor iſt glücklich, glücklich, glücklich!“<lb/>
+            </p>
+            <p> <lb/>Adrienne ſank zu Boden und barg ihr Geſicht in die<lb/>Hände. „Wäre nur Felice hier!“ ſtöhnte ſie in der<lb/>Angſt ihes Herzens. Als er da ſaß, war ihr ruhig ge-<lb/>worden, wie einem müden Kinde; wenn ſie nicht weiter<lb/>konnte, gewiß er würde ſie tragen. Während ſie das<lb/>dachte, ſchloſſen ſich ihre brennenden Augen zum Schlummer.<lb/>
+            </p>
+            <p> <lb/>„Weshalb ſind Sie ſo entſchieden dafür, mich nach<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0168" n="164" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=168"/>
+            </p>
+            <p> <lb/>Monza zu bringen?“ fragte die Gräfin, als Felice ſie<lb/>am nächſten Tage die Treppe vom Perron hinauf in die<lb/>Stadt führte.<lb/>
+            </p>
+            <p> <lb/>„Monza iſt die Stätte großer Erinnerungen, und<lb/>eine große Natur, wie die Ihrige, kann ſich nur an eben-<lb/>bürtigen Eindrücken erheben, und dann, Adrienne, ich<lb/>bin Italiener, ich möchte, daß Sie die bedeutſame Ver-<lb/>gangenheit meines Vaterlandes eben ſo getreulich erfaßten,<lb/>als Sie meine Mutterſprache ſich Wort für Wort, Ge-<lb/>danken für Gedanken mit Vorliebe zu eigen machen. Alle<lb/>dieſe Bilder ſollen Sie an Porro Felice erinnern!“<lb/>
+            </p>
+            <p> <lb/>„Und werden es, obgleich — oh ich hätte Ihnen keine<lb/>Unwahrheit zugetraut, Ihnen nicht! Wie können Sie, der<lb/>mich kleiner und ſchwächer kennt, als alle anderen Men-<lb/>ſchen, meine Natur eine große nennen?“<lb/>
+            </p>
+            <p> <lb/>„Nicht die Ruhe, ſondern der Kampf zeigt unsere<lb/>Kraft, unsere Ausdauer, Carina, ich kenne Sie mehr und<lb/>vollſtändiger, als alle übrigen Menſchen!“<lb/>
+            </p>
+            <p> <lb/>Sie blickte in ſein gutes, großes Geſicht, das ſich vor<lb/>ihr niederbeugte, ihre Augen ſchöpften Zuverſicht und<lb/>Sicherheit aus dieſen unerſchrockenen, mild bewegten Zü-<lb/>gen, und ſie ſagte: „Ich wollte Sie läſen jeden, auch<lb/>meinen letzten geheimſten Gedanken, obwohl alle dieſe<lb/>Gedanken nur einen Stempel, einen Namen tragen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0169" n="165" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=169"/>
+            </p>
+            <p> <lb/>der ihnen gleichſam eingebrannt iſt, der Name heißt:<lb/>Victor!“<lb/>
+            </p>
+            <p> <lb/>Ein dunkles Roth überflog das Geſicht des Offiziers:<lb/>„Es wird ein Tag kommen!“ rief er mit mühſam be-<lb/>herrſchter Stimme, „wo Ihre beſſere Ueberzeugung die-<lb/>ſen Namen als etwas Fremdes, Unwürdiges ausſtößt!“<lb/>
+            </p>
+            <p> <lb/>„Oh,“ glitt es über Adriennes zitternde Lippen, „dann<lb/>will ich Gott bitten, daß dieſer Tag mein Todestag ſein<lb/>möge — was ſoll ich in einer Welt ohne Sonne?“<lb/>
+            </p>
+            <p> <lb/>Adrienne verſtand nicht, wie tief eben die Bekennt-<lb/>niſſe ihren Begleiter durchglühten, in denen ſie ſelbſt eine<lb/>unüberſteigliche Trennungsmauer erblickte. Es that ihr<lb/>inzwiſchen wohl, neben ihm dahin zu ſchreiten. Eine<lb/>Frau, die unter ihres Gleichen zu den längeren und ſtatt-<lb/>licheren zählt, gefällt ſich unwillkürlich darin, unter dem<lb/>Schutze eines Mannes aufzutreten, neben welchem ſie noch<lb/>immerhin klein und zierlich erſcheint. Der Dom zu<lb/>Monza, welchen die lombardiſche Königin Theodelinde im<lb/>ſechſten Jahrhundert erbaute, war bald erreicht. Adrienne<lb/>zog ihre Hand von dem Arme des Offiziers und wandelte<lb/>betrachtend in dem breiten, flachen Schiffe dahin, deſſen<lb/>Wände und Gewölbe mit Fresken überdeckt ſind. Jene<lb/>Bilder Quercinos, Nuvalones, Luinis Ꝛc., deren Geſtal-<lb/>ten ausſehen, als würde es ihnen ein Leichtes ſein, den<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0170" n="166" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=170"/>
+            </p>
+            <p> <lb/>Körper mit ihrem Gewande abzulegen, das reich und ſo-<lb/>lide iſt im Vergleich zu den verklärten Figuren, um nur<lb/>Seele zu ſein.<lb/>
+            </p>
+            <p> <lb/>„Wieviel Einfalt!“ ſagte die Gräfin bewundernd.<lb/>„Der Dom in Mailand iſt für Die, welche empor rin-<lb/>gen, Monza für Solche, die ergeben demüthig und bis<lb/>ans Ende gehen, ich bewundere die Erſteren und beneide<lb/>die Anderen — wo iſt die eiſerne Krone?“<lb/>
+            </p>
+            <p> <lb/>„Ueber jenem Altar, ſogleich wird Ihnen der Teſoro<lb/>gezeigt werden!“<lb/>
+            </p>
+            <p> <lb/>„Kennen Sie ihn ſchon?“<lb/>
+            </p>
+            <p> <lb/>„Ich kenne ihn!“ entgegnete Felice und ſah ſie mit<lb/>einem Blick voll Leidenſchaft an.<lb/>
+            </p>
+            <p> <lb/>„Wie ſtellen Sie ſich dieſe Theodelinde vor?“ wandte<lb/>ſich Adrienne lebhaft ihrem Begleiter zu, als ſie ſich in<lb/>der Schatzkammer vor jenen Gegenſtänden befanden, welche<lb/>der Longobardenkönigin persönlich angehörten: „Da liegt<lb/>der nette, ſilberne Fächer — wie ernſt, wie energiſch ſie<lb/>war, ſie ſpielte doch mit dem Fächer da, er iſt zu klein<lb/>zum wirklichen Nutzen, aber er muß in ihrer Hand wie<lb/>ein Scepter geführt ſein — ſie war eine ſtarke Frau,<lb/>ſie hatte nicht ſpielen gelernt in dem Sinne wie die An-<lb/>dern — ich weiß, daß man immer, immer verliert, wenn<lb/>man den Ernſt einſetzt, wo man ſpielen ſollte. Da iſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0171" n="167" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=171"/>
+            </p>
+            <p> <lb/>ihr Kamm, gewiß hat ſie dunkles, ſtarkes Haar gehabt<lb/>und auf demſelben ruhte dieß kleine Krönchen, dem ſicher<lb/>ein wallender Schleier entfloß. Was unter dieſem gro-<lb/>ßen koſtbaren Kreuze ſich in ihrer Bruſt regte — wer<lb/>weiß es? Sie wurde vom Papſt und von den Großen<lb/>der Erde hochgeehrt, das bezeugen die reichen Gaben da<lb/>vor uns — dennoch war und ward ſie keine Heilige,<lb/>ſie war eine menſchlich fromme, praktiſche Frau. Wie<lb/>mütterlich iſt die ſilberne Henne mit den Küchlein, als<lb/>die Provinzen neben ihrer verſtändigen Herrſcherin ge-<lb/>dacht —! Dies naive ſilberne Kunſtwerk mag Theodelinde<lb/>lächeln gemacht haben!“<lb/>
+            </p>
+            <p> <lb/>So redete Adrienne und dann, als die eiſerne Krone<lb/>mit aller Feier, hinter Weihrauchwolken hervor, ihrem<lb/>Schrein entnommen wurde, da verſtummte ſie und faltete<lb/>die Hände. Wie ſie ſo ehrfürchtig vor jener mehr denn<lb/>anderthalb tauſendjährigen Krone ſtanden, in deren innerer<lb/>Seite ein Nagel vom Kreuz Chriſti eingelegt iſt, da faßte<lb/>Felice ihre gefalteten Hände in die ſeinigen und flüſterte:<lb/>„Mit dieſer Krone ſind vierunddreißig Kaiſer und Könige<lb/>gekrönt, Keiner von ihnen, und ob in ihren Reichen die<lb/>Sonne nicht unterging, hatte über ein Liebe erfüllteres<lb/>Herz zu gebieten als Sie, Adrienne, Sie, der das meinige<lb/>zu eigen iſt bis zum letzten Hauche!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0172" n="168" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=172"/>
+            </p>
+            <p> <lb/>Dieſe Krone gehört nur halb der Erde,“ lächelte ſie<lb/>trübe, „ſie ſagte Dem, der ſie trug: Herrſche, aber ver-<lb/>giß nicht, daß keine Gerechtigkeit in Deinem ſündlichen<lb/>Leibe iſt, außer durch die Erlöſung! — Hier iſt der<lb/>höchſte Glanz des Vergänglichen mit der tiefſten Schmach<lb/>aller Geſchlechter, der Schmach, den Sohn Gottes ge-<lb/>kreuzigt zu haben, verſchmolzen und vereint — dieſer<lb/>mit Edelſteinen gezierte Reif umfaßt ein Symbol der<lb/>Ewigkeit, das Endliche und Unendliche, im engen Raum.“<lb/>
+            </p>
+            <p> <lb/>Der Geiſtliche, welcher die beiden Fremden — für<lb/>dieſen Augenblick die Einzigen im Dom — mit der Stola<lb/>und dem Rochetto angethan, umherführte, ließ Lichter an-<lb/>zünden, um das intereſſante Pallio, die Vorderseite des<lb/>Hochaltars zu zeigen. Daſſelbe beſteht aus bibliſchen<lb/>Darſtellungen in vergoldetem Silber, mit ſchönen Email-<lb/>les umgeben, und hat ein hohes Alter. Um die zier-<lb/>lichen Einzelheiten zu ſehen kniet man an dem Altar<lb/>nieder. Erſt nachdem ſich die Gräfin längere Zeit in<lb/>den Gegenſtand ihrer Betrachtungen verloren hatte, blickte<lb/>ſie zum Lieutenant Porro empor, welcher neben ihr<lb/>kniete: „Adrienne,“ ſagte er in deutſcher Sprache, „wenn<lb/>Sie jetzt Ihre liebe Hand in die meine legten und jener<lb/>Prieſter ſpräche ein bindendes Segenswort über uns —<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0173" n="169" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=173"/>
+            </p>
+            <p> <lb/>ach was wären alle Schätze der Erde gegen ein ſolches<lb/>Herzensglück?“<lb/>
+            </p>
+            <p> <lb/>„Unmöglich, Felice, unmöglich — mein Gott, iſt mein<lb/>Herz noch nicht tief genug zerriſſen, daß auch Sie in der<lb/>Wunde wühlen!“<lb/>
+            </p>
+            <p> <lb/>„Und wenn ſtatt meiner hier ein Anderer, jener Victor<lb/>kniete, o wie anders würde das ſein!“ ſagte Felice in<lb/>bitterer Eiferſucht.<lb/>
+            </p>
+            <p> <lb/>Adriennes große Augen leuchteten offen und voll in<lb/>die ſeinigen: „Ich verſtehe nur ein Erdenglück, das,<lb/>Victors Eheweib zu ſein, aber ich weiß, daß dieſes Glück<lb/>nichts iſt, als mein Traum, und gar nicht exiſtiren kann,<lb/>er iſt nicht der Mann ein tieffühlendes Weib auf der<lb/>Höhe der Gefühle zu erhalten, wenn er da neben mir<lb/>kniete, ich müßte Nein und tauſendmal Nein! rufen —<lb/>heute verliere ich ihn wie den Schmuck und die Blüthe<lb/>meines Daſeins, als ſeine Gattin würde ich ihn verlieren,<lb/>während meine Arme ihn umſchlungen halten, die Leben-<lb/>dige wäre wie an ein Marmorbild gekettet, und die Schwere<lb/>und Kälte des Marmors würde ſie, Faſer für Faſer, er-<lb/>ſtarren und vernichten — nicht wahr, ich bin wie ein<lb/>Schiff zwiſchen Scylla und Charybdis?“<lb/>
+            </p>
+            <p> <lb/>Porro war geiſtig in nichts hervorragend, er hatte alle<lb/>Eitelkeit und Trägheit ſeines Alters und ſeiner Stellung,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0174" n="170" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=174"/>
+            </p>
+            <p> <lb/>aber er galt trotzdem immer für etwas Beſonderes, weil<lb/>er eine beſonnene Lebensklugheit und eine unbeugſame<lb/>Conſequenz zeigen konnte, wenn er ſich einmal emporrüt-<lb/>telte. Er lächelte, als er gewahrte, daß Adrienne in<lb/>Allem, was ſie that und ſagte, ſo wahr und recht erſchien,<lb/>und doch in einem blinden und thörichten Vertrauen han-<lb/>delte, welches ſie, bei allem ihrem Muthe, tauſend Betrü-<lb/>gereien und Täuſchungen Preis geben mußte. Und wieder<lb/>liebte er nichts mehr an ihr, als dieſen Mangel an Klug-<lb/>heit, der eher eine ſtarke als eine ſchwache Seite ihres<lb/>Weſens war. Porros gutmüthige Augen nahmen, als<lb/>Beide zur Heimfahrt im Coupé ſaßen, ihren liſtigen Aus-<lb/>druck an, als er ſagte: „Wenn ich Ihnen einen Rath<lb/>geben darf, ſo iſt es der, Gräfin, verurtheilen Sie Ihren<lb/>Victor nicht im Zorn und ohne ihn geſehen zu haben,<lb/>ſondern rufen Sie ihn zu ſich und verſuchen Sie ihm<lb/>mit unparteiiſchem Blick gerecht zu werden. Sie wollen<lb/>und können die Thatſachen nicht umſtoßen, wohlan, ver-<lb/>laſſen Sie wenigſtens den Parteiſtandpunkt!“<lb/>
+            </p>
+            <p> <lb/>„Ach, Sie glauben alſo, ich habe ihm Unrecht gethan!“<lb/>fragte ſie erſchrocken. „Freilich, ich habe mir das ſelbſt<lb/>tauſendmal gesagt, aber wenn Sie wüßten —“<lb/>
+            </p>
+            <p> <lb/>„Betrachten Sie ihn unparteiiſch!“<lb/>
+            </p>
+            <p> <lb/>„O, ich danke Ihnen!“ entgegnete ſie. Porro rich-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0175" n="171" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=175"/>
+            </p>
+            <p> <lb/>tete ſich in ſeiner ganzen Länge und Stattlichkeit in die<lb/>Höhe: „Sie muß das Wahre finden!“ ſagte er ſich<lb/>ſelbſt.<lb/>
+            </p>
+            <p> <lb/>Er war entſchloffen die Vergoldung ſeines Nebenbuh-<lb/>lers ſo lange aufzuputzen, bis auch der letzte Schein ver-<lb/>ſchwunden ſei.<lb/>
+            </p>
+            <p> <lb/>Beim Abſchied vor der Thür des Hotels ſpielte Fe-<lb/>lice ſeinen Haupttrumpf aus: „Ich werde mir erlauben,<lb/>Ihnen morgen Lebewohl zu ſagen, da ich nach Neapel<lb/>verlegt bin!“ Sie wechſelte die Farbe und ihre Hand<lb/>zuckte in der ſeinigen, doch ſagte ſie mit dem guten<lb/>Takt einer Weltdame: „Ihre Mutter wird ſich ſehr<lb/>freuen, Sie wieder zu ſehen, gute Nacht, Signore<lb/>Porro!“<lb/>
+            </p>
+            <p> <lb/>„Sie wird ſchlecht ſchlafen, die arme Kleine!“ mur-<lb/>melte er mitleidig vor ſich hin, als er im Gehen noch<lb/>einmal zu ihrem Balcon in die Höhe blickte.<lb/>
+            </p>
+            <p> <lb/>In der That, Adrienne ſchlief nicht, ſie ſchauderte vor<lb/>der Einſamkeit, in welcher Porro ſie zurücklaſſen würde,<lb/>fie hatte nie daran gedacht, wie lange ſie mit ihm zu-<lb/>ſammen ſein würde, und nun ging er von ihr ehe vier-<lb/>undzwanzig Stunden verfloſſen! Am Morgen beſuchte<lb/>ſie nicht den Dom, ſie blieb zu Haus, um Porro nicht<lb/>zu versäumen, ihn, dem ſie ſo vielen Dank ſchuldig war.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0176" n="172" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=176"/>
+            </p>
+            <p> <lb/>Felice kam erſt gegen Abend. Seine Haare waren nicht<lb/>gebrannt, ſeine lachenden Züge waren trüb und bleich und<lb/>er trug ungeſchickte waſchlederne Handſchuhe, — kurz ein<lb/>Bild der Trauer.<lb/>
+            </p>
+            <p> <lb/>Er ſchloß die Thür hinter ſich ab und kniete vor der<lb/>beunruhigten Frau nieder: „Adrienne — <hi rendition="#aq">Carina mia</hi>,<lb/>ich gehe heute nach Neapel, reiche meine Dienſtentlaſſung<lb/>ein, bitte um den Segen meiner Mutter und komme da-<lb/>hin, wo Sie ſind!“<lb/>
+            </p>
+            <p> <lb/>„O Felice,“ ſie rang die Hände in einander,<lb/>„wie oft ſoll ich es wiederholen, ich kann Ihnen nichts<lb/>ſein!“<lb/>
+            </p>
+            <p> <lb/>„Aber ich kann Ihnen etwas ſein, Sie wiſſen es,<lb/>Adrienne, Ihr Freund, Ihr Diener — der Wächterhund,<lb/>der das einſame verwundete Lamm beſchützt — einerlei<lb/>was, aber etwas muß ich Ihnen ſein, ſonſt, bei meiner<lb/>Seele, bin ich ein verlorener Mann! Mein Leben gehört<lb/>Ihnen, Sie haben zu beſtimmen, ob es lang oder kurz,<lb/>hell oder dunkel ſein ſoll, aber ich ſchwöre, daß ich nie<lb/>ernſter redete, als jetzt in dieſer Stunde!“<lb/>
+            </p>
+            <p> <lb/>Adrienne legte ihre Arme um ſeinen ſtarken Nacken<lb/>und erwiderte bebend: „Ich gebe Ihnen gewiß und von<lb/>Herzen, was ich geben kann, aber Sie wiſſen, es iſt wenig,<lb/>beinahe gar nichts!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0177" n="173" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=177"/>
+            </p>
+            <p> <lb/>„Ich bin mit dieſem Nichts zufrieden,“ ſprach er und<lb/>küßte ihre Stirn, „es iſt der Anker, an welchem mein<lb/>Lebensſchiff im Hafen geſichert liegt!“ Er erhob ſich und<lb/>ſchnallte ſeinen Säbel um: „Sie werden mir ſchreiben,<lb/>Amata, Deutſch, Französiſch, Italieniſch, wie es Ihnen<lb/>zu Sinne ſein mag, ich fordere meinen Abſchied und komme<lb/>dann!“<lb/>
+            </p>
+            <p> <lb/>„Nein, Felice, Sie ſollen nicht Ihre ganze Zukunft<lb/>hinwerfen meinetwegen, Sie waren gern Soldat!“<lb/>
+            </p>
+            <p> <lb/>„Ich habe ein kleines Vermögen! Ich kann leben!<lb/>
+            </p>
+            <p> <lb/>„Mir iſt, als ſollte ich erſticken, wenn ich denke, was<lb/>Sie thun wollen —!“ klagte Adrienne rathlos.<lb/>
+            </p>
+            <p> <lb/>„In Ihrer Nähe ſein muß und will ich, aber viel-<lb/>leicht bin ich Ihnen werth genug, daß Sie Neapel um<lb/>meinetwillen zu Ihrer Heimat machen, wenigſtens für die<lb/>Jahreszeit, die Ihre Geſundheit nicht durch zu große Hitze<lb/>gefährdet!“<lb/>
+            </p>
+            <p> <lb/>„Ja, das geht!“ rief die Dame erfreut, „ich komme<lb/>im Herbſt! in vier bis fünf Monaten!“<lb/>
+            </p>
+            <p> <lb/>Er beugte das Knie und küßte den Saum ihres<lb/>Kleides.<lb/>
+            </p>
+            <p> <lb/>„Und hier iſt mein Bild!“ fuhr ſie erröthend fort,<lb/>„tragen Sie dies Medaillon — man muß verlaſſen und<lb/>verloren im großen Strom geweſen ſein, um von Herzen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0178" n="174" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=178"/>
+            </p>
+            <p> <lb/>dankbar zu werden!“ Große Thränen liefen über Porros<lb/>Antlitz in ſeinen Bart und auf das Medaillon.<lb/>
+            </p>
+            <p> <lb/>„Es wird mit mir im Grabe ruhen!“ ſtammelte er,<lb/>küßte Adrienne, und ſtürzte von dannen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0179" n="175" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=179"/>***<lb/>2.<lb/>Unter dem grauen Himmel.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#b">A</hi>drienne Rohrdorff hatte Italien verlaffen, doch wir<lb/>finden die Heimatloſe in keinem trauten Heim, ſon-<lb/>dern abermals in dem Zimmer eines Gaſthofes. Die<lb/>Fenſter dieſes Gemaches, an deren einem Adrienne lehnte,<lb/>zeigten keine Straßen und Prachtbauten, ſie ließen eine<lb/>Thalebene überblicken, welche von düſter umwölkten Bergen<lb/>begrenzt war. Soviel man vom Himmel ſehen konnte,<lb/>Alles grau — ein regenkalter Junitag.<lb/>
+            </p>
+            <p> <lb/>Sechs bis ſieben Schritt von ihr entfernt auf dem<lb/>Sopha ſaß Victor, er ſtützte das Haupt in die Hand, an<lb/>welcher der neue Verlobungsring glänzte. Faſt ein ganzes<lb/>Jahr hatten dieſe beiden Menſchen im regen, erhebenden<lb/>Geiſtesaustauſch gelebt und Briefe voll der innigſten Sym-<lb/>pathie und Gemeinſamkeit ausgetauſcht — jetzt, wo ſie<lb/>einander ſehen, ſprechen konnten, jetzt ſchwiegen ſie. Nicht<lb/>dic ſechs Schritt trennten die beiden Herzen, die noch vor<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0180" n="176" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=180"/>
+            </p>
+            <p> <lb/>Kurzem wie um den Preis ihres Daſeins, ſich ſehnten<lb/>aneinander zu klopfen, und jetzt, welch ein unausfüllbarer<lb/>Abgrund! Adriennes braune Zöpfe ſtützten ſich am Fen-<lb/>ſterkreuz und ihre Augen hafteten groß und in trocknem<lb/>Schmerz brennend auf dem Mann, der ſie ſo plötzlich,<lb/>ſo ohne allen Grund aus ſeinem Herzen geſtoßen hatte,<lb/>es gab Momente, wo ſie ihn haßte und dann brach die<lb/>alte warme Liebe wieder hervor, die opferfreudige Liebe,<lb/>und ſie dachte an ſein Glück und daran, ob er nun in ſei-<lb/>nem Weſen hinauf- oder herunterſteigen würde. Sie würde<lb/>dies Wiederſehen kaum ertragen haben, hätte nicht ihre<lb/>weibliche Würde ſie aufrecht erhalten; ſie trat dem ewig<lb/>Geliebten tadellos als ein ſtolzes und doch ſo tief lieben-<lb/>des Weib gegenüber. Adrienne hatte Porros Vorſchlag,<lb/>den Gegenſtand ihres Schmerzes wiederzuſehen, in Aus-<lb/>führung gebracht, weil ſie fühlte, daß ſie ſich aufrieb in<lb/>krankhaftem Grübeln, bei welchem ſie bald ſich, bald ihn<lb/>anklagte und verurtheilte! Sie mußte wiſſen, was die<lb/>Phantasie ſeinem Bilde hinzugefügt, was Wahrheit an<lb/>demſelben war, ſie mußte ihr Ideal entweder in hoher<lb/>Begeiſterung und für alle Zeiten über ſich und ihr ferne-<lb/>res Daſein erheben — oder ſie mußte es von dem Poſta-<lb/>mente ihrer Einbildungskraft auf die breite, ſtaubige Fahr-<lb/>ſtraße der Alltäglichkeit ſchleudern, unter das Gerumpel<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0181" n="177" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=181"/>
+            </p>
+            <p> <lb/>all der unzähligen Herzensilluſionen, welches den Lebens-<lb/>weg der begabten Menſchen kennzeichnet. Was Victor<lb/>bereit gemacht hatte, die Frau, welche ihm mit ſo unbe-<lb/>ſchränkter Güte und Anhänglichkeit zu eigen geweſen war,<lb/>jetzt, auf der Schwelle ſeines Eheſtandes zu begrüßen, iſt<lb/>minder klar, dachte er ſie tröſten zu können, wollte er<lb/>ihre Verzeihung erlangen, war ihm der Gedanke uner-<lb/>träglich ſie ganz zu verlieren —? Kurzum, er kam.<lb/>Porro Felice irrte inzwiſchen, wenn er glaubte, der ver-<lb/>haßte Nebenbuhler habe ſich unter einer trügeriſchen Ver-<lb/>goldung gezeigt. — Victor war im Gegentheil der Sclave<lb/>ſeiner Stimmungen, ein nervöſer Mann, der nach Emo-<lb/>tionen ſuchte, ohne ihnen doch gewachſen zu ſein. Er<lb/>hatte vor der Begegnung vollkommen gewußt, daß Adrienne<lb/>furchtbar unter ſeiner plötzlichen und egoiſtiſchen Handlungs-<lb/>weiſe litt, er war auf einen Sturm vorbereitet, ja auf<lb/>einige Zärtlichkeit ſeinerſeits, daß ſie aber ihren Schmerz<lb/>in dieſer halb ſtarren, halb wehmüthigen Art thränenlos und<lb/>wortkarg tragen würde, das lag außer ſeiner Berechnung.<lb/>Es wurde Victor mit einem Schlage klar, er hatte auf-<lb/>gehört das Ideal dieſer Frau zu ſein, die ihre Ziele und<lb/>Erwartungen wie der Beſten Eine ſteckte und hegte, er<lb/>war vor ihr ein kleiner Mann geworden. Dabei drückte<lb/>ihn auch das Wetter, er war wetterwendiſch wie ein krankes<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0182" n="178" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=182"/>
+            </p>
+            <p> <lb/>Mädchen, ihn fror an Leib und Seele. „Ruhen Sie doch!“<lb/>hatte Adrienne gesagt, als er über Kopfſchmerz klagte und<lb/>ihm in alter Sorgfalt ein Kiſſen unter ſeinen hübſchen<lb/>Kopf geſchoben. Sie ſelbſt ſtand unbeweglich wie eine<lb/>Bildſäule am Fenſter, während er die Augenlider mit den<lb/>langen, dunklen Wimpern ſchloß, ſie rührte ſich nicht, nur<lb/>wandte ſie den Kopf, als ſie meinte, er ſchliefe. Wie bleich<lb/>er war, wie müde ſeine Züge — und ſie hatte ſich gesagt:<lb/>„Er iſt Bräutigam und ſo glücklich, ſo glücklich!“ Nein,<lb/>glücklich war er nicht, aber vielleicht die Häuslichkeit — —<lb/>
+            </p>
+            <p> <lb/>Victor erhob ſich plötzlich und ſagte: „Es iſt Thor-<lb/>heit, daß ich an Schlaf denke, mir iſt wie im Fieber!“<lb/>
+            </p>
+            <p> <lb/>„Wollen wir hinausgehen?“<lb/>
+            </p>
+            <p> <lb/>„Bei dem Wetter?“<lb/>
+            </p>
+            <p> <lb/>„Wir könnten fahren!“<lb/>
+            </p>
+            <p> <lb/>„Oh, nur das nicht, eingeſperrt im geſchloſſnen<lb/>Wagen oder im kalten Zugwinde, das iſt kein Vergnügen!“<lb/>
+            </p>
+            <p> <lb/>„Vielleicht möchten Sie irgend etwas eſſen oder trinken?“<lb/>
+            </p>
+            <p> <lb/>„Quälen Sie mich nicht, Adrienne!“<lb/>
+            </p>
+            <p> <lb/>Ahnte er denn, welche Qual ſie erſtickte? Er blätterte<lb/>in einem italieniſchen Buche, nach einer langen ſtummen<lb/>Pauſe nahm Adrienne das Wort.<lb/>
+            </p>
+            <p> <lb/>„Da ich gewohnt bin, Ihnen alle meine Eindrücke<lb/>mitzutheilen, ſo mögen Sie auch wiſſen, daß ich einen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0183" n="179" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=183"/>
+            </p>
+            <p> <lb/>Bewerber gefunden habe, einen Italiener, Lieutenant<lb/>Porro!“<lb/>
+            </p>
+            <p> <lb/>Victors ſchöne, zerſtreute Augen wurden aufmerkſam,<lb/>er wechſelte ein wenig die Farbe und fragte unruhig:<lb/>„Schreibt er Ihnen?“<lb/>
+            </p>
+            <p> <lb/>„Ja, faſt täglich!“<lb/>
+            </p>
+            <p> <lb/>„Und — und — nein, Sie werden mir keinen ſeiner<lb/>Briefe zeigen wollen.“<lb/>
+            </p>
+            <p> <lb/>„Weßhalb nicht?“ Adrienne nahm den erſten beſten<lb/>aus ihrer Schreibmappe, ſchlug ihn auſeinander und reichte<lb/>ihn über den Tiſch zu Victor hin. Sein Auge fiel auf<lb/>den Satz: „Ach, ich Unglücklicher, daß ich Sie einſam<lb/>in der Welt umherirren weiß, dem Schmerze preisgegeben,<lb/>Sie, für die ich fürchte, daß ſogar die Luft Sie beleidi-<lb/>gen könne, welche Ihr liebes Geſicht berührt!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">L’aria Stessa</hi> —!“ wiederholte Victor und ließ den<lb/>Brief ſinken. Wieder eine Pauſe des Schweigens. Adrienne<lb/>unterbrach dieſelbe, ihre Stimme war hart und gleich-<lb/>ſam heiſer, ſo ſanft und biegſam dieſelbe ſonſt zu ſein<lb/>pflegte. „Haben Sie ihr Bild mitgebracht?“ es war<lb/>das erſte Mal, daß ſie nach ihr, deren Namen ſie nicht<lb/>kannte, nicht wiſſen wollte, fragte, mit ſtockenden Pulſen<lb/>fragte. Sie konnte ſich kaum auf den Füßen erhalten<lb/>und es dunkelte vor ihren Augen, während er das Bild<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0184" n="180" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=184"/>
+            </p>
+            <p> <lb/>hervor ſuchte. Adrienne dachte ſich ſtets wie eine Lea<lb/>neben der ſchönern und geliebtern Rahel, ſie nahm das<lb/>Bild wie man einen Giftbecher ergreift, oder wie der<lb/>Chineſe die ihm verliehene ſeidene Schnur in Empfang<lb/>nimmt — aber der erſte Blick auf das Kärtchen löſte ihre<lb/>gepreßte Bruſt, es kam wie ein dämoniſcher Triumph<lb/>über ſie, — ein unbedeutendes, etwas eigenwilliges junges<lb/>Geſicht — und Er, Er dem die poetiſcheſten Gebilde<lb/>kaum ſchwunghaft genug waren —! Einige Secunden<lb/>ſiegte die innere Befriedigung, dann aber erröthete Adrienne<lb/>vor ſich ſelbſt, ihres Egoismus halber! Sie gab das<lb/>Bild ſchweigend zurück, ſchob zwei Stühle ans Fenſter<lb/>und ſprach, in die graue Landſchaft hinausblickend: „Ich<lb/>war verheiratet, Victor, ich weiß, was es heißt, unter dem<lb/>Joche einer unglücklichen Ehe ſchmachten, die Seele in ſich<lb/>verdorren fühlen, ohne einen Thautropfen des Verſtänd-<lb/>niſſes. Sie, mein Freund, haben den Schaumwein des<lb/>Daſeins getrunken, wo er perlte, laſſen Sie das ſchuld-<lb/>loſe junge Geſchöpf, welches ſich Ihnen hingibt, nicht ent-<lb/>gelten, daß Sie müde wurden und kein friſches, fröhliches<lb/>Herz an den jungen Herd bringen!“<lb/>
+            </p>
+            <p> <lb/>„Adrienne“, unterbrach ſie Victor, „verſuchte ich nicht<lb/>eine ſtarke Mauer um mein Haus zu ziehen, trachtete ich<lb/>nicht, die Flammen der glühendſten Begeiſterung für Kunſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0185" n="181" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=185"/>
+            </p>
+            <p> <lb/>und Natur auf meinem Herde zu entzünden, als ich Dich<lb/>um Deine Hand anflehte? Du verſagteſt ſie mir!“<lb/>
+            </p>
+            <p> <lb/>„Victor, ich that es, ich hätte vielleicht allem Andern<lb/>trotzen ſollen, um Dir zu folgen, aber ich fühlte, Du<lb/>hatteſt nicht die Kraft, Deinen Neigungen zu gebieten, wie<lb/>hätte ich Dir gehorchen können? und ich liebte Dich zu<lb/>ſehr, um nicht eine Wonne im Gehorchen zu finden —<lb/>es ging nicht — wenn ſie, die Du gewählt oder die man<lb/>Dir wählte, Dir gebieten kann — dann —“ ihre Stimme<lb/>brach, ſie konnte nicht weiter reden, wenn ſie ihn unter<lb/>der Botmäßigkeit dieſes kleinen Mädchens dachte, die nicht<lb/>ahnte, was Alles in ihm tönte, mahnte, grollte und leuchtete.<lb/>— „Wenn Alle an Dir zweifeln“, rief Adrienne nach<lb/>einer Weile, „an Deinem Herzen, an Deinem Genie, an<lb/>Deiner edleren Natur — ich, ich, die Du verrathen haſt,<lb/>ich glaube an Dich!“<lb/>
+            </p>
+            <p> <lb/>„Warum ſoll man an mir zweifeln? Wann habe ich<lb/>Sie verrathen?“ brauſte Victor auf.<lb/>
+            </p>
+            <p> <lb/>„Ich weiß es nicht — es kam mir nur ſo, verzeihen<lb/>Sie, ich fühle dieſe Dinge, aber Gründe weiß ich nicht!“<lb/>
+            </p>
+            <p> <lb/>Er unterbrach ſein Auf- und Niederſchreiten und<lb/>blieb vor ihr ſtehen: „Ja, Du fühlſt das Alles — Du<lb/>biſt voll Offenheit und voll Räthseln, man ſieht Dich an<lb/>wie eine blühende Landſchaft, immer dieſelbe, immer neu!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0186" n="182" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=186"/>
+            </p>
+            <p> <lb/>„Wie gut Du biſt!“ ſprach ſie und ergriff ſeine<lb/>Hände.<lb/>
+            </p>
+            <p> <lb/>„Oh nein!“ rief er finſter, „ich bin nicht gut!“<lb/>
+            </p>
+            <p> <lb/>Nach dieſem Zwiegeſpräch ſchien ein Theil der Eis-<lb/>rinde, welche ſich über ihrer Sympathie gebildet hatte, ge-<lb/>ſprengt, Adrienne gab ſich unbefangen ihrer Sorge für<lb/>Victor hin und er ließ ſich hegen und pflegen. Als ein<lb/>bleicher Sonnenſtrahl durch das Gewölk kroch, gingen ſie<lb/>ſelbander aus, besahen einige hiſtoriſche Punkte der Stadt<lb/>und kauften eine ganze Fracht Blumenbouquets. Victors<lb/>Geſicht ſtrahlte, als er die Sträuße aus Moos und Edel-<lb/>weiß und die lebendigen aus Alpenblumen, Maiglocken,<lb/>Frauenſchuh und tiefblauem Genzian fand, er nahm das<lb/>ſchönſte Bouquet und ſagte, den Duft einathmend: „Das<lb/>wird noch friſch ſein, wenn ich in der fernen Heimat an-<lb/>komme!“<lb/>
+            </p>
+            <p> <lb/>Adrienne erbebte — die Trennung ſo nahe und dieſer<lb/>Strauß für ſeine Braut. Wie gut und raſch er ſie aber<lb/>verſtand, auch wenn ſie ſchwieg! Ohne aufzublicken reichte<lb/>er ihr die Blumen und ſagte: „Behalten Sie dieſen<lb/>Strauß da, Adrienne!“<lb/>
+            </p>
+            <p> <lb/>„Es iſt der ſchönſte —!“<lb/>
+            </p>
+            <p> <lb/>„Eben deßhalb — eben deßhalb!“<lb/>
+            </p>
+            <p> <lb/>Kein Zuſtand auf Erden iſt ſo wechſel- und farben-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0187" n="183" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=187"/>
+            </p>
+            <p> <lb/>reich als die Gedanken der Liebe. Adrienne besaß den<lb/>Verlorenen nur noch auf kurze Stunden, ihn, von dem<lb/>ſie ihre Seele nicht losreißen konnte, und dieſe Friſt wollte<lb/>ſie in all die Theilnahme tauchen, von der ihr Gemüth<lb/>durchdrungen war, der Liebestraum ſollte in ein ſchönes<lb/>Abendroth versinken. Wer ſie geſehen hätte, wie ſie Arm<lb/>in Arm das Hotel wieder aufſuchten, ſie gehört hätte, wie<lb/>Victor ſagte: „Dieſe Friſur kleidet Sie gut, Adrienne,<lb/>und wie lieb, daß ich Sie in Blau wiederfinde —!“ dem<lb/>ahnte gewiß nicht, daß dies ein Abſchied auf ewig war.<lb/>Die Gräfin hatte den theuren Mann niemals „Du“ ge-<lb/>nannt, heute that ſie es. Sie breitete eine Menge An-<lb/>denken von ihrer Reiſe vor ihm aus, die ſie Schritt auf<lb/>Schritt für ihn geſammelt hatte. Da waren Bilder,<lb/>Blumen, Steine, Scherben und Tagebuchblätter, zuletzt<lb/>reichte ſie ihm ein großes, in einen geſchnitzten Rahmen<lb/>gefaßtes Bild von dem Dome zu Mailand: „Sieh, in<lb/>dieſen Dom, tief in die Gruft zu den mit Silber und<lb/>Edelſtein im Werthe vieler Millionen umgebenen Gebeinen<lb/>des heiligen Karl von Borromeo, da habe ich meine Ju-<lb/>gend und mein Hoffen auf Dich gebettet.“ Sie hielt<lb/>inne in tiefer Bewegung. „Werden Sie nur glücklich,<lb/>Victor!“ ſprach ſie dann plötzlich, in einen fremdern Ton<lb/>übergehend.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0188" n="184" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=188"/>
+            </p>
+            <p> <lb/>„Ich weiß es nicht!“ entgegnete er.<lb/>
+            </p>
+            <p> <lb/>„Wer kann es wiſſen? Aber thun Sie, was an<lb/>Ihnen iſt!“<lb/>
+            </p>
+            <p> <lb/>Er erwiderte nichts und ſie wußte, daß er nur an<lb/>ſein Glück und wenig an das einer jungen Frau dachte,<lb/>die noch Anſprüche ans Leben hat, ja die erſt anfangen<lb/>ſoll, das Leben recht zu kennen. Ihr fiel plötzlich ein,<lb/>wie unermüdlich Felice eines Tages ſein würde, ſeine Frau<lb/>zu amüſiren und ihr Aufmerkſamkeiten zu erweiſen — der<lb/>gute, einfache Felice.<lb/>
+            </p>
+            <p> <lb/>Victor kannte Adriennes Geſichtsausdruck ſo genau, daß<lb/>ſie in den meiſten Fällen nicht erſt zu reden brauchte, auch<lb/>jetzt fragte er:<lb/>
+            </p>
+            <p> <lb/>„Und was denken Sie mit jenem Italiener anzufangen?“<lb/>
+            </p>
+            <p> <lb/>„Ich —? oh, was kann ich wiſſen! Ich denke, er<lb/>wird bald von ſelbſt untreu werden und dann kann er ja<lb/>glücklich ſein, unbehindert!“<lb/>
+            </p>
+            <p> <lb/>Der Augenblick des Scheidens kam heran. Adrienne<lb/>bat Victor um Verzeihung, wenn ſie gegen ihn gefehlt<lb/>habe und er wünſchte, ſie möchte nicht ſchlecht von ihm<lb/>denken. Sie umarmten ſich, als ginge eins von ihnen<lb/>in den Tod. Ach, Adrienne dünkte das körperliche Ster-<lb/>ben leicht neben dem Schmerz und der Eiferſucht, wel-<lb/>chem ſie anheim gegeben wurde.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0189" n="185" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=189"/>
+            </p>
+            <p> <lb/>3.<lb/>Nacht.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#b">D</hi>er Luogotenente Sr. Majeſtät König Victor Ema-<lb/>nuels, Porro Felice, wurde indeſſen keineswegs untreu,<lb/>er ſchrieb mit ſeinen großen Händen eine Menge kleiner,<lb/>zierlicher und außerordentlich poetiſcher Briefe an ſeine<lb/>Adorata und verſicherte, Gott und die Signora hätten<lb/>unbedingt über ſein Leben zu entſcheiden. Nach der Tren-<lb/>nung von Victor fühlte ſich Adrienne ſo theilnahmlos<lb/>gegen alles Andere, daß ſie Felices Briefe nur ſehr ſpär-<lb/>lich beantwortete; er ſchrieb, was immer ſie beſchäftige,<lb/>ſie müſſe eine Viertelſtunde finden einem Manne, der<lb/>ohne ſie verloren ſei, zu ſchreiben, von ihr werde nur<lb/>ein Brief gefordert, er ſei in jeder Minute bereit, ſein<lb/>Leben für ſie zu opfern. — Wenn ſie etwa beabſichtige,<lb/>ſich <hi rendition="#aq">poco a poco</hi> von ihm loszusagen, ſo wünſche er,<lb/>daß ſie dieſen Entſchluß gleich offen ausſpreche, damit es<lb/>in einem Male zu Ende ſei. — Adrienne erwiderte ihm,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0190" n="186" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=190"/>
+            </p>
+            <p> <lb/>es mache ihr Freude, ſeine Briefe zu beantworten; wenn<lb/>ſie, die gebunden ſei, ſich von ihm zurückziehe, ſo ge-<lb/>ſchehe das, damit er eine andere, glücklichere Wahl treffen<lb/>möge. Auf dieſen Brief lief eine Antwort ein, welche<lb/>mit Porro Felices Blut geſchrieben war, er ſchwor in<lb/>derſelben, nie eine Donna, wie ſie, geliebt zu haben,<lb/>und nie eine Donna ſo ſehr wie ſie lieben zu können.<lb/>
+            </p>
+            <p> <lb/>Adrienne las dieſe Briefe mit Rührung und Trauer<lb/>— weshalb mußte ſie mitten im Reichthum verſchmachten,<lb/>gleich dem Bauern in der Fabel, dem Alles, was er<lb/>berührte, Gold wurde? Dabei geſtand ſie es ſich wohl,<lb/>ihr Leben würde ein ewiger Winter ſein, ohne Felices<lb/>Immortellen und Vergißmeinnicht. Der Herbſt kam. Fe-<lb/>lices Erwartung ſteigerte ſich bis zu jenem Grade, der<lb/>Adrienne fürchten ließ, er würde eines Tages Dienſt und<lb/>Pflicht vergeſſen und davon gehen, um ſie aufzuſuchen,<lb/>ſo packte ſie denn ihre Koffer und fuhr gen Neapel, im-<lb/>mer mit dem Gedanken, „es iſt ja einerlei, wo ich bin!“<lb/>
+            </p>
+            <p> <lb/>Als nun aber der <hi rendition="#aq">Luogotenente</hi> wirklich wieder zu<lb/>ihren Füßen lag, ſtrahlend über ſein ganzes redliches An-<lb/>geſicht von Glück, Freude, Gehorſam und Anbetung, da<lb/>wurde ihr doch warm und wohl, ſie hatte wiederum jene<lb/>Empfindung des Getragenwerdens und gab ſich dieſer<lb/>ſüßen Ruhe hin, wie es das milde, traumſelige Klima<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0191" n="187" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=191"/>
+            </p>
+            <p> <lb/>Neapels bedingt. Porro hätte ihr am liebſten Alles auf<lb/>einmal gezeigt, den Veſuvio und ſeine Mutter, Camaldoli<lb/>und die Tartarugaläden, San Carlo, das größte Theater<lb/>der Welt, und Pompeji, den Schauplatz des größten<lb/>Trauerſpiels. Seine bärtigen Lippen wurden nicht müde,<lb/>ſich auf ihre Hände, ihre Kleider, ja auf ihre Fußſpitzen<lb/>zu drücken, dabei umgab er ſie, als wäre ſie eine Wachs-<lb/>figur, die man nicht zart genug berühren kann. Adrienne<lb/>wollte zuerſt ſeine Mutter aufſuchen. Er jubelte und er-<lb/>ſchrak dann wieder, denn ſeine Mutter war keine vor-<lb/>nehme Dame, fiel ihm ein, eine ganz ſchlichte Frau, die<lb/>nur Italieniſch verſtand und zwei Stübchen, eine Küche<lb/>und einen Balcon draußen, dem botaniſchen Garten <hi rendition="#aq">vis-</hi>
+               <lb/>
+               <hi rendition="#aq">à-vis</hi>, wo die Straße nach dem Campo Santo hinaus-<lb/>führt, bewohnte.<lb/>
+            </p>
+            <p> <lb/>„O, ich verſtehe ſehr gut Italieniſch, ich rede es<lb/>ſogar, wie ich mir einbilde, nicht ſchlecht,“ lächelte<lb/>Adrienne — „Sie waren ja mein Lehrer, Felice!“<lb/>
+            </p>
+            <p> <lb/>„Wer ſollte glauben, Sie könnten etwas von mir<lb/>lernen?“ ſtaunte der Officier.<lb/>
+            </p>
+            <p> <lb/>Die Signora Porro war von Geburt eine Römerin,<lb/>groß, ſtark und ſtattlich, wie ihr Sohn, mit derſelben<lb/>ſonoren Stimme und derſelben ſchönen Ausſprache. Wenn<lb/>die Zimmer der verwittweten Signora auch keine Salons<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0192" n="188" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=192"/>
+            </p>
+            <p> <lb/>waren, ſo konnte ſie doch ſtolz auf ihre Einrichtung ſein,<lb/>ſie hatte große Spiegel, einen venetianiſchen Kronleuchter,<lb/>Marmortiſche und bunte Fußteppiche, vor Allem aber ein<lb/>großes ſilbernes Crucifix über der eiſernen Bettſtelle im<lb/>Schlafzimmer, an deſſen Fuß ein Weihkeſſel hing, ver-<lb/>ſchiedene Madonnen unter Glasſturz und endlich ein<lb/>lebensgroßes Bambino, ein Chriſtkindlein mit grellen<lb/>blauen Wachsaugen und unzähligen blonden Wachslocken.<lb/>Die Art, wie Signora Porro die Flamme ihres erröthen-<lb/>den und vor Entzücken ganz unbeholfenen Sprößlings<lb/>empfing, war eine ungemein würdige und freundliche,<lb/>ihre lebhaften ſchwarzen Augen forſchten unabläſſig an<lb/>Adriennes Erſcheinung, aber ihre Haltung war unbefangen<lb/>und ruhig, ja ein wenig hochmüthig, als Adrienne ihre<lb/>hübſchen Bilder und ein altes Familienſchränkchen lobte<lb/>— man ſah, daß Felice von gutem Herkommen war,<lb/>und das freute ſeine Mutter. Felice durfte dagegen auch<lb/>ſeinerſeits überzeugt ſein, daß Adrienne der <hi rendition="#aq">cara mam-</hi>
+               <lb/>
+               <hi rendition="#aq">muccia</hi> ungemein imponirte und gefiel und er hätte mit<lb/>keinem Menſchen in der Welt getauſcht. Ihm ſchwindelte<lb/>förmlich vor Wonne, wenn Adrienne einen ſchwierigen<lb/>Satz ausſprach und ihn dann, um ſeine Billigung fra-<lb/>gend, oder ſeine Hülfe ſuchend, anblickte. Dieſem Beſuche<lb/>folgten die Ausflüge mit ihr; wie bewunderte ſie ſeine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0193" n="189" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=193"/>
+            </p>
+            <p> <lb/>ſchöne Heimat, wie lernte er leichter und leichter jene<lb/>plötzliche Trauer, welche ſie oft erfaßte, von ihrer Stirn,<lb/>aus ihren Augen verſcheuchen, und wie konnte ſie ſo hell<lb/>und kindlich über ſeine Einfälle lachen, und ihn necken,<lb/>wenn ihm irgend eine Probe körperlicher Gewandtheit,<lb/>wie er ſie gern zum Beſten gab, mißlang.<lb/>
+            </p>
+            <p> <lb/>Armer Porro! In dieſe Welt von Glück und Hoff-<lb/>nung dröhnte plötzlich ein ſchauerliches Commando, das<lb/>ihn in eine Ortſchaft der Umgegend beorderte, wo Ruhe-<lb/>ſtörungen vorgefallen waren. Es war ſehr hart, aber<lb/>gewiß, er blieb nicht lange fort, und dann fand er ſeine<lb/>„<hi rendition="#aq">Inamorata</hi>“ wieder — ſchön, blühend, bezaubernd, wie<lb/>er ſie verließ. In der That war Adrienne eine von den<lb/>Frauen, deren äußere Erſcheinung nicht vom Leide ange-<lb/>griffen wird, ihre Behauptung: „Ich habe alle Kraft<lb/>nothwendig, um es zu tragen!“ ſchien ſie zu ſtählen,<lb/>und ſie erblühte beinahe mit lebendigerem Bewußtſein der<lb/>friſch körperlichen Schönheit, ſeit die ſchneidende Art die<lb/>beſten und edelſten Wurzeln ihres Daſeins zerſchnitten<lb/>hatte. Felice war unglaublich eitel auf Adriennes weiße<lb/>Hautfarbe, auf ihr goldbraunes Haar, auf ihre vorneh-<lb/>men Manieren; es würde ihn erſchreckt haben, ſie minder<lb/>ſchön zu denken, obwohl ſein Herz ſie gar nicht um dieſer<lb/>Aeußerlichkeiten willen liebte und ſie auch wahrſcheinlich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0194" n="190" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=194"/>
+            </p>
+            <p> <lb/>geliebt haben würde, wenn ſie ihm in der beſcheidenſten<lb/>Geſtalt nahe getreten wäre. Er machte einſtweilen in<lb/>ſeinem Exil Gedichte an „Bella mia“ und ſchickte ſie<lb/>durch ſichere Boten, nebſt allerhand Blumen und Früchten<lb/>in die Stadt. Er hatte ſo viel für ſeine Liebe zu thun,<lb/>daß er eigentlich gar nicht dazu kam, ſich klar zu werden,<lb/>was er ſeinerſeits dagegen erwarte, Adrienne durfte nur<lb/>Alles hinnehmen, was er bot und ſich ein wenig freuen,<lb/>Felice hoffte ja auf eine Zukunft, wo er ſeinem Namen<lb/>alle erdenkliche Ehre zu machen gedachte; vor ſich ſelbſt<lb/>nannte er Adrienne ſo getroſt „<hi rendition="#aq">la mia mia</hi>,“ als ob die<lb/>Stola bereits um ihre vereinten Hände geſchlungen wäre.<lb/>
+            </p>
+            <p> <lb/>Eines Tages kam der militairiſche Poesiebote mit ſei-<lb/>nem heutigen Sonetto und einem Streifchen Papier zurück,<lb/>das die deutſche Signora für Porro bei der Padrona<lb/>ihres Hauſes hinterlaſſen hatte. Auf dem Streifchen Pa-<lb/>pier ſtand: „Mein lieber Porro, eine dringende Pflicht<lb/>mahnt mich, ſtehenden Fußes in die Heimat zu reiſen.<lb/>Ich laſſe den größten Theil meines Gepäckes zurück, indem<lb/>ich daſſelbe unter Ihre Obhut ſtelle. Den Schlüffel zu<lb/>meiner Wohnung ſchicke ich zu Ihrer Mutter. Im näch-<lb/>ſten Brief erkläre ich Ihnen Alles. Ihre unglückliche<lb/>Adrienne.“<lb/>
+            </p>
+            <p> <lb/>Felice trat Tags darauf mit einem ſo verſtörten Ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0195" n="191" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=195"/>
+            </p>
+            <p> <lb/>ſicht bei ſeiner Mutter ein, daß ſich die alte Dame ver-<lb/>anlaßt fühlte, einen jener italieniſchen Schreie auszuſtoßen,<lb/>die Alles, was je aus weiblichen Kehlen an Naturlauten<lb/>hervorging, weit hinter ſich laſſen an penetranter Schärfe,<lb/>dann aber ſagte ſie verhältnißmäßig ruhig: „Sie muß<lb/>Dich ganz verhext haben; was thuts, wenn ſie ein paar<lb/>Wochen verreiſt, ihre Bagage hat ſie dagelaſſen! Sie<lb/>wird ſchon wieder kommen!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ſie wird wiederkommen, aber zu ſpät!“<lb/>
+            </p>
+            <p> <lb/>„Zu was zu ſpät?“<lb/>
+            </p>
+            <p> <lb/>„Um mich zu retten — bis dahin hat mich die Eifer-<lb/>ſucht getödtet — ſieh dies Papier an, ich fand es in<lb/>ihrem Zimmer.“<lb/>
+            </p>
+            <p> <lb/>Signora Porro ſah das Papier an, welches ſichtbar<lb/>die untere Hälfte eines Briefes war, aber dies Anſehen<lb/>erklärte nichts, denn der Brief war Deutſch geſchrieben<lb/>und die Dame verſtand davon keine Silbe.<lb/>
+            </p>
+            <p> <lb/>„Ich fand das in ihrem Zimmer und dieſe welken<lb/>Blumen und das Paar Handſchuh und dieſe Haarnadel!“<lb/>ſagte Porro voller Wehmuth und Verzweiflung, indem er<lb/>die benannten Gegenſtände aus ſeinem Taſchentuche wickelte.<lb/>
+            </p>
+            <p> <lb/>„Ich verſtehe nichts davon, Felice.“<lb/>
+            </p>
+            <p> <lb/>„Von der Krankheit?“<lb/>
+            </p>
+            <p> <lb/>„Nein, von dem Briefe — er iſt ja Deutſch! —“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0196" n="192" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=196"/>
+            </p>
+            <p> <lb/>„Ganz recht, es iſt nur zu klar, ſie hat Ihm Alles<lb/>verziehen und ihre blauen Kleider wieder angezogen und<lb/>ſitzt neben ſeinem Bette!“<lb/>
+            </p>
+            <p> <lb/>„Was meinſt Du — haſt Du den Verſtand verloren,<lb/>Unglücklicher?“<lb/>
+            </p>
+            <p> <lb/>„Da ſteht es ja klar und deutlich: ‚Die Hoffnung<lb/>auf Erhaltung ſeines Lebens iſt eine ſehr geringe, und<lb/>im Fall die Frau Gräfin ihn noch lebend zu ſehen<lb/>wünſchte, dringendſte Eile gerathen. In ſeinen Phan-<lb/>taſieen nennt er häufig Ihren Namen, ich habe geglaubt,<lb/>in Ihrem Sinne zu handeln, wenn ich alle Mittel zur<lb/>Pflege des Patienten aufbiete.<lb/>
+            </p>
+            <p> <lb/>Mit vollkommener Hochachtung<lb/>
+            </p>
+            <p> <lb/>Ew. Hochgeboren gehorſamſter<lb/>
+            </p>
+            <p> <lb/>G.... A. Zimmerle, <hi rendition="#aq">Dr. med</hi>.’“<lb/>
+            </p>
+            <p> <lb/>„Wo liegt G....?“ fragte die Signora, die nicht<lb/>über die vaterländiſche Geographie hinausgekommen war.<lb/>
+            </p>
+            <p> <lb/>„In Oeſterreich — o mein Gott, ſie hat mir doch<lb/>gesagt: Victor iſt todt für mich, ich werde nie wieder<lb/>einen blauen Faden an mir tragen! und nun doch!“<lb/>
+            </p>
+            <p> <lb/>„Vielleicht trägt ſie auch gar kein Blau,“ bemerkte<lb/>die Mutter; „es iſt am Beſten, gar nichts mit Auslän-<lb/>dern gemein zu haben, Felice!“<lb/>
+            </p>
+            <p> <lb/>„Ja,“ entgegnete der <hi rendition="#aq">Luogotenente</hi> nicht ganz logiſch,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0197" n="193" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=197"/>
+            </p>
+            <p> <lb/>ich reiſe heute Abend ab und der Arzt ſoll mir ſagen,<lb/>wo ſie iſt, ſie und dieſer Victor!“<lb/>
+            </p>
+            <p> <lb/>„Heilige Madonna — ohne Urlaub willſt Du reiſen!“<lb/>ſchrie die Mutter entsetzt.<lb/>
+            </p>
+            <p> <lb/>„Ich werde verſuchen, ihn zu erhalten — wenn nicht<lb/>— ja! Das Ende vom Liede iſt ja doch, daß ich mir<lb/>eine Kugel vor den Kopf ſchieße!“<lb/>
+            </p>
+            <p> <lb/>„Oh die untreue Schlange!“ rief wieder ganz un-<lb/>logiſch die entsetzte Signora.<lb/>
+            </p>
+            <p> <lb/>„Mutter, Adrienne hat mir nichts verſprochen,“ warf<lb/>Felice gekränkt ein. „Was konnte ſie mir armem Bur-<lb/>ſchen verſprochen haben? Ein Blinder ſieht, daß ſie tau-<lb/>ſendmal vornehmer iſt als ich!“<lb/>
+            </p>
+            <p> <lb/>Weshalb Felice, trotz dieſer Ueberzeugung, doch Him-<lb/>mel und Erde in Bewegung ſetzte, um Adrienne zu folgen,<lb/>iſt ſchwer abzuſehen, aber ſeine ganze ſüdliche Leiden-<lb/>ſchaftlichkeit war entfeſſelt und er ließ kein Hinderniß<lb/>gelten. Der gute Wille ſeiner Vorgeſetzten kam ihm zu<lb/>Hülfe und er reiſte in der That, wenn auch etwas ſpäter<lb/>als er gehofft, des Wegs, den Adrienne einige Tage<lb/>früher eingeſchlagen hatte.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#aq">Dr</hi>. Zimmerle kam Abends ſehr ermüdet nach Hauſe,<lb/>es war ein winterliches Schlackwetter eingetreten, der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0198" n="194" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=198"/>
+            </p>
+            <p> <lb/>warme Ofen that dem geſuchten Arzt ungemein wohl und<lb/>er ſchlüpfte in ſeinen Schlafrock, wie in ein Paar geöffnete<lb/>Liebesarme. Die Studirlampe brannte, einige Zeitungen<lb/>neueſten Datums, ſowie ein Seidel des ſeelenſtärkenden<lb/>Dreher’ſchen Bieres ſtanden daneben.<lb/>
+            </p>
+            <p> <lb/>„Mein Liebchen, was willſt Du noch mehr?“ trällerte<lb/>der Doctor und ſchob ſeinen breiten Seſſel an den Tiſch –<lb/>ſchon ſtreckte er den Arm nach dem mit zinnernem Deckel<lb/>geſchloſſenen Glaſe aus, da — zwiſchen Lipp und Sei-<lb/>delsrand klopfte es. Herein!“ ſchrie er in grellem Tone.<lb/>
+            </p>
+            <p> <lb/>Die Thür öffnete ſich und der ganze Rahmen derſel-<lb/>ben ward durch eine große mantelumhüllte Männergeſtalt<lb/>ausgefüllt. Der Rieſe machte Verſuche zu reden, aber es<lb/>kam kein articulirter Laut zum Vorſchein.<lb/>
+            </p>
+            <p> <lb/>„Taubſtumm?“ fragte der Arzt mit der entſprechenden<lb/>Geberde.<lb/>
+            </p>
+            <p> <lb/>„Italiano!“ ſtieß der Große hervor.<lb/>
+            </p>
+            <p> <lb/>„Ah ſo!“ machte der Arzt und wartete, was da kom-<lb/>men ſollte. Plötzlich trat der Fremde vor, breitete aus<lb/>dem Mantel heraus zwei lange, muskulöſe Arme um den<lb/>braven Zimmerle und ſagte mit erſtickter Stimme: „Ich<lb/>Adrienne Rohrdorff ſehen muß, oder ich ſterben!“<lb/>
+            </p>
+            <p> <lb/>Der Arzt hob den Schirm der Lampe empor, be-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0199" n="195" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=199"/>
+            </p>
+            <p> <lb/>trachtete einige Secunden das bleiche, angſtvolle, zuckende<lb/>Angeſicht vor ihm und ſagte dann:<lb/>
+            </p>
+            <p> <lb/>„Gut, ich bringe Sie zur Madame Rohrdorff, ſie<lb/>nennt ſich hier ſo!“<lb/>
+            </p>
+            <p> <lb/>„Einerlei, wie ſich nennt, <hi rendition="#aq">la mia mia</hi>!“<lb/>
+            </p>
+            <p> <lb/>Also noch einmal hinaus in’s Schlackwetter, durch<lb/>lange, winddurchbrauſte Straßen, in denen einige irrwiſch-<lb/>artige Lichter glimmten, auf und nieder, rechts und links.<lb/>Zuweilen ermuthigte der Arzt ſeinen tief ſeufzenden Ge-<lb/>fährten, ja er verſuchte ihn auf ſeine Weiſe auszuhorchen,<lb/>aber der Fremde ſchien für nichts Sinn zu haben, als<lb/>für das Wiederſehen mit der Dame, die er ſuchte. Der<lb/>Weg wurde einſamer, ein Wachtpoſten rief die Wandern-<lb/>den an und ſchloß dann eine Gitterpforte auf, nachdem<lb/>der Arzt ſich zu erkennen gegeben. Ein düſterer Hof und<lb/>ein zweiter Poſten, der den Weg vertrat — jetzt öffnete ſich<lb/>eine ſchwere Thür, in ein langes, dunkles Gebäude führend.<lb/>
+            </p>
+            <p> <lb/>„Hoſpital?“ fragte der Italiener, den Arm des Arztes<lb/>erfaſſend.<lb/>
+            </p>
+            <p> <lb/>„Gefängniß!“ entgegnete dieſer.<lb/>
+            </p>
+            <p> <lb/>Ein dumpfes Aechzen war die Antwort, der große<lb/>Mann ſchwankte wie ein Trunkener und murmelte dann:<lb/>
+            </p>
+            <p> <lb/>„Arme Adrienne — was hat er denn gethan, daß<lb/>er hier iſt?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0200" n="196" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=200"/>
+            </p>
+            <p> <lb/>„Die Regimentskaſſe angegriffen, er war Rittmeiſter,<lb/>wiſſen Sie, und ein ſehr leichtsinniger Herr!“<lb/>
+            </p>
+            <p> <lb/>„Vorwärts!“ drängte der Andere.<lb/>
+            </p>
+            <p> <lb/>Vorbei ging es an den Wächtern und den verſchloſ-<lb/>ſenen Zellen, hinter denen gefangene Menſchen ſaßen,<lb/>Menſchen, die von ihres Gleichen losgetrennt und ausge-<lb/>ſtoßen waren. Ob ſie auf die Schritte lauſchten, die den<lb/>Corridor entlang hallten? — „Hier!“ ſagte der Arzt.<lb/>Ein alter Schließer ſuchte in einem großen Schlüſſelbund<lb/>denjenigen, der das knarrende Schloß öffnete. „Ehe Sie<lb/>eintreten, Signore,“ ſagte der Arzt, „muß ich Sie benach-<lb/>richtigen, daß die Krankheit meines Patienten einen typhö-<lb/>ſfen Charakter angenommen hat und eine Anſteckung nicht<lb/>ausgeſchloſſen ſcheint, falls — —“<lb/>
+            </p>
+            <p> <lb/>„Heiliger Gott, Adrienne!“ ſtöhnte der Andere, „hinein,<lb/>damit ich mit ihr ſterbe!“<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#aq">Dr</hi>. Zimmerle rieb ſich die Hände, dies war eine ſehr,<lb/>ſehr intereſſante Begebenheit.<lb/>
+            </p>
+            <p> <lb/>Die Zelle war das Krankenzimmer des Gefangenhau-<lb/>ſes und daher größer und luftiger als die übrigen; ſie<lb/>hatte einen kleinen Vorraum, in welchem ein Kochapparat<lb/>angebracht war. Die innere Thür war nur angelehnt<lb/>und ein matter Lichtſtrahl fiel durch die Spalte. Leiſe<lb/>ſchob der Arzt die trennenden Bretter ganz zur Seite und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0201" n="197" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=201"/>
+            </p>
+            <p> <lb/>man hörte nun das wilde, zuſammenhangsloſe Gemurmel<lb/>des phantaſirenden Kranken. Adrienne ſtand neben ſeinem<lb/>Lager und legte Eiſumſchläge auf ſeinen Kopf, die Stücke<lb/>Eis funkelten dann und wann zwiſchen ihren Fingern<lb/>auf. Sie trug ein ſchwarzes Kleid wie eine Nonne.<lb/>
+            </p>
+            <p> <lb/>„Adrienne!“ ſprach der Italiener, ſank neben ihr nie-<lb/>der und umfaßte ihre Kniee.<lb/>
+            </p>
+            <p> <lb/>Das Eisſtück aus ihrer Hand fiel klirrend zu Boden,<lb/>ſie beugte ſich über den Knieenden herab und flüſterte<lb/>halb jauchzend, halb ſchluchzend:<lb/>
+            </p>
+            <p> <lb/>„Felice, mein treuer, geliebter Freund!“<lb/>
+            </p>
+            <p> <lb/>Der Kranke war bei dem Geräuſch aufgefahren, ſeine<lb/>wilden Augen ſuchten umher und er rief: „Adrienne,<lb/>meine Frau, wird Alles bezahlen, Alles!“<lb/>
+            </p>
+            <p> <lb/>„Meint er — Sie, Adrienne.“<lb/>
+            </p>
+            <p> <lb/>„Ja, der unglückliche Verbrecher iſt mein Gatte!“<lb/>
+            </p>
+            <p> <lb/>„Seit wann, barmherziger Gott, ſeit wann denn?“<lb/>
+            </p>
+            <p> <lb/>„Seit acht Jahren, Felice, ſeit meiner glücklichen<lb/>Mädchenzeit, ich reichte ihm gegen das Gebot meiner El-<lb/>tern meine Hand — und ertrug meine Strafe dafür, er<lb/>liebte mich nicht, vergeudete, was er von meinem Ver-<lb/>mögen erreichen konnte, war ein Wüſtling und Trunken-<lb/>bold und endlich — ein Dieb und Sträfling! Da haben<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0202" n="198" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=202"/>
+            </p>
+            <p> <lb/>Sie meine Geſchichte, ich legte ſeinen Namen ab und<lb/>irrte in der Welt umher!“<lb/>
+            </p>
+            <p> <lb/>„Und das iſt Victor?“ preßte Felice zwiſchen den<lb/>Zähnen hervor.<lb/>
+            </p>
+            <p> <lb/>„Oh nein, mein armer Felice, das iſt nicht Victor,<lb/>dem zu Liebe ich vielleicht dies traurige Band gelöſt hätte,<lb/>wenn nicht —“<lb/>
+            </p>
+            <p> <lb/>„So lagſt Du in zwiefachen ſchweren Herzensbanden?“<lb/>fragte Porro.<lb/>
+            </p>
+            <p> <lb/>Adrienne nickte und wandte ſich dem Kranken wieder zu.<lb/>
+            </p>
+            <p> <lb/>Die Unterhaltung war ſchnell und leiſe geführt wor-<lb/>den, aber <hi rendition="#aq">Dr</hi>. Zimmerle, der dem gleichfalls herzugekom-<lb/>menen Krankenwärter einige Inſtruktionen gab, hatte doch<lb/>dieſes und jenes Wort aufgefangen, er ſchlug ſeinem ita-<lb/>lieniſchen Schützling ſelbſt vor, ob er die Dame, die ja<lb/>einmal entſchloſſen ſei, den Kranken ausſchließlich ſelbſt zu<lb/>pflegen, bei dieſem Bemühen unterſtützen wolle, und zog<lb/>ſich in höflicher Weiſe zurück.<lb/>
+            </p>
+            <p> <lb/>Nach Mitternacht wurde der Leidende etwas ruhiger,<lb/>die beiden Freunde ſetzten ſich auf eine Holzbank und<lb/>Adrienne erzählte, wie der Sterbende da vor ihr dereinſt<lb/>ihr junges Herz gewann und bethörte, wie ſie ihm folgte<lb/>und von ihren Eltern dafür verſtoßen wurde, wie ſchon<lb/>in den erſten Tagen ihrer Ehe jegliche Illuſion ſchwand,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0203" n="199" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=203"/>
+            </p>
+            <p> <lb/>und die Eltern dann ſtarben, ohne ihr zu verzeihen. Sie<lb/>hielt neben dem rohen Gatten ſtandhaft und büßend aus,<lb/>bis dieſer, des Diebſtahls überwieſen, in’s Gefängniß ge-<lb/>führt wurde. Adrienne ward nicht ganz mittellos, aber<lb/>tief vereinſamt, da ſie ihre Angehörigen zu meiden Urſache<lb/>hatte. Sie ſeufzte nach Verſtändniß und fand Victor —<lb/>hier unterbrach ſich Adrienne und ſagte: „Geſtern war es<lb/>ganz und gar Nacht in dieſer traurigen Sterbekammer,<lb/>heute iſt ein Stern aufgegangen — Gott ſei Dank, daß<lb/>Sie mir gefolgt ſind.“<lb/>
+            </p>
+            <p> <lb/>Der Kranke lebte noch drei Tage, mit kurzen Licht-<lb/>blicken. Adrienne und Porro pflegten ihn unermüdet und<lb/>drückten ihm dann die Augen zu.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#aq">Dr</hi>. Zimmerle zog den Trauring von der erkaltenden<lb/>Todtenhand und reichte ihn der Wittwe.<lb/>
+            </p>
+            <p> <lb/>„Der Tod versöhnt!“ ſagte dieſe und vertauſchte den<lb/>Ring mit einem andern, den ſie am Finger trug; derſelbe<lb/>war mit einem Saphir von ſchönem Blau geſchmückt.<lb/>„Legen Sie dieſen Ring dagegen mit in meines Gatten<lb/>Sarg,“ ſagte Adrienne, „auch das ſoll begraben ſein. —<lb/>Dieſen blauen Ring ſchenkte mir Victor!“ ſagte ſie, zu<lb/>Felice gewendet.<lb/>
+            </p>
+            <p> <lb/>Der treue Freund führte die erſchöpfte Frau in den<lb/>Gaſthof und fragte ſie um ihre nächſten Lebenspläne.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0204" n="200" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=204"/>
+            </p>
+            <p> <lb/>„Ich werde ein Jahr lang meine Trauer tragen!“<lb/>ſagte ſie.<lb/>
+            </p>
+            <p> <lb/>„Und dann?“ fragte Felice, ihre Hände ergreifend.<lb/>
+            </p>
+            <p> <lb/>„Du weißt es,“ ſagte ſie wehmüthig, „ich lag in<lb/>dreifachen Banden — und nur zwei ſind gelöſt, können<lb/>gelöſt werden. Dann hält, trägt und beglückt mich das<lb/>dritte Band; glückselig, dreimal glückselig die Frau, die<lb/>ein Herz gefunden hat — wie das Deine!“<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

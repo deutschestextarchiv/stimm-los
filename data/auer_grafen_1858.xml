@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die beiden Grafen</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">auer_grafen_1858</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Auer: Die beiden Grafen, 1858.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die beiden Grafen</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Georg H. Wigand</name></publisher>
+                  <date>1858</date>
+                  <pubPlace>Göttingen</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Novellen</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 1–44</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503</idno><idno type="shelfmark">Shelfmark: P.o.germ. 1763 n-2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die beiden Grafen</titlePart>
+         </docTitle>
+         <docAuthor>Auer, Adelheid von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0009" n="1" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=9"/>
+            </p>
+            <p> <lb/>Die beiden Grafen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0010" n="2" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=10"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0011" n="3" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=11"/>
+            </p>
+            <p> <lb/>Der Frühling lockte geſchäftig die in der Erde<lb/>ſchlummernden Keime hervor und ſchmückte die Bäume<lb/>mit dem zarten hoffnungsvollen Grün, das eben nur<lb/>dieſer reizenden Jahreszeit eigen iſt. Die balſamiſche<lb/>Luft verrieth die Veilchen im Graſe, trotz aller Vorſicht<lb/>mit der ſie unter die grünen Blätter geflüchtet und die<lb/>Vögel ſtimmten ihre kleinen Kehlen zum Sonntagskon-<lb/>zert des Lenzes. Nichts deſtoweniger war die ſchöne Ka-<lb/>ſtanienallee, der Hauptſpaziergang der Einwohner des<lb/>kleinen Städtchens S…, ziemlich verödet und die Abend-<lb/>ſonne lächelte nur dreien jungen Mädchen, die eifrig<lb/>plaudernd und geſtikulirend die ſchöne Allee auf- und<lb/>abgingen. Sie ſprachen nicht in dem Flüſterton, der<lb/>jungen Damen, die ja immer kleine intereſſante Geheim-<lb/>niſſe haben welche um Gotteswillen kein Menſch hören<lb/>darf, eigen iſt. Es war kein Lauſcher in der Nähe, kein<lb/>müßiger Spaziergänger, der ein Wort hätte auffangen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0012" n="4" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=12"/>
+            </p>
+            <p> <lb/>können und ſo dämpften ſie die Stimmen nicht, trotz aller<lb/>vertraulichen Mittheilungen. Man kritiſirte den ver-<lb/>gangenen Winter, man zählte die Bälle — nicht des Win-<lb/>ters, nein die des ganzen Lebens: die Summe war nicht<lb/>groß, um ſo weniger, da man die Kinderbälle, deren die<lb/>kleine Emma erwähnte, als nicht mitzuzählende mit<lb/>Lachen zurückwies. Man baute endlich Luftſchlöſſer,<lb/>entwarf Pläne für die Zukunft, d. h. für den Sommer<lb/>— denn bei ſehr jungen und ſehr alten Menſchen reicht die<lb/>Zukunft nicht weiter wie höchſtens von einer Jahreszeit<lb/>zur andern – und tauſchte manche Erinnerung der Pen-<lb/>ſions- oder wie die jungen Damen meinten, der Paſſions-<lb/>zeit mit einander aus.<lb/>
+            </p>
+            <p> <lb/>„Aber wo bleibt nur Marie“, unterbrach endlich die<lb/>älteſte der Mädchen den intereſſanten Bericht einer ihrer<lb/>Gefährtinnen und beraubte ſo die übrigen des Ver-<lb/>gnügens zu erfahren, was Fräulein von D. geſagt, als<lb/>Frau von L. die Unklugheit begangen, den Anzug des<lb/>Fräuleins von S. auf dem letzten Ball als den eleganteſten<lb/>und geſchmackvollſten der ganzen Saiſon zu bezeichnen.<lb/>
+            </p>
+            <p> <lb/>„Ach, Marie hat nur Einen Gedanken im Kopf“,<lb/>erwiederte Clara, eine zarte feine Blondine, in deren<lb/>blauen Augen doch etwas lag was Energie wenn auch<lb/>eine ſanfte verkündigte, „ſie iſt für unſre Freundſchaft<lb/>verloren, ſo lange der fatale Gegenſtand alle ihre Sinne<lb/>einnimmtt.“<lb/>
+            </p>
+            <p> <lb/>„Es iſt eine Thorheit, ich gebe das zu“, ſagte die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0013" n="5" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=13"/>
+            </p>
+            <p> <lb/>kleine Emma und zuckte die Achſeln und gab dem Munde<lb/>einen ſo nachdenklichen Zug, daß ihre funfzehn Jahre<lb/>ſich in die Augen flüchten mußten, um darüber zu lachen,<lb/>„aber“, fuhr ſie fort, „es iſt eine intereſſante Thorheit!<lb/>und ich denke faſt wie Marie, ich möchte ihn gar zu<lb/>gern einmal ſehen und hören, wenn ich mich auch nicht<lb/>ſo vollſtändig von ihm beherrſchen laſſe, wie dieſe.“<lb/>
+            </p>
+            <p> <lb/>„Ich hoffe, Ihr werdet ihn alle Beide nicht ſehen<lb/>noch hören“, ſagte Auguſte, die älteſte der Freundinnen.<lb/>„Der gute Graf, wie wir ihn einmal ſchlechtweg unter<lb/>uns nennen, hat ſchon mancher leidlich vernünftigen<lb/>Perſon den Kopf verdreht und ich fürchte für Eure ſechs-<lb/>zehnjährigen Köpfchen.“<lb/>
+            </p>
+            <p> <lb/>„Nun, wie alt biſt Du denn?“ fragte lächelnd<lb/>Clara.<lb/>
+            </p>
+            <p> <lb/>„Ich, ach ich bin ja ſchon achtzehn Jahr“, erwie-<lb/>derte Auguſte und fuhr dann fort, „und das Alter<lb/>macht’s nicht allein, ſondern die Vernunft und Ihr wißt,<lb/>daß ich vernünftig bin, daß ich mich bemühe, die Dinge<lb/>im rechten Licht zu ſehen und mich nicht von meiner<lb/>Phantaſie beherrſchen laſſe.“ Und ſie machte ein ſo<lb/>ernſthaftes, nachdenkendes Geſicht, daß man ſah, hinter<lb/>all’ dieſer Jugendblüthe, dieſem hoffnungsvollen Feuer<lb/>der großen ſchwarzen Augen lag ein beherrſchender Ge-<lb/>danke, einer, der die Richtung des jungen Gemüths be-<lb/>ſtimmte.<lb/>
+            </p>
+            <p> <lb/>„Mit achtzehn Jahren ſchon vernünftig, ach was<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0014" n="6" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=14"/>
+            </p>
+            <p> <lb/>bleibt Dir dann für künftig“, ſagte Clara leiſe und<lb/>reimte ſo, ohne es zu wollen, etwas Ungereimtes; aber<lb/>die kleine Emma erging ſich in echt kindlichem Zorn<lb/>über die fatale leidige pedantiſche Vernunft, der ſie<lb/>niemals huldigen wolle, weil ſie alles Vergnügen<lb/>verderbe, immer Nachdenken verlange wo es doch viel<lb/>hübſcher ſei friſch aus der Seele heraus zu handeln,<lb/>und die das Leben ernſt und langweilig mache, während<lb/>doch der liebe Gott gewiß viel lieber fröhliche Geſich-<lb/>ter ſehe und es ihm doch auch Spaß mache, wenn ein-<lb/>mal irgend ein kleiner unvernünftiger Streich ausge-<lb/>führt werde, wäre er nur luſtig und natürlich, nicht<lb/>boshaft.“<lb/>
+            </p>
+            <p> <lb/>Ihre gewiß ſehr vernünftige Abhandlung wurde<lb/>unterbrochen durch die lang erwartete Marie, die ſo<lb/>leichtfüßig, mit ſo ſtrahlenden Augen auf die Freundin-<lb/>nen zukam, daß ihre Erſcheinung allein ſchon die gute<lb/>Nachricht verkündete, die ſie zu bringen hatte.<lb/>
+            </p>
+            <p> <lb/>„Er iſt da, Er iſt da!“ rief ſie ſchon von Weitem<lb/>und dann den hunderttauſend Fragen zuvorkommend,<lb/>die ſich auf die Lippen, in die Augen der Freundinnen<lb/>drängten, ſo daß keine Platz fand, fuhr ſie fort: „Er<lb/>iſt ſo eben angekommen. Bertha hatte mir Tag und<lb/>Stunde Seiner Ankunft vorher ſchriftlich angezeigt. Zum<lb/>Glück war die Tante zu heute ausgebeten und hatte mir<lb/>ſchon vorher die Erlaubniß gegeben Euch einzuladen.<lb/>So war das Feld frei und als ich mit klopfendem Herzen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0015" n="7" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=15"/>
+            </p>
+            <p> <lb/>den Ton des Poſthorns hörte, eilte ich ſelbſt zur Poſt<lb/>Ihn abzuholen und bin nun hier, damit Ihr mir folgt,<lb/>ſogleich folgt.“<lb/>
+            </p>
+            <p> <lb/>Auguſte ſchüttelte ein wenig den Kopf zu Marien’s<lb/>ſonderbarem Verfahren, aber ſie folgte doch, und ſo wa-<lb/>ren ſie denn einen Augenblick darauf bei Marie ver-<lb/>ſammelt, die ſie mit einer gewiſſen Feierlichkeit in die<lb/>Wohnſtube führte und, in die Mitte des Zimmers deu-<lb/>tend, ſagte: „So habe ich denn das Vergnügen Euch<lb/>den lange erwarteten ſehnlichſt herbeigewünſchten Gaſt,<lb/>den Herrn <hi rendition="#g">Pſychographen</hi> vorzuſtellen.“ Und damit<lb/>nahm ſie das Tuch fort das den geheimnißvollen Ge-<lb/>genſtand verhüllte und, nachdem ſie aus dem Briefe der<lb/>Freundin die nöthigen Anweiſungen zur Behandlung<lb/>deſſelben vorgeleſen, verſammelten ſich Alle um den Tiſch,<lb/>den Scherz, den Alle außer Auguſte wie den feierlichſten<lb/>Ernſt behandelten, zu beginnen.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Glaubt</hi> Ihr aber auch daran?“, fragte Marie,<lb/>„er antwortet nur Gläubigen.“<lb/>
+            </p>
+            <p> <lb/>„Ich muß wohl an ihn glauben“, ſagte die kleine<lb/>Emma, „ſeit er voriges Jahr meinem Bruder prophe-<lb/>zeite, daß er noch ein volles Jahr in Quarta ſitzen blei-<lb/>ben würde und es wirklich eintraf, obgleich mein Bruder<lb/>wirklich, wie alle Lehrer ſagten, einen ſehr hellen<lb/>Kopf hat.“<lb/>
+            </p>
+            <p> <lb/>„Was nur beweiſt“, ſagte Auguſte, über die wich-<lb/>tige Miene der Kleinen hell auflachend, „daß der junge<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0016" n="8" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=16"/>
+            </p>
+            <p> <lb/>Herr das Licht ſeines Kopfes nicht auf die Wiſſenſchaft<lb/>gewendet hat, und daß der Herr Pſychograph ſich das<lb/>Prophezeien ziemlich leicht macht, wenn er jungen win-<lb/>digen Schulknaben wenig Erfolg verheißt! Was mich<lb/>betrifft, ich werde dem Pſychographen nichts glauben,<lb/>da ich nicht weiß wer ihm die Worte diktirt, denn ich<lb/>ſelbſt werde es beſtimmt nicht thun. Was meinſt Du<lb/>dazu, Clara?“ wandte ſie ſich an dieſe.<lb/>
+            </p>
+            <p> <lb/>„Ich weiß es ſelbſt nicht, ich werde den Erfolg ab-<lb/>warten.“<lb/>
+            </p>
+            <p> <lb/>Marie brauchte nicht erſt gefragt zu werden, denn<lb/>ſie war ja längſt, wie Auguſte behauptete, der dämoni-<lb/>ſchen Gewalt dieſes Grafen von ſehr neuem und ſehr<lb/>zweifelhaftem Adel verfallen. So fing man denn an.<lb/>Emma als die Jüngſte ſollte zuerſt fragen. Marie nahm<lb/>die Feder, die angegebenen Buchſtaben zu notiren. Nach-<lb/>dem Emma nun erfahren, daß ſie Emma heiße, fünfzehn<lb/>Jahre alt und ein fröhliches das Vergnügen liebendes<lb/>Geſchöpf ſei, daß ihre Hauptleidenſchaft der Tanz, ihr<lb/>Hauptfehler Abneigung vor Handarbeiten und ihr größ-<lb/>ter Schrecken die Einſamkeit ſei, lauter Dinge, die eine<lb/>wunderbare Wahrheit enthielten, bat ſie nun mit zittern-<lb/>der Stimme um einen Spruch für die Zukunft. Der<lb/>Pſychograph ſagte:<lb/>
+            </p>
+            <p> <lb/>Pocht es dreimal an die Thür,<lb/>So gieb Acht, dann gilt es Dir.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0017" n="9" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=17"/>
+            </p>
+            <p> <lb/>Den, der dann wird vor Dir ſtehn<lb/>Hat das Schickſal ſich erſehn,<lb/>Zu retten Dich aus großer Noth,<lb/>Die ſchlimmer als der Tod Dir droht.<lb/>
+            </p>
+            <p> <lb/>„Gott erbarme ſich“, ſagte Emma mit ſo jämmer-<lb/>licher Miene, daß Alle laut auflachten, ſelbſt Marie,<lb/>die doch von dem Ernſt der Stunde ergriffen war, ſich<lb/>aber auch zuerſt faßte und die kleine Emma damit trö-<lb/>ſtete, daß ſie ja doch gerettet werden würde.<lb/>
+            </p>
+            <p> <lb/>„Ach was!“ ſagte dieſe, „dann will ich nur lieber<lb/>gleich ſterben, als vielleicht halb verbrannt oder halb er-<lb/>trunken oder halb übergefahren gerettet zu werden und<lb/>dann Wochen zu brauchen, ehe ich mich wieder erhole,<lb/>um unter Menſchen gehen zu können. Nein, ich will<lb/>nicht, daß mich Jemand rettet. Der dumme, garſtige<lb/>Pſychograph!“ Und ſie nahm nun die Feder, während<lb/>
+               <hi rendition="#g">Marie</hi> fragte.<lb/>
+            </p>
+            <p> <lb/>Nachdem auch ſie über Alter, Namen und die ſpe-<lb/>ziellſten Eigenſchaften aufgeklärt war, empfing ſie als<lb/>Schickſalsſpruch:<lb/>
+            </p>
+            <p> <lb/>Er, den jetzt das Schickſal meint,<lb/>Er iſt immerdar Dein Freund,<lb/>Wird von Dir, als ihm verwandt,<lb/>Wilhelm ſtets und Du genannt.<lb/>Kommt von Kyritz, will dorthin,<lb/>Wo die Goldorangen glühn.<lb/>Was ihn trifft, ſei’s Leid, ſei’s Glück,<lb/>Nah berührt Dich ſein Geſchick.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0018" n="10" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=18"/>
+            </p>
+            <p> <lb/>Eines höre noch, was klar<lb/>Hältſt Du’s heut auch nicht für wahr.<lb/>Ob Du’s leugnen magſt anfänglich:<lb/>Erſte Liebe iſt vergänglich!<lb/>Doch, iſt vorbei der Sonne Lauf,<lb/>Geht wohl ein Stern noch leuchtend auf.<lb/>
+            </p>
+            <p> <lb/>„Wie heißt Dein Vetter?“ fragte Auguſte halb<lb/>neckend Marien.<lb/>
+            </p>
+            <p> <lb/>„Wilhelm“, erwiederte dieſe kleinlaut und ſetzte<lb/>dann, Auguſtens lachende Stirne bemerkend, hinzu,<lb/>„von ihm kann der Pſychograph nicht ſprechen. Er<lb/>wird überhaupt für’s Erſte nicht kommen und dann<lb/>ſchwerlich aus Kyritz, denn er iſt in Berlin.“<lb/>
+            </p>
+            <p> <lb/>Nun kam Clara an die Reihe. Der Pſychograph,<lb/>der die Zukunft der jungen Mädchen für untrennbar von<lb/>irgend einem jungen Mann zu halten ſchien, ſagte:<lb/>Nach des Vaters Willen hat er ſtudirt,<lb/>Auf der Mutter Wunſch das Schwert geführt,<lb/>Nach eigner Neigung beides quittirt.<lb/>Iſt halb Künſtler, halb Poet,<lb/>Und die Welt ihm offen ſteht.<lb/>Hat manchen muntern Streich verübt,<lb/>Iſt oft verſchuldet, oft verliebt,<lb/>Doch hat Dich, der fern er ſcheint,<lb/>Erſt der Tod mit ihm vereint,<lb/>Haſt Du, was mehr als Goldes werth,<lb/>Wahre Liebe ihn gelehrt,<lb/>Dann wirſt Du die Schätze heben,<lb/>An denen reich ſein inn’res Leben.<lb/>
+            </p>
+            <p> <lb/>„Aber jetzt meint der Pſychograph meinen Vetter“,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0019" n="11" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=19"/>
+            </p>
+            <p> <lb/>ſagte Marie mit einem Ton, der munter klingen ſollte,<lb/>aber es unverkennbar nicht vermochte. Wilhelm hat erſt<lb/>ſtudiren müſſen, ehe er ſich für einen Lebensberuf ent-<lb/>ſchiede; dann bildete er ſich ein, ſeiner Mutter Vor-<lb/>liebe für den Soldatenſtand zu theilen und wurde<lb/>Militair. Aber er iſt wirklich ein wenig Genie, malt<lb/>und dichtet allerliebſt, und die Soldatenpaſſion ging<lb/>ihm über. So nahm er den Abſchied. Er iſt vielleicht<lb/>ein bischen unbeſtändig, denn das iſt wahr, er verliebt<lb/>ſich ſehr leicht und Schulden und muntere Streiche<lb/>hat er öfter gemacht. Du ſiehſt, es trifft Alles zu.“<lb/>
+            </p>
+            <p> <lb/>„Nun dann habe ich ja Anweiſung auf ihn nach<lb/>dem Tode“! ſagte Clara. „Und hätte der Pſychograph<lb/>jetzt Mariens Herzensgeheimniß ausgeplaudert, ſo würden<lb/>die jungen Mädchen erfahren haben, daß ihr ordentlich<lb/>leicht wurde bei dem Gedanken, den geliebten Vetter doch<lb/>wenigſtens erſt nach ſeinem Tode an Clara abtreten zu<lb/>müſſen. Denn noch ſuchte ſie das Ziel ihrer Wünſche<lb/>nicht im Jenſeits. Sie liebte den Vetter wirklich. Bei<lb/>jungen Mädchen iſt der Vater gewöhnlich die erſte Au-<lb/>torität, der Bruder, beſonders wenn er jünger iſt, der<lb/>erſte Courmacher, und der Vetter die erſte Liebe. Der<lb/>Vater behauptet die Autorität, wenn er dem jungen<lb/>Mädchen ſpäter das Recht eigenen Verſtändniſſes ein-<lb/>räumt und nicht mehr abſolut herrſchen will, der Bruder<lb/>wird der Freund der Schweſter oder entfremdet ſich ihr,<lb/>je nachdem, — und der Vetter? Nun, wir werden ja ſehen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0020" n="12" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=20"/>
+            </p>
+            <p> <lb/>was aus Mariens Vetter wird. Jetzt war er Gegen-<lb/>ſtand aller ihrer Gedanken und Wünſche. Sie war eine<lb/>Waiſe, von ſeiner Mutter erzogen, ſie hatte ein ruhiges,<lb/>anſchmiegendes Weſen, nicht viel eigenen Willen, das<lb/>war ihm ſehr bequem; ſie fand Alles ſchön und gut,<lb/>was er that, das gefiel ihm; ſie war oft Vermittlerin<lb/>zwiſchen ſeinen Wünſchen und denen ſeiner Mutter, da-<lb/>für hatte er ſie lieb. Sie war zwar ſeine Vertraute,<lb/>wenn er ernſtlich, und das war ſchon oft vorgekommen,<lb/>verliebt war; aber ſie meinte, das ſeien doch nur Irr-<lb/>thümer ſeines Herzens; einſt werde er die Wirklichkeit<lb/>erkennen und bei ihr, der erſten Freundin ſeiner Kindheit<lb/>und Jugend, das beſtändige Glück finden das er bisher<lb/>vergebens bei Andern geſucht. Auf dieſem Grund und<lb/>Boden wuchs die Pflanze ihrer Liebe, ob eine Treibhaus-<lb/>blume, ob wurzelnd in ihrer eignen von der Natur ihr<lb/>zugewieſenen Heimath, wer konnte es wiſſen? denn noch<lb/>war ſie nicht zur vollſtändigen Blüthe gekommen und<lb/>die Knoſpe harrte des Wortes, daß ſie erſchließen ſollte.<lb/>— Aber wir vergeſſen Auguſten. Sie behandelte den<lb/>Pſychographen etwas vornehm, etwas obenhin. Ihre<lb/>Eigenſchaften wollte ſie nicht von ihm wiſſen, ſie kenne<lb/>ſie allein; über Alter und Namen war ſie auch <hi rendition="#g">ohne</hi>
+               <lb/>ſeine Beſtätigung vollſtändig klar; ſie wünſchte nur ei-<lb/>nen Spruch für die Zukunft und ſprach nur die Hoff-<lb/>nung aus, daß ihr Loos nicht auch wie Marien’s und Cla-<lb/>ra’s an einen „Wilhelm“ gebunden würde: denn nächſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0021" n="13" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=21"/>
+            </p>
+            <p> <lb/>Chriſtoph und Gottlieb wäre das der ungenteelſte Name<lb/>der ihr bekannt ſei. Mit dieſem Proteſt legte ſie ihre<lb/>Hand auf die hölzerne Platte und trotz ihrer Ungläu-<lb/>bigkeit pulſirte doch das Blut etwas ſchneller in ihren<lb/>Adern, als die Nadel ſich raſch von einem Buchſtaben<lb/>zum andern bewegte. Dann hörte ſie, was Marie ihr<lb/>vorlas:<lb/>
+            </p>
+            <p> <lb/>Was Du mit Augen ſiehſt iſt oft nur Schein;<lb/>Was Du nicht faſſen kannſt wird dennoch ſein;<lb/>Es hilft mit Lachen ſich, wer’s nicht verſteht;<lb/>Doch kommt die Reue einſt, ob früh, ob ſpät.<lb/>Der Name Wilhelm ſcheint Dir nicht genteel,<lb/>Doch iſt ein Wilhelm Deines Lebens Ziel —<lb/>
+            </p>
+            <p> <lb/>„Das iſt nicht wahr, bei Gott nicht wahr!“ fuhr<lb/>Auguſte dazwiſchen und erröthete dann über ihre Hef-<lb/>tigkeit und Marie las weiter:<lb/>
+            </p>
+            <p> <lb/>Nicht immer Wilhelm iſt was Wilhelm ſcheint<lb/>Doch Wilhelm iſt, wo Du es nie gemeint<lb/>Und wenn von Wilhelms Du umgeben biſt,<lb/>Iſt der nicht weit, der auch Dein Wilhelm iſt.<lb/>Der Name iſt, weil Du ihn ſchmähſt, nicht ſchlechter:<lb/>Doch rächen wird er ſich an dem Verächter,<lb/>Willſt <hi rendition="#g">einen</hi> Grafen Du nicht reſpectiren,<lb/>Wird Dich ein andrer Graf dafür düpiren.<lb/>
+            </p>
+            <p> <lb/>Auguſte lachte laut auf. „Wahrhaftig, ich glaube,“<lb/>ſagte ſie, „der Herr Pſychograph heißt ſelbſt Wilhelm,<lb/>daß er ſo für den Namen eine Lanze bricht. Wilhelm<lb/>der Allwiſſende,“ fügte ſie mit einer tiefen, komiſchen<lb/>Verbeugung hinzu, „vorläufig bitte ich um Verzeihung,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0022" n="14" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=22"/>
+            </p>
+            <p> <lb/>wenn ich mich weder vor dem rächenden Wilhelm, noch<lb/>dem ſiegenden Wilhelm, noch alle den andern Wilhelms<lb/>die ſeinen Hofſtaat bilden fürchte, wenn ich nur einen<lb/>Theil der Prophezeihung wahr mache, indem ich über<lb/>das lache was ich allerdings nicht verſtehe. Aber ſo-<lb/>viel iſt gewiß,“ ſetzte ſie plötzlich ernſt werdend hinzu;<lb/>„ein Wilhelm hat weder mein Herz, noch wird er es je<lb/>erringen. Ich ſpreche nicht aus Leichtſinn oder Scherz<lb/>ſo, ſondern weil ich es weiß; und kurz und gut: ich werde<lb/>lieber ſterben als einen Wilhelm heirathen!“ —<lb/>
+            </p>
+            <p> <lb/>„Ich glaube, Du haſt etwas recht Unvernünftiges<lb/>geſagt,“ wandte die kleine Emma ſchüchtern ein, Clara<lb/>ſah erſtaunt die Freundin an und Marie hatte halb und<lb/>halb Luſt es im Namen ihres Vetters übel zu nehmen.<lb/>„Genug,“ ſagte ſie dann, „wir haben nun Alle unſer<lb/>Theil, ich behalte meinen Freund, Clara hat eine An-<lb/>weiſung auf das Jenſeits, Auguſtens Sammlung iſt<lb/>überkomplet, nur Emma bleibt noch über ihren Retter<lb/>im Unklaren.“ Aber als ſollten ihre Worte zu ſchan-<lb/>den gemacht werden, ſo tönten jetzt plötzlich drei ſtarke<lb/>Schläge an die Hausthür und kaum hatte die Bläſſe<lb/>des Schrecks auf den Geſichtern der jungen Mädchen<lb/>einer flüchtigen Röthe Platz gemacht und Marie Zeit ge-<lb/>habt den verrätheriſchen Pſychographen bei Seite zu<lb/>räumen, als eilige Schritte die Treppe herauf tönten,<lb/>die Thür haſtig aufgeriſſen wurde und ein junger Mann<lb/>eintrat, bei deſſen Anblick Mariens Lippen ein leichter<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0023" n="15" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=23"/>
+            </p>
+            <p> <lb/>Schrei entfuhr, während er ſelbſt ſtehen blieb, erſtaunt<lb/>über die ſichtliche Beſtürzung die ſein Erſcheinen erregte.<lb/>Marie faßte ſich zuerſt, „mein Gott,“ ſagte ſie, „wie Du<lb/>mich erſchreckt haſt, aber wo kommſt Du ſo plötzlich her?<lb/>was willſt Du hier? wo willſt Du hin?“ „Da hätten<lb/>wir drei Fragen auf einmal,“ ſagte lachend der junge<lb/>Mann, „die rechte, ächte Damenart! nun gut, ich komme<lb/>von Kyritz“ — „Von Kyritz?“ riefen die jungen Mäd-<lb/>chen Alle auf einmal. „Nun ja, was iſt dabei weiter?“<lb/>fuhr der junge Mann erſtaunt fort, „iſt es denn deſpek-<lb/>tirlich von Kyritz zu kommen? ich habe einen Freund<lb/>dort beſucht. Was ich hier will? nun Couſinchen, dazu<lb/>ſollſt Du mir bei der Mama verhelfen. Und wohin ich<lb/>will? um keiner Frage eine Antwort ſchuldig zu bleiben,<lb/>ich will reiſen, will die Welt ſehen, will für’s Erſte nach<lb/>Italien, dahin, dahin,“ recitirte er dann mit komiſchem<lb/>Pathos, „laß mich mit Dir, nein, nicht mit Dir“, unter-<lb/>brach er ſich ſelbſt, „vorläufig will ich allein dorthin<lb/>ziehn.“ Und während er ſo ſchwatzte, hatten die Mäd-<lb/>chen leidlich ihre Faſſung wiedergewonnen, Marie ſtellte<lb/>ihn ihrer Freundin Clara, der einzigen, die ihn noch<lb/>nicht kannte, als ihren Vetter, den Grafen N. vor, man<lb/>nahm Platz um den Theetiſch wobei ſich die kleine Emma<lb/>den möglichſt entfernten Platz von ihrem zukünftigen<lb/>Retter ausſuchte und verſuchte eine Converſation, die<lb/>aber trotz des Grafen Lebhaftigkeit öfter in’s Stocken ge-<lb/>rieth. Marie war verſtimmt, Clara träumeriſch, Emma<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0024" n="16" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=24"/>
+            </p>
+            <p> <lb/>ſah mit Scheu den Grafen an und ſprach nur wenn ſie<lb/>gefragt wurde; und Auguſte, die immer den Grafen mit<lb/>jener Art Freundlichkeit behandelte die nicht einen Grad<lb/>über Gleichgültigkeit hinausgeht, war heute, Dank dem<lb/>Pſychographen, faſt abweiſend. Marie dachte im Stil-<lb/>len mit Bedauern daran, wie ſchade es ſei, daß Wil-<lb/>helm’s Brief der ſeine Ankunft melden ſollte nicht an-<lb/>gekommen ſei und ſie ſo den Abend ſich und ihm ver-<lb/>dorben habe: war ſie froh, das die Freundinnen end-<lb/>lich aufbrachen.<lb/>
+            </p>
+            <p> <lb/>„Nun ſage mir um Gotteswillen, was iſt los?“<lb/>ſagte der junge Mann, der die Damen hinunter begleitet<lb/>und jetzt wieder in’s Zimmer trat. „Als ich ankomme,<lb/>höre ich ſchon von unten das lebhafteſte Geplauder,<lb/>fröhliches Lachen. Ich denke, Du haſt Alles was ſchön<lb/>und liebenswürdig zu meinem Empfang beſtellt, ich<lb/>ſtürze die Treppe hinauf, ich trete ein und da iſt es<lb/>als ob der Habicht in den Taubenſchlag einbricht.<lb/>Du blaß vor Schreck, die kleine Emma (die ſich übrigens<lb/>allerliebſt entfaltet hat) zittert, ſobald ich ſie anſehe und<lb/>kann ſich kaum überwinden zu antworten, Fräulein<lb/>von R. oder Clara wie Du ſie nennſt erröthet ein<lb/>über’s andre Mal, und meine alte Bekannte Fräulein<lb/>Auguſte mit der ich doch ſonſt auf leidlichem Fuße ge-<lb/>ſtanden und die, wie ich glaube, den Teufel nicht fürch-<lb/>tet, iſt heute ſo auf der Defenſive, daß ich deutlich ſah,<lb/>ſie hatte Angſt vor mir! Nun ſage, was iſt geſchehen?<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0025" n="17" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=25"/>
+            </p>
+            <p> <lb/>hat die Mama über mich geklagt? haſt Du mich ver-<lb/>leumdet Couſinechen?“<lb/>
+            </p>
+            <p> <lb/>„Ach Wilhelm,“ entgegnete Marie und ſah ihn ſo<lb/>vorwurfsvoll an, daß er laut auflachte und doch gerührt<lb/>von ihrer treuherzigen Miene ihr die Hand küßte. Aber<lb/>er nahm ſie ordentlich in’s Gebet. Marie war ein lie-<lb/>bes gutes Mädchen und wußte die Dinge in der Nähe<lb/>ziemlich gut zu unterſcheiden, aber einen hellen Blick für<lb/>fernliegende Sachen hatte ſie nicht; zudem war der Vetter,<lb/>der ſie ausforſchte und ihre ausweichenden Antworten<lb/>zu weiteren Fragen benutzte, der aus einem Strohhalm<lb/>den ſie ihm reichte ſo viel machte daß ſie ſelbſt erſtaunt<lb/>darüber war, genug der Vetter war ihr Freund, ihr<lb/>Ideal, den ſie mit aller Schwärmerei einer zum erſten<lb/>Mal erwachten Empfindung liebte, — iſt es da zum Ver-<lb/>wundern, daß er in einer halben Stunde Alles wußte<lb/>und ſie nur, was die ſelbſterhaltene Prophezeiung be-<lb/>traf, ſich beſchränkte, ihm das ſonderbare Zuſammentreffen<lb/>vom Ausgang und Ziel ſeiner Reiſe zu erzählen und daß<lb/>er in jedem Verhältniß ihr Freund bleiben würde. Wil-<lb/>helm amüſirte ſich köſtlich über ihre Geſtändniſſe. Er<lb/>meinte, er würde ſchon die Gelegenheit finden, ſich an Au-<lb/>guſten dafür zu rächen, daß ſie ihn und alle Träger ſeines<lb/>Namens für ungefährlich erkläre, daß ſie den Namen<lb/>Wilhelm ſogar neben Chriſtoph und Gottlieb ſetze, ob-<lb/>gleich es doch ein königlicher Name ſei was man von<lb/>den beiden andern nicht ſagen könne; er verſicherte, Emma<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0026" n="18" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=26"/>
+            </p>
+            <p> <lb/>während der acht Tage ſeines hieſigen Aufenthaltes mög-<lb/>lichſt wenig verlaſſen zu wollen, und hoffe, ihre ſittliche<lb/>Angſt und Verſtörtheit werde vielleicht irgend eine Ge-<lb/>fahr hervorrufen, aus der er ſie retten könne; er fand<lb/>Clara ſo ſentimental und ſchwärmeriſch ausſehend, daß<lb/>es ihm lieb ſei, wenn der Himmel ſie ihm erſt im Jen-<lb/>ſeits beſtimmt, da ſie auf Erden doch ſchwerlich für ihn<lb/>paſſen würde; verſicherte Marien der Ewigkeit ſeiner<lb/>Freundſchaft und gab ſchließlich ihr auf ihr dringendes<lb/>und ängſtliches Bitten ſein Wort, den kleinen an den<lb/>Freundinnen zu Gunſten des Vetters verübten Verrath<lb/>auf’s Tiefſte zu verſchweigen.<lb/>
+            </p>
+            <p> <lb/>Während ihnen ſo die Stunde bis zur Heimkehr<lb/>der alten Gräfin ſchnell genug verging, hatten die jun-<lb/>gen Mädchen ihren Heimweg angetreten. Mit ihren<lb/>eignen Gedanken beſchäftigt, war diesmal kein Geſpräch,<lb/>weder ein flüſterndes noch ein lautes aufgekommen, nur<lb/>als ſie ſich von Auguſten trennten, ſagte Emma leiſe zu<lb/>dieſer: „Der gräßliche Menſch iſt alſo wirklich uns Allen<lb/>prophezeit und es iſt gewiß wahr, was der Pſychograph<lb/>geſagt hat.“ Auguſte lachte: „es wird ſo wenig wahr,<lb/>wie ich je einen Wilhelm lieben werde.“ Und damit<lb/>umarmte ſie herzlich die Freundinnen und nachdem ſie<lb/>noch ein Stündchen mit der Mama geplaudert, ging ſie<lb/>in ihr Zimmer, wo der Mond, durch die Vorhänge des<lb/>Fenſters hindurch ſie noch lange ſitzen ſehen konnte, den<lb/>Kopf in die Hand geſtützt, und wenn auch ernſten, ſo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0027" n="19" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=27"/>
+            </p>
+            <p> <lb/>doch gewiß glücklichen Gedanken hingegeben: denn das<lb/>Auge blieb klar und der Mund trug nur den Zug<lb/>lächelnden Nachdenkens. Sollen wir dem Leſer verra-<lb/>then, warum ſie ſo die Prophezeiung des Pſychographen<lb/>verachtete, warum ſie ſo ſicher war nie einem Wilhelm<lb/>einen ſiegenden Einfluß auf ihr Herz zu gestatten? denn<lb/>da ſie uns ſelbſt geſagt, daß ſie vernünftig ſei, kann<lb/>man ihr unmöglich zutrauen, daß nur Laune und Vor-<lb/>urtheil ihr Benehmen beſtimmt haben könnten. Nun<lb/>gut: ſie meinte ihr Schickſal <hi rendition="#g">ſei</hi> ſchon beſtimmt, in ihrem<lb/>Herzen herrſchte ein Namen, der <hi rendition="#g">nicht</hi> Wilhelm hieß und,<lb/>von der Wahrheit und Treue ihrer Empfindung über-<lb/>zeugt, wollte ſie ſelbſt im Scherz keinen Zweifel aufkom-<lb/>men laſſen. Doch hören wir ihre kleine Herzensgeſchichte.<lb/>In dem kleinen Städchen S. geboren, hatte ſie ihre<lb/>Kindheit dort zugebracht, war dann nach des Vaters<lb/>Tode in der Penſion erzogen worden und hatte ſomit<lb/>von der Welt nichts weiter geſehen, als ſie ihre Mutter<lb/>im vergangenen Sommer in’s Bad nach E. begleitete.<lb/>Das junge wie eine Roſe blühende Mädchen, deſſen<lb/>natürliche Heiterkeit und ſchalkhafte Laune durch mäd-<lb/>chenhafte Zurückhaltung in ſo hübſchen Grenzen gehalten<lb/>wurde, gefiel allgemein. Das unbeſchreibliche Intereſſe<lb/>und natürliche Erſtaunen, mit dem ſie alles Neue um<lb/>ſich her auffaßte, der geſunde Verſtand in ihren Anſchau-<lb/>ungen, die Lebhaftigkeit ihres Geiſtes, deſſen jugendliche<lb/>Wärme doch nie in jugendliche Schwärmerei ausartete,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0028" n="20" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=28"/>
+            </p>
+            <p> <lb/>erhöhte ihre Liebenswürdigkeit und eine natürliche An-<lb/>lage zum Witz, der aber noch harmloſer Humor war und<lb/>ſpielte ohne zu verwunden, ließ ſie unendlich pikant er-<lb/>ſcheinen. So war ſie bald die gefeiertſte, geſuchteſte<lb/>Dame der Saiſon und die Mutter, ſchwach wie viele<lb/>Mütter es in dieſem Punkte ſind, berauſcht von den<lb/>Huldigungen die das junge Mädchen empfing, ja be-<lb/>rauſchter als Auguſte ſelbſt, that nichts, dem gefährlichen<lb/>Vergnügen zu ſteuern das natürlich ein junges Herz<lb/>empfindet wenn es ſich von Huldigungen und Aufmerk-<lb/>ſamkeiten umgeben ſieht. Aber Auguſte hatte einen ge-<lb/>ſunden Sinn und ein unverdorbenes Herz und die Ge-<lb/>fahr, mit der die Eitelkeit drohte, war vernichtet als<lb/>dieſes Herz plötzlich in ſeinen wahrſten und tiefſten Em-<lb/>pfindungen berührt wurde. Unter den vielen anweſen-<lb/>den Fremden hatte ſich Auguſte beſonders an Frau von<lb/>L., eine erſt ſeit Kurzem verheirathete Frau, angeſchloſſen<lb/>und ihr freundſchaftliches Verhältniß wurde zum innig-<lb/>ſten Herzensbündniß, als der Bruder der Frau von L.,<lb/>Graf Armand P. ankam und nach dem Verkehr weniger<lb/>Wochen <hi rendition="#g">er</hi> ſowohl, als Auguſte eine tiefe mächtige<lb/>Leidenſchaft für einander empfanden, die ein Jeder für<lb/>ewig hält, wie es manchmal wirklich iſt, die aber eben-<lb/>ſo oft, indem ſie aus dem Nichts entſteht, auch wieder in<lb/>ihr Nichts zurückſinkt. Armand war aber ein fertiger<lb/>Charakter, ein gereifter Menſch, und was er empfand,<lb/>grub ſich in Erz. Er war ernſt und zurückhaltend, ſtreng<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0029" n="21" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=29"/>
+            </p>
+            <p> <lb/>in ſeinen Anforderungen an ſich und Andere, aber er<lb/>verſtand es die Blüthen des Geiſtes und Herzens her-<lb/>vorzurufen wo es ihm der Mühe werth erſchien, und<lb/>Auguſtens friſcher kräftiger Geiſt gab ihm dazu den<lb/>ſchönſten und reichſten Spielraum. Durch ihn wurde ſie<lb/>ſich erſt des Lebens und ihrer ſelbſt bewußt und ſo kam<lb/>es ſpielend und unwillkürlich vom Wohlgefallen zur Be-<lb/>wunderung, von der Bewunderung zur Liebe.<lb/>
+            </p>
+            <p> <lb/>Der guten Mutter, die ihre Pläne mit Auguſten<lb/>hatte, der ein Schwarm von Verehrern nicht ſtörend ge-<lb/>weſen, der es aber ein ſpecieller wurde, dachte eben da-<lb/>ran abzureiſen und ſo die Gefahr zu vernichten, als das<lb/>was ſie fürchtete ſchon geſchehen war. Armand hatte<lb/>geſprochen und Auguſte geantwortet und als ſie Beide<lb/>zur Mutter kamen, Auguſte mit ſtrömenden Augen und<lb/>überwallendem Herzen, Armand mit jener tiefen Rüh-<lb/>rung in Wort und Blick der auch das kräftigſte Ge-<lb/>müth in ſolchem Lebensmoment hingegeben iſt, da ſah<lb/>ſie mit Schreck, daß ihre Vorſicht zu ſpät kam. Und<lb/>doch verſuchte ſie es mit einem <hi rendition="#g">Nein</hi>.<lb/>
+            </p>
+            <p> <lb/>Aber da ſie gegen Armand nichts einwenden konnte<lb/>als ihren Lieblingswunſch den ſie nicht ſagen wollte, da<lb/>ſie keinen Vorwand hatte als Auguſtens Jugend, ſo<lb/>kam denn doch ein Vergleich zu Stande. Frau von J.<lb/>ſtellte ein Jahr zur Prüfung als Bedingung. Die bei-<lb/>den jungen Leute ſollten ſich weder ſehen noch ſchrei-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0030" n="22" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=30"/>
+            </p>
+            <p> <lb/>ben, ſollten ſich als vollſtändig frei betrachten, Auguſte<lb/>ſollte nicht einmal ihren Freundinnen ein Wort davon<lb/>erzählen, denn die Mutter fürchtete den Einfluß der<lb/>Freundinnen, der denn doch bei Weitem ungefährlicher<lb/>iſt als eine im Stillen gehegte Leidenſchaft. Sie blieb<lb/>feſt bei ihrem Entſchluß, erſt den in einem Jahr erneuten<lb/>Antrag bewilligen zu wollen, und ſo reiſte Armand ab<lb/>und Auguſte hatte ihn ſeitdem nicht wiedergeſehen.<lb/>Erſt war ſie unſäglich traurig, ſie dachte an nichts als<lb/>an ihn und da ſie an ihn nicht ſchreiben durfte, ſchrieb<lb/>ſie bogenlange Aufſätze in ihr Tagebuch und ging wie<lb/>eine Träumende umher.<lb/>
+            </p>
+            <p> <lb/>„Du biſt recht eigennützig, Auguſte, ſagte die Mut-<lb/>ter einſt. „In dem Wunſche mich zu verlaſſen, vergißt<lb/>Du mich ſchon während Du bei mir biſt, und ich habe<lb/>doch mein Lebelang an nichts Anderes gedacht als an<lb/>Dich.“<lb/>
+            </p>
+            <p> <lb/>Ein vernünftigeres Wort hätte die Mutter nicht<lb/>ſagen können! es appellirte an Auguſtens Herz und Geiſt<lb/>und erſteres war warm und gut und letzterer hell. Sie<lb/>ſah ihre Undankbarkeit, ihre Thorheit ein. Sie gelobte<lb/>ſich vernünftig zu ſein, ſie ſtellte ſich vor wie kurz ein<lb/>Jahr des Ausharrens gegen ein Leben voll Glück und<lb/>Liebe, ſie dachte daran wie viele Andere ſich mit einer<lb/>Hoffnung begnügen mußten wo ſie eine Sicherheit habe,<lb/>ſie rief ſich die Liebe und Sorge, die Aufopferung der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0031" n="23" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=31"/>
+            </p>
+            <p> <lb/>Mutter zurück und ſchämte ſich Alles vergeſſen zu haben<lb/>vor dem neuen Gefühl.<lb/>
+            </p>
+            <p> <lb/>So verbrannte ſie ihr Tagebuch, ſo gab ſie die vie-<lb/>len Stunden einſamen Nachdenkens auf, ſo widmete ſie<lb/>ihre Zeit wieder der Mutter und, obgleich es ihr ſelbſt<lb/>kein Vergnügen machte mit der Welt und in ihren Zer-<lb/>ſtreuungen zu leben, folgte ſie doch in Allem den Wün-<lb/>ſchen der Mutter. Während dabei in ihrem Herzen<lb/>die Liebe immer neue Blüthen trieb und an der eignen<lb/>Treue das Vertrauen zum Geliebten ſich befeſtigte,<lb/>ſchmeichelte ſich die Mutter mit der Hoffnung, ſie könne<lb/>vergeſſen und ihr Lieblingsplan dennoch ausgeführt wer-<lb/>den. Eine aus ihrer Jugendzeit ſich herſchreibende<lb/>Freundſchaft verband ſie auf’s Innigſte mit der Gräfin<lb/>N., Wilhelms Mutter und die Idee, dieſe Freundſchaft<lb/>einſt durch die Vereinigung beider Kinder noch zu be-<lb/>feſtigen war ein Lieblingsplan Beider ſeit langer Zeit.<lb/>Die betreffenden Perſonen hatten bis jetzt nichts davon<lb/>erfahren, es war nur zwiſchen beiden Frauen ein freund-<lb/>ſchaftlicher Verkehr aufrecht erhalten worden, und Gräfin<lb/>N. ſchlug zu dieſem Zwecke öfter ihren Winteraufenthalt<lb/>in S. auf. Frau von J. brachte meiſt den Sommer<lb/>auf dem Gute der Gräfin zu. So kannten ſich Wil-<lb/>helm und Auguſte von Kindheit an, verkehrten als Kin-<lb/>der wie Geſchwiſter mit einander, nannten ſich als ſie<lb/>erwachſen waren: Sie und Fräulein Auguſte und Graf<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0032" n="24" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=32"/>
+            </p>
+            <p> <lb/>Wilhelm und hatten bisher noch nie daran gedacht ſich<lb/>zu lieben.<lb/>
+            </p>
+            <p> <lb/>Aber Auguſtens gleichgültiges Wohlwollen für Wil-<lb/>helm nahm faſt einen Schein von Abneigung an, als<lb/>die Mutter, erſchreckt von ihrer Liebe und in der Furcht,<lb/>ihr romantiſcher Wunſch könne ſcheitern, wie ja meiſt<lb/>die Romantik vor der Wirklichkeit ſchwinden muß, ſich<lb/>unkluger Weiſe verrieth und, ohne daß ſie es klar aus-<lb/>geſprochen hätte, Auguſte doch nicht im Zweifel über die<lb/>Abſicht der Mutter bleiben konnte. Von daher datirte<lb/>ſich ihre Abneigung gegen den Namen Wilhelm, den ſie<lb/>früher blos unbedeutend gefunden. Jetzt bedeutete er<lb/>Störung ihres Glückes, und daher ihre Heftigkeit, ihre<lb/>Indignation, als der Pſychograph ihr auf den Kopf zu-<lb/>geſagt, ein Wilhelm ſei es der ihr Herz erringen und<lb/>beſiegen ſolle.<lb/>
+            </p>
+            <p> <lb/>Soweit Auguſte. Was die kleine Emma betrifft,<lb/>ſo war ihr Entſchluß gefaßt. Sie wollte, wie ſehr es<lb/>ihrer geſelligen Natur zuwider war, ſo lange Wilhelm<lb/>in S. war, in der tiefſten Zurückgezogenheit leben. Wo<lb/>
+               <hi rendition="#g">er</hi> war, da lauerte zwar keine Gefahr für ihr Herz: denn<lb/>theils dachte ſie an ſolche noch nicht, theils betrachtete<lb/>ſie Wilhelm als Mariens Eigenthum, da natürlich<lb/>Mariens drei intimſte Freundinnen in ihrem Vertrauen<lb/>waren. Aber ſie fürchtete eine Gefahr für ihr Leben<lb/>und ihr Leben ging ihr über Alles. Sie war funfzehn<lb/>Jahre alt, das angebetete Kind ihrer Eltern, hatte viele<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0033" n="25" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=33"/>
+            </p>
+            <p> <lb/>Freundinnen und darunter Clara, welche die intimſte<lb/>war, mit der ſie in der Penſion Freud’ und Leid, das<lb/>magere Butterbrod und die Sonntags-Chokolade getheilt,<lb/>die zwar nicht in S. lebte aber doch ſchon ſeit acht<lb/>Wochen bei ihr zum Beſuch war und alle Zukunfts-<lb/>träume mit ihr beſprochen hatte. Und in dieſer Zukunft<lb/>ſpielten für’s Erſte Bälle und Landparthien eine Haupt-<lb/>rolle, die wechſelnd und reizend ſich in ein ungewiſſes<lb/>Lichtmeer verloren, aus welchem Lichtmeere ſich dann<lb/>wohl einſt ihr Loos geſtalten würde. Und dem ſollte<lb/>ſie entriſſen werden! denn war ihr auch Rettung ver-<lb/>heißen, wer ſtand ihr dafür, daß ſie nicht vielleicht lahm<lb/>würde oder blind oder taub oder häßlich?! genug, ſolange<lb/>der abſcheuliche Graf N. in S. war, beſchloß ſie Alles<lb/>zu opfern, Spaziergänge, freundſchaftliche Beſuche, ſelbſt<lb/>den letzten Ball auf den ſie ſich ſo gefreut und nach<lb/>welchem Clara abreiſen ſollte. So war Graf N.’s Ab-<lb/>ſicht, ſich ſtets in der Nähe des kleinen Fräuleins aufzu-<lb/>halten, vergeblich gefaßt. Ihr runder Strohhut mit den<lb/>wehenden blauen Bändern blieb unſichtbar in der Ka-<lb/>ſtanienallee; als er Viſite bei ihren Eltern machte, kam<lb/>ſie nicht zum Vorſchein; Mariens Einladungen wurden<lb/>ſtandhaft ausgeſchlagen und die ſonſt ſo wahrheitslie-<lb/>bende Emma ſcheute ſich ſelbſt nicht, aus Liebe zum Leben<lb/>eine kleine Krankheit zu affektiren, die Augen ſehr matt<lb/>niederzuſchlagen, als quäle ſie Kopfſchmerz, und ſo die<lb/>Angſt ihrer Eltern zu erregen bei denen Emma’s Ab-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0034" n="26" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=34"/>
+            </p>
+            <p> <lb/>ſcheu vor jedem Ausgehen ein ſo ſchlagendes Symptom<lb/>von Krankheit war, daß ſelbſt die blühenden Wangen<lb/>und des Arztes Verſicherung, der Puls ſei durchaus nicht<lb/>fieberhaft, ſie kaum beruhigen konnten.<lb/>
+            </p>
+            <p> <lb/>Emma hatte keinem Menſchen etwas von ihrem<lb/>Vorhaben ſagen wollen außer Clara, aber Marie ent-<lb/>lockte es ihr dennoch und dieſer fragte es der Vetter ab<lb/>und, da er’s nicht über ſich gewinnen konnte das junge<lb/>Mädchen um den Ball zu bringen, veranlaßte er die<lb/>die Couſine, zu ihr zu gehen und ihr zu erzählen, daß<lb/>er den Tag vor dem Ball abreiſen müſſe. Umſonſt bat<lb/>Marie ihn, zu bleiben; er ſagte, ſie ſolle ihn nur machen<lb/>laſſen und Emma die Botſchaft bringen. Von da an<lb/>beſſerte ſich Emma’s Krankheitszuſtand ebenſo plötzlich<lb/>als er eingetreten war, aber ſie hatte jetzt Mühe den<lb/>Eltern die Erlaubniß zu dem Beſuche des Balles abzu-<lb/>ringen. Die beſorgte Mama fand es ſehr unvernünftig;<lb/>aber Emma wollte ſo gern, ſo ſehr gern unvernünftig<lb/>ſein und es iſt ja ſchon manchem eben ſo ſchlagenden<lb/>Grunde nachgegeben worden. Da trat ſie ſtrahlend vor<lb/>Geſundheit und Vergnügen in den Saal, das weiße<lb/>Kleid und die Roſe im Haar ſtanden ihr allerliebſt, die<lb/>jungen Augen leuchteten ſo hell, es konnte ihr nicht feh-<lb/>len und ſie nickte rechts und links den verlangenden<lb/>Tänzern Gewährung zu. Da ſollte der erſte Walzer<lb/>beginnen. Auguſte, Clara, Marie, die andern jungen<lb/>Damen, Alles wurde in den Kreis geführt, unſre kleine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0035" n="27" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=35"/>
+            </p>
+            <p> <lb/>Emma blieb ſtehen und ein betroffen eiliger Blick auf das<lb/>Tanzbuch in ihren Händen belehrte ſie, daß gerade dieſer<lb/>wichtigſte Tanz unbeſetzt ſei. Und ſie hatte ſo viele Tän-<lb/>zer zurückgewieſen und nun war keiner mehr da. Einen<lb/>Augenblick ſchoß ihr das Blut in’s Geſicht, aber ſie be-<lb/>ſann ſich ſchnell, machte eine leidlich fröhliche Miene und<lb/>ſagte nur ganz leiſe für ſich:<lb/>
+            </p>
+            <p> <lb/>„Ach, wer rettet mich aus dieſer Noth? lieber ſter-<lb/>ben, als den erſten Walzer nicht tanzen!“<lb/>
+            </p>
+            <p> <lb/>„Darf ich um die Ehre bitten, gnädiges Fräulein?“<lb/>fragte da eine bekannte Stimme neben ihr und als ſie<lb/>die Augen erhob, ſtand Graf N. vor ihr. Einen Augen-<lb/>blick durchzuckte es ſie wie ein Schreck und ſie machte<lb/>eine abweiſende Bewegung, aber dann flog plötzlich ein<lb/>Lächeln über ihr Geſicht und während ſie ihm die Hand<lb/>reichte, dachte ſie: Gott ſei Dank, hat der Pſychograph<lb/>das gemeint! Ja, ja, er hat mich gerettet! Und ſie war<lb/>ſo glücklich in dem neugewonnenen Gefühl der Sicher-<lb/>heit, ſo vergnügt, daß der erſte Tanz ihr keine Pauſe<lb/>geworden, ſo geneigt über ihre Furcht zu lachen, daß ſie<lb/>ſich nun ganz ihrer kindlichen Heiterkeit hingab und<lb/>Graf N. bezaubert von der kleinen Tänzerin ſich noch,<lb/>lange nachdem der Tanz geendet, der Unterhaltung mit<lb/>ihr hingab. Aber an Graf N. machte der Abend viele<lb/>Anforderungen. In einer kleinen Stadt gilt jede neue<lb/>Erſcheinung; er wußte das längſt durch Marie, die ihm<lb/>immer wieder erzählte, wenn Dieſe oder Jene eine vor-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0036" n="28" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=36"/>
+            </p>
+            <p> <lb/>theilhafte Aeußerung über ihn gemacht; und jung und<lb/>ein wenig eitel, wie er war, machte ihm das Vergnügen<lb/>und er wollte nach keiner Seite hin die erlangten Vor-<lb/>theile aufgeben. So hatte er für jede der jungen Damen<lb/>einen Tanz oder eine Extratour, für jede der älteren ein<lb/>verbindliches Wort und war <hi rendition="#g">ſo</hi> allgemein beliebt! denn<lb/>er war bei alledem kein Fat, ſeine Freundlichkeit wenn<lb/>auch unterſtützt durch Eitelkeit kam doch aus gutem<lb/>Herzen, er war oberflächlich nur mit den Oberflächlichen<lb/>und wer es verſtand der entlockte ihm wohl Ideen die<lb/>einen gebildeten und verſtändigen Geiſt verriethen. Marie<lb/>war glücklich geweſen, als ſie den Vetter eintreten ſah.<lb/>
+            </p>
+            <p> <lb/>Die gute Seele hatte wirklich an ſeine Abreiſe ge-<lb/>glaubt und der freundlichſte Blick dankte ihm für eine<lb/>Ueberraſchung, die eigentlich nicht ihr zugedacht war.<lb/>Der Ball verlief wie die meiſten Feſte dieſer Art, auf<lb/>denen Tanzluſt und Frohſinn das vorherrſchende Prinzip.<lb/>Die meiſten Damen waren jung und hübſch, dieſe tanz-<lb/>ten natürlich ununterbrochen, die Mütter beobachteten von<lb/>ihrer hohen Eſtrade herab und wußten genau wer am<lb/>meiſten mit den Töchtern getanzt und geſprochen, welche<lb/>Toiletten die ihrer Mädchen übertroffen und ſchließlich<lb/>endete Jede damit, an den eignen Kindern etwas heraus<lb/>zu finden wodurch ſie allen Uebrigen vorzuziehen ſeien.<lb/>
+            </p>
+            <p> <lb/>So war Vergnügen und Befriedigung allgemein<lb/>und in der kurzen Kritik, die Graf N. bei der Rückfahrt<lb/>gegen Marien ausſprach, da war Auguſte, obgleich ſie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0037" n="29" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=37"/>
+            </p>
+            <p> <lb/>etwas ſehr abgemeſſen gegen ihn geweſen, die geiſtreichſte,<lb/>Emma die liebenswürdigſte und Clara die ſchönſte Er-<lb/>ſcheinung geweſen, nur ſei Letztere eben <hi rendition="#g">nichts</hi> als ſchön,<lb/>denn es ſei ihm kaum geglückt ihr zwei Worte zu ent-<lb/>locken.<lb/>
+            </p>
+            <p> <lb/>So waren denn die Wintervergnügungen geſchloſ-<lb/>ſen und wahrlich ſpät genug, denn der Frühling ſtreute<lb/>ſchon Blüthen und durch die geöffneten Fenſter ſtrömte<lb/>ſeine milde Luft in den Saal.<lb/>
+            </p>
+            <p> <lb/>Wilhelm reiſte ab, nachdem er durch eigene drin-<lb/>gende Vorſtellungen und Mariens Vermittlung bei ſeiner<lb/>Mutter, die ihre Willenskraft gern dadurch zeigte, daß<lb/>ſie erſt viermal abſchlug, ehe ſie gewährte, ſeinen<lb/>Plan einer italieniſchen Reiſe durchſetzte. Nur gab<lb/>er inſofern nach, als er verſprach, die Reiſe erſt<lb/>im Herbſt anzutreten und wenigſtens den Juli mit<lb/>ſeiner Mutter auf dem Lande zuzubringen, wohin nach<lb/>Verabredung der Gräfin mit Frau von J. dieſe ihr mit<lb/>Auguſten folgen ſollte und wo ſie Beide hofften daß<lb/>endlich die Liebe der beiden jungen Leute zum Ausbruch<lb/>kommen und die gewünſchte Verbindung Thatſache wer-<lb/>werden ſollte. So waren denn Auguſte und Marie bald<lb/>wieder vereinigt, während Clara zu ihren Eltern zurück-<lb/>kehrte und Emma nur auf die weniger beliebten Freun-<lb/>dinnen beſchränkt in S. zurückblieb. So ging Mai<lb/>und Juni im Fluge vorüber für die beiden jungen Mäd-<lb/>chen und doch erwartete die Eine den Freund, die Andere<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0038" n="30" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=38"/>
+            </p>
+            <p> <lb/>den Geliebten. Auguſte hatte treulich Wort gehalten und<lb/>keine der Freundinnen ahnte ihre Herzensangelegenheit;<lb/>die Mutter ſprach abſichtlich nicht darüber und durch<lb/>Auguſtens gleichmäßige Heiterkeit, die nur aus einem<lb/>klaren Gemüth, aus einer Gewißheit ihres künftigen<lb/>Glückes entſprang, getäuſcht, glaubte ſie, dieſe habe ver-<lb/>geſſen und hoffte von Wilhelms Anweſenheit das Beſte.<lb/>Erſt ging es auch vortrefflich. Auguſte war zu hoff-<lb/>nungsvoll, zu glücklich, zu nah ihrem Ziele, um noch an<lb/>irgend etwas Störendes zu denken; ſie war freundlich<lb/>gegen Wilhelm, ging auf ſeine Scherze ein und wurde<lb/>ſich nicht eher der früheren Abneigung bewußt, als bis<lb/>ſie auf einmal die verſtändnißreichen Blicke der beiden<lb/>Mütter bemerkte, als Wilhelms freundliches Betragen<lb/>gegen ſie auf einmal einen ſo warmen Charakter an-<lb/>nahm daß ſie erſchrocken inne hielt und zu ihrer früheren<lb/>Abgemeſſenheit zurückkehrte.<lb/>
+            </p>
+            <p> <lb/>Wilhelm hatte ſich wirklich ein wenig in das ſchöne,<lb/>lebhafte Mädchen verliebt, aber nicht genug um nicht<lb/>den plötzlichen Wechſel ihres Benehmens als eine Be-<lb/>leidigung zu fühlen und verletzt durch das, was er Hoch-<lb/>muth und Geringſchätzung nannte, fiel ihm die faſt ver-<lb/>geſſene Geſchichte mit dem Pſychographen wieder ein,<lb/>und indem ſein aufflammendes Wohlgefallen an Au-<lb/>guſte durch die Erkenntniß ihrer abſtoßenden Eigenſchaf-<lb/>ten, wie er meinte, wieder zu ſeiner früheren gleichmäßi-<lb/>gen Empfindung zurückgekehrt war, erwachte die Luſt,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0039" n="31" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=39"/>
+            </p>
+            <p> <lb/>ſie für ihre herabſetzenden Aeußerungen über ſeinen<lb/>Namen ein wenig zu foppen und lächerlich zu machen.<lb/>
+            </p>
+            <p> <lb/>So kehrte er denn einſt von einem ſeiner häufigen<lb/>Ausflüge in die benachbarten Ortſchaften zurück, indem<lb/>er ſeiner Mutter für den nächſten Mittag den Beſuch<lb/>dreier ſeiner Freunde anſagte. Es kam ſo häufig Be-<lb/>ſuch, namentlich von jungen Leuten, daß auch dieſer<lb/>keinen beſonderen Effekt erregte und man kaum an ihn<lb/>dachte bis nächſten Tags der Wagen mit den Gäſten<lb/>vorfuhr.<lb/>
+            </p>
+            <p> <lb/>Marie und Auguſte waren im Garten. Sie fanden,<lb/>als ſie eintraten, die jungen Herren in voller Converſa-<lb/>tion mit den beiden alten Damen, die Wilhelm unter-<lb/>brach, um ſeine Freunde den beiden Mädchen vorzuſtellen.<lb/>
+            </p>
+            <p> <lb/>„Mein Freund, Baron Wilhelm G.,“ ſagte er, auf<lb/>den Einen deutend, dann auf den Andern: „mein<lb/>Freund, Wilhelm von S.,“ auf den Dritten: „mein<lb/>Freund, Graf Wilhelm X.“<lb/>
+            </p>
+            <p> <lb/>„Sie heißen wirklich Alle Wilhelm?“ fragte Marie<lb/>erſtaunt, während Auguſte mit einem Blick auf Wil-<lb/>helm den Streich errathen hatte und keine Miene verzog.<lb/>
+            </p>
+            <p> <lb/>„Mißfällt Ihnen der Name?“ fragte dagegen einer<lb/>der Herrn Marien.<lb/>
+            </p>
+            <p> <lb/>„Nein, mir durchaus nicht,“ ſagte dieſe etwas ver-<lb/>legen, „aber meine Freundin hier liebt ihn nicht.“<lb/>
+            </p>
+            <p> <lb/>„O, ſollten wir wirklich ſo unglücklich ſein, uns<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0040"/>[32[<lb/>
+            </p>
+            <p> <lb/>durch unſern Namen ihr Mißfallen zuzuziehn?“ wandte<lb/>ſich Graf X. nun an Auguſte.<lb/>
+            </p>
+            <p> <lb/>„O durchaus nicht,“ erwiederte dieſe und ſagte<lb/>dann es, leicht betonend und mit einem ruhigen Blick<lb/>Wilhelm ſtreifend: „des Namens wegen hat mir noch<lb/>nie Jemand mißfallen“ und wandte ſich dann an die<lb/>alte Gräfin, der ſie durchaus einige wichtige Mitthei-<lb/>lungen über verſchiedenartige eben aufgeblühte ſeltne<lb/>Gewächſe des Treibhauſes zu machen hatte. Aber ſie<lb/>konnte ſich nicht lange der Geſellſchaft der jungen Leute<lb/>entziehen, die ihr doch läſtig war, weil ſie glaubte der<lb/>Gegenſtand eines unpaſſenden Scherzes zu ſein. Man<lb/>ging zu Tiſch, ein Wilhelm führte Auguſte, ein Wil-<lb/>helm ſaß zu ihrer andern Seite, ein Wilhelm ihr gegen-<lb/>über, mit Wilhelm ward faſt jede Rede begonnen und<lb/>geſchloſſen, der mißtönende Name klang hier und da in<lb/>ihr Ohr und, vielleicht weil er wirklich in ihr Schickſal<lb/>hineingriff, konnte ſie ſich nicht entſchließen, gutlaunig<lb/>auf den Scherz einzugehen und war ernſt und ſtill, wäh-<lb/>rend der eigentliche Wilhelm triumphirte und Marie an<lb/>die Verheißung des Pſychographen dachte, und wie wie-<lb/>der eine auf dem Wege ſei in Erfüllung zu gehen. Aber<lb/>wie war ſie erſchrocken, als nach Tiſch Auguſte ſie in die<lb/>Ecke zog und ihr auf den Kopf zu ſagte, ſie habe dem<lb/>Vetter die Worte verrathen und auf dieſen Verrath hin<lb/>erlaube er ſich jetzt die Neckerei, die ſie verletze, weil er<lb/>ſie vor Fremden dadurch lächerlich mache.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0041" n="33" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=41"/>
+            </p>
+            <p> <lb/>Ach, die gute Marie war tief beſchämt, ebenſo be-<lb/>ſchämt über ihre entdeckte Plauderhaftigkeit, als erſtaunt,<lb/>daß die Herren nicht Wilhelm heißen ſollten.<lb/>
+            </p>
+            <p> <lb/>„Richtig,“ ſagte ſie dann, „in der Prophezeiung<lb/>heißt es ja: nicht Wilhelm iſt, was Wilhelm ſcheint!“<lb/>und Auguſte mußte trotz ihres Zorns laut auflachen,<lb/>als ſie die tief überlegende Miene ſah, mit der Marie<lb/>dieſe Worte rezitirte. Aber wer gelacht hat, hat den<lb/>Zorn bezwungen und Wilhelm würde vielleicht von dem<lb/>günſtigen Umſtand Nutzen gezogen haben, wenn nicht<lb/>in dem Augenblick ein Wagen vorgefahren wäre und<lb/>der Bediente den Grafen P. gemeldet hätte.<lb/>
+            </p>
+            <p> <lb/>„Soll mir angenehm ſein, aber ich kenne ihn nicht,“<lb/>ſagte die Gräfin.<lb/>
+            </p>
+            <p> <lb/>„Aber <hi rendition="#g">ich</hi> kenne ihn,“ rief Wilhelm, „ein früherer<lb/>Kamerad von mir, ein lieber prächtiger Menſch.“<lb/>
+            </p>
+            <p> <lb/>Und er eilte hinunter den Grafen zu empfangen.<lb/>
+            </p>
+            <p> <lb/>Auguſte war leichenblaß geworden als der Name<lb/>genannt wurde, und die Farbe war noch nicht völlig auf<lb/>ihre Wangen zurückgekehrt als Wilhelm und Graf P.<lb/>eintraten.<lb/>
+            </p>
+            <p> <lb/>Letzterer wendete ſich mit ſehr artigen Worten<lb/>an die Gräfin: in Rechnung auf die Freundſchaft und<lb/>Kameradſchaft mit ihrem Sohne erlaube er ſich als<lb/>Fremder ihre Gaſtfreundſchaft in Anſpruch zu nehmen,<lb/>da er gehört daß Frau von J., die er in S. aufgeſucht,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0042" n="34" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=42"/>
+            </p>
+            <p> <lb/>hier ſei und er ſo gehofft habe, das Vergnügen eine alte<lb/>Bekanntſchaft zu erneuen mit dem eine neue anzuknüpfen,<lb/>vereinigen zu können. Er hatte ein ſo nobles Anſehen,<lb/>er ſprach mit ſo feinem und ehrerbietigem Anſtand, daß<lb/>er der alten Dame außerordentlich gefiel und ſie ihn<lb/>bald in ein tiefes Geſpräch verwickelte, das Auguſten<lb/>Zeit gab ſich zu faſſen.<lb/>
+            </p>
+            <p> <lb/>Wilhelm, der gar nichts von ihrer außerordentlichen<lb/>Bewegung bemerkt, ſetzte ſich zu ihr und ſagte lächelnd:<lb/>
+            </p>
+            <p> <lb/>„Da hätten wir noch einen Wilhelm, mein Freund<lb/>P. heißt auch ſo.“<lb/>
+            </p>
+            <p> <lb/>„Haben Sie den Scherz noch nicht genug ausge-<lb/>beutet?“ fragte Auguſte ein wenig von oben herab.<lb/>„Ich kenne Graf P. und weiß ſehr gut, daß er nicht<lb/>Wilhelm heißt.“<lb/>
+            </p>
+            <p> <lb/>„Nicht?“ ſagte Wilhelm lachend, „liebſter Freund,“<lb/>rief er dann dieſem zu, „bitte, befreie mich in den Augen<lb/>dieſer ſtrengen Dame von dem Verdacht einer Lüge! Iſt<lb/>Dein Vorname nicht Wilhelm?<lb/>
+            </p>
+            <p> <lb/>„Ja,“ ſagte dieſer und ſah Auguſte fragend an.<lb/>
+            </p>
+            <p> <lb/>„Ich habe Sie immer nur Armand nennen hören,“<lb/>wandte dieſe erröthend ein.<lb/>
+            </p>
+            <p> <lb/>„Ganz recht,“ ſagte Graf P. „meine Schweſter<lb/>zog es vor, mich bei dieſem meinem andern Taufnamen<lb/>zu nennen, weil ihr Mann Wilhelm heißt und das eine<lb/>ewige Verwechslung gab.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0043" n="35" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=43"/>
+            </p>
+            <p> <lb/>„Was ſagen Sie nun?“ fragte Wilhelm trium-<lb/>phirend Auguſten.<lb/>
+            </p>
+            <p> <lb/>„Nichts, als daß es bei manchen Menſchen ganz<lb/>gleichgültig iſt, wie ſie heißen,“ erwiederte ſie leiſe und<lb/>ſtand auf um an das Fenſter zu gehen. Wilhelm folgte<lb/>ihr.<lb/>
+            </p>
+            <p> <lb/>„Sollte das vielleicht der rechte Wilhelm ſein un-<lb/>ter all den falſchen?“ fragte er neckend, aber es traf ihn<lb/>ein offner klarer und doch wieder ſo bittender und ſtra-<lb/>fender Blick, er ſah einen Schimmer in den ſchwarzen<lb/>Augen als würden Thränen nur mit Mühe zurückge-<lb/>halten, daß er die ſeinigen niederſchlug und ſie freund-<lb/>lich um Verzeihung bat, überhaupt in dieſer Weiſe mit<lb/>ihr geſcherzt zu haben.<lb/>
+            </p>
+            <p> <lb/>Die Geſellſchaft begab ſich nun in den Garten.<lb/>Graf P. näherte ſich den jungen Damen, und da fügte<lb/>es ſich denn daß im Fluge ein Wort getauſcht wurde<lb/>zwiſchen ihm und Auguſten, kraft welchen Worts er nun<lb/>gegen ihre Mutter ſein Recht in Anſpruch nahm und<lb/>auf Erfüllung des ihm gegebnen Verſprechens drang.<lb/>
+            </p>
+            <p> <lb/>Die Gräfin N. war im höchſten Grade erſtaunt,<lb/>erſt jetzt von dieſem Abkommen etwas zu hören; aber, ob-<lb/>gleich ein wenig pikirt, hatte ſie doch Takt genug ihre<lb/>Gefühle zurückzudrängen und ihren Sohn nicht in den<lb/>Verdacht eines verſchmähten Liebhabers zu bringen, der<lb/>er ja auch eigentlich in der That nie geweſen.<lb/>
+            </p>
+            <p> <lb/>Am Ende ließ ſich auch weder gegen die Perſon,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0044" n="36" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=44"/>
+            </p>
+            <p> <lb/>noch die Verhältniſſe des Grafen etwas einwenden und,<lb/>als gegen Abend die drei Pſeudo-Wilhelme die Geſell-<lb/>ſchaft verlaſſen und die Familie allein war, da ſprach<lb/>Frau v. J. offen die Verlobung der beiden jungen Leute<lb/>aus und das glückliche Paar empfing die Glückwünſche<lb/>ihrer Freunde.<lb/>
+            </p>
+            <p> <lb/>Nun war auch zwiſchen Wilhelm und Auguſten<lb/>jeder Groll, jede Unſicherheit geſchwunden und als er<lb/>bei Tiſch ſie fragte, ob ſein Name nun zu Ehren gekom-<lb/>men ſei, da ſagte ſie halb lachend, halb beſchämt, ſie be-<lb/>reue ihre kindiſche Unart von Herzen, erhob dann das<lb/>Glas gegen ihn und ſagte:<lb/>
+            </p>
+            <p> <lb/>„Es lebe der Pſychograph und ſeine Rache!“<lb/>
+            </p>
+            <p> <lb/>Wenige Tage blieb Frau von J. mit den Verlob-<lb/>ten noch bei der Freundin, dann kehrten ſie nach S. zu-<lb/>rück, um alle Vorbereitungen zu der künftigen Verbin-<lb/>dung zu treffen. So war der kleine Familienkreis gar<lb/>klein geworden und er verringerte ſich noch, als Wilhelm<lb/>im September wirklich ſeine italieniſche Reiſe antrat.<lb/>Die Gräfin N. hatte beſchloſſen diesmal den Winter auf<lb/>dem Gut zu bleiben und Marie, die ſich nicht viel aus<lb/>Vergnügungen machte, an denen der Vetter nicht Theil<lb/>nahm, freute ſich eigentlich des ſtillen, ruhigen Lebens<lb/>das nun begann und in welches die Briefe des Reiſen-<lb/>den, wenn auch nicht die einzige, ſo doch die liebſte Ab-<lb/>wechſelung brachten.<lb/>
+            </p>
+            <p> <lb/>Sie rechnete die Zeit nur nach ſeinen Briefen und,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0045" n="37" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=45"/>
+            </p>
+            <p> <lb/>der Einſamkeit hingegeben, war ihre Phantaſie geſchäf-<lb/>tig ſich das Leben mit Bildern Hoffnungen und Wün-<lb/>ſchen zu ſchmücken.<lb/>
+            </p>
+            <p> <lb/>Durch Auguſtens Heirath war ſie von einer neuen<lb/>Sorge in Beziehung auf den Vetter befreit und ſo träumte<lb/>ſie ſich den Zeitpunkt nicht mehr fern, wo er kommen<lb/>und ihr ſagen würde, daß er jetzt ſein Herz erkannt, daß<lb/>alle falſchen Götzenbilder daraus verbannt und ſie allein<lb/>darin herrſchte und ewig herrſchen ſolle.<lb/>
+            </p>
+            <p> <lb/>Und dann dachte ſie mit Stolz daran, wie ſie nie<lb/>an ihm irre geworden, immer an ihn geglaubt habe und<lb/>wie ſie treu an ihm gehangen von Kindheit an.<lb/>
+            </p>
+            <p> <lb/>Von ihren Freundinnen erfuhr ſie wenig.<lb/>
+            </p>
+            <p> <lb/>Auguſtens Hochzeit war im Februar geweſen, aber<lb/>ſie hatte ihr nicht beigewohnt da die Gräfin, ſeit län-<lb/>gerer Zeit leidend, in der kalten Jahreszeit nicht hatte<lb/>reiſen wollen.<lb/>
+            </p>
+            <p> <lb/>Clara hatte überhaupt nur Ein Mal geſchrieben.<lb/>Emma, von der mitunter lachende Berichte eingelau-<lb/>fen waren, die nicht vergeſſen wurde vom Leben und<lb/>aus blüthengeſchmückten Kelch der Jugend immer neue<lb/>Freude, neuen Frohſinn ſchlürfte, Emma ſchrieb ihr<lb/>bald einen Brief voll Trauer und Kummer, aus dem<lb/>ſie ſah, daß im Grunde dieſes kleinen lebensluſtigen<lb/>Herzens doch ſo viel warmes Mitgefühl für Andere,<lb/>ſo viel richtige Würdigung fremden Schmerzes lag, daß<lb/>man nicht zu fürchten brauchte, ihr leichter Sinn werde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0046" n="38" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=46"/>
+            </p>
+            <p> <lb/>je in Leichtſinn, ihre Luſt an Vergnügen in hohle Ver-<lb/>gnügungsſucht ausarten. Die kleine luſtige Emma<lb/>hatte alle lockenden Vergnügungen des Winters im Stich<lb/>gelaſſen und war zu Clara geeilt, der der Tod den<lb/>Vater geraubt und der ſie in dieſer Zeit des Kummers<lb/>Troſt, und Stütze geweſen, und war viele trübe Wochen<lb/>bei ihr geblieben.<lb/>
+            </p>
+            <p> <lb/>Jetzt war ſie zurückgekehrt da Clara mit ihrer ſehr<lb/>kränklichen ſehr hinfälligen Mutter eine Badereiſe an-<lb/>treten ſollte, und da erſt erfuhr Marie Clara’s Unglück,<lb/>bei dem ſie, da ihr das Ziel von Clara’s Reiſe unbe-<lb/>kannt blieb, nicht einmal in wenigen Worten ihre Theil-<lb/>nahme ausdrücken konnte.<lb/>
+            </p>
+            <p> <lb/>Denn bei allen vortrefflichen Eigenſchaften der<lb/>kleinen Emma theilte ſie doch die Eigenthümlichkeit der<lb/>meiſten ihrer Schweſtern, in allen ſchriftlichen Mitthei-<lb/>lungen immer etwas Weſentliches zu vergeſſen! daher<lb/>half eine nochmalige Frage Mariens nach Clara’s Auf-<lb/>enthaltsort dieſer eben auch nicht weiter.<lb/>
+            </p>
+            <p> <lb/>So gingen die Tage hin und wurden Wochen und<lb/>Monate; Frühjahr und Sommer waren wieder vergan-<lb/>gen; Wilhelms Rückkehr, erſt auf den Herbſt feſtgeſetzt,<lb/>wurde bis Weihnachten, dann bis zum Frühling und<lb/>endlich bis Mitte des Sommers aufgeſchoben. Aber<lb/>dann kam er und zwar ganz unerwartet eines Abends,<lb/>als die Gräfin und Marie im Garten ſaßen und ſehn-<lb/>ſüchtig daran dachten, <hi rendition="#g">wann</hi> er wohl kommen würde!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0047" n="39" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=47"/>
+            </p>
+            <p> <lb/>Mariens Freude, ihr Erbleichen, ihr Erröthen, ihre<lb/>geſtammelten Worte und zitternden Hände hätten ſie<lb/>wohl verrathen können; aber Wilhelm, ſelbſt durch das<lb/>Wiederſehen der Mutter und Jugendgeſpielin benommen,<lb/>ſah darin eben nicht mehr als den Ausdruck ſchweſter-<lb/>licher Geſinnung. Sie ſah ihn mit faſt noch ſtolzerem Ent-<lb/>zücken als die Mutter an die doch gewiß ein Auge hatte<lb/>für die kleinſte Veränderung ſeines Aeußern und ſich mit<lb/>inniger Freude ſagte, wie ſtattlich, wie ſchön und männ-<lb/>lich er geworden ſei.<lb/>
+            </p>
+            <p> <lb/>Die erſten Tage waren faſt nur dem Erzählen ge-<lb/>widmet; aber Marie, obgleich ſonſt nicht ſo hellſehend,<lb/>bemerkte doch eine Unruhe an dem Geliebten, eine Zer-<lb/>ſtreutheit, eine Scheu, ein faſt an Grübeln ſtreifendes<lb/>Nachſinnen; ſie ſah ſeine Blicke oft ſo forſchend, ſo fra-<lb/>gend auf ſich gerichtet, daß es ſie abwechſelnd mit Furcht<lb/>und mit Entzücken erfüllte. Und dann kam er eines Tages<lb/>und bat ſie um eine Unterredung und als ſie zitternd<lb/>und doch ſo glücklich ſeinen Eröffnungen lauſchte, — da be-<lb/>kannte er ihr ſeine glühende Liebe für eine <hi rendition="#g">Andere</hi> und<lb/>nahm ihre bewährte Freundſchaft in Anſpruch, die Ein-<lb/>willigung ſeiner Mutter zu erlangen.<lb/>
+            </p>
+            <p> <lb/>Nur dem Gedanken an die ferne Geliebte hingege-<lb/>ben, ſah er Mariens ſtarres Entſetzen nicht! und als er<lb/>ruhiger wurde und während er mit ihr ſprach, ſie auch<lb/>dazu anſah, hatte ſie mit der Kraft, die von Oben kommt,<lb/>ſich gefaßt und konnte ihn ruhig geſammelt anhören:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0048" n="40" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=48"/>
+            </p>
+            <p> <lb/>In Rom hatte er <hi rendition="#g">ſie</hi> kennen gelernt, ja kennen<lb/>gelernt! denn ihr früheres flüchtiges Erſehen ſei gänzlich<lb/>eindruckslos an ihm vorübergegangen.<lb/>
+            </p>
+            <p> <lb/>Sie habe Vater und Mutter in kurzer Zeit verloren<lb/>gehabt und, allein und mittellos daſtehend, habe ſie eine<lb/>Stelle als Geſellſchafterin in einer engliſchen Familie<lb/>angenommen. Der älteſten Tochter ſei ſie hauptſächlich<lb/>zuertheilt geweſen und in der anhänglichen Freundlich-<lb/>keit dieſer jungen Dame ſcheine ſie allein einigen Erſatz ge-<lb/>funden zu haben für die ſtolze Zurückhaltung die die übrige<lb/>Familie ihr gegenüber beobachtete. Er habe ſich ihr als<lb/>Landsmann genähert, ihre Schönheit die ſo rührend ſich<lb/>ausgenommen in der tiefen Trauer habe zuerſt Eindruck<lb/>auf ihn gemacht, die würdevolle Sanftmuth und ſchlichte<lb/>Einfachheit mit der ſie dem abſtoßenden Benehmen der<lb/>Familie gegenübergeſtanden habe ihn bezaubert, aber ge-<lb/>liebt habe er ſie damals noch nicht. Das ſei erſt ſpäter<lb/>gekommen. Da ſei die Krankheit, die ſchon ihre tödt-<lb/>lichen Roſen auf die Wangen der jungen Engländerin<lb/>gehaucht, zum Ausbruch gekommen; die Aerzte hätten ſie<lb/>in eine andere Gegend geſchickt; in einer Villa am …<lb/>hätte er ſie ſpäter zufällig wieder gefunden.<lb/>
+            </p>
+            <p> <lb/>Mylord habe viel Gefallen an ſeiner Geſellſchaft<lb/>gefunden, ſo ſei er bald Freund des Hauſes geworden<lb/>und nun ſei er Zeuge geweſen der rührendſten und auf-<lb/>opferndſten Pflege die je ein weibliches Weſen dem an-<lb/>dern zu Theil werden laſſen könnte. Tag und Nacht ſei<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0049" n="41" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=49"/>
+            </p>
+            <p> <lb/>ſie nicht von der Patientin gewichen, ſie habe ihr von<lb/>den Augen geleſen was ihr Freude gewähren, was ihr<lb/>Erleichterung ſchaffen könne und, ſelbſt zart von Geſund-<lb/>heit, habe doch die Energie des Geiſtes jede phyſiſche<lb/>Schwäche beſiegt und ſie habe ausgeharrt in Treue und<lb/>Liebe bis zum letzten Moment.<lb/>
+            </p>
+            <p> <lb/>„Es mußte ſie Jeder lieben, der ſie ſah,“ fuhr<lb/>Wilhelm in tiefer Rührung fort, „ſelbſt die kalten ſtei-<lb/>fen Engländer, die kein Herz für die Deutſche gehabt<lb/>und ſie betrachtet hatten wie Alles was man mit Geld<lb/>bezahlt, ſie mußten einſehen daß ihre armſeligen Paar<lb/>Pfunde ſolche Aufopfernng nicht erkaufen konnten, eine<lb/>Aufopferung, deren nur ein edles fühlendes Herz fähig<lb/>iſt, die nur das Herz belohnt.“ Und der Lohn ſei ihr<lb/>zu Theil geworden; die Kranke, der ſie die Krankheit<lb/>leicht, den Tod ſüß gemacht, ſei geſchieden mit einem letz-<lb/>ten Liebesblick für ſie, die Mutter habe an ihrem Herzen<lb/>ſich ausgeweint, der Vater habe mit zitternder Stimme<lb/>geſagt ſein Haus ſolle das ihre ſein und ſein Herz ihr<lb/>offen ſtehen ſo lange er lebe.<lb/>
+            </p>
+            <p> <lb/>„Damals wagte ich eine Bitte nicht,“ fuhr Wil-<lb/>helm fort, „aber ſpäter als ſie nach England zurück-<lb/>kehren wollten. Ich konnte es nicht ertragen, ſie ſo<lb/>weit von mir getrennt zu ſehen. Ich geſtand ihr meine<lb/>Liebe, ich bot ihr meine Hand. Daß ſie mich wieder-<lb/>liebte, das ſagte ſie mir mit geſenktem Auge und zittern-<lb/>der Lippe, aber ſie weigerte jedes Verlöbniß ehe ich nicht<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0050" n="42" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=50"/>
+            </p>
+            <p> <lb/>die Einwilligung meiner Mutter erhalten. Und <hi rendition="#g">ſie</hi>, die<lb/>bis dahin der Grund meines längeren Verweilens ge-<lb/>weſen, ſie iſt es jetzt die mich zurückgetrieben hat, und<lb/>nun hilf mir Couſine Marie den Widerwillen der Mama<lb/>beſiegen, den ſie beſtimmt gegen ein Mädchen hat, das<lb/>ſie mir nicht ausgeſucht. Du kennſt ja Clara und mußt<lb/>wiſſen, welch ein Engel ſie iſt.“<lb/>
+            </p>
+            <p> <lb/>„Clara!“ ſtammelte Marie mit erſterbender Stimme,<lb/>und der ſelbſtſüchtige Menſch nahm es für freudige Ueber-<lb/>raſchung und küßte ihr die Hände dafür.<lb/>
+            </p>
+            <p> <lb/>„Aber willſt Du’s nicht lieber ſelbſt der Mama<lb/>ſagen? fragte Marie.<lb/>
+            </p>
+            <p> <lb/>„Ja gewiß will ich das,“ rief Wilhelm, „Du ſollſt<lb/>mir nur nachher helfen den Widerſtand beſiegen, und ich<lb/>konnte es ihr auch nicht eher ſagen, bis ich mich gegen<lb/>Dich ausgeſprochen, Du meine Freundin für jetzt und<lb/>immer!“ —<lb/>
+            </p>
+            <p> <lb/>Wilhelm ſagte es der Mutter und ſie hatte aller-<lb/>dings viele Bedenken, ſagte erſt ganz beſtimmt „nein“ und<lb/>immer wieder „nein,“ bis ſie zuletzt doch „ja“ ſagte und, als<lb/>Wilhelm abreiſen wollte die Braut zu holen, ihm er-<lb/>klärte; daß er ſich diesmal nach ihrem Willen richten<lb/>müſſe, daß ſie beſchloſſen habe ihn zu begleiten, daß ſie<lb/>die Hochzeit dort feiern wollten und Marie inzwiſchen<lb/>Haus halten und Alles zum Empfange des jungen<lb/>Paares einrichten ſolle. Und alle Bitten Wilhelms, Marie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0051" n="43" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=51"/>
+            </p>
+            <p> <lb/>zur Zeugin ſeines Feſtes zu haben, trafen diesmal ein<lb/>unwiderrufliches Nein, worüber er die Achſeln zuckte und<lb/>Marie ihr im Herzen dankte, obgleich ſie zu ihrer tiefen<lb/>Beſchämung daraus las, daß die Mutter diesmal ſcharf-<lb/>ſichtig geweſen ſei für den Sohn!<lb/>
+            </p>
+            <p> <lb/>Und ſomit wäre dieſe Geſchichte aus.<lb/>
+            </p>
+            <p> <lb/>Ob ſie wahr und wahrhaftig ſich ſo zugetragen,<lb/>das möge Jeder, je nach dem Grade ſeines Glaubens an<lb/>an die wunderbaren Eigenſchaften des Pſychographen<lb/>beurtheilen! Aber möge die Einſicht und Vorausſicht<lb/>dieſes von Menſchenhand verfertigten Gegenſtandes, der<lb/>ihn doch an Geiſt ſo weit überflügeln ſoll, ſein wie ſie<lb/>wolle, ſoviel iſt gewiß, der Pſychograph hatte ſich auch<lb/>in dem einen noch unerledigten Punkt ſeiner Ausſprüche<lb/>
+               <hi rendition="#g">nicht</hi> geirrt.<lb/>
+            </p>
+            <p> <lb/>„Erſte Liebe iſt vergänglich,“ hatte er geſagt, wo-<lb/>gegen viele junge Damen proteſtiren und was Viele weder<lb/>ſich noch anderen eingeſtehen werden. Auch Mariens<lb/>Liebe, wir müſſen es ſagen, <hi rendition="#g">war</hi> vergänglich oder, wie<lb/>man es in ſolchen Fällen auszulegen pflegt, ſie war<lb/>verkannt worden und eigentlich nur Freundſchaft geweſen,<lb/>was ſie auch blieb, nachdem ihr Herz anfing erſt leiſe,<lb/>dann laut für einen Andern zu ſchlagen.<lb/>
+            </p>
+            <p> <lb/>So dachte ſie viele viele Jahre darauf lächelnd an<lb/>den Traum ihrer Jugend! Um aber der Leſerin auch in Be-<lb/>ziehung auf Emma nichts Unvollendetes zu geben, ſo möge<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0052" n="44" corresp="http://opacplus.bsb-muenchen.de/title/7627036/ft/bsb10124503?page=52"/>
+            </p>
+            <p> <lb/>er ſich denken wie <hi rendition="#g">ſie</hi>, nach einer Reihe von Jahren,<lb/>einer Schaar kleiner Buben und Mädchen Vernunft<lb/>predigt und ganz ärgerlich wird, als ein blondgelockter<lb/>Liebling altklug das Köpfchen ſchüttelt und ſagt:<lb/>
+            </p>
+            <p> <lb/>„Mama, ich mache mir nichts aus der Vernunft.“<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

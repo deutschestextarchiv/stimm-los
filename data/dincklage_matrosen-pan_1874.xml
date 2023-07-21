@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Matroſen-Pan</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_matrosen-pan_1874</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Matroſen-Pan, 1874.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Matroſen-Pan</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>A. H. Payne</name></publisher>
+                  <date>1874</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Der Salon für Literatur, Kunst und Gesellschaft</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 385–416</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639</idno><idno type="shelfmark">Shelfmark: Per. 177 l-1874,1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="392" cert="low"><sic>Inbiß</sic><corr>Imbiß</corr></choice><choice corresp="414" cert="low"><sic>Doringa’s</sic><corr>Doringas</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Matrosen-Pan</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0447" n="385" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=447"/>
+            </p>
+            <p> <lb/>Der Salon.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p>
+               
+                  <hi rendition="#c #larger">Matroſen-Pan.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>Erzählung aus dem Emslande.<lb/>
+            </p>
+            <p> <lb/>Von <hi rendition="#g">Emmy von Dincklage</hi>.<lb/>
+            </p>
+            <p> <lb/>Die Wolken ſchwammen träge und wäſſerig über den Halbmond,<lb/>der dann und wann zwiſchen den dunklen Schleiern hervorlugte, um ſich<lb/>in den jäh aufblitzenden Wellen der Ems zu ſpiegeln, oder um einen<lb/>Lichtſtreifen über die große Weideſtrecke, längs den Ufern des Fluſſes,<lb/>zu ſchleudern bis an die Holzungen hinaus, welche den Grasgrund ab-<lb/>ſchloſſen. Das Weidevieh lag unter Wind neben einem mit Erlen be-<lb/>ſtandenen Wallgraben und brüllte zuweilen, ja es ſtand dann und wann<lb/>ein Thier auf, machte ein paar Schritte dem Waſſer entgegen und blieb<lb/>dann ſtehen, um mit ſchnobernden Nüſtern und weitgeöffneten Rinds-<lb/>augen auf eine Menſchengruppe zu ſtarren, die, auf dem Boden ruhend,<lb/>entſchloſſen ſchien, im Freien zu übernachten. Zunächſt dem breiten<lb/>Sandſtreif, der ſich längs dem Ufer dahin zog, ſaßen zwei Bauerburſche,<lb/>die kurze Tabakspfeife im Munde und neben ſich den bei Nachtwachen<lb/>unentbehrlichen Schnapsbuddel; obwol ſie dem letztern häufig genug<lb/>zuſprachen, wollte indeß weder ein Geſpräch, noch eine gemüthliche<lb/>Stimmung aufkommen, ja, die gegenſeitigen Mittheilungen wurden<lb/>zumeiſt jäh unterbrochen und verloren ſich in einem beunruhigten, un-<lb/>vertrauten Blick über die Achſel, nach rückwärts, wo ein weißes Etwas<lb/>ausgeſtreckt lag, deſſen Leinenhülle ſich im Nachtwinde hob und ſenkte,<lb/>obwol an den vier Zipfeln des Tuches Ziegelſteine aufgelegt waren.<lb/>Doch wußten die Burſchen, es war nur der Wind, der das Laken be-<lb/>wegte, denn die Leiche unter demſelben hatte ſchon vier Tage im Waſſer<lb/>gelegen und die auf morgen angeſetzte gerichtliche und ärztliche Unter-<lb/>ſuchung war daher nur noch leere Form — kein Zweifel, wer der Todte<lb/>war, wie er ſtarb und daß er bereits der Verweſung anheimgefallen.<lb/>
+            </p>
+            <p> <lb/>„Daß Dich der Dexel, Cunrad“, ſagte einer der Wächter und gab<lb/>ſich den Anſchein der Luſtigkeit; „laß jetzt einmal Dein kindiſches Um-<lb/>ſchaun, ich rechne, Abel Upſtall thut uns nicht ſo viel, als die verfluchten<lb/>Mücken und Schnaken, die zu Tauſenden um unſere Ohren ſurren.<lb/>Schiffer Upſtall war ein trotziger, finſterer Kerl all’ ſein Leben lang, aber<lb/>jetzt ſind auch ſeine Fäuſte und Augen zur Ruh’ und Alles, was er braucht,<lb/>eine Kuhle!“<lb/>
+            </p>
+            <p> <lb/>„O, es iſt nicht der Todte“, nahm Cunrad mit gedämpfter Stimme<lb/>das Wort, „bei Leibe nicht der Todte, aber <hi rendition="#aq">die</hi> da —“; er deutete mit<lb/>dem Finger auf einen dunklen Fleck, hart neben dem weißen Laken,<lb/>„haſt Du, ſo lange Dir denkt, ein ſolches Weibsbild geſehen als dieſes?<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0448" n="386" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=448"/>
+            </p>
+            <p> <lb/>Iſt das eine Art neben ſeinem todten Vater zu ſitzen, ohne ſich zu rühren,<lb/>ohne zu weinen — ohne „Piep“ zu ſagen? Wenn es nicht Sünde<lb/>wäre — —“<lb/>
+            </p>
+            <p> <lb/>„Nun?“ fragte der Andere und reichte ihm ermunternd ſeine<lb/>Flaſche.<lb/>
+            </p>
+            <p> <lb/>„Ja, wenn es nicht Sünde wäre — ſo möchte ich denken, der<lb/>Abel da iſt <hi rendition="#aq">nicht</hi> aus Verſehen von Deck gerutſcht, er hat ſich nicht,<lb/>wie Andere wiſſen wollen, mit Vorſatz in die Ems geſtürzt, ſondern das<lb/>lange Mädchen da —“<lb/>
+            </p>
+            <p> <lb/>„Ah — bah — ihren eigenen Vater, da ſollte doch ein Wetter<lb/>drein ſchlagen; freilich Abel ſchlug oft genug drein und ſie hatte ſchlimme<lb/>Tage, aber —“<lb/>
+            </p>
+            <p> <lb/>„Weißt Du was“, unterbrach ihn Cunrad, „mir iſt nichts Schlim-<lb/>meres, als ſo mit meinen Gedanken da ſitzen, wie wir es ſeit drei<lb/>Stunden thun, ich gehe und rede das ſtumme, ſteinerne Ding da an,<lb/>immer beſſer ſie heult uns was vor, als man lauſcht und lauſcht und<lb/>vernimmt keinen Ton — wir ſind unſrer Zwei und brauchen uns nicht<lb/>zu fürchten!“<lb/>
+            </p>
+            <p> <lb/>Die Furchtloſen ſetzten ihre Pfeifen noch einmal recht in Brand<lb/>und erhoben ſich.<lb/>
+            </p>
+            <p> <lb/>„Hat ſie den ganzen Tag dageſeſſen“, fragte Wilm, „ſeit die Leiche<lb/>an’s Land trieb?“<lb/>
+            </p>
+            <p> <lb/>„Ja, ſie hat ſelbige zuerſt geſehen und dann ſetzte ſie ſich wie ein<lb/>Hund neben den Todten und klagte nicht ſo viel als ein ſtummes Thier.“<lb/>
+            </p>
+            <p> <lb/>„Teufel auch“, meinte Cunrad, „dann muß ſie Durſt haben!“ Auf<lb/>das hin nahmen die Burſchen ihre Schnapsflaſchen auf und näherten<lb/>ſich dem unbeweglichen Punkte neben der Leiche. Bei einem Durchblick<lb/>des Mondes und mit Hülfe der glimmenden Pfeifen war eine menſch-<lb/>liche Geſtalt zu erkennen, die an der Erde ſaß, um die emporgezogenen<lb/>Kniee ſchlangen ſich zwei lange Arme und auf den Knieen lag der Kopf<lb/>wie ſchlafend. Die Stellung war inzwiſchen noch nicht ſo ſonderbar als<lb/>der Anzug der Trauernden. Den Kopf deckte ein waſſerdichter Schiffer-<lb/>hut, der ſogenannte Südweſter, den Oberkörper ſchützte eine Matroſen-<lb/>jacke von dunkelblauem Fries mit Hornknöpfen, dann kam ein brauner<lb/>Frauenrock, ſogenanntes Schutegut, aus der naturfarbenen Wolle der<lb/>Haideſchnucken gewebt, und unter dem Rockſaum endlich ragten Schmier-<lb/>ſtiefel hervor, lange Waſſerſtiefel wie die Schiffer auf dem im Sommer<lb/>ſeichten Fluſſe ſie tragen, um nöthigen Falls ohne Weiteres in’s Waſſer<lb/>zu treten.<lb/>
+            </p>
+            <p> <lb/>„Du da —!“ rief Cunrad, „haſt Du keinen Durſt?“<lb/>
+            </p>
+            <p> <lb/>Das Weib hob den Kopf, ihr mageres Geſicht mit den rothen,<lb/>etwas zu vollen Lippen und den übergroßen grauen Augen ward einen<lb/>Augenblick ſichtbar, indeß ihre ſehnige Hand ſich nach der dargebotenen<lb/>Flaſche ausſtreckte und dieſelbe haſtig an die Lippen führte, um ihr in<lb/>tiefen, langen Zügen zuzuſprechen.<lb/>
+            </p>
+            <p> <lb/>„Danke!“ ſagte die Fremde und reichte den Buddel zurück.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0449" n="387" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=449"/>
+            </p>
+            <p> <lb/>„Nichts zu danken!“ ſprach Wilm höflich, „mit Verlaub — der da<lb/>war wol Dein Vater?“<lb/>
+            </p>
+            <p> <lb/>„Er ſagte ſo — ich war Matroſe auf ſeinem Muttſchiff — wir<lb/>fuhren Torf!“<lb/>
+            </p>
+            <p> <lb/>„Iſt ſonſt noch Jemand von Deiner Freundſchaft am Leben —<lb/>Mutter, Bruder oder Schweſter?“<lb/>
+            </p>
+            <p> <lb/>„Weiß nicht — ich kenne keinen!“ ſie legte den Kopf wieder auf<lb/>die Kniee.<lb/>
+            </p>
+            <p> <lb/>„Wohin willſt Du denn anjetzo gehen?“ forſchte Cunrad.<lb/>
+            </p>
+            <p> <lb/>Sie hob den Kopf von Neuem: „Ich weiß nicht — ich habe noch<lb/>nicht daran gedacht!“<lb/>
+            </p>
+            <p> <lb/>„Noch nicht daran gedacht —? Wie heißt Du denn, Mädchen —<lb/>wie alt biſt Du?“<lb/>
+            </p>
+            <p> <lb/>„Ich heiße Pan — möglich ich bin ſo einzwanzig bis zweiund-<lb/>zwanzig Jahre alt — <hi rendition="#aq">er</hi> hat es nie geſagt.“<lb/>
+            </p>
+            <p> <lb/>„Geht’s Dir nahe, daß Abel Upſtall todt iſt?“ fragte Wilm<lb/>mitleidig.<lb/>
+            </p>
+            <p> <lb/>Pan nahm den Südweſter ab, blickte ein paar Secunden in den<lb/>Mond und dann auf die Leiche: „Nein, es geht mir nicht nahe!“ ant-<lb/>wortete ſie dann. „Die Leute ſagen, er kann nicht wieder aufwachen —<lb/>nie — nie — ſo lange eine Sonne und ein Mond am Himmel ſtehen!“<lb/>
+            </p>
+            <p> <lb/>„Gewiß nicht, die Leiche iſt ja ſchon ganz ſchwarz und geſchwollen!“<lb/>bemerkte Cunrad. „War er ſchlimm mit Dir?“ fragte er mit Beziehung<lb/>weiter.<lb/>
+            </p>
+            <p> <lb/>„Er gab mir Brod und Honorar ſo viel ich wollte, und recht-<lb/>ſchaffene Kleider!“ ſprach das Mädchen vor ſich hin.<lb/>
+            </p>
+            <p> <lb/>„Aber auch Prügel“, lachte Wilm, „ich weiß, daß er Dich in<lb/>Papenburg geſchlagen hat, ein Püntjer erzählte mir’s.“<lb/>
+            </p>
+            <p> <lb/>„Er ſchlug mich nicht ärger damals als ſonſt auch — es war<lb/>wegen der Haare —!“<lb/>
+            </p>
+            <p> <lb/>„Wegen welcher Haare?“ forſchte Cunrad.<lb/>
+            </p>
+            <p> <lb/>„Nun, dieſe da —“, ſagte ſie und bewegte den Kopf, daß die<lb/>ſchweren Zöpfe flogen, „er konnte ſie nicht ausſtehen und ſchlug mich,<lb/>daß ich ſie abſchnitt. Sie ſind noch da — aber <hi rendition="#aq">er</hi> kommt nicht wieder.<lb/>Er bewegt ſich aber, ich ſehe es, er liegt nicht ſtill bis er die Erde auf<lb/>ſich hat — ſeht, ſeht — o, er möchte mich noch einmal ſchlagen, er war<lb/>froh und geduldig hernach, wenn er mich geſchlagen hatte!“ Sie lächelte<lb/>ſonderbar vor ſich hin und Cunrad ſtieß ſeinen Gefährten an, damit er<lb/>ſehe, wie das Mädchen ſo fremd lache.<lb/>
+            </p>
+            <p> <lb/>„Ich will Dir jetzt einen Rath geben, Pan“, ſagte er dann, „geh’<lb/>jetzt, wo der Tag aufkommt, Deiner Wege, warte nicht das Gericht ab!“<lb/>
+            </p>
+            <p> <lb/>„Ich bleibe bei ihm, bis ich ſehe, mit dieſen Augen ſehe: er liegt<lb/>in der Grube —! Ich muß es gewiß und wahrhaftig ſehen, bis dahin<lb/>kann ich nichts Anderes denken!“ Sie ſetzte den Südweſter wieder auf,<lb/>legte die Stirn auf die Kniee und antwortete auf keine fernere Frage.<lb/>
+            </p>
+            <p> <lb/>Gegen zehn Uhr morgens erſchien das Gericht, das Abel Upſtall’s<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0450" n="388" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=450"/>
+            </p>
+            <p> <lb/>Hinterlaſſenſchaft bereits in Gewahrſam genommen hatte und über die<lb/>Todesart des Mannes um ſo weniger im Zweifel war, als er ſelbſt,<lb/>wenige Stunden vor ſeinem Sturze in’s Waſſer, vor einigen Bekannten<lb/>und dem Schänkwirthe einer Kneipe geäußert hatte, er ſei des Lebens<lb/>müde und kehre nicht mehr zurück. Man hatte das für eine hypochon-<lb/>driſche Drohung des finſtern Mannes gehalten, bis er dann wirklich<lb/>verſchwunden war und erſt nach drei Tagen wieder aufgefiſcht wurde.<lb/>Das Gericht beraumte der Tochter oder Pflegetochter des Verunglückten<lb/>einen beſtimmten Tag an, wo ſie ſich Auskunft über ihre Erbſchaft zu<lb/>holen habe. Dieſe Angelegenheit konnte nicht raſch in’s Reine gebracht<lb/>werden, da Niemand, ſogar Pan ſelbſt nicht, ſagen konnte, ob ſie Upſtall’s<lb/>Tochter ſei oder nicht. Nachdem alles Das beſprochen war, legte man<lb/>Abel Upſtall in einen Sarg und vier Männer trugen den Sarg dem<lb/>Dorfe zu, woſelbſt die Glocken läuteten. Hinter dem Sarge ging Pan,<lb/>den Hut in der Hand. Ihr Haar war aufgelöſt und flatterte wie ein<lb/>goldener Schleier um ſie her, die Hände hielt ſie gefaltet in einander.<lb/>Als der Zug an der Dorfſchänke vorüber kam, hielt neben der Krippe<lb/>draußen ein kleines zweiräderiges Fuhrwerk mit einem ſtarken braunen<lb/>Pferde beſpannt. Der Wirth war ſehr höflich gegen den jungen Mann,<lb/>welcher in beſagter Carriole heran gefahren war und jetzt neben ihm<lb/>ſtand, um das Leichenbegängniß des Selbſtmörders mit anzuſchauen, bis<lb/>ſein Gaul abgefreſſen haben möge. Als Pan nun auch vorüber ging,<lb/>verließ der junge Mann den Wirth und ſchloß ſich dem Geiſtlichen und<lb/>dem weiblichen Matroſen an, die das Gefolge bildeten. Pan wandte<lb/>ihre Augen nicht von dem Sarge und beugte ſich tief über die Grube,<lb/>nachdem die rohe Tannenkiſte hinab gelaſſen war. Als die Erdſchollen<lb/>aufſchlugen, athmete ſie tief, ihre lange Geſtalt richtete ſich mehr und<lb/>mehr in die Höhe, je mehr ſich die Grube füllte, und dann ſetzte ſie<lb/>ihren Hut auf und ſchritt durch die gaffenden Weiber und Kinder hin-<lb/>weg, dem Fahrwege zu.<lb/>
+            </p>
+            <p> <lb/>Pan mochte zehn Minuten mit weiten, förderſamen Schritten dahin<lb/>gegangen ſein, als die Carriole des jungen Bauern, welcher neben ihr<lb/>am Grabe geſtanden hatte, ſie einholte und neben ihr ſo langſam fuhr,<lb/>daß ſie mit dem Pferde Schritt hielt.<lb/>
+            </p>
+            <p> <lb/>„Wenn Du deſſelben Weges gehſt als ich“, ſagte der junge Bauer,<lb/>indem ſeine freundlichen, lichtbraunen Augen theilnehmend auf ihr<lb/>ruhten, „ſo ſteig’ mit auf, ich fahre über Papenburg hinaus !“<lb/>
+            </p>
+            <p> <lb/>Pan hatte im Gehen ihre Zöpfe aufgeflochten und hielt inzwiſchen<lb/>den Rand des Südweſters mit den Zähnen feſt. Ihre Augen nahmen<lb/>den großen, ſtaunenden Blick an, der bei ihr jedem Verſtändniſſe voraus-<lb/>ging, und erwiederte dann, indem ſie die Zöpfe fahren ließ und den<lb/>Hut aufſetzte: „Ich muß auch dahin, nach Papenburg oder Leer, um mich<lb/>auf einem Schiffe zu verdingen.“<lb/>
+            </p>
+            <p> <lb/>Der Bauer hielt an und rückte zur Seite. Pan zögerte noch, ſie<lb/>ſagte mit ihrer weichen, ſchwebenden Frauenſtimme: „Wirſt Du Dich<lb/>nicht ſchämen, Ecko Doringa, mit mir durch die Dörfer zu fahren?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0451" n="389" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=451"/>
+            </p>
+            <p> <lb/>„Schämen — weshalb ſollte ich mich ſchämen?“<lb/>
+            </p>
+            <p> <lb/>„Weil ich nicht ſo bin wie andere Mädchen!“<lb/>
+            </p>
+            <p> <lb/>„Steig’ auf“, ſprach Ecko, und ſie war mit einem gewandten<lb/>Sprunge oben. Der Bauer trieb ſein Pferd an und blickte ſo vor ſich<lb/>nieder, als ſuche er den Anfang zu einer Mittheilung. Pan ſaß ganz<lb/>ſtill neben ihm und ihre grauen Augen zogen über die grüne Trift wie<lb/>über ein weites Waſſer, mehr an fernen als nahen Gegenſtänden haftend.<lb/>
+            </p>
+            <p> <lb/>„Ich in Deinem Platze, würde nicht wieder auf ein Schiff gehen,<lb/>Schwanhild!“ ſagte Ecko endlich.<lb/>
+            </p>
+            <p> <lb/>Pan lachte auf, wobei ihr Geſicht ſehr kindlich ausſah: „Mich hat<lb/>noch mein Lebtag Niemand Schwanhild genannt, obwol ich auf den<lb/>Namen getauft bin — nun, heute iſt auch ein beſonderer Tag! Aber<lb/>wohin ſoll ich denn gehen, wenn nicht auf ein Schiff?“<lb/>
+            </p>
+            <p> <lb/>„Andere Frauensleute gehen doch auch nicht als Matroſen zu<lb/>Schiffe“, ermahnte Ecko. „Du wirſt eines Tages Heirathen und<lb/>dann — —“<lb/>
+            </p>
+            <p> <lb/>„Ich heirathen?“ rief Pan im maßloſen Erſtaunen die Hände<lb/>zuſammenſchlagend.<lb/>
+            </p>
+            <p> <lb/>„Nun, warum nicht?“ fragte Ecko lachend zurück. „Es iſt in der<lb/>Ordnung, daß die Mädchen heirathen — ich fahre heute auch zu meiner<lb/>Braut!“ fügte er ernſter hinzu. „Hat Dir noch nie ein junger Burſch<lb/>geſagt, daß Du ihm gut gefällſt?“ forſchte der Bauer nach einer Pauſe.<lb/>
+            </p>
+            <p> <lb/>„O — nie!“ entgegnete Pan und blickte ihn durch die Frage<lb/>überraſcht an. Sie erröthete nicht, ſie redete von dieſen Sachen wie ein<lb/>Kind, ohne daß ihre wetterfeſten Wangen, deren matte Grundfarbe<lb/>dennoch von ſchwerer, anſtrengender Arbeit zeugte, eine verrätheriſche<lb/>Blutwelle färbte.<lb/>
+            </p>
+            <p> <lb/>„Wie heißt Deine Braut?“ erkundigte ſich Pan.<lb/>
+            </p>
+            <p> <lb/>„Netta Oudewater!“ entgegnete der Fahrende mit Betonung.<lb/>
+            </p>
+            <p> <lb/>„Ja, ja, die iſt ſchwer reich. Ich habe das Dach der Oudewater<lb/>Plaatze wol tauſend Mal vom Deiche herab geſehen, denn ich mußte<lb/>unſer Pferd reiten, wenn wir mit dem Muttſchiff hinaufgingen. Ich<lb/>kenne alle Beſitzungen, die man vom Deiche aus ſieht, auch die Deine,<lb/>Ecko Doringa, aber ſo herrlich als die Oudewater-Plaatze iſt keine<lb/>andere mehr — und Netta iſt das einzige Kind von Mynheer Oude-<lb/>water!“<lb/>
+            </p>
+            <p> <lb/>„Ja, das einzige Kind!“ beſtätigte Ecko zerſtreut und ſchlug aller-<lb/>hand Figuren mit der Peitſchenſchnur um die Ohren des Braunen<lb/>herum in die Luft.<lb/>
+            </p>
+            <p> <lb/>Es befremdete ihn, ein weibliches Weſen zu ſehen, das gelernt<lb/>hatte wie ein Mann mit den Elementen kämpfen und das dagegen vor<lb/>den Lebensbeziehungen des Weibes: Herz und Haus, wie vor einem<lb/>verſchleierten Bilde, einem ungelöſten Geheimniſſe ſtand.<lb/>
+            </p>
+            <p> <lb/>„Wenn ich auch Alles hätte, was Netta Oudewater beſitzt“, hob<lb/>nach einer Weile Pan wieder an und ihre grauen Augen leuchteten dazu<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0452" n="390" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=452"/>
+            </p>
+            <p> <lb/>in großer Entſchloſſenheit, „ich könnte doch nicht ſo immer auf dem<lb/>Feſtlande und in dem ſteinernen, unbeweglichen Hauſe wohnen!“<lb/>
+            </p>
+            <p> <lb/>„Wenn Du das Alles hätteſt“, ſprach Ecko ſanft, „dann hätteſt<lb/>Du auch mich, Schwanhild!“<lb/>
+            </p>
+            <p> <lb/>„Ja!“ antwortete ſie leiſe und nun erröthete ſie plötzlich tief bis<lb/>unter den Rand ihres gelbbraunen Hutes.<lb/>
+            </p>
+            <p> <lb/>„Und möchteſt Du auch um meinetwegen nicht auf dem Feſtlande<lb/>und zu Hauſe bleiben?“ forſchte Ecko und faßte ihre Hand in die ſeinige.<lb/>
+            </p>
+            <p> <lb/>„Ich bin nicht Netta Oudewater“, wehrte ihn Pan zurück, „ich<lb/>habe heute Dein Angeſicht zum erſten Mal erblickt, als die Leute Deinen<lb/>Namen nannten, drüben, an <hi rendition="#aq">ſeinem</hi> Grabe; was fragſt Du alſo?“<lb/>
+            </p>
+            <p> <lb/>„Wenn Du Netta wärſt“, flüſterte Ecko und verſenkte den Blick in<lb/>ihre großen Augen, „dann würdeſt Du alsbald den unruhigen Dollart<lb/>und die getheerten Planken vergeſſen, denn ich hätte dann keinen andern<lb/>Gedanken, als Dir Freude und Liebe und alles Das zu geben, das<lb/>Dein Herz bis heute nicht kannte — haſt Du nie an Glück gedacht<lb/>Schwanhild?“<lb/>
+            </p>
+            <p> <lb/>„Gedacht wol — aber ich wußte nicht wie es war.“<lb/>
+            </p>
+            <p> <lb/>„Und glaubſt Du, ich könnte Dir lehren, wie es iſt?“<lb/>
+            </p>
+            <p> <lb/>„Ich bin nicht Netta Oudewater!“<lb/>
+            </p>
+            <p> <lb/>„Nein, Du biſt es nicht, und ſie iſt keine Matroſen-Pan, ſie — —“<lb/>Das Mädchen blickte ihn fragend an, als er ſich unterbrach.<lb/>
+            </p>
+            <p> <lb/>„Schwanhild“, rang es ſich von ſeinen Lippen, „wenn ich wüßte,<lb/>Du könnteſt glücklich werden, ich kehrte mit Dir und dem Braunen um<lb/>und ſähe Netta nie, nie mehr an, mitſammt ihren Reichthümern!“<lb/>
+            </p>
+            <p> <lb/>Pan nahm den Südweſter ab, legte ihre Arme um ſeinen Nacken<lb/>und küßte ihn. Ihr Geſicht war wie verklärt vor Schönheit und Liebe,<lb/>als ſie flüſterte: „Ich habe nie einen andern Mann geküßt und werde<lb/>nie einen Andern küſſen — aber merk’ Dir’s, Matroſen-Pan iſt reicher,<lb/>tauſend Mal reicher als Netta Oudewater — ſo, jetzt halt an!“<lb/>
+            </p>
+            <p> <lb/>„Du willſt gleich mit mir umkehren, ohne Weiteres mit in mein<lb/>Haus kommen?“ fragte Ecko und erhob ſich in ſeiner ganzen Länge und<lb/>ſtattlichen Breite im Fuhrwerke, faſt betroffen über ihre harmloſe Be-<lb/>reitwilligkeit.<lb/>
+            </p>
+            <p> <lb/>„Nein, Ecko, ich will ausſteigen, hier trennen ſich unſere Wege!“<lb/>
+            </p>
+            <p> <lb/>„Weshalb, um Gottes Willen?“<lb/>
+            </p>
+            <p> <lb/>„Der Deine führt nach der Oudewater-Plaatze und meiner dahin,<lb/>wo die Menſchen keinen Weg ſehen — Adje!“<lb/>
+            </p>
+            <p> <lb/>„Iſt es Dein Ernſt, Pan, fort zu gehen, nachdem — —“<lb/>
+            </p>
+            <p> <lb/>Sie ſtand bereits am Boden und überſchritt den Weg — noch<lb/>hätte Ecko ſie halten können, aber ſie ſah nun wieder ſo ungewöhnlich<lb/>aus in den Mannskleidern und den Zöpfen, welche des Landes nicht<lb/>Brauch ſind, daß er zauderte. Was würde die Nachbarſchaft zu einer<lb/>ſolchen Bäuerin ſagen und ſie — ſie ſelbſt wollte ja nicht ſo ſein, wie<lb/>die anderen Frauen; ſie — noch einmal ſah ſie mit den feſſelnden Augen<lb/>empor. „Schwanhild!“ rief er und breitete die Arme aus.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0453" n="391" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=453"/>
+            </p>
+            <p> <lb/>Sie ſchwenkte nach Schifferart und Gruß den Südweſter und<lb/>ſprang über einen breiten Graben, ſichern Fußes und Blickes wie ein<lb/>Mann — dann verſchwand ſie im Erlenaufſchlag. Er blickte immer<lb/>hinüber — er rief, er folgte ihr — umſonſt, es war als habe die Erde<lb/>ſie verſchlungen. Herr Parcival hielt drei Tage und Nächte im Schnee,<lb/>um Blutstropfen in Form eines Kreuzes zu betrachten; wer weiß wie<lb/>lange Ecko gehalten haben möchte, wenn nicht der Braune ſich ſelbſt-<lb/>ſtändig in Bewegung geſetzt und ſeinen Meiſter nach Verlauf von zwei<lb/>bis drei Stunden an der großen Scheunthür der Oudewater-Plaatze<lb/>abgeliefert hätte, das brave Thier wußte, es ſei ſo in der Ordnung.<lb/>
+            </p>
+            <p> <lb/>Eine frieſiſche Bauernbraut von altem Schrot und Korn würde<lb/>ſich durch die läppiſche, ſentimentale Zärtlichkeit unſerer modernen<lb/>Bräute unendlich herabgewürdigt fühlen, ſie zeigt das kühle, würdige<lb/>Betragen einer Frau, die da denkt mit zu ſprechen und mit zu herrſchen.<lb/>Das Uebereinkommen eines demnächſtigen Ehebundes verlangt eine<lb/>ernſtere Vorbereitung, eine ſtrengere Wahrung der Rechte, als jeder<lb/>andere contractliche Abſchluß, denn neben Mein und Dein iſt auch noch<lb/>Leib und Leben einbegriffen, und der Frieſe iſt zu allen Zeiten wachſam<lb/>und eiferſüchtig über ſeine perſönlichen Rechte und Freiheiten.<lb/>
+            </p>
+            <p> <lb/>Netta, die am Herd beſchäftigt war, reichte ihrem Verlobten die<lb/>Hand und fragte: „Iſt Ecko Doringa etwas zugeſtoßen? Er kommt ſpät.“<lb/>
+            </p>
+            <p> <lb/>Ecko fuhr ſich mit der Hand über die Stirn, als wenn er aus<lb/>einem tiefen Schlafe erwache und fragte: „So, iſt es ſpät? — iſt ſchon<lb/>Mittag vorüber?“<lb/>
+            </p>
+            <p> <lb/>„Wo denkſt Du hin, Ecko — es iſt längſt Nachmittag; Vater war<lb/>unwirſch, daß Du nicht da warſt, mit ihm durch die Felder zu gehen —<lb/>ſetz’ Dich, daß ich Dir Kaffee koche —“ ſie ſchob ihm den Stuhl in die<lb/>Kaminecke. Der Herd war in der That ein großer und traulicher<lb/>Kamin und die Küche ein geräumiges Wohnzimmer, mit einer lebhaft<lb/>grünen Oelfarbe geſtrichen, grün Decke und Wände, nur Thüren und<lb/>Fenſter ſtrahlen in eigelber Farbe. Scharf colorirte Schiffs- und<lb/>Landſchaftsbilder, ſo wie einige Familienportraits in Paſtell nebſt aller-<lb/>hand chineſiſchen Vaſen, Taſſen und Spielereien vollenden den Aufputz.<lb/>
+            </p>
+            <p> <lb/>„Weißt Du, Netta, ich kann mich in dem, was ich thue, nicht nach<lb/>Deinem Vater richten, ich bin ſelbſt Bauer!“<lb/>
+            </p>
+            <p> <lb/>„Herr Gott“, rief Netta, ſich im Kaffeemahlen unterbrechend. „Du<lb/>haſt es doch immer gethan, er giebt Dir doch ſein Geld und ſeine<lb/>Tochter!“<lb/>
+            </p>
+            <p> <lb/>„Ja, aus Gnaden; zehn Mal habe ich hören müſſen, ſein Eidam<lb/>ſollte von Rechtswegen drei Mal ſchwerer ſein als ich. Aber wer ſagt<lb/>denn ſchon, daß ich eine Gnade verlange?“<lb/>
+            </p>
+            <p> <lb/>Netta blickte den ſtattlichen, ſonſt ſo fügſam freundlichen Mann<lb/>am Kamin mißtrauiſch an — ſie zweifelte nicht, er mußte „einen Kleinen<lb/>über den Durſt“ getrunken haben, der ihm die Haare wider den Strich<lb/>ſtellte.<lb/>
+            </p>
+            <p> <lb/>„’S iſt ſchon alles Eins, Ecko Doringa“, ſagte ſie begütigend.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0454" n="392" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=454"/>
+            </p>
+            <p> <lb/>„Niemand kann wiſſen woher Vaters Launen geweht kommen, ſie ſind<lb/>da im Handumdrehen, aber ich bitte Dich“, fuhr ſie klüglich fort, „mach’<lb/>keine Ungelegenheiten, Du weißt nicht, was ich zu leiden habe, denn für<lb/>Alles, was ihm in die Quere geht, muß ich büßen, es giebt Niemanden<lb/>auf der Welt, der einen ſo ſchweren Stand hat als ich!“<lb/>
+            </p>
+            <p> <lb/>„Armes Mädchen!“ ſagte Ecko und ſtreckte ihr die Hand hin; als<lb/>ſie aber die ihrige hinein legte, da trat ihm Pan’s Bild vor die Augen,<lb/>ſie, die ſo allein, ſo klaglos daſtand. Er zog ſeine Hand zurück und be-<lb/>trachtete Netta, als ob er ſie noch nicht geſehen hätte.<lb/>
+            </p>
+            <p> <lb/>Jufvrouw Oudewater war von mittlerer Größe, ihr blühendes,<lb/>puppenartiges Geſicht ward von der holländiſchen Schleierhaube, unter<lb/>deren Spitzen die goldenen Ohreiſen hervorſchimmerten, umgeben. Ein<lb/>weißer Kragen lag auf der ſchwarzen Seidenjacke, deren krauſer Schooß<lb/>bis unter die Kniee reichte. Darunter trug Netta einen feinen blauen<lb/>Wollrock und eine braune Seidenſchürze. Verſchiedene Schmuckſachen<lb/>vollendeten den Anzug. Aus einiger Entfernung war Netta ein hübſches<lb/>Mädchen, näher aber machten die kleinen Geſichtszüge, zu klein für<lb/>ihre Geſtalt, den Eindruck einer Wachsmaske, und zwar um ſo mehr, als<lb/>Netta’s Mienenſpiel nur einen Uebergang in’s Weinerliche kannte, indeß<lb/>dem Köpfchen im Allgemeinen ein unverkennbarer Hochmuth aufge-<lb/>prägt war.<lb/>
+            </p>
+            <p> <lb/>„Du wirſt es bald beſſer haben“, tröſtete er. „Hat Mynheer<lb/>Oudewater den Tag für die Eheverſchreibung feſtgeſtellt?“<lb/>
+            </p>
+            <p> <lb/>„Auf Sonntag in acht Tagen!“<lb/>
+            </p>
+            <p> <lb/>„Nun ja, die Ernte iſt ja dann auch vorüber — wie ſehen denn<lb/>Eure Futtereider aus?“<lb/>
+            </p>
+            <p> <lb/>Mit dieſer Frage wandte ſich die Unterhaltung den ländlichen<lb/>Intereſſen zu, indeß Ecko dem Inbiß, der mit Käſe, kaltem Fleiſch, Rührei,<lb/>Honig und was Küche und Keller bieten, in großen Quantitäten aufge-<lb/>tragen war, tapfer zuſprach. Er ging dann Mynheer, ſeinem künftigen<lb/>Schwiegervater, entgegen, tätſchelte die Köpfe der glatten, ſchwarz und<lb/>weiß gefleckten Kühe, welche auf der Wieſe gemolken wurden, that einen<lb/>Blick in die Senfmühle und rauchte Abends mit dem geſtrengen Haus-<lb/>herrn aus langen Thonpfeifen — kurzum, als ſich Ecko endlich in die Feder-<lb/>wogen der Wandbettſtelle verſenkte, war er wieder ſo in Gegenwart und<lb/>Gewohnheit eingewurzelt, daß er gar nicht begriff, wie er jenem<lb/>Matroſenmädchen ſeine Hand anbieten konnte. „Es war Mitleid“,<lb/>ſagte er ſich. „Wo mag ſie ſein?“ fragte er und dann ſchlief er ein.<lb/>
+            </p>
+            <p> <lb/>Aber das Menſchenherz iſt doch keine Schiefertafel, deren Schrift-<lb/>zeichen ſich mit einem Schwamm verwiſchen laſſen — Pan’s Blick und<lb/>Sprachton tauchten dann und wann im Laufe ſeines Beſuches bei der<lb/>Braut wieder auf, plötzlich, ungerufen. Ecko wurde ſogar ärgerlich, als<lb/>Netta wieder einmal ihr Schickſal anklagte, indem er ihr vorhielt, ſie<lb/>ſei vor Tauſenden unverdient bevorzugt. Als Abends die Zeitungen<lb/>kamen, las der Bauer dieſelben nach gewohnter Art; er hielt ſie eine<lb/>gute Strecke von ſich entfernt, denn er war weitſichtig; plötzlich ſchwankte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0455" n="393" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=455"/>
+            </p>
+            <p> <lb/>das Blatt wie ein vom conträren Winde erfaßtes Schiffsſegel und glitt<lb/>zu Boden; als Ecko das Papier dem Alten zurück gegeben hatte, bemerkte<lb/>er, der Bauer ſei ſehr bleich geworden, und noch Eins machte ihn ſtutzen:<lb/>über die wohlgenährte linke Wange des alten Mannes zog ſich eine<lb/>lange rothe Schnittnarbe, die Ecko bislang nie bemerkt hatte.<lb/>
+            </p>
+            <p> <lb/>„Es iſt hier was heiß“, ſtotterte der Alte gezwungen und erhob<lb/>ſich, um in’s Freie zu gehen.<lb/>
+            </p>
+            <p> <lb/>Das Brautpaar forſchte vergebens nach irgend einer Veranlaſſung<lb/>dieſes ungewöhnlichen Zwiſchenfalls — die Zeitung war ſo arm und<lb/>trocken, als es nur immer ein kleines Localblatt ſein kann — nur eine<lb/>beſondere Mittheilung unter den politiſchen, den Wetter- und Börſen-<lb/>nachrichten; ſie lautete: „Der Muttſchiffer Abel Upſtall ſtürzte über<lb/>Bord ſeines Fahrzeuges, die Leiche trieb nach drei Tagen zwei Meilen<lb/>abwärts an. Ein Selbſtmord iſt anzunehmen.“ Ecko blickte Netta an<lb/>und fragte, ob ſie den Namen des Todten jemals habe nennen hören?<lb/>
+            </p>
+            <p> <lb/>Nein — ſie hatte ihn nicht gehört — ja doch, wenn ſie recht<lb/>nachdachte, ihre Pflegemutter hatte ihn einmal genannt, es mußte etwas<lb/>zwiſchen ihm und Mynheer vor Jahren geweſen ſein, aber ſie erinnerte<lb/>ſich nicht, was es war; wenn die Pflegemutter zur Eheverſchreibung kam,<lb/>ſo konnte man ſie fragen; den Bauern ſelbſt um Auskunft zu bitten, fiel<lb/>natürlich Niemanden ein.<lb/>
+            </p>
+            <p> <lb/>Die Feſtſtellung der Ehepacten iſt bei den vorſichtigen Bauern<lb/>nicht ſelten ein höchſt unfriedliches, ja ſogar manchmal das Verlöbniß<lb/>geradezu <hi rendition="#aq">auflöſendes</hi> Geſchäft. Außer dem Notar, der die Stipula-<lb/>tionen rechtsgiltig zu Papier bringt, und dem Geiſtlichen, welcher eine<lb/>Art Einſegnung zu vollziehen hat, ſind nicht nur alle mehr oder weniger<lb/>betheiligten Angehörigen, ſondern von jeder Partei auch noch ein Spre-<lb/>cher anweſend, ein Dolmetſch der verſchiedenen Forderungen, Erwar-<lb/>tungen und Bedingungen, welcher möglichſt eindringlich zu reden, aber<lb/>zugleich einen unparteiiſchen Standpunkt zu erheucheln hat. Ecko brachte<lb/>zur Verſchreibung ſeinen Vetter Gerd, ſo wie ein paar Brüder und<lb/>Schwäger mit. Mynheer Oudewater hatte gar keine nahe Verwandte,<lb/>nur ein Onkel und deſſen Sohn waren anweſend. Niemand zweifelte,<lb/>der alte Bauer werde, vielleicht einige Legate abgerechnet, ſeiner einzigen<lb/>Tochter Alles hinterlaſſen und ſie demgemäß jetzt ausſtatten; um ſo<lb/>größer war das Staunen, als nun der Brautvater das Wort ergriff<lb/>und kurz und bündig erklärte: „Ich habe für Netta Oudewater einen<lb/>Bauern gewählt, der kaum halb ſo viel Beſitz hat als ich; das geſchah,<lb/>weil ich will, daß der größte Theil meines Vermögens bei dem Namen<lb/>Oudewater bleibt und Ecko Doringa ſich mit einer Abfindung zufrieden<lb/>geben muß!“<lb/>
+            </p>
+            <p> <lb/>Netta ſchluchzte laut und vorwurfsvoll auf. Ecko wollte antworten,<lb/>aber ſein Sprecher, der Vettersmann Gerd, litt das nicht, ſondern er-<lb/>wiederte ſtatt des Bräutigams, daß eine ſo unerhörte Maßnahme den<lb/>hier anweſenden Ecko Doringa auf’s Empfindlichſte treffe und er ſich<lb/>derſelben nach dem langen Aufſchub der Eheverſchreibung um ſo weniger<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0456" n="394" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=456"/>
+            </p>
+            <p> <lb/>verſehen habe. Um aber beiden Theilen gerecht zu werden, proponire<lb/>er — Gerd, der Familienſprecher — Mynheer Oudewater möge ſeine<lb/>Tochter nicht enterben, wogegen Ecko Doringa ſeinem eigenen Namen<lb/>den des Schwiegervaters vorausſetzen könne.<lb/>
+            </p>
+            <p> <lb/>Mynheer Oudewater erhitzte ſich nun über die Gebühr — erklärte,<lb/>er könne Schwiegerſöhne zu Dutzenden bekommen, wenn Ecko die Sache<lb/>in’s Gereuen fiele; und er verlange zu wiſſen, ob das junge Paar willig<lb/>auf die ausgeſprochene Bedingung eingehe oder nicht?<lb/>
+            </p>
+            <p> <lb/>Noch einmal drückte der Sprecher Ecko auf ſeinen Seſſel zurück<lb/>und ſtellte dem Gegner vor, welches fatale Aufſehen ein ſo unväterlicher<lb/>Schritt machen würde und wie die verſtorbene Mevrouw Oudewater<lb/>denſelben mißbilligen würde, wenn ſie noch lebte. Dieſe Anſpielung war<lb/>eine ſehr feine, denn es war bekannt, daß Mynheer ſeine Frau, die er<lb/>früh verlor, ungemein geliebt hatte, obwol ſie ihrem Herkommen nach<lb/>nur eine geringe Magd, die Tochter einer Coloniſtenfamilie an dem<lb/>übel berüchtigten „beſchotenen“ Wege war.<lb/>
+            </p>
+            <p> <lb/>„O, ſie — ſie — Janna —!“ rief Oudewater und fuhr ſich in<lb/>ſein borſtiges graues Haar, „Janna weiß, was ich thue und warum ich’s<lb/>thue — ſie weiß es!“<lb/>
+            </p>
+            <p> <lb/>Er trat heftig an’s Fenſter und ſah über die kurzen weißen Vor-<lb/>hänge, welche vor den unteren Scheiben angebracht waren, hinaus:<lb/>„Herr Schnieder“, wandte er ſich plötzlich zurück gegen den Notar, „was<lb/>heißt das, da kommt der Juſtizrath van Kempen, wiſſen Sie, was<lb/>er will?“<lb/>
+            </p>
+            <p> <lb/>Der Notar verneinte, indeß ſchon eine Magd den Beſuch anmeldete.<lb/>Mynheer verließ die Upkamer, die Prachtſtube des Hauſes, um nach<lb/>dem Begehr des unerwarteten Gaſtes zu forſchen. Alles ſchwieg, nur<lb/>Netta’s Weinen hörte man und ihre ſchluchzende Verſicherung, ſie ſei<lb/>in der traurigſten Lage von der Welt. Ecko biß ſich auf die Lippen —<lb/>er dachte an Pan und ob ſie wol zu Schiffe irgend ein Meer durch-<lb/>ſtreife. Zufällig fiel ſein Auge auf das Portrait des Hausherrn und<lb/>ſeiner verſtorbenen Gattin, welche die Viſitenſtube ſchmückten — täuſch-<lb/>ten ihn ſeine Sinne, oder ſah die ſelige Janna aus ihrer Schleierhaube<lb/>und ihrer weißen Freeſe ihn wirklich mit den Augen der armen Ma-<lb/>troſen-Pan an, und lächelte der gemalte Mund ſo ernſt, faſt wehmüthig,<lb/>als es das verlaſſene Mädchen gethan hatte? Ecko vernahm nichts<lb/>mehr von dem, was ſein Sprecher ihm zuraunte, in ſeinem Mannesſtolze<lb/>verlegt und gereizt, drängte ihn der innere Aufruhr <hi rendition="#aq">alle</hi> ferneren<lb/>Heirathsverhandlungen mit einem Schlage abzubrechen und dem Bauern<lb/>ſeine Thaler und Piſtolen vor die Füße zu werfen. Er blickte auf Netta’s<lb/>verweintes Geſicht und ihm däuchte, Pan ſchlänge noch einmal ihre<lb/>Arme um ihn und ſpräche mit ihrer weichen, wie Windeshauch wogenden<lb/>Stimme: „Ich bin reicher als Netta Oudewater!“ Netta weinte um<lb/>ihren geſchmälerten Reichthum — würde ſie ſo geweint haben, wenn<lb/>man ihr das Geld ließe und dafür den Verlobten nähme? Dort ſaß<lb/>mit unbeweglichen Zügen der bevorzugte Erbvetter Mynheers, er hatte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0457" n="395" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=457"/>
+            </p>
+            <p> <lb/>vor einigen Jahren um Netta geworben und die Heirath des Vetters<lb/>und der Baſe würde jede Vermögenstheilung überflüſſig gemacht haben,<lb/>aber Netta’s Vater wies dieſe Idee entſchieden zurück, worauf der Vetter<lb/>eine andere Frau heirathete.<lb/>
+            </p>
+            <p> <lb/>Nach einer langen und peinlichen Viertelſtunde, die der Notar<lb/>dadurch verkürzte, daß er dem auf einem runden, mitten in der Stube<lb/>befindlichen Tiſche aufgeſtellten Frühſtück nach Kräften zuſprach, trat<lb/>der Bauer wieder ein; ſein wohlgenährtes Antlitz war bleich wie damals,<lb/>als Abel Upſtall’s Tod in der Zeitung geſtanden hatte; wie damals trat<lb/>eine rothe Schnittnarbe auf ſeiner Wange ſcharf hervor. Mynheer<lb/>ſetzte ſich und ſuchte eben nach einer Anrede, als ſich die Thür noch<lb/>einmal öffnete und Frau Mietje, Netta’s frühere Wärterin, in höchſter<lb/>Erregung hereinſtürzte, das junge Mädchen in ihre Arme preßte und<lb/>mit erſtickter Stimme rief: „O, mein armes Lamm, nach ſo langer Zeit<lb/>kommt <hi rendition="#aq">ſie</hi> nun doch noch wieder — aber Mynheer ſorgt für Dich, er<lb/>hat es mir geſchworen, Du biſt ihm ja immer wie eine Tochter geweſen<lb/>und — —“<lb/>
+            </p>
+            <p> <lb/>„Schweigt, Mietje!“ rief Oudewater. „Ich habe Euch Allen<lb/>Wichtiges mitzutheilen“, fuhr er mit äußerſter Selbſtbeherrſchung fort,<lb/>„Jufvrouw Netta Oudewater iſt nicht meine leibliche Tochter, ſondern<lb/>nur meine Pflegetochter. Meine eigene, liebe, einzige Tochter ver-<lb/>ſchwand in unbegreiflicher Weiſe, als kleines Kind aus dem Hauſe der<lb/>Frau Mietje Kramer, die ſie an Mutterſtatt verpflegte; ich verheimlichte<lb/>mein Unglück, weil ich hoffte, der ruchloſe Räuber meines Kindes ſolle<lb/>ſicher werden und ſich verrathen, ich bot die höchſten Summen Löſegeld<lb/>von allen Kanzeln, in allen Blättern, jedoch in ſo verſteckter Weiſe, daß<lb/>nur der Böſewicht verſtehen konnte von wem dieſe Angelobungen aus-<lb/>gingen — ich reiſte und forſchte im Inland und Ausland, ich ſuchte<lb/>zehn ſchreckliche Trauerjahre hindurch — dann nahm ich Netta Kramer<lb/>an Kindesſtatt in’s Haus und gab ihr meinen Namen, ſie war die Pflege-<lb/>ſchweſter meiner Schwanetta geweſen, Beide hatten in einer Wiege<lb/>gelegen! Die Nachbarn und Anverwandten verdachten mir dermaleinſt<lb/>meine Heirath mit der ſeligen Janna, es entſtand damals viel Gerede,<lb/>ich wollte ſpäter nicht, daß man über dem Grabe meiner Janna ſagte:<lb/>Das iſt das Ende dieſer Heirath, nun iſt auch ihr Kind geſtohlen! —<lb/>Ein gebeugter Wittmann, ein unglücklicher Vater, dachte ich mein Leid<lb/>allein zu tragen, und that es, that es bis heute. Gott hat mir geholfen,<lb/>mein Kind, meine Schwanhild lebt; Derjenige, welcher mir in bitterm<lb/>Haß durch zwanzig ſchwere Jahre mein Theuerſtes, das Kind meiner<lb/>Janna, vorenthielt, er ſteht jetzt vor Gottes Richterſtuhl, er endete als<lb/>Selbſtmörder!“<lb/>
+            </p>
+            <p> <lb/>„Abel Upſtall!“ ſagte der Vetter langſam in die Stille der Ueber-<lb/>raſchung hinein, indeß Mynheer heftig in ſein roth geblumtes Taſchen-<lb/>tuch hinein ſchluchzte. Er nickte nur als Bejahung mit dem Kopfe.<lb/>
+            </p>
+            <p> <lb/>„So — ſo —“, brummte der Vetter, „und nun hat er es doch noch<lb/>hinterlaſſen, daß Eure Netta lebt?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0458" n="396" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=458"/>
+            </p>
+            <p> <lb/>„Ja, er hat es hinterlaſſen, wenn man ihm trauen darf —!“ nahm<lb/>Frau Mietje Kramer das Wort. „Er hat aufgeſchrieben: hier haſt Du<lb/>Deine Tochter wieder, aber meine Rache an Dir iſt nicht zu Ende; wenn<lb/>Du Deine Jufvrouw ſiehſt, ſo wirſt Du erkennen, daß Abel Upſtall vor-<lb/>geſorgt hat, Du vergiſſeſt ihn Dein Lebenlang nicht mehr! — So ſchrieb<lb/>er“, rief Frau Mietje, „und ſo las es Mynheer Juſtizrath vor, denn es<lb/>fand ſich im Nachlaß und das Mädchen iſt nun fort und verſchwunden<lb/>und mich will bedünken, es wäre eben ſo gut, man finde ſie überhaupt<lb/>nicht mehr, denn —“<lb/>
+            </p>
+            <p> <lb/>Der Bauer und Ecko Doringa fuhren zu gleicher Zeit und wie<lb/>um die Redende entrüſtet zu packen, empor, ſo daß dieſe mit einem<lb/>Schrei hinter die große Wanduhr flüchtete.<lb/>
+            </p>
+            <p> <lb/>„Du redeſt von meiner Tochter, meinem Fleiſch und Blut!“ ſchrie<lb/>der Bauer.<lb/>
+            </p>
+            <p> <lb/>„Halt’ Dein gottloſes Läſtermaul!“ drohte Ecko, der bleich geworden<lb/>war wie ein Todter, und dann blickten ſich die beiden Männer an,<lb/>Mynheer und Doringa. Bei aller Selbſtſucht empfand doch der Aeltere,<lb/>er habe ſich gegen Ecko unverantwortlich benommen und der heftige,<lb/>unfreundliche Mann ſagte in ſeiner weichen Stimmung begütigend:<lb/>„Natürlich zwingt Dich Niemand ſie zu nehmen, doch iſt ſie keine zu<lb/>verachtende Braut, ich laſſe es zu ihrer Ausrüſtung auf ein paar tauſend<lb/>mehr oder weniger nicht ankommen!“<lb/>
+            </p>
+            <p> <lb/>Netta hatte ſich ſo lange in paſſiver Wehmuth mit der Härte ihrer<lb/>Lebenslage als ungeliebte Tochter eines unliebenswürdigen Vaters<lb/>beſchäftigt, daß die Ueberraſchung der neuen Schickſalswendung ihr wie<lb/>eine Art Rechtfertigung, wie eine erfüllte Ahnung vorkam. Der ange-<lb/>borene und anerzogene frieſiſche Stolz regte ſich in ihr, ſie erhob ſich,<lb/>trocknete ihr Geſicht, legte Ringe, Ohrringe, Goldkette und Ohreiſen,<lb/>ihr ganzes Geſchmeide, eins nach dem andern losneſtelnd, vor dem Haus-<lb/>herrn auf den Tiſch und ſagte: „Mynheer, Ihr habt mir, ſo lange ich<lb/>denke, die Liebe und die Pflicht einer Tochter auferlegt, bezahlen könnt<lb/>Ihr mich nicht dafür und wenn Ihr mir all’ Eure Habe brächtet, nehmt<lb/>Euer Gold und die Diamantſpangen wieder — ich zwinge Ecko Doringa<lb/>nicht, die arme Netta Kramer zu begehren zu ſeiner Frau — kommt<lb/>Mietje, wenn Ihr meine Mutter ſeid, ſo gehöre ich in Euer Häuschen,<lb/>drüben an der Dieler Haide!“<lb/>
+            </p>
+            <p> <lb/>„So iſt’s nicht gemeint, Kind“, ſagte der Bauer und hielt ſie am<lb/>Arme feſt, „ich habe Dir meinen Namen gegeben und dies Haus iſt<lb/>Deine Stätte bis Dich Dein Ehemann daraus abholt!“<lb/>
+            </p>
+            <p> <lb/>Netta blickte angſtvoll auf Ecko, deſſen Lippen ſo zitterten, daß er<lb/>kaum ein Wort hervorbringen konnte: „Ich habe nie einen Mann geküßt<lb/>und werde nie einen Andern küſſen!“ klang es in ſeine Seele, aber ein<lb/>Anderes übertönte und überwältigte Pan’s ſüße Stimme, das Gebot<lb/>ſeiner Mannesehre und Würde, er durfte Netta nicht entgelten laſſen,<lb/>was die Arme nicht verſchuldet hatte, er durfte ihr an Muth nicht nach-<lb/>ſtehen. „Es bleibt mit uns beim Alten, Netta!“ ſprach er überlaut.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0459" n="397" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=459"/>
+            </p>
+            <p> <lb/>„Gott ſei Dank!“ fiel Oudewater ein, „ſo vollenden wir die Ver-<lb/>ſchreibung, damit ich noch in dieſer Stunde ausgehe, mein Kind zu<lb/>ſuchen — wie ich ſchon ſo oft auszog, aber jetzt ſoll ich ſie ja finden!<lb/>Netta, Du kommſt nicht zu kurz, aber Du, Vetter Oudewater, Du haſt<lb/>das Hinterherſehen! Mein Kind, meine Erbin muß <hi rendition="#aq">alles</hi> haben, ſieh’,<lb/>ich konnte Dich nicht hintergehen, indem ich Dir ſtatt Deiner Baſe eine<lb/>Fremde zur Frau gab, Du biſt einer meines Blutes! Domine, Herr<lb/>Paſtor, kommen Sie herein — der Segen iſt eingekehrt — —! Endlich<lb/>— endlich!“<lb/>
+            </p>
+            <p> <lb/>Das war die Verſchreibung! Der Bauer kargte nicht gegen das<lb/>junge Paar, er verſprach in ſeiner Herzensfreude, was einer der<lb/>Sprecher, Gerd, von ihm verlangte, ſo daß Frau Mietje bereits ganz<lb/>ausgeſöhnt mit der neuen Jufvrouw war, deren Aufenthalt auszuforſchen<lb/>Mynheer ſo dringend am Herzen lag, daß er ſeine Gäſte allein beim<lb/>Feſtmahl ſchmauſen ließ und ſelbſt in die nächſte Stadt fuhr. Ehe<lb/>Ecko ſich zur Heimfahrt anſchickte, richtete Netta, die von ihrer ſchönen<lb/>Anwandlung herunter bereits in eine alltäglichere Stimmung zurück-<lb/>geſunken war, ziemlich mißtrauiſch die Frage an ihren Bräutigam, ob<lb/>er denn etwas von Pan wiſſe, da er ſich ihrer ſo lebhaft angenommen<lb/>habe? Ecko war nichts weniger als ein Lügner, er war ein offener,<lb/>gerader, guter Menſch; aber üble Stimmungen und beſonders Netta’s<lb/>Verſtimmungen waren ihm in den Tod zuwider — außerdem, war es<lb/>nicht geradezu lächerlich, wenn nicht unbegreiflich, jetzt, nachdem er vor<lb/>dem Vater in unerklärlicher Scheu über Pan geſchwiegen, nachträglich<lb/>zu geſtehen: „Ja, ich kenne ſie!“ — Nein, es ging nicht. „Wie kommſt<lb/>Du darauf?“ ſagte er heftiger als nothwendig geweſen wäre. „Wie<lb/>kann ich denn dieſe Matroſen-Pan kennen?“<lb/>
+            </p>
+            <p> <lb/>„Matroſen-Pan?“ wunderte ſich Netta.<lb/>
+            </p>
+            <p> <lb/>„Es kommt mir ſo in den Mund, weil Abel Schiffer war“, ſtotterte<lb/>der Ertappte.<lb/>
+            </p>
+            <p> <lb/>Nach dieſem Zwieſprach mußte Ecko bedacht ſein, Pan zu einer<lb/>Verleugnung ihrer gegenſeitigen Bekanntſchaft zu überreden, falls ſie<lb/>gefunden wurde, was, da nur etwa drei Wochen ſeit Abel’s Tode ver-<lb/>laufen waren, doch vorauszuſehen blieb. Ecko durfte ſie das erſte Mal<lb/>nicht vor den Anderen treffen. — Die Hochzeit ward nach dem Zeitpunkt<lb/>anberaumt, wo endlich die Tochter gefunden ſei. Zwiſchen Furcht und<lb/>Erwartung harrte Ecko daheim dieſer Kunde von der Oudewater-Plaatze.<lb/>Die Zeit verging. Mynheer konnte die Spur des Mädchens bis zum<lb/>Begräbnißtage Abel Upſtall’s leicht verfolgen, dann hatte man die Ge-<lb/>ſuchte mit einem jungen Mann auf einer Carriole fahrend geſehen —<lb/>weiter gab es keinerlei Nachrichten. Der oft getäuſchte Vater wurde<lb/>beinah tiefſinnig und endlich ſogar krank, er zweifelte, ob die ſogenannte<lb/>Matroſen-Pan, von der die Leute ſagten, ſie ſei in Gang und Arbeit ſo<lb/>wie in Kleidung einem Manne gleich, ſeine Tochter und Janna’s Tochter<lb/>ſein könne und neigte der Idee zu, Abel habe ihn noch zuletzt täuſchen<lb/>wollen. In ſeiner Unruhe ließ der kranke Bauer Ecko kommen, um auch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0460" n="398" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=460"/>
+            </p>
+            <p> <lb/>ſeine Anſicht zu vernehmen, die ihn dann auch weſentlich beruhigte, denn<lb/>Ecko war überzeugt, Pan ſei die Verlorene. Frau Mietje war auf der<lb/>Plaatze geblieben und als eines Abends der Kranke ſchlief, erzählte ſie<lb/>dem jungen Paar die Heirathsgeſchichte Mynheers: „Er war ganz<lb/>anders damals, als ich für große Magd auf die Plaatze kam“, erzählte<lb/>ſie, „wenn mir jemand geſagt hätte: ſo und ſo ſollſt Du ihn noch<lb/>einmal ſehen, wie er jetzt nämlich iſt, ich würde nicht ein Wort davon<lb/>geglaubt haben, er war ein hübſcher, ſtolzer und ſtattlicher Fent, eigen-<lb/>willig wie es die früh zu Waiſenkindern geſtorbenen Leute mit vielem<lb/>Gelde zu ſein pflegen. Es gab in ganz Friesland kein reiches und<lb/>angeſehenes Mädchen, das ihm nicht angeboten wurde, aber er kurte und<lb/>kurte und an Allen war etwas auszuſetzen. Mynheer hatte ein Weſen,<lb/>das die Dienſtleute leicht widerwillig macht, er hörte auch von Denen, die<lb/>älter und erfahrener als er waren, keinen guten Rath und hatte keine<lb/>Geduld mit den Arbeitern. Beſonders ſchlecht ſtand er ſich mit ſeinem<lb/>Knecht Abel Upſtall, immer fuhr der Bauer ihn an und immer ſchwieg<lb/>Abel verſtockt ſtill, der Knecht that das, weil es ein guter Dienſt war<lb/>und er ſparen wollte zur Heirath. Abel’s Braut hieß Janna, ſie war<lb/>von ſehr armen Leuten zu Haus und diente jetzt bei einer alten Wittwe,<lb/>die ihren Leuten gar hohen Lohn geben mußte, weil es Niemand bei ihr,<lb/>ihrer Zankſucht und Bosheit wegen, aushielt. Janna klagte auch ein<lb/>gut Theil, aber Abel gebot ihr auszuhalten wie auch er aushielt. Wenn<lb/>Janna einmal einen freien Sonntag hatte, kam ſie auf die Plaatze.<lb/>Wer von unſerer Freundſchaft Sonntags uns beſuchte, konnte mit an<lb/>den Tiſch rücken und war Mynheers Gaſt. Wir wußten aber nicht, ob<lb/>Mynheer auf Janna achtete, wenn ſie da war. Eine Abends kam<lb/>Janna, mitten in der Woche, zwei Stunden weit durch das Schneewetter<lb/>daher gerannt, ihre Frau hatte ſie mißhandelt und ſie war der böſen<lb/>Herrſchaft davon gelaufen. Ich ſprach mit Janna, als ſie in den Stall<lb/>ging, wo das Spann, das Abel Upſtall führte, ſtand; ſie traute ſich nicht<lb/>in die Küche zu kommen, noch zwiſchen die Leute, welche beim Dreſchen<lb/>auf der Diele waren, weil ſie ſich ſcheute, ſie wollte Abel erwarten und<lb/>hatte große Angſt vor ihm. Na, ich ging in die Küche und ließ ſie im<lb/>Dunkeln auf der Futterkiſte daſitzen, ich hatte das Abendbrod für die<lb/>Hausleute zu beſorgen und gedachte dem Mädchen einen guten Teller<lb/>voll Grützgebrei in den Stall zu bringen, damit ſie keinen Hunger leide.<lb/>Wie ich den Topf rühre, geht Mynheer mit einer Leuchte in der Hand<lb/>durch die Küche in den Kuhſtall und ſagt im Vorübergehen: „Zünd’ mir<lb/>meine Lampe an, ich will die K’ranten leſen!“ — Als er nach zehn Mi-<lb/>nuten nicht zurück war, wurde mir unruhig wegen der Janna und daß<lb/>der Bauer mit ihr ſchimpfe, weil ſie im Stalle ſaß — ich gehe alſo an<lb/>den Kühen entlang und will eben die Pferdeſtallthür öffnen, als mich<lb/>Einer, der hinaus ſtürzt, geradewegs zu Boden wirft, Selbiger geht dann<lb/>durch die Fallthür hinaus auf den Weg. Ich fühlte, wie der Schnee<lb/>von Außen hinein ſtob. Ich ſtehe ſchnell auf und gehe in den Pferde-<lb/>ſtall, da liegt die Janna wie eine Todte auf der Erde, Mynheer hält<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0461" n="399" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=461"/>
+            </p>
+            <p> <lb/>ſich die eine Wange, er iſt weiß wie Kalk an der Wand und das Blut<lb/>tröpfelt ihm durch die Finger: „Ich habe mich geſchrammt“, ſagt der<lb/>Bauer, „Du kannſt mir’s verbinden — brauchſt Niemanden davon zu<lb/>ſagen, ich will den Vorwand nehmen ich hätte Zahnſchmerzen!“ — „Was<lb/>iſt mit Janna?“ fragte ich. „Nun“, erwiederte Oudewater, „ich kam<lb/>aneinander mit Abel, das hat ſie erſchreckt!“ Als ich dem Bauer das<lb/>Blut abwuſch, ſah ich wol es war eine Schnittwunde. Er ſagte mir<lb/>dann, Janna müſſe nun bei uns bleiben, weil Abel ſie todt ſchlüge, wenn<lb/>er ſie zu faſſen bekäme. Janna blieb von dem Tage bei uns und wagte<lb/>ſich durch Monate nie allein aus dem Hauſe; ſie ſagte mir hernach, als<lb/>ſie in ihrer Angſt auf der Futterkiſte gewartet hätte, ſei Mynheer ein-<lb/>getreten, das arme Kind dachte es ſei ihr Bräutigam und fiel ihm in<lb/>Thränen in die Arme — ſo fand ſie Abel Upſtall, zog ſein Meſſer,<lb/>ſchnitt dem Bauer durch’s Geſicht und verſchwand in ſelber Stunde von<lb/>der Plaatze. Seit Janna bei uns als Magd aufgenommen war, ver-<lb/>änderte ſich Mynheer auffallend, er fuhr uns nicht mehr an, wenn ihm<lb/>etwas nicht nach der Mütze ging, er ließ ſich von uns Dies und Jenes<lb/>in aller Ordnung ſagen, er nahm bei Tiſch und Abends am Feuer an<lb/>unſerer Unterhaltung theil, wir hatten es noch nie ſo gut gehabt.<lb/>Janna verhielt ſich ſtill und ängſtlich, wir merkten aber er rede mit<lb/>leiſerer Stimme, weil ihre Augen voll Thränen liefen, wenn er laut<lb/>zankte und er gab ſich Mühe luſtige Dinge zu erzählen, weil Janna<lb/>dann laut lachte und die Mannsleute ſagten: „Wenn Janna lacht, ſieht<lb/>ſie in den Himmel!“ da ihr Geſicht dann ſo beſonders und lieb anzu-<lb/>blicken war. Wenn Janna rothgeweinte Augen hatte, und ſie weinte<lb/>viele Mal um Abel Upſtall, der im Zorn von ihr gegangen war, dann<lb/>wurde Mynheer unruhig und verſtimmt, ſo daß wir uns mühten der<lb/>Magd ihren alten Schatz aus dem Kopfe zu ſprechen. Aber Niemand<lb/>von uns Allen, von Mynheer bis auf den letzten Kuhjungen, vergaß<lb/>einen Tag Abel Upſtall, denn wir wußten er würde Rache nehmen<lb/>und dachten an Brandſtiftung, Viehvergiftung und ſo etwas; der Bauer<lb/>wagte nicht allein auszufahren, oder zu gehen, denn Abel war ein baum-<lb/>ſtarker Mann. Aber es geſchah nichts von ihm her; jedoch bei uns<lb/>geſchah etwas, der Bauer bereitete in aller Stille ſeine Heirath mit der<lb/>Magd Janna vor. Janna weinte in der Zeit noch mehr, aber nur des<lb/>Nachts, damit er es nicht merke, er ſah es ihr aber doch an, man ſah<lb/>ihr Alles aus den großen Augen und ich glaube er hielt ſie um ſo höher<lb/>und theurer, je ſchwerer ſie Abel vergeſſen konnte. Der Bauer hörte<lb/>nicht auf ſeine Verwandten und Bekannten und heirathete ſie. Als ſie<lb/>von der Kirche zu Haus kamen ſteckte ein Meſſer mit der Spitze im<lb/>Thürpfoſten — keine Seele wußte wer es hinein getrieben hatte, aber<lb/>wir dachten Alle unſer Theil. Ich kann wol ſagen, daß Janna in den<lb/>zwei Jahren ihrer Ehe dies Meſſer nicht aus den Augen verloren hat,<lb/>ſie erblickte es ſtets, wenn ſie etwas ſah oder dachte, das ihr lieb war.<lb/>Ich heirathete in der Zeit meinen ſeligen Mann, aber wenn ich auf die<lb/>Plaatze kam, oder Janna bei mir einſprach, ſah ich deutlich wie ſie immer<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0462" n="400" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=462"/>
+            </p>
+            <p> <lb/>dünner und bleicher wurde und die Angſt an ihr fraß. Gewiß hat Abel<lb/>bemerkt, was ich bemerkte, daß keine rechte Ruhe über Mynheer und<lb/>Janna kam und er war damit zufrieden und wartete ſeine Zeit ab.<lb/>Aber was wahr iſt muß wahr bleiben, der Bauer trug Janna auf den<lb/>Händen, jede Stunde des Tages hatte ſie ihren Willen und er ſchüttete<lb/>auf ſie an Gold und Seide, was ſie nur wünſchen konnte, es iſt noch<lb/>keine Frau über die Marſchen gegangen, die es beſſer hatte.<lb/>
+            </p>
+            <p> <lb/>„Nun, man weiß, ſchön Wetter ſteht nicht lange; bald nachdem<lb/>meine Netta jung geworden war, ward auf der Plaatze auch eine Tochter<lb/>geboren, das Kind war geſund und ſtark, aber Janna wurde ſchwächer<lb/>und ſchwächer und zehrte dahin, ich mußte die letzte Zeit mit meinem<lb/>Kinde bei ihr ſein und als ſie die Augen geſchloſſen hatte, nahm ich die<lb/>kleine Schwanhild mit in mein Haus bis ſie auf die Füße käme. Der<lb/>Bauer war ſo in Verzweiflung, daß er das Kind gar nicht ſehen konnte<lb/>ohne in Klagen auszubrechen — Leute, die ſtets ihren Willen gehabt<lb/>haben, ertragen die Hand Gottes ſchwerer als unſer Einer, der ſich von<lb/>klein auf beugen lernte. Nun, wir dachten ſchon hin und wieder, der<lb/>Bauer würde ſeinen Verſtand verlieren, als gerade ein neuer, junger<lb/>Domine in die Gemeinde kam. Selbiger Paſtor beſuchte den Wittmann<lb/>in ſeiner Betrübniß fleißig und brachte ihm Bücher; ſeitdem war Myn-<lb/>heer eben ſo viel mit ſeinen Büchern, als zuvor mit Janna und recht<lb/>beruhigt wurde er mit ſeiner Leſerei, als eines Tages ein junges Weib<lb/>mit einem kleinen Kinde an der Thür um Unterſtützung bat, indem ſie<lb/>ſich für die Wittfrau des Abel Upſtall ausgab, der mit einem Schiff<lb/>verunglückt ſei. Wir konnten das glauben, denn Abel war ſchon Matroſe<lb/>geweſen, ehedem er Knecht wurde. So gingen wir Alle getroſt unſerer<lb/>Wege — bis —“<lb/>
+            </p>
+            <p> <lb/>Frau Kramer barg ihr Geſicht in die Schürze. „Kinder, ich kann<lb/>nicht ohne Zittern an den Abend denken, wo ich die Kinder eine kurze<lb/>Viertelſtunde allein ließ, ſie ſchliefen Beide, als ich zurückkam weinte<lb/>meine Netta und Schwanhild war verſchwunden. Ich wagte erſt am<lb/>andern Tage dem Bauer die Sache mitzutheilen und nun gingen die<lb/>Leidensjahre an! — So viel ſtand feſt, nach allen Forſchungen, Abel<lb/>Upſtall, wenn er noch lebte, war nicht auf frieſiſcher Erde und erſt acht<lb/>oder neun Jahre ſpäter erfuhr man, er lebe noch und fahre auf dem<lb/>Dollart und der Ems. Die Ruhe des Bauern war wieder dahin, ob-<lb/>wol meine Netta ſeinem Hauſe alle Ehre machte und er ſich hätte<lb/>begnügen können, aber er wollte immer am liebſten Das haben, was ihm<lb/>verſagt war — na, und jetzt hat er wieder 50 Thaler Belohnung aus-<lb/>geſetzt für Denjenigen, der ihm die hinterlaſſene Pan Upſtall nachweiſen<lb/>kann — und wenn ſie gefunden iſt, dann wird das Rechte erſt angehen,<lb/>wer hätte denn einem ſolchen Geſchöpf gelehrt ſich wie eine Bauerntochter,<lb/>eine Zufvrouw zu halten?“<lb/>
+            </p>
+            <p> <lb/>Ecko, der mit großer Bewegung der Erzählung gefolgt war, die<lb/>Netta abermals zu Anklagen gegen ihr Loos veranlaßte, war ſchon im<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0463" n="401" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=463"/>
+            </p>
+            <p> <lb/>Begriff für Matroſen-Pan eine Lanze zu brechen, als ein forſchender<lb/>Blick ſeiner Braut ihn noch rechtzeitig zur Vorſicht mahnte.<lb/>
+            </p>
+            <p> <lb/>Die von Mynheer Oudewater ausgelobten 50 Thaler für Pan’s<lb/>Wiederauffindung brachten eine große Bewegung unter dem Landvolke,<lb/>beſonders unter den geringen Leuten hervor — eine ſolche Summe und<lb/>blos dafür, daß man ein Mädchen ſieht und berichtet: Ich habe ſie da<lb/>und da geſehen! war unerhört. Die beiden Burſchen Cunrad und Wilm,<lb/>die bei der Leiche gewacht hatten, waren die geſuchteſten Perſonen der<lb/>Umgegend, ſie machten natürlich auch ſelbſt Entdeckungsreiſen und ihre<lb/>Beſchreibung der Verlorenen nahm, von Woche zu Woche, einen phanta-<lb/>ſtiſchern Charakter an. Wer eine fremde Geſtalt nahen ſah, fand ſich<lb/>ſicher enttäuſcht, wenn dieſelbe ohne Südweſter, Stiefel und Wamms<lb/>gefunden wurde. Aber was alle den Sehenden nicht gelang, das erreichte<lb/>ein altes, halbblindes Mütterchen. Beſagtes Weiblein hatte für einen<lb/>Thaler Aepfel und Semmeln gekauft und ſaß mit blaugefrorener Naſe<lb/>neben dieſem Vorrath, hart an dem Gymnaſium einer Emsſtadt auf<lb/>der Straße. Da die Schüler erſt um zehn eine freie Viertelſtunde<lb/>hatten und die Thurmuhr auf fünf Minuten vor zehn zeigte, ſo betrach-<lb/>tete die ehrſame Hökerin den einzigen Gegenſtand, der ſich auf der<lb/>Straße, einſtweilen zwar ſehr langſam, bewegte, ein Fuder Torf, das ein<lb/>elender Gaul zog, der von einem langen Mädchen mehr ermuntert und<lb/>geſtützt, als geführt wurde. Nach drei Minuten hatte das Fuhrwerk<lb/>die Höhe des Gymnaſiums erreicht, noch eine Minute und die Alte<lb/>erblickte ſchon die Rückſeite des Fuders und — was war das? Bekam<lb/>„der alte Semmeltürke“ den Veitstanz? Weshalb ſtieß er ſeinen Vor-<lb/>rath und ſeine Feuerkieke zu Boden, überließ ſeinen alten Regenſchirm<lb/>dem Spiel der luſtigen Winde? Erblickte er denn einen Südweſter,<lb/>Stiefel, Wamms rc.? Nein, aber ein paar blonde Zöpfe ſah die<lb/>Hökerin und eilte das Glück wörtlich am Schopf zu erfaſſen. „Pan —<lb/>Matroſen-Pan!“ rief ſie halb erſtickt vor Erregung. Der Gaul blieb<lb/>ſofort ſtehen, dann das Mädchen.<lb/>
+            </p>
+            <p> <lb/>„Weshalb nennt Ihr mich Matros, ich habe die Schifferjacke aus-<lb/>gezogen!“ ſagte die Angerufene.<lb/>
+            </p>
+            <p> <lb/>„Mein Gott, du Gerechter, Barmherziger, weil — —“<lb/>
+            </p>
+            <p> <lb/>„Hurrah, hurrah!“ riefen die Quartaner, als ſie die Aepfel und<lb/>Semmeln auf der Erde liegen ſahen.<lb/>
+            </p>
+            <p> <lb/>„Matroſen-Pan — hier!“ rief die Hökerin, um ihre Semmeln und<lb/>Aepfel zu retten. Richtig blieben ſie liegen und Alles ſtürzte auf das<lb/>Fuder Torf. Die Hausthüren flogen rings wie auf ein Zeichen auf<lb/>und was Füße hatte umwirbelte die Gefundene, wie Bienen die Königin<lb/>des Schwarmes.<lb/>
+            </p>
+            <p> <lb/>„Was wollt Ihr?“ ſagte Pan drohend und ſchwang die Peitſche.<lb/>Ohne die Dazwiſchenkunft eines Magiſtratsmitgliedes würde ſie es noch<lb/>lange nicht erfahren haben, weil es ihr Alle zugleich erzählten; der Vater<lb/>der Stadt aber gebot Ruhe und ſprach: „Du wirſt von Mynheer Oude-<lb/>water überall geſucht, Du biſt ſeine Tochter, er hat Geld darauf gelobt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0464" n="402" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=464"/>
+            </p>
+            <p> <lb/>Dich zu finden, komm nun, ich werde Dich ſelbſt zu ihm bringen, der<lb/>Zug geht in einer Viertelſtunde nach Friesland hinunter.“<lb/>
+            </p>
+            <p> <lb/>„Ich habe ſie bei den Haaren gefunden!“ ſchrie die Hökerin und<lb/>rief alle Welt zu Zeugen auf.<lb/>
+            </p>
+            <p> <lb/>„Ich wollte ich hätte die Haare abgeſchnitten wie die anderen<lb/>Mädchen!“ murmelte Pan, noch immer die Peitſche in der Hand, um<lb/>die Menge abzuwehren.<lb/>
+            </p>
+            <p> <lb/>„Unſinn“, ſchalt der Vater der Stadt — „komm jetzt zum Bahn-<lb/>hof — Herr des Himmels, wird der alte Mann eine Freude haben!“<lb/>
+            </p>
+            <p> <lb/>Pan ſah ungewiß vor ſich hin, plötzlich belebte ſich ihr Geſicht, ſie<lb/>hob den Kopf empor und ſprach entſchloſſen: „Wenn etwas Wahres<lb/>daran iſt, daß mich Mynheer Oudewater ſucht und ich ſeine Tochter ſein<lb/>ſoll, ſo leihe mir einer von Euch — <hi rendition="#aq">zehn</hi> Thaler!“<lb/>
+            </p>
+            <p> <lb/>Pan erblaßte, als mehrere Bürger zu dieſem Darlehn erbötig<lb/>waren, ja ihr noch weit mehr geben wollten — alſo war die Sache doch<lb/>ernſt! — Sie legte den Arm um den Hals des hinfälligen Pferdes und<lb/>ſprach leiſe: „Ich kann jetzt nicht fortgehen, ich muß dieſen Torf abliefern<lb/>und das Pferd nach Haus bringen, morgen gegen drei Uhr werde ich allein<lb/>zu Oudewater-Plaatze kommen und ſehen, was Mynheer verlangt!“<lb/>Dabei blieb es denn auch, obwol ſich ein Dutzend Leute erboten das<lb/>Roß zurückzuführen. „<hi rendition="#aq">Mir</hi> iſt es anvertraut, ich bring’s zurück!“ ſie<lb/>beharrte auf ihrem Willen, ermunterte das Pferd und weiter fuhr ſie,<lb/>als ob nichts geſchehen ſei. Wer das Mädchen, drei Stunden ſpäter,<lb/>neben dem leeren Wagen durch einſame Moor- und Haidewege wandern<lb/>ſah — immer auf dem rauhen Sandrücken neben den Geleiſen der hol-<lb/>perigen Sommerwege gehend, um das Thier durch Zuſpruch und Bei-<lb/>ſpiel zu ermuthigen, der ahnte freilich nicht, daß ſie die Heldin ſo wun-<lb/>derſamer und trauriger Verhältniſſe ſei, die eben im Licht des heutigen<lb/>Tages auf den Gipfelpunkt ihrer irdiſchen Exiſtenz gehoben war. Das<lb/>Haus, welchem Roß und Mädchen entgegen ſtrebten, lag ſehr unwirthlich<lb/>und einſam, ſo einſam wie eine vom Meer ausgeworfene Muſchel am<lb/>Strande und ſo hoffnungslos und verkommen ſah es auch aus. Der<lb/>Umblick vom Haidhauſe war ein unbegrenzter, dieſer Umſtand mag es<lb/>denn auch erklären, daß alle zehn Minuten ein bleicher, alter Frauen-<lb/>kopf über der halben Thür erſchien und hinausſpähte. „Siehſt Du<lb/>noch nichts?“ rief von drinnen eine kranke, hüſtelnde Männerſtimme, „ſie<lb/>könnten jetzt doch lange zurück ſein, aber Eine, die immer auf dem Waſſer<lb/>war, weiß natürlich nichts von Pferden und Torfverkauf — ich habe es<lb/>ſtets geſagt, Dörke, es taugt nichts, ſein Dienſtvolk von der Landſtraße<lb/>nehmen, man iſt immer in Unruhe und hat kein Zutrauen. Dörke,<lb/>ſagte ich ſchon gleich, behalt’ dies wunderliche Mädchen nicht da, mag<lb/>ſie mehr arbeiten als andere Mägde — einerlei, ſie kam daher, Niemand<lb/>weiß wohin, woher, ſie konnte ja in die Haide geflüchtet ſein wegen einer<lb/>Unthat, oder wegen Gott weiß was — ! Ordentliche Leute laufen nicht ſo<lb/>obdachlos im Moor und in der Haide — —“<lb/>
+            </p>
+            <p> <lb/>Ein heftiger Huſtenanfall unterbrach den reizbaren Kranken, indeß<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0465" n="403" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=465"/>
+            </p>
+            <p> <lb/>die Frau kummervoll erwiederte: „Du weißt am beſten, Tobbi, daß wir<lb/>ſeit Jahren keine Dienſtboten mehr hier halten können, weil es ſo ein-<lb/>ſam iſt und weil — weil wir ſie nicht zahlen. Pan hat noch keinen<lb/>Deut bekommen und ſie fragt Gott ſei Dank auch nicht darnach, ſondern<lb/>arbeitet von früh bis ſpät und iſt mit Allem zufrieden; ärgere Dich nicht<lb/>Tobbi, ich will ein Stück hinausgehen, ob ich ſie vernehme.“<lb/>
+            </p>
+            <p> <lb/>Wirklich hörte Dörke jetzt das Knarren des Wagens, aber Tobbi<lb/>ärgerte ſich auch nach dieſer Mittheilung, weil Pan den Torf gewiß zu<lb/>billig verkauft, das Pferd abgehetzt und die Beſorgungen vergeſſen hätte.<lb/>Alle dieſe Beſorgniſſe beſtätigten ſich nun zwar nicht, aber der kranke<lb/>Mann gerieth trotzdem in heftigen Zorn, als Pan mittheilte, ſie müſſe<lb/>heute, bei Aufgang des Mondes, das Haus verlaſſen, da ihre Angehörigen<lb/>nach ihr verlangten.<lb/>
+            </p>
+            <p> <lb/>Tobbi nannte ſie eine undankbare Landläuferin, bis ihm Pan<lb/>erwiederte: „Ich habe das ſelbſt gedacht und wollte Euch ein Kopfgeld<lb/>anbieten, da ich ja nicht wie eine Magd meinen Dienſt aushalte!“ Sie<lb/>legte gutmüthig die erborgten zehn Thaler vor den keifenden Alten und<lb/>fügte entſchuldigend hinzu: „Wenn ich mehr hätte, ſo ſollte es mehr<lb/>ſein!“ Der Kranke hörte vor lauter Staunen auf zu huſten und die<lb/>kummervolle Frau weinte ſtill vor ſich hin. „Ich fürchtete wol“, ſchluchzte<lb/>ſie, „daß uns verlaſſenen Leute nun auch noch das Unglück träfe, Dich zu<lb/>verlieren!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ja und gerade wo ich ſo krank bin, trifft uns dieſer neue<lb/>Schlag!“ zürnte Tobbi.<lb/>
+            </p>
+            <p> <lb/>Die wetterkundige Matroſen-Pan wußte ohne Kalender genau, wenn<lb/>der Mond aufging, ihre Reiſezurüſtungen waren leicht gemacht. „Willſt<lb/>Du nicht lieber in Deinem Frauenanzug zu Deinem Vater gehen?“ ſagte<lb/>die Hausmutter, die natürlich die Veranlaſſung von Pan’s Abreiſe heraus-<lb/>gefragt hatte, als Pan nach dem Südweſter verlangte, „Mynheer möchte<lb/>ſich erſchrecken, wenn — —“<lb/>
+            </p>
+            <p> <lb/>„Möke (Tante)“, lächelte Pan, „er muß mich nehmen wie ich bin,<lb/>und nun ich die Probe gemacht habe, weiß ich’s ja, ich gewöhne mich<lb/>nicht an’s Feſtland!“<lb/>
+            </p>
+            <p> <lb/>„Nun hier war’s auch ſchwer“, ſeufzte die Alte, „aber in den fetten<lb/>Marſchen und mit all dem Gelde da iſt’s leicht!“<lb/>
+            </p>
+            <p> <lb/>Pan ſchüttelte den Kopf, bat um den Segen der beiden Alten und<lb/>ſetzte dann ihren Südweſter auf. Die Matrone blickte ihr noch lange<lb/>nach, wie ſie dahin ſchritt und der noch niedrig ſtehende Mond ihr einen<lb/>langen, langen Schatten anhing.<lb/>
+            </p>
+            <p> <lb/>Mynheer Oudewater ſchlief dieſe Nacht auch nicht, obwol er plötz-<lb/>lich wieder geſund geworden war. Morgen ſollte ſie ja kommen, ſeine<lb/>Schwanhild; wären nur nicht die Stunden ſo lang, ſo lang geworden!<lb/>Mit Tagesanbruch weckte Mynheer ſein Dienſtvolk und nun ging ein<lb/>Rumoren unter dem langen, hochgegiebelten Ziegeldache los, als ſollte<lb/>die ganze Plaatze demolirt werden; es wurde gewaſchen, geputzt, gebacken,<lb/>geſchlachtet und Mynheer ſtand wie ein commandirender Feldherr in-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0466" n="404" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=466"/>
+            </p>
+            <p> <lb/>mitten des geſchäftigen Amazonenſchwarmes. Wohin die wuchtige Fauſt<lb/>einer frieſiſchen Plaatzenmagd fällt, da wächſt wahrlich kein Gras mehr,<lb/>leiſe ging’s eben nicht zu bei der Arbeit. Netta und ihre Mutter<lb/>kämpften mit bitterer Enttäuſchung, die verlorene Tochter war durch ihr<lb/>langes Verſchwinden allmälig faſt zur Fabel geworden, nun ſollte ſie<lb/>plötzlich in Fleiſch und Bein kommen, die beiden Frauen fühlten das<lb/>wie einen Eingriff in ihre verjährten Rechte. Pan hätte auch um ein<lb/>oder zwei Uhr kommen können, von Mittag an war Alles in tadelloſer<lb/>Ordnung und Mynheer’s raſtloſe Beine ſteckten in neuen, wollenen<lb/>Strümpfen und in den beſten Kniehoſen von feinem, ſchwarzen Laken.<lb/>Pan hätte kommen können, aber ſie kam nicht; man konnte doch den Klei-<lb/>weg, der vom Sommer her noch hart und glatt wie eine Diele war,<lb/>nach beiden Seiten hinab ſchauen — kein Wagen zu erblicken. Die weiten<lb/>Wieſenſtrecken, regelmäßig von Canälen durchſchnitten, lagen blaugrün<lb/>vom ungetrockneten Nachtthau und Seenebel da, das Vieh war längſt<lb/>eingetrieben, nur ein paar alte Pferde, ſogenannte „Twieweler“, Zweifler,<lb/>ob ſie ſich den Winter durch noch von ihrem Gnadenbrod am Leben<lb/>erhalten würden, ſtelzten ſteifknochig umher. Wie von einer dunklen<lb/>Woge ward das Beſitzthum Mynheers von dem hohen Seedeich, nach<lb/>der Waſſerſeite hin, umzogen; der Frieſe ſagt mit dem Holländer: „Gott<lb/>ſchuf das Meer, wir ſchufen die Deiche“. Die Errichtung der berühmten<lb/>chineſiſchen Mauer war ſicher weniger mühſam und koſtbar, als dieſer<lb/>doppelte Gürtel, der ganze Länder umſchlingt und von dem ihre Exiſtenz<lb/>bedingt wird. Mynheer blickte melancholiſch und gleichſam aus Ge-<lb/>wohnheit, zu dieſem, ſeinem Deich empor, als ſeine rieſige Taſchenuhr<lb/>auf drei zeigte und kein Wagen kommen wollte — da gewahrte er eine<lb/>Geſtalt, oben auf dem haushohen Erdwall, die mit weiten Schritten<lb/>herankam, er würde gewettet haben, ein Mann im Südweſter, wenn<lb/>nicht der Wind wüthig an dem braunen Frauenrock der Erſcheinung<lb/>gezerrt hätte. Oudewater’s Herz drohte ſtill zu ſtehen, die zwanzig<lb/>Jahre hindurch ſchmerzende Wunde drohte in dieſem Augenblick tödtlich<lb/>zu werden, in dem widerſprechenden Gefühl unbegrenzter Freude und<lb/>des Erſchreckens über den Aufzug der Vielbeweinten und Geſuchten.<lb/>Er hielt ſich mit ſeinen fetten, zitternden Händen an einem Schlagbaum<lb/>aufrecht, der Hut wehte ihm vom Kopfe, aber er merkte es nicht, er<lb/>beobachtete wie die Kommende ſtutzte, dann eilig einen der vom Deich<lb/>niederführenden Pfade einſchlug, über einen Graben ſprang, die Wieſe<lb/>durchſchritt und jenſeits des Schlagbaumes ſtill ſtand. „Schwanhild?“<lb/>ſagte der Alte unſicher, das „Ja“ beinah fürchtend.<lb/>
+            </p>
+            <p> <lb/>„Ja!“ tönte eine weiche, bewegte Stimme. Pan nahm den Hut<lb/>ab, die blonden Zöpfe fuhren an den Schultern herunter, die grauen<lb/>Augen leuchteten auf und der Mund lächelte — lächelte ſüß und won-<lb/>nig, trüb und keuſch, kindlich und doch wie nur ſchwere Erfahrung<lb/>lächelt.<lb/>
+            </p>
+            <p> <lb/>„Schwanetta, mein Kind, meine Tochter, Du Kind meiner<lb/>Janna!“ tönte es von den Lippen des grauen Mannes, und auf einmal<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0467" n="405" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=467"/>
+            </p>
+            <p> <lb/>lag ſie in ſeinen Armen, er zog ſie, die ihn an Länge ein gut Stück<lb/>überragte, zu ſich herab und flüſterte:<lb/>
+            </p>
+            <p> <lb/>„Ja, das ſind Janna’s Augen, das iſt ihr Lächeln, ich habe das<lb/>Ebenbild meiner Janna wieder — ſag’ mir — wie erkannteſt Du mich,<lb/>wie wußteſt Du, ich ſei Dein Vater?“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß nicht“, fragte Pan ſich ſelbſt und ihn; „habe ich vielleicht<lb/>einmal von Euch geträumt? Aber ich ſah Euch an und wußte: das iſt<lb/>mein Vater!“<lb/>
+            </p>
+            <p> <lb/>„Komm, komm“, ſagte er und faßte ihre Hand, „komm in unſer<lb/>Haus!“ und er zog ſie unermüdlich fragend und redend des Weges über<lb/>die lange Dreſchtenne, in die Küche, ſo daß Netta und die Mägde auf-<lb/>ſchrieen, als er rief: „Hier iſt ſie!“ und ſie dann den Ankömmling er-<lb/>blickten.<lb/>
+            </p>
+            <p> <lb/>„Herr Gott, das iſt ſie?“ ſtotterte Netta wie entſetzt. Der Bauer<lb/>blickte nun auch auf ſeine Tochter — er ſah ein fremdes, unſchönes<lb/>Geſicht, jetzt wieder kalt und ausdruckslos, eine lange, ungelenke Geſtalt<lb/>in Stiefel und Friesjacke.<lb/>
+            </p>
+            <p> <lb/>Mynheer erröthete. „Zieh’ Netta’s Kleider an, ehe ich Dich den<lb/>anderen Leuten zeige!“ ſagte er und ließ ihre Hand los. „Ich hatte das<lb/>ganz vergeſſen, geh’, meine Tochter!“<lb/>
+            </p>
+            <p> <lb/>Pan ging mit Netta in die Kammer, in die Wiederſehensfreude<lb/>war der erſte Wermuthstropfen gefallen.<lb/>
+            </p>
+            <p> <lb/>Um die Wahrheit zu geſtehen, ſah Pan, nachdem ſie aufgeputzt<lb/>war, noch länger und eckiger aus, denn zuvor, und die zierliche, in ihren<lb/>Bewegungen gekünſtelte Netta gewann ungemein ihr gegenüber. Ja,<lb/>hätte man ſchwere Arbeiten von ihr gefordert, Arbeiten, gleich denen im<lb/>Haidehauſe, Pan würde ſich auf dem Platze vor Allen hervorgethan<lb/>haben; aber Tag für Tag die kleinen, müheloſen und doch anſpruchs-<lb/>vollen Verrichtungen des täglichen Lebens beſorgen — das lernte Pan<lb/>nicht, ſie konnte den Kaffeetiſch nicht zierlich ordnen und Thee oder<lb/>Kaffee appetitlich eingießen, ſie konnte nicht die kleinen Näſchereien und<lb/>Bäckereien anfertigen, deren Bereitung die Bäuerin nie den Händen der<lb/>Magd überläßt; Pan, und das war das Schlimmſte, konnte ihre Stan-<lb/>desgenoſſen nicht empfangen und unterhalten, ſie war fremd in alle den<lb/>Dingen, welche das ländliche Leben bilden, und das Stilleſitzen über<lb/>einer Handarbeit war ihr eine Qual. In den erſten Tagen hatte der<lb/>Vater geſagt: „Schneid’ Dir die langen Haare ab, damit Du die Gold-<lb/>mütze tragen kannſt!“<lb/>
+            </p>
+            <p> <lb/>„Er“, entgegnete Pan, „ich meine Abel Upſtall, hat mich geſchlagen,<lb/>weil ich ſie nicht abſchneiden wollte!“ Sie ſagte das zögernd, es war<lb/>beinahe, als betrachte ſie dieſe Zöpfe wie ein Zeichen ihrer weiblichen<lb/>Würde, ein Symbol ihres Frauenthums, das ſie bis aufs Aeußerſte<lb/>vertheidigen müſſe, ihre Augen nahmen wieder jenen bittenden und doch<lb/>ſo tiefen, entſchiedenen Ausdruck an.<lb/>
+            </p>
+            <p> <lb/>„So?“ brauſte Mynheer auf, „und Du denkſt auch mir ungehorſam<lb/>zu ſein?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0468" n="406" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=468"/>
+            </p>
+            <p> <lb/>„Mein Vater“, war die ſanfte Antwort, „ich thue Alles, wenn ich<lb/>nur ſo werden kann, wie Ihr mich wollt!“<lb/>
+            </p>
+            <p> <lb/>„Behalt’ die Haare — behalt’ ſie“, rief Oudewater, „ich bin Dein<lb/>Vater, ich bin kein Tyrann, wie jener unſelige Kinderräuber; Mynheer<lb/>Oudewater’s Erbin kann gehen, wie ſie will, ganz wie ſie will, Niemand<lb/>hat darein zu reden. Du gleichſt Deiner Mutter, Du würdeſt wie ſie<lb/>geworden ſein, wenn nicht — — nun, ich denke doch, Du wirſt nicht aus<lb/>der Art ſchlagen und lernen, was Deiner Stellung zuſteht; denn wo die<lb/>Erſten des Landes hingehören, ſieh’, da müſſen die Oudewaters Platz<lb/>nehmen!“<lb/>
+            </p>
+            <p> <lb/>Hätte Pan ſich frei fühlen dürfen, ſie wäre liebenswürdig, vielleicht<lb/>hübſch geweſen; aber ſo, gezwungen ſich in unliebe Formen einzuengen,<lb/>immer in Angſt, Mynheer zu reizen, der, zwiſchen Liebe und Eitelkeit, oft<lb/>aus der weichſten Stimmung zum heftigſten Zorn überſprang, wenn<lb/>Pan’s Geſchick ſeinen Erwartungen nicht entſprach — ſo ſpielte ſie eine<lb/>traurige, unnatürliche Rolle, die ihr noch erſchwert wurde, da Netta eine<lb/>heuchleriſch verſteckte Abneigung gegen das „Meermädchen“ hegte, die ſie<lb/>antrieb, Pan’s Mängel beſtmöglichſt an den Pranger zu ſtellen. Pan<lb/>und Netta waren ſo gar verſchiedene Naturen, daß auch die Erſtere ihre<lb/>Gefährtin dann nicht hätte lieben können, wenn ſie nicht Ecko Doringa’s<lb/>Braut geweſen wäre.<lb/>
+            </p>
+            <p> <lb/>Ecko blieb unter allerhand Vorwänden von der Plaatze fern, ſo daß<lb/>der Winter kam und die Canäle zufroren, ehe denn er ſich dort wieder<lb/>einſtellte. Als das Eis hielt und er die kleine Reiſe zu Schlittſchuh<lb/>machen konnte, entſchloß ſich Ecko endlich, dem gefürchteten Wiederſehen<lb/>entgegenzugehen. Wenn er ſo zu Fuß ankam, war es ihm am leichteſten,<lb/>Pan zuvörderſt unter vier Augen zu ſprechen und ihr zu ſagen, er habe<lb/>sich nicht entſchließen können, ihrer gegenſeitigen Bekanntſchaft zu er-<lb/>wähnen. Schon tauchte das rothe Dach der Plaatze vor Ecko auf und<lb/>er mäßigte die langen, tactmäßigen Züge ſeiner Breinermoorer Schlitt-<lb/>ſchuh, um noch einmal zu erwägen, wie er Pan finden würde, wie er<lb/>ihr entgegentreten wollte — da ſchwebte aus einer Canalbiegung eine<lb/>hohe Frauengeſtalt daher, ſie wiegte ſich im pfeilſchnellen Flug über die<lb/>blitzende Eisfläche wie eine tanzende Elfe. Es war eine Sicherheit, eine<lb/>Hingabe und Selbſtvergeſſenheit in dieſer Bewegung, deren Harmonie<lb/>ſelbſt den geübteſten Eisläufer überraſchen mußte — wirklich ſtieß Ecko<lb/>einen unarticulirten Laut aus, als er die Schlittſchuhläuferin ſah und<lb/>zugleich gewahrte, wie zwei lange, blonde Zöpfe ihren Bewegungen nach<lb/>rechts und links folgten. „Pan!“ rang es ſich von ſeinen Lippen. Die<lb/>Eistänzerin ſtutzte und nach wenigen Secunden ſtand ſie mit von der<lb/>Luft gerötheten Wangen, freudig und bewegt ſchimmernden Augen und<lb/>leicht geöffneten Lippen vor ihm.<lb/>
+            </p>
+            <p> <lb/>„Ich bin Dir entgegen gekommen“, ſprach Pan unter etwas raſche-<lb/>ren Athemzügen, „um Dir zu danken, daß Du nichts von jenem Tage<lb/>ſagteſt, wo Abel Upſtall begraben wurde. Du thateſt Recht, Ecko, wir<lb/>Beiden kennen einander nicht für dieſe Welt!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0469" n="407" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=469"/>
+            </p>
+            <p> <lb/>„Pan — Pan — wie redeſt Du! Tauſend und tauſend Mal be-<lb/>reute ich, Dich an jenem Tage nicht feſt gehalten zu haben und hätten<lb/>Himmel und Erde ſich dazwiſchen geſtellt, ich konnte Dich im Herzen<lb/>nicht verloren geben, bis zu der Stunde, wo ich erfuhr, Du ſeieſt Ju-<lb/>fvrouw Oudewater. Da nahm ich mein Schickſal, denn ich wußte, das<lb/>Deine war in Ueberfluß geſichert. Du biſt nun nicht mehr verlaſſen und<lb/>allein!“<lb/>
+            </p>
+            <p> <lb/>„Ecko, wenn Du mich kennteſt, Du wüßteſt, daß ich mehr allein<lb/>bin, als damals neben Abel’s Leiche. Als Du mir ſagteſt, es gezieme<lb/>einer Frau nicht, Das zu arbeiten, was der Mann ſich als ſeine Auf-<lb/>gabe zurechnet, als Du mir ſagteſt, ich ſolle mich nach Frauenart halten,<lb/>da ſetzte ich Dein Wort über mein Begehr und ging in ein armes Haus,<lb/>um dort Magd zu werden — ich war Knecht und Magd und Alles zu-<lb/>gleich, bei aller Arbeit hatte ich keine Zeit, recht traurig zu werden, aber<lb/>ſeit ich hier bin, da brennt mir der Boden unter den Füßen, ich bin wie<lb/>ein Gebundener, welcher nur aufwacht, um zu fragen: werde ich heute<lb/>frei? — Ecko, Ecko, ich wollte, ſie hätten mich nicht gefunden, Netta war<lb/>beſſer an meiner Stelle und Vater muß ſich ſchämen, einen groben Ma-<lb/>troſen zur Tochter zu haben!“ Pan’s Antlitz zuckte, als ſich, in leiden-<lb/>ſchaftlicher Bewegung, das traurige Bekenntniß von ihren Lippen rang;<lb/>aber ihre grauen Augen wurden nicht wie zum Weinen, ſondern ſie leuch-<lb/>teten im zornigen Feuer, ſie war zu ſehen wie ein gefeſſeltes junges<lb/>Roß! Als Ecko immer ihre Hand feſt in der ſeinigen hielt, riß ſie ſich<lb/>los, beſchrieb einen ungeheuren Bogen um ihn und ſtand dann plötzlich<lb/>wieder da. „Ich habe die Freude nicht gelernt, Ecko, wie Ihr ſie habt<lb/>und kennt; ſieh’, das iſt’s, weshalb Niemand ein Herz zu mir faſſen<lb/>kann und ich zu Niemandem. Weinen kann ein Kind von Natur, aber das<lb/>Lachen lernt es!“<lb/>
+            </p>
+            <p> <lb/>„Pan, Du glaubſt nicht, was Du ſprichſt, wenn Du ſagſt, Niemand<lb/>faßt ein Herz zu Dir und Du zu Niemandem, Du weißt beſſer, daß es<lb/>anders iſt!“<lb/>
+            </p>
+            <p> <lb/>„Ja, es iſt anders!“ entgegnete Pan nach kurzem Sinnen. „Land<lb/>und Meer tragen nichts, an das ich ſo denken möchte, um es mit Dir zu<lb/>vergleichen — aber es iſt eine Kimmung, ein Nebelbild, auf welches<lb/>kein Schiffer ſteuert, weil es noch niemals einer erreicht hat! Wenn<lb/>wir einander erreichen könnten, Du würdeſt erkennen, daß Pan auf der<lb/>Erde ein Baum ohne Wurzel iſt, der nirgends anwächſt, und weil keine<lb/>Ruhe, kein Wachsthum in unſerm Geiſt ſein könnte, deshalb faſſen auch<lb/>wir kein Herz zu einander!“<lb/>
+            </p>
+            <p> <lb/>Sie ſchritt vorwärts. Ecko ſchwieg, man hörte nur das klingende<lb/>Aufſchlagen und ſplitternde Fortſchneiden der im Gleichſchritt bewegten<lb/>Schlittſchuheiſen, bei einer neuen Biegung des Eisweges ſagte Ecko ge-<lb/>kränkt: „Es iſt gut, daß Deine Liebe ſo beſonderer Art iſt, wie gar keine<lb/>andere; es wird uns nun Beiden leichter ſein, zu thun, was gethan wer-<lb/>den muß! Ich bin für Netta jetzt ja Alles, was ſie auf der Welt hat!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0470" n="408" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=470"/>
+            </p>
+            <p> <lb/>„Laß ſie nie anders denken“, fügte Pan ernſt hinzu, „denn Netta<lb/>hat keine Natur zum Vergeben!“<lb/>
+            </p>
+            <p> <lb/>Ecko ſtutzte, es berührte ihn, wie Recht Pan hatte und wie groß ſie<lb/>neben der kleinlichen Rache daſtand, die er ſoeben an ihr nahm; er<lb/>wollte ihre Hand ergreifen, aber ſie hatte ſich bereits in entgegengeſetzter<lb/>Richtung entfernt, ihm überlaſſend, ſeinen Weg allein zu verfolgen.<lb/>
+            </p>
+            <p> <lb/>Als Ecko Mynheer ſeinen Glückwunſch abſtattete, nahm der Letztere<lb/>denſelben ziemlich kühl hin. „Hätte ich <hi rendition="#aq">Das</hi> gewußt“, meinte der Alte,<lb/>„ich würde mich beſſer noch einmal verheirathet haben, damit doch eine<lb/>Frau im Haus iſt, die den Mägden befiehlt!“<lb/>
+            </p>
+            <p> <lb/>Auch Netta war in gereizter Stimmung, weil der Verlobte ſo<lb/>lange ausblieb, weil ſie ſelbſt ein armes, beraubtes Kind ſei — weil —<lb/>weil — die Gründe waren unerſchöpflich und ſie deutete auf ihre jetzige<lb/>und demnächſtige Stellung als Frau mit der Miene einer entthronten<lb/>Königin. Noch ſelben Abend wurde der Hochzeitstag feſtgeſetzt, deſſen<lb/>Feier allemal dort begangen wird, wo die Heimat des jungen Ehepaars<lb/>ſein wird. Die Ausrufung folgte und erfüllte die nächſten Wochen und<lb/>dann ging Alles, was auf der Plaatze nur abkommen konnte, zur Hoch-<lb/>zeit. Das Feſt hatte keinen freudigen Grundton, weder Braut noch<lb/>Bräutigam fühlten das Bedürfniß, eine Herzensfreude zu verlautbaren,<lb/>Mynheer war einſilbig und verſtimmt in der Vorausſicht, daß in ſeiner<lb/>eigenen Wirthſchaft jetzt Alles verkehrt gehen würde, und Pan ſaß ſo<lb/>eckig und ſtarr da, wie immer, wenn ſie ſich beobachtet wußte und ge-<lb/>zwungen war, ihre Standesehre zu vertreten. Wenn man ſchon früher<lb/>munkelte, Schwanhild Oudewater ſei ungewöhnlich ſchwach von Verſtand,<lb/>ſo glaubten die Hochzeitsgäſte noch einen Schritt weiter gehen zu dürfen,<lb/>indem ſie Pan für „mall“, für entſchieden unklug erklärten. Nur mit-<lb/>unter lüftete ſich ihre ſtarre Maske und es kam Leben in die großen,<lb/>gleichgiltigen Augen — das geſchah, wenn der alte „Captein“ ihr gegen-<lb/>über, der mit ſeinem Schiff die abenteuerlichſten Fahrten gemacht hatte,<lb/>von ſeinen Reiſen erzählte, oder wenn er mit einigen Seemannsflüchen<lb/>grollte, daß die ſelbſtſüchtigen Landratten keine Aſyle für alte oder in-<lb/>valide Matroſen ſtifteten, ſo daß dieſe Braven in der Noth die Heimat-<lb/>loſeſten aller Heimatloſen wären auf einer Erde, wo man ſich um jeden<lb/>Landſtrolch reißt, um ihn nur ja zu pflegen und anſtändig zu verſorgen<lb/>in Spitälern, Verſorgungshäuſern rc.<lb/>
+            </p>
+            <p> <lb/>Ecko bemerkte, wie das Mädchen die Farbe wechſelte, und als er,<lb/>unwiderſtehlich durch ihr Erwachen angezogen, ſich ihr näherte, warf ſie<lb/>wieder einen ihrer leuchtenden Blicke auf ihn und flüſterte: „Jetzt weiß<lb/>ich, was ich auf dem Lande zu thun habe!“ Weiter ließ ſie ſich<lb/>nicht aus.<lb/>
+            </p>
+            <p> <lb/>Ecko’s Flitterwochen waren jeglicher Illuſion bar. Netta hatte nur<lb/>einen Wunſch und Gedanken, den: ſo reich und angeſehen zu werden, als<lb/>die Oudewaters, gegen welche ſie ſich in eine feindliche Stimmung hin-<lb/>eingrübelte. Ihr ganzes Streben ging nach Außen — Sparen, Erwerben,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0471" n="409" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=471"/>
+            </p>
+            <p> <lb/>Glänzen — und dazwiſchen klagte ſie um ihr Schickſal, das ſie zu einer<lb/>unbedeutenden Bauersfrau herabgedrückt habe.<lb/>
+            </p>
+            <p> <lb/>Mit der Plaatze war das junge Paar in faſt gar keiner Beziehung;<lb/>Netta empfand eine ſtechende Eiferſucht gegen Pan, die ſie nicht immer<lb/>in zarter Weiſe, ſondern wie einen Strafact über Ecko’s Haupt ergehen<lb/>ließ und faſt mit Genugthuung bemerkte ſie, daß ſie damit ihren Mann<lb/>wirklich verletzte. Sie irrte leider nicht, wenn ſie behauptete, Ecko ſei<lb/>kein ſehr zärtlicher Ehemann, aber ihre Art machte das Uebel nur ärger.<lb/>Ecko trug ſeine Häuslichkeit mit einer Geduld, die ſeinen Herzenszuſtand<lb/>mehr beleuchtete, als es Worte hätten thun können — die Reſignation<lb/>iſt geduldig, ein gedrücktes Gewiſſen iſt nachgiebig bis zur Schwäche!<lb/>Er ſuchte nichts bei Netta als eine Theilnehmerin ſeiner Arbeiten und<lb/>ſeines Erwerbes, er, der bislang mit Ehrfurcht zu den Frauen auf-<lb/>geblickt hatte, war von dieſem idealen Standpunkt tief herabgeſunken.<lb/>Netta war ſelbſtſüchtig, Pan herzlos — es lohnte nicht, noch andere<lb/>Weiber kennen zu lernen!<lb/>
+            </p>
+            <p> <lb/>Der Frühling kam; um die Pfingſtzeit ſchmückte ſich die ganze<lb/>Landſchaft mit dem Goldmantel der blühenden Rapsfelder, dann folgte<lb/>die Heu-, die Raps- und Kornernte und auf einmal war es wieder<lb/>Herbſt; der Herbſt kommt immer ſo unerwartet! Ecko dachte das auch,<lb/>als er auf ſeiner Carriole zu irgend einem Viehmarkt hinausfuhr.<lb/>
+            </p>
+            <p> <lb/>Er war allein, Netta hatte ſo viel daheim zu ſchaffen und zu raf-<lb/>fen, daß ſie ihn nicht begleiten konnte, er freute ſich der Stille und Ein-<lb/>ſamkeit. Denn es macht müde, immer von Thatſachen reden zu hören<lb/>und wie eine Schlingpflanze ſtets am Erdboden weiter zu ranken. Lange<lb/>hatte er nichts von der Oudewater-Plaatze gehört, aber heute zum Markt<lb/>war ſicher Mynheer, wahrſcheinlich auch Pan anweſend, denn die Oſt-<lb/>und Weſtfrieſin feiert ihre Saiſon zur Marktzeit, ſie ſitzt in den Wirths-<lb/>ſtuben an der Seite ihres Gatten oder Vaters, trinkt und ißt, ſieht und<lb/>wird geſehen, es ſieht nicht gerade ſehr unterhaltend aus für Andere,<lb/>muß aber doch ſeine Reize haben.<lb/>
+            </p>
+            <p> <lb/>Doringa hatte ſich nicht geirrt. Zwiſchen all’ den Goldhauben des<lb/>Gaſtzimmers ſchimmerte durch die ſchweren Tabakrauchgewölke ein<lb/>Mädchenkopf mit dicken, goldblonden Zöpfen und neben Pan ſaßen<lb/>Mynheer und noch ein junger Mann, den Ecko als den Sohn eines ver-<lb/>mögenden Grundbeſitzers kannte. War es denn Ecko nie eingefallen, daß<lb/>die reiche Oudewater-Erbin eine gute Partie war, daß der Vater nichts<lb/>ſehnlicher wünſchen mußte, als durch einen angeſehenen Schwiegerſohn<lb/>den Glanz ſeines Hauſes zu heben? — O, es war ſo natürlich und doch<lb/>ſo ſchwer, es nun vor ſich zu ſehen, ſich nun mit heran zu ſetzen und<lb/>über Mynheer’s Späße lachen zu müſſen! Pan hatte ſich verändert, die<lb/>Wetterröthe hatte einer klaren Bläſſe auf ihren Wangen Platz gemacht,<lb/>unter den Augen lag ein Schatten, der dieſe noch größer, noch trüber<lb/>ausſehen machte. Wol blieb dieſes räthſelhafte Angeſicht ruhig, als Pan,<lb/>deren Hand ganz weich geworden war, dieſelbe in die Rechte des Ankom-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0472" n="410" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=472"/>
+            </p>
+            <p> <lb/>menden legte, aber ſie konnte ihren Fingern nicht verbieten zu zittern<lb/>und während des Händedrucks eiſeskalt zu werden.<lb/>
+            </p>
+            <p> <lb/>Ecko war kein feiner Herr, aber die Sprache des Herzens iſt eben<lb/>der Univerſalklang, die Sphärenmuſik, vor der alle anderen Worte und<lb/>Vorurtheile verſtummen; Ecko verſtand mit Schmerz und Jubel, was die<lb/>ſtockenden Pulſe dieſer kräftigen Mädchenhand ihm verriethen. Mynheer<lb/>war, wie ſchon erwähnt, in beſter Stimmung, es war klar, er wollte vor<lb/>Pan’s Bewerber die Schweigſamkeit des Mädchens nach Kräften ver-<lb/>decken, aber ſelbſt durch dieſe Heiterkeit hindurch drangen die Dornen<lb/>einer Gereiztheit gegen ſeine Tochter, die dieſe ſelbſt zwar nicht zu be-<lb/>rühren ſchienen, Ecko aber in ihrer Seele verletzten.<lb/>
+            </p>
+            <p> <lb/>„Was ſagſt Du zu meiner Jufvrouw hier, Ecko“, lachte Mynheer;<lb/>„es iſt nicht zu denken, was ſie für eine Gelehrte iſt, ſie lernt beim<lb/>Schulmeiſter und beim Domine mehr, als die Herren ſelber verſtehen<lb/>— fremde Sprachen redet ſie, nur die frieſiſche nicht, und ſie ſchreibt<lb/>flinker, als der Gemeindeſchreiber — ha, ha — die Welt wird neu, große<lb/>Leute gehen wieder in die Schule und die Weiber greifen nach der Feder<lb/>anſtatt nach dem Kochſchleef — nun, ich rechne, wenn ſie erſt einen Mann<lb/>hat, da werden dieſe Mädchenlaunen verfliegen; nicht wahr, Ulrich Bu-<lb/>tendiek, das wird anders?“<lb/>
+            </p>
+            <p> <lb/>Der junge Mann ſah ziemlich verblüfft aus und ſchielte von der<lb/>Seite auf die unbeweglichen Züge ſeiner langen Nachbarin. Ecko kam<lb/>der bedenklichen Unterhaltung zu Hülfe, indem er von den Viehpreiſen<lb/>redete. Später vertraute ihm Mynheer unter vier Augen an: „Das<lb/>tolle Geſchöpf, die Pan, weigere ſich zu heirathen, dies ſei der Neunte,<lb/>den ſie dieſen Sommer abweiſe, aber jetzt ſei ſeine väterliche Geduld er-<lb/>ſchöpft und er werde Pan zu zwingen wiſſen.“ — Es war ein qualvoller<lb/>Tag für Ecko und die Spannung, was Pan thun werde, beherrſchte<lb/>durch die nächſten Wochen ſein Gemüth ſo verrätheriſch, daß Netta mehr<lb/>denn je über ihren Gatten eiferte und fragte.<lb/>
+            </p>
+            <p> <lb/>Als eines Tages Ecko’s Hausgeſellſchaft zu Tiſche ſaß, trat ein<lb/>fremder Bote ein und gab Ecko Doringa ein kleines Päckchen, das ihm<lb/>von der Oudewater-Plaatze geſendet wurde. Der ſonſt ſo ſichere Mann<lb/>wagte nicht, dieſe Sendung Angeſichts ſeiner Frau und ſeiner Dienſt-<lb/>leute zu öffnen, es wollte kein Biſſen mehr hinunter, bis er endlich<lb/>nach dem Dankgebet in die Stube entkommen konnte. In dem verſiegel-<lb/>ten Umſchlag lag ein rothes Foulardtuch, wie es die Schiffer um den<lb/>Hals knoten, und in dieſem ein langer, blonder Zopf! — Ecko war wie<lb/>betäubt, erſt Netta’s ſcharfe Stimme rief ihn wieder in die Gegenwart<lb/>zurück.<lb/>
+            </p>
+            <p> <lb/>„Das iſt ſo viel, ſie heirathet und legt die Goldmütze auf!“ rief<lb/>die Bäuerin boshaft.<lb/>
+            </p>
+            <p> <lb/>„Das iſt ſo viel“, ſagte Ecko ernſt, „als: ſie kann ihre Freiheit nicht<lb/>mehr auf dem Feſtlande wahren und wird jetzt ganz Matroſe!“ Ecko<lb/>küßte den Zopf und ſeine Thränen fielen auf dies Andenken der Allzu-<lb/>getreuen nieder. Netta verſtummte bei dieſem Anblick, wie damals, als<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0473" n="411" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=473"/>
+            </p>
+            <p> <lb/>ſie erfuhr, ſie ſei ein untergeſchobenes Kind — ſie hatte wieder einmal<lb/>recht — ihr Mann liebte ſie nicht!<lb/>
+            </p>
+            <p> <lb/>Selben Abend, als ſchon Alles bis auf Ecko ſchlief, kam ein Rei-<lb/>tender von der Oudewater-Plaatze.<lb/>
+            </p>
+            <p> <lb/>Mynheer ließ durch denſelben anfragen, ob die Doringas etwas<lb/>von Jufvrouw Schwanetta wüßten? Dieſelbe war verſchwunden, wäh-<lb/>rend Mynheer eine Geſchäftstour nach Holland machte, und hatte keine<lb/>Kunde zurückgelaſſen, nur eine ihrer abgeſchnittenen Haarflechten. Myn-<lb/>heer ſei ganz außer ſich, berichtete der Bote, und er gelobe ein Mal<lb/>über’s andere, ſeine Tochter, ſein geliebtes, gutes Kind, ſolle ja in allen<lb/>Dingen ihren freien Willen haben — wenn ſie nur wiederkomme. Man<lb/>hatte allgemein geglaubt, die Hochzeit der Jufvrouw ſtehe vor der Thür<lb/>und Mynheer habe dies auch immer ausgeſprochen, ſtatt deſſen nun todt<lb/>— oder in die weite Welt. „Und ſie war ſehr barmherzig“, ſagte der<lb/>Bote, „und that Niemandem was zu Leide.“<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>Das Abendroth lag über Venedig und ſeinen Lagunen wie eine<lb/>Glorie ausgebreitet — es glüht und blüht und leuchtet, als wäre die<lb/>wunderbare Lotosblume des Meeres zur Centifolie verklärt. Die ſchwarz<lb/>getheerten Fahrzeuge, welche in dieſer gluthdurchſchimmerten Fluth vor<lb/>Anker lagen, ſahen wonnig träumend aus und ihre Umriſſe hoben<lb/>ſich ſcharf ab wie ein Gemälde vom Goldgrund. Die lachenden<lb/>Gondeln ſchoſſen hin und her, gleich luſtig ſpielenden Delphinen, mit-<lb/>unter erhob ſich eine Barcarole über das leiſe flüſternde Wogengeräuſch<lb/>empor und dazwiſchen die Rufe der Gondelführer.<lb/>
+            </p>
+            <p> <lb/>Hart neben den Mauern des Giardino publico lag, an ſchlaff<lb/>herabhängender Ankerkette, der holländiſche Kauffahrer Saardam. Die<lb/>Mannſchaft mußte ihrem Vergnügen nachgegangen ſein, denn man er-<lb/>blickte nur einen einzigen Matroſen auf dem Deck und dieſer lehnte mit<lb/>gekreuzten Armen am Maſt und blickte auf die Bauwerke, welche ſo<lb/>märchenhaft aus den Fluthen emporſtiegen. Zuweilen trieb der Wind<lb/>das goldblonde Haar unter dem Lackhut hervor über Stirn und Augen<lb/>des jungen Schiffers, aber er ſchien es nicht zu bemerken. — Eine Gon-<lb/>del umſchrieb den Umkreis des Schiffes, der junge ſchwarzäugige Ita-<lb/>liener, der in leichter Haltung den einen Fuß hoch aufgeſtellt, in der<lb/>Rechten wie ſpielend das Ruder, das kleine Fahrzeug lenkte, ſtieß von<lb/>Zeit zu Zeit einen jodelnden Ruf, ein klingendes „<hi rendition="#b">Sapremi</hi>“ aus, aber<lb/>der holländiſche Matroſe war wie taub und blind.<lb/>
+            </p>
+            <p> <lb/>„Nun, Perino“, ſagte ein zweiter Italiener, der mit aufgeſtütztem<lb/>Kopf liſtig und träge blickend am Boden der Gondel lag — „habe ich<lb/>recht oder nicht? Der Marinaro da oben iſt ein Weib, oder ich will nicht<lb/>Baſtiano heißen!“<lb/>
+            </p>
+            <p> <lb/>„Zitta — zitta!“ machte Perino und ließ die Gondel neben der<lb/>Ankerkette an den Saardam anlegen, erfaßte die erſtere vom Verbeck der<lb/>Gondel aus und ſchwang ſich behende auf die Planken des Holländers.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0474" n="412" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=474"/>
+            </p>
+            <p> <lb/>Mit unhörbaren Schritten näherte ſich Perino dem Matroſen. Wer vor<lb/>Jahren Matroſen-Pan kannte, damals, als Abel Upſtall’s wuchtige, ty-<lb/>ranniſche Fauſt noch über ihrem blonden Haupt ſchwebte, der würde in<lb/>dieſem Jüngling höchſtens ihren hübſchern, kräftigen, muthig blickenden<lb/>Bruder vermuthet haben, und doch war ſie es ſelbſt. Eine energiſche<lb/>That, ein Rettungsact unſerer eigenſten Ueberzeugung, ein geiſtiges<lb/>Freiwerden, wie Pan, der innern Stimme folgend, ihre Flucht aus<lb/>dem Vaterhauſe beſchloß und ausführte — eine ſolche That drückt ihren<lb/>Stempel auf die Stirn des Muthigen. Mit dem Bewußtſein der ſittlichen<lb/>Selbſtſtändigkeit wurde ſie ſicher in ihren Bewegungen, Luft und Licht<lb/>drangen bis in ihr innerſtes Weſen und die geiſtige Kraft richtete den<lb/>Körper empor und gab ihm Genügen und Gedeihen, jene Blüthe, die<lb/>nicht blendet, aber ſich in beſcheidener Vollendung entfaltet. Perino legte<lb/>plötzlich ſeinen Arm um den Leib der Gedankenvollen und als ſie auf-<lb/>blickte, ſah ſie in ſeine dunklen, glühenden Augen, der Athem ſeines halb<lb/>lächelnden, halb verlangenden rothen Mundes unter dem zierlichen,<lb/>ſchwarzen Bart zog heiß über ihre Wangen und eine kleine Bewegung<lb/>hätte genügt, um Pan’s Lippen zu erreichen. Pan ſchrie nicht auf, ob-<lb/>wol ſie ihre Hände von den kräftigen Fingern des Gondoliers gehalten<lb/>fühlte, ihr Lackhut fiel herunter in das kunſtvolle Schneckengewinde eines<lb/>getheerten Kabels, aber der Italiener raubte ſich trotz des Vortheils ſei-<lb/>ner Stellung den beabſichtigten Kuß nicht, denn es drohte ein Etwas<lb/>aus den großen, grauen Augen des Mädchens, das ſelbſt ihm, dem Kecken,<lb/>Reſpect einflößte.<lb/>
+            </p>
+            <p> <lb/>„Wage es“, ſprach Pan zwiſchen den weißen Zähnen hervor in<lb/>einem ziemlich geläufigen Seemanns-Italieniſch, „wage es und Du<lb/>kommſt nicht lebendig vom Bord des Saardam!“<lb/>
+            </p>
+            <p> <lb/>„Aber, <hi rendition="#b">Bella mia</hi>“, entgegnete Perino mit der weichen, bittenden<lb/>Stimme, die ſeinem Volk zu Gebote ſteht — „aber willſt Du denn nur<lb/>Deine blonden Tedeschis küſſen, verſuch’s mit einem Italiener!“<lb/>
+            </p>
+            <p> <lb/>„Ich habe ein Gelübde gethan und werde es halten“, klang es tief<lb/>aus Pan’s Bruſt empor, „halten und wenn es ein Leben koſtete!“ Mit<lb/>einem gewaltſamen Ruck hatte ſie ihre Hand befreit und im gleichen<lb/>Augenblick war dieſelbe mit einem kurzen Meſſer bewaffnet, das in der<lb/>Taſche des Wammſes verborgen war. „Geh!“ befahl ſie.<lb/>
+            </p>
+            <p> <lb/>Perino trat zwar einen Schritt zurück, aber Zorn und Beſchämung<lb/>rötheten ſein braungelbes Geſicht, er wollte keinenfalls von einem<lb/>Weibe aus dem Felde geſchlagen werden. Die Dämmerung, welche in-<lb/>zwiſchen das Abendroth überwältigt und ausgelöſcht hatte, ſchien ihm zu<lb/>Hülfe zu kommen und er gedachte es mit dieſer entſchloſſenen Gegnerin<lb/>zu verſuchen, da klang es vom Ufer: „Saardam ahoi — Saardam<lb/>ahoi!“ und Perino fand es gerathen, die rückkehrende Bemannung des<lb/>Saardam nicht erſt abzuwarten, er ſuchte den Schatten und ſeine Gon-<lb/>dola, wüthend und rachedurſtig, daß ſo etwas einem hübſchen Burſchen<lb/>wie er einer war, begegnen könne. Pan ruderte inzwiſchen mit der Jolle<lb/>an’s Ufer und holte den Capitain und den Steuermann, der des Capi-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0475" n="413" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=475"/>
+            </p>
+            <p> <lb/>tains Bruder war, ab. Selbſt wenn ſie die Abſicht hatte, von Perino’s<lb/>Ueberfall zu erzählen, und ſie war wenig mittheilſam, ſo würde ſie kaum<lb/>dazu gekommen ſein, denn der Capitain empfing ſie gleich mit den Wor-<lb/>ten: „Wir kommen Deinetwegen ſo zeitig zurück, Pan, ich fand beim<lb/>Conſul einen Brief Deines Vaters an mich vor. Er hat endlich her-<lb/>ausgebracht, mit welchem Schiff Du fährſt und beſchwört Dich, zu ihm,<lb/>der in letzter Zeit gebrechlich war, zurückzukommen!“ Pan erwiederte<lb/>nichts, aber eine Stunde ſpäter klopfte ſie an die Cajütenthür des Ca-<lb/>pitains und erklärte, ſie habe ihres Vaters Begehr erwogen und ſei be-<lb/>reit, zurückzukehren, wenn Mynheer auf ihre Bedingungen eingehe. Der<lb/>Capitain ſchüttelte den Kopf, war aber doch bereit, die Bedingungen<lb/>ſeines braven, unermüdeten Matroſen, der’s nun einmal nicht beſſer<lb/>haben wollte, zu Papiere zu bringen: „Ich kann Bedingungen machen“,<lb/>ſchickte Pan voraus, „denn ich bin mündig und ernähre mich durch ein ehrliches<lb/>Gewerbe, 1) ſoll man mich zu keiner Heirath überreden und 2) dictirte ſie<lb/>dann: gewährt mir mein Vater die Mittel, vier bis ſechs alte Seeleute zu er-<lb/>halten nach ihrem Stande; 3) ſoll es mir freiſtehen, einen Monat alle<lb/>Jahre zur See zu gehen.“ — Von tauſend Mädchen hätte wol kaum<lb/>
+               <hi rendition="#aq">eine</hi> ähnliche Bedingungen erſonnen und behauptet, wo es ihr freiſtand,<lb/>über erkleckliche Summen zu gebieten und doch ſchlug unter dem groben<lb/>Matroſenanzug, den Jufvrouw Oudewater trug, ein Herz voll tiefer Lei-<lb/>denſchaft, ein Herz ſo treu, ſo echt wie Gold.<lb/>
+            </p>
+            <p> <lb/>Als der Saardam am nächſten Morgen die Anker lichtete, hätte<lb/>Keiner bemerken können, der jüngſte Matroſe ſei weniger geſchäftig,<lb/>dienſteifrig und dienſtkundig als die anderen wetterharten Seebären;<lb/>die behenden Füße, welche unter den weiten Leinenhoſen hervorſchauten,<lb/>kletterten ſo ſchwindelfrei in den Maſtkorb, als wenn andere Frauen-<lb/>füße im Tanz über das eben ſo gefährliche Parket der Ballſäle ſchwe-<lb/>ben — und doch, hätten die coketten Frauen Venedigs hinter dem Fächer<lb/>hervor vom luftigen Balcon aus Pan beobachtet und als Frau erkannt<lb/>— ſie würden die Frieſin als unweiblich verurtheilt haben.<lb/>
+            </p>
+            <p> <lb/>Mynheer Oudewater hatte ſich in ſeinem ganzen Leben keine Vor-<lb/>ſchriften machen laſſen, er gefiel ſich ſogar in dem Uebergewicht einer er-<lb/>laubten Tyrannei — und nun ſchrieb ihm, dem Reichen, Selbſtbewuß-<lb/>ten ſein eigenes Kind Bedingungen vor, Bedingungen, die ſchnurſtracks<lb/>gegen ſeine Wünſche, Gewohnheiten und Anſichten verſtießen! Wenn<lb/>Mynheer auch geſagt hatte: „Meine Erbin kann thun was ſie will!“ ſo<lb/>war dieſe Prahlerei doch eine ſehr eng eingegrenzte, denn alte Gebräuche<lb/>umſtoßen hieß beinahe ſo viel, als aus ſeiner Kaſte, aus der Standes-<lb/>würde heraustreten und die Achtung verſcherzen. Mynheer erinnerte<lb/>ſich wie ungeſchickt Pan war, aber der Aerger darüber war bereits ver-<lb/>flogen, indeß die Ueberzeugung: ſie iſt mein Kind, mein Fleiſch und<lb/>Blut, ſie blickt mich mit Janna’s Augen an, ſie iſt mein einzig wahres<lb/>Eigenthum auf Erden! den Sieg davon trug. Und dann — der Bauer<lb/>hatte Janna wegen ihrer Nachgiebigkeit geliebt, er geſtand es ſich nicht,<lb/>aber trotzdem liebte er Pan wegen ihrer ſelbſtloſen Feſtigkeit. Mynheer<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0476" n="414" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=476"/>
+            </p>
+            <p> <lb/>unterſchrieb die Bedingungen ſelben Tages, wo ſie auf der Plaatze ein-<lb/>liefen, er konnte Pan nicht zürnen.<lb/>
+            </p>
+            <p> <lb/>Ein Vierteljahr ſpäter verließ Pan den „Saardam“ und kehrte in<lb/>ihr Vaterhaus zurück. In Wahrheit war dies ihre erſte Einkehr in<lb/>die Heimat, denn ſie überſchritt diesmal die Schwelle gehobenen Haup-<lb/>tes und feſten Fußes, ſie blickte mit dem Bewußtſein um ſich: Dies iſt<lb/>mein Eigenthum! Mynheer Oudewater, der ganz mager vor Sorge und<lb/>Nachdenken um ſein Kind geworden war, empfand ſofort, daß mit Pan<lb/>eine Wandelung vorgegangen war, er winkte den verſammelten Dienſt-<lb/>leuten heranzutreten, um ihrer jungen Herrin die Hand zu reichen und<lb/>ſagte ſchmunzelnd: „Ihr wißt, daß Ihr der Jufrouw gehorchen müßt!“<lb/>
+            </p>
+            <p> <lb/>Pan kam nicht allein, ſie brachte ein altes Ungeheuer von einem<lb/>halblahmen Matroſen mit, der wirklich eher einem Wallroß, als einem<lb/>Menſchen glich. Er entwickelte nebſtbei auch noch die thieriſche Gewohn-<lb/>heit, laut und bedrohlich zu knurren, wenn ſeine ſcharfblickenden Augen<lb/>irgend etwas erblickten, das ihm gegen die Ordnung des Hauſes oder<lb/>— was ihn am meiſten reizte — gegen die Jufvrouw, feine Wohlthäte-<lb/>rin, gerichtet ſchien, welche er conſequent „Mutter“ nannte. Schon im<lb/>Laufe der erſten Woche verwünſchte das Dienſtperſonal den „alten See-<lb/>hund“, der überall war, wo man ihn nicht vermuthete und Mynheer, der<lb/>Anfangs etwas ſcheel auf den verwilderten Brodeſſer geblickt hatte, be-<lb/>merkte vergnügt, daß er ſelbſt getroſt von früh bis ſpät ſpazieren gehen<lb/>könne, falls nur der alte Seehund daheim blieb und wachte. Wenn man<lb/>im Stillen erwartet hatte, die Jufvrouw verſtehe nicht zu commandiren,<lb/>ſo irrten ſich die Hausgenoſſen gleichfalls. Pan war noch immer keine<lb/>zierliche, gewandte Hausfrau, aber die wirthſchaftlichen Angelegenheiten<lb/>ordnete ſie ſich unter und es wurde keinerlei Unſicherheit merkbar. Zu<lb/>den neuen Errungenſchaften der Erbin gehörten auch die, daß ſie redete,<lb/>nicht viel und lebhaft, aber verſtändig und ſchonſam; ihre Worte fielen<lb/>in’s Gewicht, namentlich verſtand ſie es jetzt, ihren Vater reden zu<lb/>machen. „Wie geht es den Doringa’s?“ fragte ſie eines Abends, „hat<lb/>Netta Kinder?“<lb/>
+            </p>
+            <p> <lb/>Der Bauer nahm ſeine Pfeife aus dem Mund, betrachtete aufmerk-<lb/>ſam die Spitze und entgegnete dann:<lb/>
+            </p>
+            <p> <lb/>„Nein, Kinder hat ſie nicht, aber wie denn ſo das Frauenvolk iſt,<lb/>es nimmt eine Richtung, die Niemand kommen ſieht und zwiſchen Mor-<lb/>gen- und Abendläuten hat ſich die Frau hineinverbiſſen, daß man ihr<lb/>eher die Zähne einſchlüge, als daß ſie losläßt — ja, ſo iſt’s, ſo iſt’s!“<lb/>
+            </p>
+            <p> <lb/>„Nun und in was hat ſich Netta verbiſſen?“<lb/>
+            </p>
+            <p> <lb/>„Kind, ich tadle Netta nicht, ich lobe ſie und Jeder lobt ſie und<lb/>Ecko iſt in den drei oder vier Ehejahren ein gemachter Mann geworden;<lb/>Denn Netta iſt auf’s Erwerben wie der Teufel!“<lb/>
+            </p>
+            <p> <lb/>Pan wechſelte die Farbe, der alte Seehund wußte nicht, wovon die<lb/>Rede war, als er ſie aber ſo von unten und von der Seite anſah, knurrte<lb/>er, auf ihrem Geſicht war nicht Alles in Ordnung. Alsbald ſtellte ſich<lb/>auch ein Gefährte für den Seehund ein, er hatte nur eine Hand, aber<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0477" n="415" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=477"/>
+            </p>
+            <p> <lb/>dafür eine höchſt arbeitſame Zunge und die gute Eigenſchaft, alle Spiele<lb/>auf Karten, Würfel rc. zu können. Mynheer blieb nun gar keine Zeit<lb/>mehr, übler Laune zu ſein, vor lauter Unterhaltung, wie er denn über-<lb/>haupt viel heiterer und umgänglicher war, ſeit Alles im Hauſe den rech-<lb/>ten Weg ging.<lb/>
+            </p>
+            <p> <lb/>Zum Winter kam auch der dritte Matroſe, ein ſtiller, kränklicher<lb/>Greis, der immer wie ein Hausgeiſt umherſchlich, um zerbrochene Sachen<lb/>zu finden, man taufte ihn den „Baſtler“, weil er ſich mit Allem behelfen<lb/>konnte, er leimte, ſchmiedete, tiſchlerte, ſetzte Scheiben ein und dünkte ſich<lb/>unentbehrlich.<lb/>
+            </p>
+            <p> <lb/>Da die Greiſe Pan „Mutter“ nannten, ſo hießen ſie ſelbſt „die<lb/>Matroſenkinder“ und erlangten als ſolche eine große Popularität in der<lb/>Umgegend.<lb/>
+            </p>
+            <p> <lb/>Dies war der unterhaltendſte Winter, den man noch auf der Plaatze<lb/>erlebt hatte, obgleich die Wege für zwei Monat unpaſſirbar wurden;<lb/>über der Haushaltung lag jene Stabilität, jenes friedliche Genügen,<lb/>daß an gar keine Veränderung denken läßt. Der Frühling und die Ernte<lb/>ließen ſich beſonders gut an und die Bauern waren oben auf, denn ein<lb/>Hang zum „Dickthun“ iſt ihnen nun einmal angeboren — da kam das<lb/>Verhängniß in Geſtalt einer ungewöhnlichen Springfluth. Wo noch<lb/>Mittags die Ernte, gleichſam ſtrotzend, auf den Aeckern ſtand und auf<lb/>unüberſehbaren Wieſenflächen glatte, zahlreiche Rinderheerden weideten,<lb/>da erblickte man Abends einen weiten Seeſpiegel, aus welchem nur die<lb/>Häuſer und die Deiche hervorragten — für Bäume iſt in Friesland kein<lb/>Platz, der Boden iſt zu werthvoll. Auf der Plaatze trug man das Un-<lb/>glück würdig und rettete überlegt, was zu retten war. Von anderen<lb/>Seiten trafen aber, ſobald das Waſſer ablief, zahlreiche Schreckens-<lb/>kunden ein. Der Seehund knurrte in dieſen Tagen unaufhörlich, denn<lb/>Mutter Pan’s Geſicht zeigte eine Spannung, die ihm ſonſt nicht eigen<lb/>war — oder darf man es eine Ahnung nennen? Ein Bote kam von<lb/>Ecko, deſſen Eigenthum der Fluth noch mehr ausgeſetzt war, und ſagte<lb/>an: Netta Doringa ſei im Waſſer umgekommen! Der Bote, ein Knecht<lb/>Ecko’s, heuchelte eben keine tiefe Trauer über den Tod ſeiner Herrin; er<lb/>erzählte mit Vorliebe und großer Umſtändlichkeit, wie der Viehknecht<lb/>mit Lebensgefahr die ganze Heerde eintrieb, als er vom Deiche ab das<lb/>Unglück hereinbrechen ſah. Ecko lobte ihn, aber Frau Netta bemerkte,<lb/>daß ein jähriges Rind fehle, ward ſehr zornig und gab dem Burſchen<lb/>eine Ohrfeige. Das war das Letzte, was man von ihr ſah. Alles arbei-<lb/>tete und ſorgte, damit nur das Haus geſchützt werde, wol eine oder zwei<lb/>Stunden verlangte Niemand nach der Hausfrau und dann glaubte man,<lb/>ſie ſei irgendwo auf dem Boden oder in den Kammern beſchäftigt; erſt<lb/>mit ſinkender Nacht beunruhigte man ſich ihretwegen und nach zwei<lb/>Tagen fand man die Leiche unfern des verunglückten Rindes, das in<lb/>einem moraſtigen Canal ſtecken geblieben war. „Es ging ihr wie Lot’s<lb/>Weib!“ ſchloß der Knecht den Vergleich wie eine Moral der Trauerbot-<lb/>ſchaft zufügend. — Pan und ihr Vater fuhren zum Begräbniß hinüber.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0478" n="416" corresp="http://opacplus.bsb-muenchen.de/title/6700776/ft/bsb11189639?page=478"/>
+            </p>
+            <p> <lb/>Ecko war gealtert und tief gebeugt, ganz beirrt und verwirrt ſchien er<lb/>keinen Sinn für Pan’s Gegenwart zu haben, erſt Abends, als Netta in<lb/>dem noch ganz durchnäßten Kleiboden des Kirchhofs lag, die Gäſte fort<lb/>waren und Mynheer hinausging, um das Anſpannen zu beſorgen, faßte<lb/>Ecko Pan’s Hand, blickte ihr mit Bewußtſein in’s Geſicht und ſagte<lb/>traurig: „Pan, wie biſt Du ſo jung und ſchön geworden! Sieh, mein<lb/>Leben iſt nun dahin, wären wir, die Selige und ich, einig und froh mit-<lb/>einander geweſen, ſo trüg’ ich’s wol in Frieden; aber zu denken, ſie iſt<lb/>todt und ohne Liebe, ohne Segensworte, ohne Einigkeit dahin gefahren,<lb/>elend umgekommen und ich wußte es nicht — Pan, das iſt ſtärker wie<lb/>ich und ich kann auch nicht beten, denn vor Gott iſt das Alles meine<lb/>Schuld — ſie war ſo, weil ich ſie nicht lieben konnte!“<lb/>
+            </p>
+            <p> <lb/>„Mir iſt es beſſer geworden — ich war frei!“ ſprach Pan mit<lb/>ihrer weichen, ſüßen Stimme. „Ruf’ Gott, Ecko und Er kommt, Er<lb/>kommt ſicher, ich weiß es, er läßt uns nicht verzweifeln — wie die feind-<lb/>lichen Gewäſſer ablaufen, wir wiſſen nicht wohin, ſo verſinken auch die<lb/>feindlichen Gedanken des Schmerzes vor uns und wir ſehen die Dinge<lb/>wieder wie ſie ſind. Gehab’ Dich wol, Ecko!“<lb/>
+            </p>
+            <p> <lb/>Als es wieder Winter wurde, war Pan’s alte Kinderſchaar ſchon<lb/>um einen Kopf zahlreicher, als Pan es ſich ausbedungen hatte, aber<lb/>Mynheer ſchmunzelte nur dazu, denn ſein „Seemannsheim“ war in<lb/>mehreren Zeitungsartikeln gelobt und herausgeſtrichen und er wurde<lb/>ſeitdem nur: „Der frieſiſche Patriot“ genannt. — Nachdem Mynheer<lb/>nun alle Heirathshoffnungen für Pan überwunden und begraben hatte,<lb/>da kam Pan eines Tages ſelbſt und bat um ſeinen Segen für ſich und<lb/>Ecko Doringa: „Ihr ſollt nichts entbehren in Eurer Pflege“, beruhigte<lb/>die Jufvrouw den Ueberraſchten, „Ecko vermiethet ſeinen Beſitz, der ihm<lb/>ſeit dem Unglück zuwider iſt und wohnt bei uns, er iſt jetzt faſt ſo reich<lb/>als wir!“<lb/>
+            </p>
+            <p> <lb/>So kam es, daß Hochzeit auf der Plaatze wurde. Der alte Baſt-<lb/>ler ſtarb, aber die Kopfzahl verminderte ſich doch nicht, obſchon der letzte<lb/>Kopf nur ein ganz kleines Köpfchen mit blonden Haaren war.<lb/>
+            </p>
+            <p> <lb/>Seit ihrer Rückkehr trug Pan die Goldhaube; zur Taufe ihres<lb/>Söhnchens hatte ſie nun auch noch die Diamantagraffen angeſteckt, ſie<lb/>wollte mit ihren Kindern zur Kirche. Der alte Seehund ſaß an der<lb/>Wiege und litt es nur leiſe knurrend, wenn ſonſt irgend wer den klei-<lb/>nen betrachten wollte. Ecko ſchloß ſeine Frau in die Arme: „Wir ſind<lb/>Beide wieder jung für unſer Kind!“ ſagte ſie.<lb/>
+            </p>
+            <p> <lb/>„Ja, Pan, erſt ſeit wir bei einander ſind, weiß ich, was Leben<lb/>heißt!“ Sie ſahen ſich in die blühenden, glücklichen Geſichter. Mynheer<lb/>mahnte zur Abfahrt: „Vater“, ſagte Pan, „ich laſſe die Bedingung mei-<lb/>ner jährlichen Seefahrt nun auch fallen — eine Wiege iſt doch beſſer<lb/>als ein Schiff!“<lb/>
+            </p>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

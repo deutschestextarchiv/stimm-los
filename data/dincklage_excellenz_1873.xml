@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Seine Excellenz</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_excellenz_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Seine Excellenz, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Seine Excellenz</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>C. F. Simon</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Stuttgart</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Kinder des Südens</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 1–75</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078</idno><idno type="shelfmark">Shelfmark: P.o.germ. 1843 b-2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="24" cert="high"><sic>Füſſen</sic><corr>Füßen</corr></choice><choice corresp="72" cert="high"><sic>General; wenn</sic><corr>General; „wenn</corr></choice><choice corresp="73" cert="high"><sic>Mein Mann bezog</sic><corr>„Mein Mann bezog</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Seine Excellenz</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0007" n="1" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=7"/>
+            </p>
+            <p> <lb/>Seine Excellenz.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0008" n="2" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=8"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0009" n="3" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=9"/>
+            </p>
+            <p> <lb/>1.<lb/>Wachholder.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">D</hi>enken Sie ſich gütigſt den k. k. General-Feldzeug-<lb/>meiſter a. D. Baron Naſus genannt v. Klingenberg.<lb/>Aber, bitte, denken Sie ſich Seine Excellenz ganz anders,<lb/>als man gewöhnlich das Bild eines alten eiſenfeſten Hau-<lb/>degens ſich ausmalt. Der iſt nicht die Spur von einem<lb/>lebensmüden Invaliden. Im Gegentheil! Der General<lb/>ſcheint eigens dazu berufen, für ſeinen ausgebreiteten Be-<lb/>kannten-Kreis alle Freundſchaftsdienſte zu übernehmen,<lb/>welche einen entſchloſſenen, weltkundigen Geiſt und eine<lb/>unermüdliche Beweglichkeit erfordern — und dabei wohnt<lb/>unter den militairiſch kurz gehaltenen, weißen Haaren des<lb/>Barons ein ganzes Regiment neckiſcher Kobolde, und die<lb/>Lippen unter dem drohenden grauen Schnauzbart ſind<lb/>ſtets zu einer humoriſtiſchen Bemerkung oder einem über-<lb/>raſchenden Bonmot gerüſtet. Der Baron war eben kein<lb/>Norddeutſcher trotz ſeines mit der Spitze des Schwertes<lb/>auf die Schädel der Gegner geſchriebenen deutſchen Na-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0010" n="4" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=10"/>
+            </p>
+            <p> <lb/>mens, er ſtammte aus einer Familie des ſüdlichen Tyrols<lb/>und war in ſeiner Jugend ein eben ſo luſtiger „Bua“<lb/>geweſen, als nur einer, der jemals die Spielhahnfeder<lb/>auf den grünen Spitzhut ſteckte und den kurzen Stutzen<lb/>auf der Schulter, den Bergſtock in der Hand, dem leicht-<lb/>füßigen „Gamſel“ in den Alpen nachſtellte.<lb/>
+            </p>
+            <p> <lb/>Im Winter die Reſidenz bewohnend, ſucht der Ge-<lb/>neral ſeine Sommerfriſche bald hier, bald dort. Unter<lb/>ſeinen Freunden ſind Repräſentanten der hohen Geiſtlich-<lb/>keit, Militairs in ſorgloſem und wohl ausgeſtattetem Ruhe-<lb/>ſtand, wie auch vermögende Gutsbeſitzer diesſeits und jen-<lb/>ſeits der Grenze — der alte Herr paßt ſo gut in alle<lb/>geſelligen Kreiſe, daß er jedem Hausherrn ein willkom-<lb/>mener Gaſt iſt — und nun gar der Hausfrau und den<lb/>jungen Damen! Es läßt ſich nicht ausſprechen, was da<lb/>für Anſprüche gemacht werden an die Liebenswürdigkeit<lb/>Seiner Excellenz! Sogar die unmündigſten Genoſſen des<lb/>Familienkreiſes entblöden ſich nicht, unter den Händen<lb/>ihrer Bonnen in offene Meuterei auszubrechen, um zu<lb/>„Excellenz“ zu deſertiren, welcher die kleinen Taugenichtſe<lb/>in der Luft umherſchwenkt und mit ihnen um die Wette<lb/>im Park umher läuft und lärmt.<lb/>
+            </p>
+            <p> <lb/>Um unſern neuen Bekannten aufzuſuchen, müſſen wir<lb/>uns zu einem ſtattlichen Schloſſe im Böhmiſchen wenden,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0011" n="5" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=11"/>
+            </p>
+            <p> <lb/>das in einer fruchtbaren Niederung, von herrlichen Alleen<lb/>und Anlagen umgeben, da liegt. Es iſt früh Morgens.<lb/>Die Diener öffnen mit abgeſpannten Geſichtern die großen<lb/>Fenſterflügel in der Front des Herrenhauſes, und eine<lb/>Bäuerin in rothem Kopftuche verſchwindet mit einem<lb/>großen Topfe friſcher Milch unter dem hohen Thorbogen<lb/>der Einfahrt. Man vernimmt ihre Schritte nicht auf<lb/>dem Steinpflaſter; denn ſie geht barfuß, gleich ihren<lb/>Landsmänninnen; aber jetzt tönt ein feſter, gleichmäßiger<lb/>Männertritt, und das böhmiſche „Guten Morgen“ des<lb/>Milchmädchens wird von einer etwas knarrenden Stimme<lb/>in gleicher Sprache erwidert.<lb/>***<lb/>Eine mittelgroße, kräftige Männergeſtalt tritt in die<lb/>Allee, angethan mit einem leichten grauen Sommeranzug.<lb/>Die ſtahlblauen Augen des Generals muſtern die Umge-<lb/>bung, und ſie verlieren nur dann den Feldherrn-Blick,<lb/>als ein mageres, nervöſes Hündchen an dem Spazier-<lb/>gänger emporſpringt, winſelnd und ſtürmiſch, in dem<lb/>Bewußtſein der wichtigen Stellung eines verzogenen Da-<lb/>menlieblings.<lb/>
+            </p>
+            <p> <lb/>„Die Kleine iſt alſo aufgeſtanden!“ murmelte der Ge-<lb/>neral mit einem Blick auf ſeine maſſive goldene Uhr.<lb/>Alte Militairs bleiben bei der Vorliebe für haltbare, wo-<lb/>möglich bombenfeſte Sachen auch im Ruheſtande; die Uhr<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0012" n="6" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=12"/>
+            </p>
+            <p> <lb/>Seiner Excellenz hätte freilich bezeugen können, daß ihr<lb/>Beſitzer mehr denn je im Unruheſtande lebte und von früh<lb/>bis ſpät auf den Beinen war. Da ſich nichts Ungewöhn-<lb/>liches zeigte, trat der würdige Kriegsmann ſeine Mor-<lb/>gen-Promenade an. Er lachte ſpöttiſch vor ſich hin beim<lb/>Anblick der langen, verſchloſſenen und verhangenen Fen-<lb/>ſterreihen, hinter denen die übrigen Gäſte des Schloſſes<lb/>noch ſchlummerten. „Ah, der Lieutenant iſt auch ſchon<lb/>heraus!“ ſtaunte er dann und beſchäftigte ſich mit dem<lb/>Gedanken, was den Lieutenant ſo früh geweckt habe, in-<lb/>dem er mit dem Stock hier und da in die thaufeuchten<lb/>Büſche klopfte, als wollte er auch ſie wecken. „Daß er<lb/>ſich in die Kleine verliebt bis über die Ohren,“ brummte<lb/>der General, „das iſt natürlich; aber ſeine Art und Weiſe:<lb/>zu meiden, was man ſucht, zu fliehen, was man erſehnt<lb/>— die iſt originell! Ich, zu meiner Zeit, machte der-<lb/>gleichen im Sturmſchritt ab — damals — —!“<lb/>
+            </p>
+            <p> <lb/>Er ſchüttelte den Kopf und ſtrich über den Bart,<lb/>deſſen Spitzen er keck aufwirbelte — wie damals! Da<lb/>der Baron kein Raucher war, ſo vertiefte er ſich weder<lb/>lange in Träumereien, noch überſah er irgend etwas am<lb/>Wege. Kein Wunder, daß ihm ein weißes Blättchen<lb/>Papier auffiel, welches unter einer Birkenbank lag nebſt<lb/>einigen friſch gepflückten grünen Blättern.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0013" n="7" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=13"/>
+            </p>
+            <p> <lb/>„Aha, der Herr Lieutenant haben hier in aller Frühe<lb/>Gedichte gemacht!“ monologiſirte die Excellenz, indem die<lb/>Hand ſich nach dem zweimal zuſammen gebogenen Blätt-<lb/>chen ausſtreckte. Aber nein, das Papier enthielt kein<lb/>Gedicht, überhaupt nur wenige Zeilen; dagegen aber<lb/>diente es einer Photographie als Hülle, welche den Ge-<lb/>neral in hohem Grade anzog.<lb/>
+            </p>
+            <p> <lb/>Selbſtverſtändlich konnte nur ein Frauenportrait die<lb/>Kennerblicke des Beſchauenden in dieſer Weiſe feſſeln, und<lb/>noch ſelbſtverſtändlicher mußte daſſelbe ein ſchönes Weib<lb/>darſtellen. So vornehm die Dame ausſah, der General<lb/>rieb ſich umſonſt die Stirne, um ſich zu erinnern, ob er<lb/>dem Original der Photographie ſchon begegnet ſei oder<lb/>nicht? Er war ja mit ſo unendlich vielen Menſchen be-<lb/>kannt. Es lag etwas Anheimelndes in dem verſchleierten<lb/>Blick dieſer dunkeln Augen, — aber ſo oft die Erſchei-<lb/>nung faſt greifbar deutlich wurde, eben ſo oft trat ſie<lb/>wieder in den Nebel des Geheimniſſes zurück. Schon<lb/>wollte der Baron das Bild, unzufrieden mit ſich ſelbſt<lb/>und neidiſch auf den glücklichen Lieutenant, einwickeln und<lb/>in die Taſche ſtecken, als er auf dem Papier den Namen<lb/>„Lidy“ gewahrte, und in klaren locker verbundenen Schrift-<lb/>zügen ſtand oberhalb des Namens: „Fordere nicht mehr,<lb/>— das Bild meines beleidigten Gatten verfolgt mich un-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0014" n="8" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=14"/>
+            </p>
+            <p> <lb/>abläſſig; ich zittere beim Klange des Namens, den er<lb/>mir anvertraute, und deſſen ich mich Deinetwegen, Wla-<lb/>dimir, ſo unwürdig mache. Gott ſchütze Dich!“<lb/>
+            </p>
+            <p> <lb/>Unter dem Namen ſtanden Monat und Datum, ſowie<lb/>der Abſendungſort: „Mentone“.<lb/>
+            </p>
+            <p> <lb/>Alſo eine ſchuldbeladene Gattin, und vermuthlich auch<lb/>körperlich leidend, das lag ſo in dem Klange des Ortes,<lb/>wo dieſe ſchöne Frau mit den ſchmerzlich geſchloſſenen<lb/>Lippen lebte, — Lippen, die jeden Augenblick bereit<lb/>ſchienen, zu rufen: O, dürften wir nur die vielen er-<lb/>ſtickten Seufzer und den Schrei des Schmerzes laut wer-<lb/>den laſſen; aber wir müſſen ſchweigen!<lb/>
+            </p>
+            <p> <lb/>Der General ſchob das Bild nun ſchnell in die Taſche.<lb/>Wer ein ſo wunderliches Geheimniß entdeckt, glaubt ſich<lb/>ſelbſt auch zu einer beſondern Heimlichkeit berufen; und<lb/>war er auch zu klug, vor Andern wichtig zu thun, ſo<lb/>erlaubte er ſich das doch wenigſtens unter zwei Augen<lb/>vor ſich ſelbſt! Durch das welke Laub raſchelten Fuß-<lb/>tritte, und eine gut gelaunte Stimme rief: „Richtig ſchon<lb/>in Bewegung — wiſſen Sie denn, daß die Kleine und<lb/>ich Ihnen den Namen Wachholder beigelegt habe?“<lb/>
+            </p>
+            <p> <lb/>„Ich würde unter allen Bedingungen ſo holden Da-<lb/>men mit Wonne ein Holder ſein, wenn nur nicht der<lb/>Name ſo fatal an’s Schnapsglas erinnerte —“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0015" n="9" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=15"/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Mon Dieu</hi> — er hat eine ſo rein poetiſche Bezie-<lb/>hung: Wachholder — Wachthalter —! Sie vereinigen<lb/>die Wachſamkeit mit der immergrünen Erſcheinung jenes<lb/>nordiſchen Gewächſes!“<lb/>
+            </p>
+            <p> <lb/>„Ah, ich küſſe Ihnen die Hand — was wird ein<lb/>Tag bringen, der ſo vielverſprechend beginnt?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0016" n="10" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=16"/>
+            </p>
+            <p> <lb/>2.<lb/>Campanula.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">D</hi>ie Dame, welche ſich des Generals bemächtigte, war<lb/>ein rüſtiger Blauſtrumpf. In welchem Winkel Deutſch-<lb/>lands wäre man jetzt ſicher vor fahrenden Schriftſteller-<lb/>innen? Wohl heißt es auf den Anſchlägen der Bahnhöfe<lb/>und öffentlichen Locale: „Vor Taſchendieben wird gewarnt!“<lb/>aber vor den Schriftſtellerinnen muß jeder brave Deutſche<lb/>ſich ſelbſt warnen. Doch was hilft es? Es mag einen<lb/>Begriff von der ſeltenen Tapferkeit unſeres Helden geben,<lb/>daß er ſich nicht vor dem Blauſtrumpf fürchtete, obwohl<lb/>der alte Herr Wittwer und Campanula eine alte Jungfer<lb/>war. Campanula iſt eine blaue Glockenblume, die im<lb/>Schatten wächſt, und wir nennen die behäbige Schrift-<lb/>ſtellerin ſo, weil ihr wirklicher Name ſchwer auszuſprechen<lb/>ſein würde.<lb/>
+            </p>
+            <p> <lb/>„Endlich ſcheint unſere Kleine doch entſchieden zu<lb/>haben!“ ſagte Campanula und ließ ſich auf die Birken-<lb/>bank nieder.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0017" n="11" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=17"/>
+            </p>
+            <p> <lb/>„Ach — wirklich —? und Sie ſagen das mit ſolcher<lb/>ruhigen Gewißheit?“<lb/>
+            </p>
+            <p> <lb/>„Weshalb nicht? Verheiraten wird ſie ſich ja doch<lb/>einmal, und da iſt Dieſer weit aus der Beſte!“<lb/>
+            </p>
+            <p> <lb/>„Wer iſt Ihr Dieſer?“ knurrte gereizt der alte Herr,<lb/>der ſeine choleriſchen Anwandlungen hatte. „Ohne Frage<lb/>meinen Sie Graf Wladimir, den Lieutenant!“<lb/>
+            </p>
+            <p> <lb/>„Es iſt kein Zweifel möglich,“ erklärte der Blau-<lb/>ſtrumpf. „Graf Wladimir iſt aus einer vornehmen Fa-<lb/>milie, jung, von angenehmen Manieren und hübſcher<lb/>Erſcheinung; er iſt für einen künftigen Majoratsherrn un-<lb/>terrichtet genug, gutmüthig und beſcheiden — man braucht<lb/>kein Diogenes zu ſein, um ihn aus der Schaar der Be-<lb/>werber herauszufinden, welche uns ſeit Jahr und Tag<lb/>beſtürmen! Uns — lachen Sie nicht, denn ich ſtehe da<lb/>wie der Eis- und Wogenbrecher im Strome — es muß<lb/>alles an mir vorüber. — Ich prüfe alles!“<lb/>
+            </p>
+            <p> <lb/>„Mit bewunderungswerthem Scharfblick!“ ſpottete der<lb/>Andere. „Sie erkannten daher auch ſofort, welch’ ein<lb/>ungetrübtes Gemüth Graf Wladimir beſitzt, ſobald Sie<lb/>nur erfuhren, er rühme ſich eines langen Stammbaumes,<lb/>und ſein alter geiziger Oheim werde ihm ein Majorat<lb/>hinterlaſſen. Sie ſind zum Erſchrecken proſaiſch, meine<lb/>Gnädigſte!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0018" n="12" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=18"/>
+            </p>
+            <p> <lb/>„Im Gegentheil, Excellenz, ich motivire nur die große,<lb/>ewig poetiſche Thatſache einer Herzensliebe, welche —<lb/>ausnahmsweiſe! — nicht beſtimmt ſcheint, „mit Kummer<lb/>Hand in Hand zu gehen!““<lb/>
+            </p>
+            <p> <lb/>„Armes Kind!“ ſeufzte der Baron.<lb/>
+            </p>
+            <p> <lb/>„Was berechtigt Sie, mich arm oder kindlich zu fin-<lb/>den?“ entrüſtete ſich Campanula.<lb/>
+            </p>
+            <p> <lb/>„Ich wage weder das Eine noch das Andere zu be-<lb/>Haupten — aber, beim Zeus, es iſt ſechs Uhr, und ich<lb/>ſoll Fräulein Nina auf ihrem Morgenritte begleiten. Ich<lb/>muß ſogleich in den Stall; die Schlingel dort ſind nicht<lb/>präcis, wenn man ſie nicht treibt — Gott befohlen,<lb/>Verehrte!“<lb/>
+            </p>
+            <p> <lb/>Campanula blickte dem Enteilenden nach; aber man<lb/>würde irren, wollte man dieſen Blick in die Worte faſſen:<lb/>„Ich hätte nichts dagegen einzuwenden, fortan Baronin<lb/>Naſus von Klingenberg zu heißen!“ — Nein, der plöt-<lb/>liche Ernſt, welcher ſich über ihr wohlgenährtes Geſicht<lb/>legte, der tiefe Seufzer, mit dem ſie ihr Herz erleichterte,<lb/>waren ſelbſtloſer Natur; denn ſie ſprach alsbald: „Arme<lb/>Lidy, ſo iſt dein Opfer umſonſt gebracht — der Alte<lb/>hat kein Vertrauen zu Wladimir!“<lb/>
+            </p>
+            <p> <lb/>Campanula und der Baron lebten beſtändig in einem<lb/>mehr oder minder lebhaften Wortſtreit. Obwohl ſie ſich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0019" n="13" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=19"/>
+            </p>
+            <p> <lb/>es nie geſtanden haben würden, hatten ſie aber dennoch<lb/>die größte Achtung vor ihrem gegenſeitigen Urtheil. Da<lb/>Beide einen mehr fühlbaren als ſichtbaren Einfluß auf<lb/>die Angelegenheiten des Hauſes ausübten, ſo war es für<lb/>Beide angezeigt, ſich vor jedem Eingreifen von der An-<lb/>ſicht des Andern zu überzeugen. Der General brauchte<lb/>zu dieſem Ende die höfliche und ſchmeichelhafte Form der<lb/>Bitte um Campanula’s Beiſtand; Campanula pflegte ihre<lb/>Meinung als maßgebend, ja unumſtößlich hinzuſtellen,<lb/>obwohl immer in der größten Furcht, die entgegengeſetzte<lb/>Auffaſſung der Excellenz möge alle ihre wohlgemeinten<lb/>Pläne umſtoßen.<lb/>
+            </p>
+            <p> <lb/>Die anſcheinende Offenheit des ehrenwerthen Paares<lb/>blieb indeß immerhin eine vielfach bedingte; je mehr man<lb/>die gegenſeitige Klugheit anerkannte, deſto lohnender und<lb/>verlockender blieb es, einander zu überliſten. So kam<lb/>es, daß die wärmſten und treueſten Freunde der kleinen<lb/>Nina in aller Morgenfrühe im Park beiſammen ſaßen,<lb/>umgeben vom Waldesgrün und Vogelſang, und ſich ge-<lb/>genſeitig ein und daſſelbe Geheimniß ſorgſam verſchwiegen!<lb/>
+            </p>
+            <p> <lb/>Campanula hatte viel erleben müſſen, bis ſie zur<lb/>Heiterkeit geſtählt war und mit Gleichmuth gerüſtet. Sie<lb/>ſah ein, daß ihr alles zum Heile gedient hatte, und<lb/>wollte nur, daß Nina der Kampf erſpart bleibe; ſie, das<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0020" n="14" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=20"/>
+            </p>
+            <p> <lb/>liebe Kind, ſollte glücklich ſein. Damit ſie es werde,<lb/>mußte der einzige Vorwurf, welcher Wladimir treffen<lb/>konnte, zum Schweigen gebracht werden. Was für<lb/>Schrullen auch der General haben mochte — oder war<lb/>es eine Anklage? — dies ihr Geheimniß wußte er nicht<lb/>und ſollte er nie erfahren; was ging’s auch fremde Men-<lb/>ſchen an?<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0021" n="15" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=21"/>
+            </p>
+            <p> <lb/>3.<lb/>Adonis-Röſchen.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">D</hi>er alte Hanns — ſo nannte ſich der Baron ſelbſt,<lb/>wahrſcheinlich zur Erinnerung an John Falſtaff — ging<lb/>lachend und ſchmunzelnd ſeines Wegs; auch er gedachte<lb/>des eben beendeten Zwiegeſprächs und raiſonnirte in-<lb/>nerlich: „Alſo die Kleine hat Feuer gefangen — nun,<lb/>der Wladimir iſt ein ſauberer Burſch und wäre mir<lb/>ganz recht, …. wenn nicht das fatale Geheimniß<lb/>wäre. Glücklicherweiſe ahnt Campanula nichts von mei-<lb/>ner Entdeckung. Nur keine Geheimniſſe an alte Jungfern<lb/>erzählt; ſchweigen kann keine, — — obwohl dieſe, Dank<lb/>ſei es den Göttern, wenigſtens nicht gefühlvoll iſt, das<lb/>muß man anerkennen!“<lb/>
+            </p>
+            <p> <lb/>Ein rieſenhafter Gummiball flog dem Baron zwi-<lb/>ſchen die Füße, und dann folgte dieſem, um die Ecke<lb/>biegend, deſſen Beſitzer, ein Knabe von vier Jahren, der<lb/>die Unterhaltung mit der Frage eröffnete: „Willſt du<lb/>heut’ meinem Schimmel den Kopf wieder anleimen?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0022" n="16" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=22"/>
+            </p>
+            <p> <lb/>„Wie hat man mich anzureden?“ fragte der Baron<lb/>mit affectirtem Grimme.<lb/>
+            </p>
+            <p> <lb/>Der Kleine richtete ſich militairiſch auf, legte das<lb/>Händchen an den Hutrand und erwiederte mit dem äußer-<lb/>ſten Beſtreben deutlich zu reden: „Eſelenz!“<lb/>
+            </p>
+            <p> <lb/>„Brav, mein Sohn!“ lobte den kleinen Sprachver-<lb/>beſſerer der General. „Gewiß, ich werde den Kopf des<lb/>Schimmels anleimen, und wir wollen Pfeile für deinen<lb/>Flitzbogen ſchneiden; gib nur Acht, wenn ich hernach zu-<lb/>rückgeritten komme!“<lb/>
+            </p>
+            <p> <lb/>„Setzeſt du mich vor dich auf’s Pferd?“<lb/>
+            </p>
+            <p> <lb/>„Ja Burſch, wenn die Anna ſagt, du wärſt brav<lb/>geweſen!“ Der Baron ſchritt weiter nach den Stallungen,<lb/>wo er ein Donnerwetter über die Reitknechte ergehen ließ,<lb/>indeß Fräulein Nina Aſchbach im Reitkleide und mit der<lb/>Gerte in der Hand bereits die Treppe herniederſtieg, völ-<lb/>lig für den Ausritt gerüſtet. Wie ſah Nina aus?<lb/>
+            </p>
+            <p> <lb/>Wer Iſolden ſchaut in’s Angeſicht,<lb/>Der fühlt geläutert Herz und Muth,<lb/>Wie die Gluth dem Golde thut:<lb/>Ihm wird erſt werth das Leben!<lb/>Ihre Schöne verſchönt,<lb/>Mit ihren Tugenden krönt<lb/>Sie den Namen aller Frauen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0023" n="17" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=23"/>
+            </p>
+            <p> <lb/>So ſagt Triſtan von Iſolden, ſo dachte Graf Wla-<lb/>dimir von Nina. Aber auch minder parteiiſche Augen<lb/>als die ſchüchternen braunen des Lieutenants erblickten in<lb/>Nina ein herzliebes, friſches, ja willensſtarkes Weſen, von<lb/>mehr zierlicher als großer Geſtalt mit einem runden, gu-<lb/>ten Geſichtchen und fliegenden blonden Locken. Wenn<lb/>Nina rückſichtsvoll und erfüllt von ſittlichem Ernſt geblie-<lb/>ben war, ſo darf das ihren Erziehern nicht als Verdienſt<lb/>angerechnet werden. Früh verwaiſt, nahmen die Groß-<lb/>eltern das kleine Mädchen, ihr einziges Enkelkind, zu ſich,<lb/>und was die zärtlichſte Liebe und ein wohl erworbener<lb/>Reichthum zu bieten vermögen — das hatte Fräulein<lb/>Aſchbach vollauf. Vielleicht war es gerade die vollſtändige<lb/>Freiheit, welche das Kind auf ein ſelbſtbeſtimmtes Maß<lb/>in ihrem Thun und Laſſen zurückführte; kein Zwang,<lb/>auch nicht <hi rendition="#b">der</hi> einer liebevollen Bevormundung lag<lb/>auf ihr.<lb/>
+            </p>
+            <p> <lb/>Die alten Aſchbach’s waren von Haus aus ſchlichte<lb/>Bürgersleute; ihr Reichthum mehrte ſich nach und nach<lb/>und drängte ſie unvermerkt in vornehmere Gewohnheiten.<lb/>Aber für ihre Perſon ſuchten die rüſtigen Alten keine Be-<lb/>quemlichkeit, im Gegentheil ſie waren ſtolz auf die Ein-<lb/>fachheit ihrer Lebensweiſe. Eben weil die Aſchbach’s kluge<lb/>alte Leute waren, die noch immer vom Leben lernten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0024" n="18" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=24"/>
+            </p>
+            <p> <lb/>traten ſie würdig und prunklos auf — ſie waren immer<lb/>wohlhabend geweſen, es war nichts Emporgekommenes in<lb/>ihrem Weſen.<lb/>
+            </p>
+            <p> <lb/>Nina’s Vater, der einzige Sohn des Banquiers Aſch-<lb/>bach, ward kurz nach der Geburt ſeines erſten Kindes von<lb/>einem Nervenfieber dahin gerafft, eine Krankheit, die ſeine<lb/>junge, geliebte Gattin gleichfalls ergriff. Kaum waren<lb/>die erſten Blumen auf den Hügel des zu früh Geſchiede-<lb/>nen gepflanzt, als man ſie bereits wieder aushob, um die<lb/>treue Lebensgefährtin in daſſelbe Grab zu betten. Der<lb/>trauernde Vater gab ſeinen bisherigen Beruf auf, der ihn<lb/>täglich den Sohn entbehren ließ, welcher ihn ſeit Jahren<lb/>getheilt hatte; er kaufte ſich eine Herrſchaft und zog mit<lb/>Frau und Enkelin dahin.<lb/>
+            </p>
+            <p> <lb/>Nina’s Wille wurde in nichts beſchränkt; aber ſie ſah<lb/>und hörte nie zweckloſe Dinge und Worte, ſo daß ſchon<lb/>ihre kindiſchen Spiele ſich vorzugsweiſe um die Näharbeit<lb/>und die Almoſenkaſſe der Großmutter, ſowie um die gro-<lb/>ßen Rechnungsbücher des Großpapas drehten. Dieſe Rech-<lb/>nungsbücher, die einzigen Gegenſtände, welche Nina’s Hän-<lb/>den conſequent entzogen wurden, erfüllten ſogar die jetzt<lb/>Erwachſene noch mit einer gewiſſen Ehrfurcht. Doch hatte<lb/>Herr Aſchbach ihr unzählige Male erklärt, was für eine<lb/>Bewandtniß es mit den vielen Zahlen und Linien habe,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0025" n="19" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=25"/>
+            </p>
+            <p> <lb/>und ſie hatte ſeine Lehren vortrefflich begriffen. Das Kind,<lb/>deſſen Spaziergänge von der Wiege ab ſtets zu den Grä-<lb/>bern der theuerſten Angehörigen gerichtet ſind, findet ohne<lb/>Zweifel leichter die ernſte Seite des Lebens als jenes,<lb/>das von jedem dunkeln Eindruck bewahrt, unter Blumen<lb/>und in heiterer Umgebung erwächſt. Und doch war Nina,<lb/>in ihrer gleichmäßigen Art, ein frohes Weſen. Wie leuch-<lb/>teten ihre Augen, als ſie den ſchlanken Hals ihres Pfer-<lb/>des liebkoſend klopfte und ſich dann in den Sattel ſchwang,<lb/>um in einem kurzen, wiegenden Galopp die Allee hinab-<lb/>zureiten! Sie erfaßte vollkommen die Genugthuung, welche<lb/>darin liegt, durch weite, mit reicher Ernte beſtandene Fel-<lb/>der, an den maſſiven ausgedehnten Oekonomiegebäuden<lb/>der Vorwerke vorüber zu fliegen und ſich ſagen zu können:<lb/>dies alles iſt mein Eigenthum!<lb/>
+            </p>
+            <p> <lb/>Campanula ſah ihren Liebling freudig mit gerötheten<lb/>Wangen dahin ſprengen; als Nina aber nach zwei Stun-<lb/>den wiederkam, da war ihr Blick trübe, die Wangen bleich,<lb/>die Lippen geſchloſſen.<lb/>
+            </p>
+            <p> <lb/>Sie war ſich einer tiefen, innigen Liebe — ihrer<lb/>erſten Liebe! — zu Graf Wladimir in dem Augenblick<lb/>bewußt geworden, da der General ſie fragte: „Glauben<lb/>Sie, Fräulein Nina, auf die Treue eines Mannes bauen<lb/>zu können, welcher es nicht für Frevel hielt, die Liebe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0026" n="20" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=26"/>
+            </p>
+            <p> <lb/>einer bereits verheirateten Frau zu erwidern?“ Doch ihm<lb/>wurde keine Antwort.<lb/>
+            </p>
+            <p> <lb/>Die kleine, kräftige Rechte der Reiterin ſchloß ſich wie<lb/>im Krampfe um die elegante Gerte; ſie beugte das Haupt<lb/>mit dem luſtigen Federhut tief auf die Bruſt, ſo daß der<lb/>blaue Schleier das Geſicht verhüllte — es war nur <hi rendition="#b">eine</hi>
+               <lb/>Sekunde der innern Einkehr; aber, wie vom Blitz erleuch-<lb/>tet, erſchaute ſie ihr eigenes Selbſt! Sie ſtand erſchrocken,<lb/>überwältigt dem <hi rendition="#b">eigenen</hi> Herzen gegenüber, und hätte<lb/>ihm Vorwürfe machen mögen, daß es bis heute ſo ver-<lb/>hüllt, ſo geheimnißvoll geblieben war.<lb/>
+            </p>
+            <p> <lb/>„Reden Sie von Wladimir?“ fragte nun das Mäd-<lb/>chen zornig und plötzlich auffahrend.<lb/>
+            </p>
+            <p> <lb/>„Von ihm, mein Fräulein.“<lb/>
+            </p>
+            <p> <lb/>„Sind Sie feſt überzeugt von Ihrer Behauptung?“<lb/>
+            </p>
+            <p> <lb/>„Wie von meinem Leben!“<lb/>
+            </p>
+            <p> <lb/>Nina wickelte die Enden des Candarenzügels um ihr<lb/>Handgelenk, als beabſichtigte ſie, alle Adern deſſelben zu<lb/>unterbinden. Ihr zuckender Herzſchlag verlangte einen<lb/>Gegendruck, um ſie nicht zu erſticken. Aber Nina blieb<lb/>äußerlich ruhig; ſie führte ihr Pferd mit jener Sorg-<lb/>falt, welche nur ein erfahrener Reiter genug würdigen<lb/>kann, da man ſie Niemanden beibringt, der nicht ſein<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0027" n="21" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=27"/>
+            </p>
+            <p> <lb/>Pferd liebt und herausfühlt, was man ihm zumuthen<lb/>kann und wo es zu ſchonen iſt. Ja, Nina, zeigte heute<lb/>eine doppelte Rückſicht für ihre braune Delibab und ſagte<lb/>ſich: „Delibab iſt jetzt das <hi rendition="#b">Einzige</hi>, das mir bleibt!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0028" n="22" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=28"/>
+            </p>
+            <p> <lb/>4.<lb/>Eber-Eſche.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">B</hi>aron Klingenberg durfte mit gutem Gewiſſen eine<lb/>Anklage gegen den Lieutenant erheben, die, wie er mit<lb/>Sicherheit wußte, Wladimir’s Lebenshoffnungen untergrub.<lb/>Ehe er mit der Erbin fortritt, war der junge Mann ihm<lb/>noch begegnet, und der General gab ihm das Bildchen,<lb/>wohlweislich aber den Brief für ſich behaltend, um ſich,<lb/>nöthigen Falls vor Nina rechtfertigen zu können.<lb/>
+            </p>
+            <p> <lb/>„Es iſt nicht eben ſchlau von Ihnen,“ zürnte dabei<lb/>der General, „ſo ſchöne Freundinnen im Parke umher zu<lb/>ſtreuen — ohne Zweifel ſteht Ihnen die Dame ſehr<lb/>nahe?“<lb/>
+            </p>
+            <p> <lb/>Wladimir wechſelte die Farbe, er war noch ſo jung<lb/>und leicht verlegen. „Allerdings ſie iſt — ich meine, ſie<lb/>gilt — ſie — —“<lb/>
+            </p>
+            <p> <lb/>Der Alte ſchüttelte unwillig den Kopf und wandte<lb/>ſich kurz ab — ſo verwirrt nur ein böſes Gewiſſen!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0029" n="23" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=29"/>
+            </p>
+            <p> <lb/>Unſer grauer Freund hatte zu lange im Strudel einer<lb/>Weltſtadt gelebt, um ſich zum Sittenprediger aufzuwerfen;<lb/>er entſchuldigte, aus guten Gründen, gern, was zu ent-<lb/>ſchuldigen war. Für Wladimir fand er dennoch keine<lb/>Entſchuldigung. So jung, ſo ſchüchtern, ſo wohlunter-<lb/>richtet, mit Zartgefühl und klarem Verſtande ausgerüſtet,<lb/>war ſeine grobe Verirrung wie ein Widerſpruch gegen<lb/>ſeine eigene Natur. Der General urtheilte um ſo ſtrenger,<lb/>als Graf Wladimir ihm beſonders wohl gefallen hatte,<lb/>und er bisher nichts an ihm zu tadeln vermochte als das<lb/>ſcheue und verſchloſſene Benehmen, deſſen unliebe Erklä-<lb/>rung leider heute Morgen zu Tage getreten war. Ja,<lb/>Wladimir’s <hi rendition="#b">Lebens</hi>hoffnungen wurden vernichtet, wenn<lb/>Nina ihm ihre Hand verſagte, nicht allein die <hi rendition="#b">Herzens</hi>-<lb/>hoffnungen, die, im Vertrauen geſagt, der alte Hans auch<lb/>nicht allzu hoch anſchlug.<lb/>
+            </p>
+            <p> <lb/>Graf Wladimir lebte in dem ſehr unglücklichen Inte-<lb/>rimszuſtande eines dereinſtigen Majoratsherrn und gegen-<lb/>wärtigen Bettlers. Der erblaſſende Oheim war keinem<lb/>Menſchen weniger zugethan als ſeinem lachenden Erben.<lb/>Wladimir war ſein wandelndes: <hi rendition="#aq">Memento mori</hi>, der<lb/>Secundenzeiger ſeiner ablaufenden Lebenſuhr —! Neben-<lb/>bei war der Oheim ein Geizhals und zwar einer der<lb/>Mißgünſtigſten der Harpaxkaſte. Die Schlußfolgerung für<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0030" n="24" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=30"/>
+            </p>
+            <p> <lb/>Wladimir ergibt ſich von ſelbſt. Nichts kam ihm abſcheu-<lb/>licher vor als der Fehler ſeines Oheims; er vermied dieſe<lb/>Klippe daher mit ſo viel Glück und Schick, daß er als-<lb/>bald vor Schulden nicht aus und ein wußte, und daß<lb/>ſeine Kameraden behaupteten: der Jude ſtände ihm auf<lb/>der Stirne geſchrieben, das heißt jener fatale Wechſeljude,<lb/>in deſſen Klauen er ſich befand. Erſt ſeit Wladimir die<lb/>Neigung für Nina gefaßt hatte, fühlte er den ganzen ent-<lb/>würdigenden Druck ſeiner zwiſchen Soll und Haben ruhe-<lb/>los ſchwankenden Exiſtenz. Wenn er im Begriff war, der<lb/>heiß Geliebten zu Füſſen zu ſinken, hielt ihn von jeder<lb/>Erklärung der Gedanke zurück, daß die Welt ſeine Hei-<lb/>rat für eine gute Finanzſpeculation anſehen müſſe; mußte<lb/>er doch ſelbſt ſich ſagen, daß kaum ein anderer Ausweg<lb/>vor ihm liege, ſich bis zu dem Tode des Oheims vor<lb/>fernerer Schuld und Ungeduld zu ſichern.<lb/>
+            </p>
+            <p> <lb/>Neben dieſen herben Betrachtungen aber tauchten ſo<lb/>unzählige liebliche Erinnerungen auf, daß alle Bitterkeit<lb/>nur dazu diente, die Süßigkeit recht hervorzuheben. Schon<lb/>das erſte Geſpräch Nina’s mit ihm, ihr Ausruf: „Ach,<lb/>Sie ſind auch verwaiſt!“ begleitet von jenem theilnehmen-<lb/>den Blicke, der ſein ganzes Herz erwärmte, knüpfte jene<lb/>zarte, ſchüchterne Sympathie an, die da unermüdlich gibt,<lb/>ohne daß die linke Hand weiß, was die rechte thut.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0031" n="25" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=31"/>
+            </p>
+            <p> <lb/>Wladimir machte Nina niemals den Hof; es war nicht<lb/>nothwendig, ihre Aufmerkſamkeit zu feſſeln; er war in<lb/>allem, was ſie that und ließ, einbegriffen. Einmal hatte<lb/>er ihr die Hand gedrückt, als er ihr die Crocketkugel<lb/>reichte, er hatte einen leiſen Gegendruck empfunden — das<lb/>war alles, und doch rechneten ſie auf einander. Aber er<lb/>ſagte nichts; denn — Gott, wenn nur dieſes „<hi rendition="#b">denn</hi>“<lb/>nicht geweſen wäre!<lb/>
+            </p>
+            <p> <lb/>Wladimir ſchalt ſich einen Feigling, daß er dem Ge-<lb/>neral nicht rund heraus geantwortet hatte, damit er jetzt<lb/>offen vor Nina treten und ihr alles ausſprechen könne,<lb/>was er hoffte und bereuete. Er wollte es heute thun,<lb/>wenn Fräulein Aſchbach von ihrem Ritte zurückkehrte; er<lb/>wollte ſie vom Pferde heben und ſie bitten, ihm einige<lb/>Minuten zu ſchenken. Wirklich harrte er ihrer rechtzeitig.<lb/>Er bot ihr die Hand, ſich auf dieſelbe zu ſtützen, — aber<lb/>Nina nahm ſeinen Ritterdienſt nicht an; ſie begegnete<lb/>ſeinen flehenden Augen nicht, ſondern ſagte mit mühſam<lb/>erkämpfter Deutlichkeit: „Ich bedarf Ihrer Hülfe nicht!“<lb/>worauf ſie zur Erde niederglitt und im Schloſſe ver-<lb/>ſchwand.<lb/>
+            </p>
+            <p> <lb/>Wladimir ſtand da, wie vom Blitze getroffen; er ſah,<lb/>daß er zu lange gezaudert hatte, und daß alles ver-<lb/>loren war.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0032" n="26" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=32"/>
+            </p>
+            <p> <lb/>Als eine Stunde ſpäter Campanula ihn zu ſich ent-<lb/>bieten ließ, da fand er auch ſie in tiefer, ſchmerzlicher<lb/>Bewegung. Sie ſprach aus, was er nicht den Muth hatte,<lb/>ſich ſelbſt zu geſtehen.<lb/>
+            </p>
+            <p> <lb/>„Nina ſcheint von allem unterrichtet zu ſein; ſie er-<lb/>klärte, weder Ihren Namen hören noch Sie wiederſehen<lb/>zu wollen..... Es iſt am beſten, Sie kehren ungeſäumt<lb/>in Ihre Garniſon zurück. Ich werde ſelbſt an Lidy<lb/>ſchreiben, daß das Opfer, welches ſie Ihrem Glücke brachte,<lb/>vom Schickſal nicht angenommen wurde. Schreiben auch<lb/>Sie, ehe Sie gehen, an die Vielgeprüfte, dann ſuchen Sie<lb/>Faſſung zu gewinnen zu dem Abſchiede von den alten<lb/>Herrſchaften, die es ſo gut mit Ihnen meinten. Es iſt<lb/>eine ſchlechte Gewohnheit, den Sturm in ſich zu ver-<lb/>ſchließen!“<lb/>
+            </p>
+            <p> <lb/>Als am Abend der Poſtexpedient die Briefe vom<lb/>Schloffe revidirte, fanden ſich zwei mit der Adreſſe: Frau<lb/>Lidy Södernäs, Mentone, Italien.<lb/>
+            </p>
+            <p> <lb/>Mit der Bemerkung: „Die werfen das Porto nur ſo<lb/>weg; die beiden Wiſche da an die Frau mit dem wun-<lb/>derlichen Namen wären auch unter <hi rendition="#b">einem</hi> Couvert ge-<lb/>gangen!“ ſchob er ſie in den Briefbeutel, welchen er ſie-<lb/>gelte und mit vieler Wichtigkeit dem Poſtknecht aus-<lb/>händigte.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0033" n="27" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=33"/>
+            </p>
+            <p> <lb/>Wladimir war längſt nach ſeiner Garniſon unter-<lb/>wegs. Er hätte blutige Thränen weinen mögen und ſaß<lb/>doch zerſchlagen und willenlos da. So bedecken die blut-<lb/>rothen Beeren das grüne Laub der Ebereſche.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0034" n="28" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=34"/>
+            </p>
+            <p> <lb/>5.<lb/>Immortelle.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">N</hi>ach der Abreiſe des Grafen Wladimir kam über den<lb/>geſelligen Kreis, welchen Herr Aſchbach auf ſeiner ſchönen<lb/>Beſitzung vereinigte, ein Etwas, das die unbefangene Hei-<lb/>terkeit, man wußte nicht wie, herabſtimmte. Vergebens<lb/>bot der General ſeinen glücklichen Humor auf, umſonſt<lb/>arrangirte Campanula Spiele und theatraliſche Vorſtel-<lb/>lungen, ſelbſt die guten alten beſtaubten Sorten, welche<lb/>der Großpapa aus dem Weinkeller herauf befördern ließ,<lb/>kamen mehr dem ſtillen Behagen der einzelnen Kenner,<lb/>als dem Frohſinne der Geſellſchaft zu Gute. Jeder An-<lb/>weſende fühlte deutlicher noch, als er es gewahrte, daß<lb/>die kleine Nina litt. Sie entzog ſich keiner Unterhaltung,<lb/>ſie wies nie ihren Antheil an den geſelligen Zerſtreuungen<lb/>zurück; aber während ihr Mund lächelte und ihr Ohr<lb/>dem Wechſelſpiel des Geſpräches zu folgen ſchien, war<lb/>ihre Seele fern, zuckte ihr Herz in ſchmerzlicher Sehnſucht.<lb/>
+            </p>
+            <p> <lb/>„Ich bin zu hart geweſen,“ klagte ſie Abends, wenn<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0035" n="29" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=35"/>
+            </p>
+            <p> <lb/>Campanula ſich auf den Rand ihres Bettes ſetzte und<lb/>Haar und Wangen des Lieblings ſtreichelte, „ich bin zu<lb/>hart gegen Wladimir geweſen; das iſt eine erbärmliche<lb/>Liebe, die nichts verzeihen kann. O, Campanula, und<lb/>doch — wenn er jetzt da wäre, wenn er jetzt mein wäre,<lb/>ich könnte den Gedanken nicht ertragen, daß ſeine erſte,<lb/>tiefſte Neigung einer Andern, einer Unwürdigen gehörte!<lb/>Ich bin wie innerlich zerriſſen zwiſchen dieſer wachſenden<lb/>Liebe und der bittern Eiferſucht, zwiſchen dem Schmerze,<lb/>ihn doch verloren zu haben. Und wenn ich ihn zu mir<lb/>zurück riefe: — das Unwiederbringlichſte, o meine treue<lb/>Freundin, das hat er verſchleudert, das bleibt unerſetzlich!“<lb/>
+            </p>
+            <p> <lb/>„Ich kann den Gedanken nicht zurückweiſen, daß un-<lb/>ſere gute Excellenz ſich mit der Anklage gegen den Lieu-<lb/>tenant übereilt hat,“ erklärte die Schriftſtellerin. „Mit<lb/>fieberhafter Ungeduld erwarte ich von anderer Seite die<lb/>von mir geforderten Aufklärungen; ich begreife nicht, was<lb/>dieſelben nun ſchon ſeit Wochen verzögert. Aber laß<lb/>nicht alle Hoffnung ſinken, mein armes Herzblatt!“<lb/>
+            </p>
+            <p> <lb/>„Nein, nein,“ rief Nina, „rathe mir das nicht; der<lb/>General meint es viel zu gut mit mir, als daß er mir<lb/>ohne Noth auch nur eine trübe Stunde bereitet hätte.<lb/>O Gott, Alle, Alle ſeid Ihr ſo gut mit mir; nur der<lb/>Eine hat mir ſo weh gethan, daß mir jedes Leid erträg-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0036" n="30" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=36"/>
+            </p>
+            <p> <lb/>licher ſcheint als dieſes, um deſſentwillen ich keine Trauer-<lb/>kleider anlegen darf und über das ich nur bei verriegelten<lb/>Thüren weine. Ich möchte es ja überwinden, aber es<lb/>iſt wie ein Theil von mir ſelbſt. Wenn man an Blut-<lb/>vergiftung ſtirbt — weshalb nicht an Gemüthsvergiftung?“<lb/>
+            </p>
+            <p> <lb/>So klagte die beneidete, reizende Erbin und rang die<lb/>Hände über der ſeidenen Bettdecke in einander, und ſie<lb/>fand keinen Schlaf, indeß ihre Untergebenen von dem<lb/>Glücke des Reichthums träumten.<lb/>
+            </p>
+            <p> <lb/>Wenn in einer Häuslichkeit irgend welcher unabwend-<lb/>barer Druck ſich der Gemüther bemächtigt, ſo drängt ſich<lb/>alsbald die Erwartung in den Vordergrund, es müſſe<lb/>irgend ein Wechſel, irgend ein Ereigniß ſich in’s Mittel<lb/>legen. Auch unſere Bekannten erhofften mit ungewohnter<lb/>Aufregung, ob etwa ein Beſuch eintreffen möchte, es<lb/>wurde nach den Poſtſachen gegriffen, als ob alle Anwe-<lb/>ſenden die wichtigſten Nachrichten erwarteten. Aber man<lb/>ſtand in den unergiebigen Sommermonaten, wo die hohe<lb/>Politik ſich im Bade befindet und außer gelegentlichen<lb/>Feuersbrünſten und tollen Hunden, die ihr mehr oder<lb/>weniger gefährliches Debut machen, nichts vorfällt. Eines<lb/>Tages aber wurden trotzdem zwei Perſonen ſichtbar auf-<lb/>geregt durch das Ergebniß der Poſttaſche: Seine Excel-<lb/>lenz durch einen Brief aus der Reſidenz, den der graue<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0037" n="31" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=37"/>
+            </p>
+            <p> <lb/>Herr alsbald mit den Zeichen der lebhafteſten Bewegung<lb/>in die Taſche ſchob, indeß Campanula dem Annoncen-<lb/>theil der Zeitung einen leiſen Schrei des Staunens wid-<lb/>mete. Dieſer Schrei wurde vom Wachholder keineswegs<lb/>überhört, und er unterwarf die beanſtandete Zeitungs-<lb/>ſpalte ſpäter einer gründlichen Inſpektion. Ja, es mußte<lb/>dieſe Anzeige ſein: „Nach langem Leiden ſtarb zu Men-<lb/>tone mein Gatte Chriſtian Södernäs. Lidy Södernäs.“<lb/>
+            </p>
+            <p> <lb/>Es lag etwas Scheues in dieſen paar Zeilen, das<lb/>durch die herbe Kürze derſelben noch mehr hervor trat!<lb/>Der verſtorbene Chriſtian Södernäs ſchien in der That<lb/>weder Heimat noch Trauer hinterlaſſen zu haben — er<lb/>durfte ſich keines Nachrufs rühmen, als der dürren Be-<lb/>ſtätigung, daß er in ſechs Fuß Erde gebettet ein langes<lb/>Erdenleid verſchlafe. Der General hatte manchmal poetiſche<lb/>Gedanken, aber er fand ſie ſelbſt unpraktiſch. Deshalb<lb/>ging er auch alsbald zu der mehr reellen Vermuthung<lb/>über, Lidy Södernäs in Mentone möge die coquette Frau<lb/>ſein, welche Wladimir umgarnt hatte; es gereichte ihr<lb/>wenigſtens zur Ehre, daß ſie ſich nicht untröſtlich über<lb/>einen Verluſt ſtellte, der ihr vermuthlich höchſt bequem<lb/>war, da ihr Herz bereits von dem Schwerleidenden zu<lb/>dem beglückten Lieutenant deſertirt war, ehe ſie die Witt-<lb/>wentrauer anlegte. Möglicherweiſe trauerte ſie auch nur,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0038" n="32" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=38"/>
+            </p>
+            <p> <lb/>um ſich einen ſchwermüthigen Anſtrich zu geben. Der<lb/>alte Hans dachte im verſchwiegenen Herzen recht ſchlecht<lb/>über die andere Hälfte der Menſchheit; denn er glaubte<lb/>dieſe wetterwendiſchen Geſchöpfe durch und durch zu ken-<lb/>nen. Trotz dieſer tiefen Seelenkenntniß mußte er dennoch<lb/>Campanula nicht ganz durchſchaut haben, denn ihr In-<lb/>tereſſe für die geheimnißvolle Mentone-Lidy verrieth, daß<lb/>Wladimir’s Biographie dem ehrenwerthen Blauſtrumpf<lb/>bekannt ſein mußte bis in die Schlagſchatten hinein.<lb/>
+            </p>
+            <p> <lb/>„Nun, was gibt’s Neues?“ unterbrach Frau Asch-<lb/>bach, die mit ihrer Enkelin eingetreten war, die Grübe-<lb/>leien des Barons.<lb/>
+            </p>
+            <p> <lb/>„Leider nichts Gutes!“ entgegnete dieſer; „ich erhielt<lb/>ein Schreiben, das mich zwingt, mit dem Nachtzuge in<lb/>die Reſidenz zu reiſen. Holde Nina, Sie haben keinen<lb/>Begriff davon, wie ſchwer es mir wird, die Cavalier-<lb/>dienſte aufgeben zu müſſen, zu deren Ausübung Sie mich<lb/>würdig erklärten.“<lb/>
+            </p>
+            <p> <lb/>„Gewiß ruft Sie wieder irgend eine Pflicht der Freundſchaft<lb/>oder Nächſtenliebe von uns!“ bemerkte gütig Frau Aſchbach.<lb/>
+            </p>
+            <p> <lb/>Das Geſicht Seiner Excellenz zuckte und ein lebhaftes<lb/>Roth überzog ſeine breite Stirne: „Es iſt ein Rettungs-<lb/>verſuch,“ ſtieß er haſtig hervor; „aber ich fürchte, ich<lb/>komme bereits zu ſpät!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0039" n="33" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=39"/>
+            </p>
+            <p> <lb/>„O,“ bat Nina, die ihn ängſtlich beobachtet hatte,<lb/>„thun Sie, was Sie können!“<lb/>
+            </p>
+            <p> <lb/>„So wahr ich hoffe, ſelig zu werden, will ich das!“<lb/>betheuerte der General feierlich.<lb/>
+            </p>
+            <p> <lb/>„Und werden Sie bald zurückkehren?“ fragte die<lb/>ältere Dame. „Sie wiſſen, wie ſehr wir Sie vermiſſen.“<lb/>
+            </p>
+            <p> <lb/>„Wenn es mir gelingt — ja dann komme ich wie-<lb/>der; wenn nicht, ſo habe ich mich erſt mit mir ſelbſt<lb/>abzufinden — Sie wiſſen, verehrte Freundin, ich bin<lb/>ein wunderlicher Kauz!“<lb/>
+            </p>
+            <p> <lb/>„Gott erhalte Sie dabei!“ lächelte Frau Aſchbach.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0040" n="34" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=40"/>
+            </p>
+            <p> <lb/>6.<lb/>Pyrola.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">D</hi>er Frühzug entführte in der That den Baron. Er<lb/>lag trotz des naßkalten unfreundlichen Morgens ſchlaflos<lb/>in der Coupéecke und ſeine jovialen Züge hatten einen<lb/>ernſten, faſt bitteren Ausdruck angenommen. Er freute<lb/>ſich, allein zu ſein, obwohl ſeine Gedanken keineswegs<lb/>angenehmer Natur waren. Vor fremden Augen durfte<lb/>nur der alte biedere, luſtige Hans gezeigt werden; aber<lb/>mit ſich allein — da ſtand es anders. Da fragte er<lb/>ſich, weshalb er denn ſeine grauen Haare ſo raſtlos von<lb/>einem Ende des Staates zum andern trage, weshalb er<lb/>ſich fremden Leides wegen grämte und für fremde Freude<lb/>unabläſſig abmühe — endlich warum ſein eigenes Haus<lb/>denn ſeit Jahren verödet ſtehe. Warum beſaß er nichts<lb/>für ſein Herz als den Grabhügel ſeiner längſt verklärten<lb/>braven Gattin? Weshalb hatte er nicht wieder geheiratet?<lb/>— Hier erlaubte ſich der alte Hans einen recht kernigen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0041" n="35" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=41"/>
+            </p>
+            <p> <lb/>klangvollen Soldatenfluch — ja, da ſteckte der Knoten.<lb/>Eine Häßliche, Alte gefiel ihm nicht, und eine Junge,<lb/>Hübſche — der Baron ſchnippte mit den Fingern — der<lb/>traute er wieder nicht. Er wurde ſchon bei dem bloßen<lb/>Gedanken ganz unruhig und aufgeregt, daß ſo ein junges<lb/>Ding ſich hinter ſeinem Rücken über den verliebten Grau-<lb/>kopf luſtig machen könne — nein, nein, es war nichts<lb/>mit dem Heiraten. Unſer Freund ſchämte ſich ſeines jung<lb/>gebliebenen Herzens und wunderte ſich, wie wohl andern<lb/>Greiſen zu Muthe ſein möchte — da riß der Schaffner<lb/>das Coupé auf, und eine hohe Geſtalt im naſſen Caval-<lb/>leriemantel, mit klirrenden Sporen und klapperndem Säbel<lb/>ſchwang ſich herein.<lb/>
+            </p>
+            <p> <lb/>„Grüß’ Sie Gott, Rittmeiſter Janos — wohin geht<lb/>die Reiſe?“<lb/>
+            </p>
+            <p> <lb/>Janos war ein Ungar und verleugnete ſeine Natio-<lb/>nalität in keiner Weiſe. Mit der Unumſtößlichkeit des<lb/>ſelbſtbegnügteſten Volksbewußtſeins, die ſich gern bis auf<lb/>die geringſten Handlungen des Einzelnen erſtreckt, theilte<lb/>der ſtattliche Krieger mit, er ſei unterwegs nach Mentone.<lb/>Vor längerer Zeit lernte Janos nämlich in irgend einem<lb/>Bade eine ſchöne junge Frau kennen, in die er ſich na-<lb/>türlicher und unvermeidlicher Weiſe ſterblich verlieben<lb/>mußte. Aber ach, die ſchöne Lidy hatte die ſonderbare<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0042" n="36" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=42"/>
+            </p>
+            <p> <lb/>Eigenheit, ſich ganz und gar der Pflege ihres kranken<lb/>und gelähmten Mannes zu widmen. Janos liebte in<lb/>Folge deſſen ſehr unglücklich bis geſtern Mittag, wo er<lb/>die Todesanzeige des läſtigen Gatten in der Zeitung las,<lb/>ſich unter irgend welchem Vorwande Urlaub in die Re-<lb/>ſidenz erbat und nun, auf Gefahr ſeiner Carrière und<lb/>Freiheit, dieſen Urlaub zu überſchreiten beabſichtigte, in-<lb/>dem er eine Eilfahrt „hinunter nach Mentone“ machte,<lb/>um dem köſtlichen Weibe ſeine erneuten Huldigungen zu<lb/>Füßen zu legen.<lb/>
+            </p>
+            <p> <lb/>Das Geſicht des Generals nahm einen beinahe dia-<lb/>boliſchen Ausdruck an, als ihm ſo unvermuthet ein neuer<lb/>Faden, zu jener unvermeidlichen Lidy führend, in die<lb/>Hand geſpielt wurde. Er drückte dem ſtürmiſchen Lieb-<lb/>haber ungefäumt ſeine Theilnahme aus, wünſchte ihm<lb/>guten Erfolg bei Frau Södernäs und verabredete ein<lb/>
+               <hi rendition="#aq">Rendezvous</hi> mit Janos, wenn dieſer von ſeiner Reiſe<lb/>zurückkehren würde und etwa eines Rathes oder einer<lb/>Fürſprache bedürftig ſei. Es fiel dem Rittmeiſter nicht<lb/>auf, daß der General den Familiennamen ſeiner Ange-<lb/>beteten kannte. Liebende finden es ſo natürlich, daß die<lb/>ganze Welt nur exiſtirt, um ein Widerſchein ihrer ver-<lb/>zückten Empfindſamkeit zu ſein, daß in dieſer Richtung<lb/>nichts ſie überraſcht. Die Liebe würde gewiß die Erde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0043" n="37" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=43"/>
+            </p>
+            <p> <lb/>aus den Angeln heben — wenn ſie nur einen feſten<lb/>Standpunkt außer derſelben fände. Selbſtverſtändlich ließ<lb/>der General die glückliche Gelegenheit nicht entſchlüpfen,<lb/>über Frau Södernäs, die ſich ſo vieler Bekannten rüh-<lb/>men durfte, nähere Nachrichten einzuziehen. Zur Bekräf-<lb/>tigung des Schwures, den Rittmeiſter Janos darauf ab-<lb/>legte, daß „Lidy ein ſehr bildſauberes Weiberle“ wäre,<lb/>ward abermals die Photographie vorgezeigt, welche der<lb/>alte Herr bereits kannte. Die Züge der Dame kamen<lb/>ihm dieſes Mal noch milder, ihre ganze Haltung noch<lb/>weiblicher vor. Ihre Augen blickten mit einer rührenden<lb/>Furchtſamkeit, und die Lippen ſchienen zu der Bitte be-<lb/>reit: „O verurſache mir keinen neuen Schmerz!“ keinen<lb/>neuen — denn ein Weh lagerte allerdings in dieſen<lb/>Mundwinkeln, auf dieſer ſchön gewölbten Stirne — keine<lb/>heftige Leidenſchaft, aber eine geduldig getragene Bürde.<lb/>Freilich wußte Baron Klingenberg, Lidy ſei eine arge<lb/>Coquette, um ſo ärger, als ſie die Maske der Zurück-<lb/>haltung ſo täuſchend zu tragen wußte; aber ſelbſt ein ſo<lb/>gewiegter Menſchenkenner hatte Mühe, in dieſem Bilde<lb/>eine ſtrafwürdige Frau zu erblicken.<lb/>
+            </p>
+            <p> <lb/>„Muß ſo ein herziges Weſen nun auch gerade einen<lb/>garſtigen, alten, ungeſchickten Mann heiraten,“ grollte<lb/>Janos. „Ein Bauer, wie er im Buche ſteht, mit großen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0044" n="38" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=44"/>
+            </p>
+            <p> <lb/>Händen und Füßen, und dabei lahm. Und ein Tyrann<lb/>iſt er geweſen — vorerſt! Wenn er ſich nur rührte, war<lb/>ſie ſchon an ſeiner Seite, damit er ja nicht die Mühe<lb/>haben ſollte, ein Wort zu verlieren. Sie wagte nicht<lb/>die Augen von ihm abzuwenden, das arme Vogerle —<lb/>das ging ſo von früh bis ſpät!“<lb/>
+            </p>
+            <p> <lb/>„Vielleicht — ja wahrſcheinlich hält dieſe bewunde-<lb/>rungswerthe Treue noch bis über’s Grab vor!“ ſprach<lb/>der General ſarkaſtiſch.<lb/>
+            </p>
+            <p> <lb/>„Das laſſen Sie meine Sorge ſein!“ ſchmunzelte der<lb/>Selbſtbewußte und wirbelte ſeinen langen Schnurrbart.<lb/>„Wenn ſie mich nur ſieht, ſo iſt ſchon alles ſo gut wie<lb/>unterſiegelt. Ich habe die größte Eile, ſie noch in Men-<lb/>tone zu treffen, um ihre Spur nicht ganz zu verlieren;<lb/>denn ſie lebt für gewöhnlich da oben, hinter Schwaben,<lb/>in Dänemark. Ein Weiberle, wie für mich geſchaffen,<lb/>und reich iſt ſie auch; ich lade Excellenz zur Hochzeit ein!“<lb/>
+            </p>
+            <p> <lb/>„Reich iſt ſie?“ — rief der General. „Beim Him-<lb/>mel, das hätte ich nicht erwartet! Reich — reich — und<lb/>— o das iſt zum Kranklachen. Ich wünſche Ihnen Glück,<lb/>armer Janos! Reich iſt ſie und Wittwe —! Es gibt<lb/>doch Ereigniſſe in der Welt, die auch der kühnſte Rechen-<lb/>meiſter nicht vorher berechnen kann. O Weiber, Weiber —!<lb/>Alles Unglück in der Welt kommt durch die Frauen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0045" n="39" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=45"/>
+            </p>
+            <p> <lb/>Janos war nicht im Stande, als Ritter der ſchwer<lb/>ekränkten Frauenwelt aufzutreten; denn eine corpulente<lb/>Dame mit einem Schooßhunde und drei magern Töchtern<lb/>rſchien vor dem Coupé. Der Rittmeiſter hob eine nach<lb/>der andern und den Hund und vier Reiſetaſchen und drei<lb/>Rieſenbouquets zu ſich empor. Der Zauber der Gegen-<lb/>wart ließ ihn Mentone und den General und die Zukunft<lb/>vergeſſen: — er ſpielte den Angenehmen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0046" n="40" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=46"/>
+            </p>
+            <p> <lb/>7.<lb/>Vergißmeinnicht.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">N</hi>ein, nein; ich mache dem General keine Vorwürfe,<lb/>aber mir ſelbſt, Campanula, mir ſelbſt mache ich ſie —!<lb/>Ich verſtieß Wladimir, ohne ihm die Möglichkeit zu laſſen,<lb/>ſich auszuſprechen, ſich zu entſchuldigen. Konnten nicht<lb/>tauſend mildernde Umſtände vorliegen, konnte nicht ein<lb/>Mißverſtändniß — —!“<lb/>
+            </p>
+            <p> <lb/>„Nina, Kind, du redeſt im Fieber! Deine Wangen<lb/>glühen, deine Augen leuchten — ich flehe dich an, ſag’<lb/>mir, was geſchehen iſt!“<lb/>
+            </p>
+            <p> <lb/>„O, das iſt leicht zu ſagen,“ entgegnete Nina mit<lb/>ſchmerzlicher Bitterkeit. „Graf Wladimir iſt von ſeinem<lb/>Oheim verlaſſen, Schulden halber aus ſeinem Regimente<lb/>verſtoßen und dient jetzt als <hi rendition="#b">Gemeiner</hi> in einem Jn-<lb/>fanterie-Regimente, weit, weit von hier!“<lb/>
+            </p>
+            <p> <lb/>Nina verhüllte ihr Geſicht und ſchwieg einen Augen-<lb/>blick; dann fuhr ſie mit bebender Stimme fort: „O Gott,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0047" n="41" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=47"/>
+            </p>
+            <p> <lb/>ſo viel Schmach und Elend — des Geldes und meiner<lb/>Liebloſigkeit wegen!“<lb/>
+            </p>
+            <p> <lb/>„Ich beſchwöre dich, Nina, erkläre mir nur, woher<lb/>du all’ dieſe Dinge erfahren haben kannſt?“<lb/>
+            </p>
+            <p> <lb/>„Wladimir hat ſie mir geſchrieben. Für immer von<lb/>mir getrennt, nimmt er Abſchied und verſichert mich, zum<lb/>erſten und zum letzten Male im Leben, ſeiner heißen<lb/>Liebe! Dieſe Liebe hält ihn in den dunkeln Tagen, die<lb/>über ihn gekommen ſind, aufrecht, ſagt er, ſonſt …..<lb/>O, Campanula, wenn es geſchehen wäre, wenn er ſich<lb/>getödtet hätte — ich ſtände da als die wahre Mörderin<lb/>Deſſen, den ich mehr liebe als mein Leben —!“<lb/>
+            </p>
+            <p> <lb/>„Welch’ tolle Phantaſieen — ein junger Mann, dem<lb/>ein bedeutendes Majorat nicht entgehen kann, wird nicht<lb/>ſo leicht lebensmüde; ein Liebender, der noch an die Ge-<lb/>liebte ſchreibt, hofft noch.“<lb/>
+            </p>
+            <p> <lb/>„O Campanula, wenn er hofft, ſo hat er ſich nicht<lb/>getäuſcht! An dem beneideten Liebling der vornehmen Ge-<lb/>ſellſchaft durfte ich zweifeln; ich durfte mich von ihm ab-<lb/>wenden — von dem degradirten Soldaten im groben<lb/>Commisrock, der mit Zigeunern und Keſſelflickern in Reih<lb/>und Glied ſteht — von ihm, der Niemanden hat als<lb/>mich, ſoll nichts in der Welt mich trennen!“<lb/>
+            </p>
+            <p> <lb/>„Nicht ſo eilig, mein Mädchen; Wladimir ſteht nicht<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0048" n="42" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=48"/>
+            </p>
+            <p> <lb/>ganz allein. Es exiſtirt ein Weſen, das die größten<lb/>Opfer ...“<lb/>
+            </p>
+            <p> <lb/>„Rede nicht weiter, Campanula — verdirb mir nicht<lb/>die frohe, ſelige Hoffnung, als ſein guter Engel zu ihm<lb/>zu treten, ihm alles zu geben und ihm alles zu ſein. —<lb/>Ich gehe jetzt zu Großpapa und bitte ihn, mit mir nach<lb/>Ungarn zu Wladimir zu reiſen. Es wird einen harten<lb/>Kampf koſten; aber ich muß ſiegen oder unglücklich ſein!<lb/>Jeder Zweifel hat ein Ende — die Großeltern werden ſich<lb/>betrüben; aber, bei meiner Seele, ich kann nicht anders!“<lb/>
+            </p>
+            <p> <lb/>„Nun,“ erwiderte Campanula gerührt, „dann folge<lb/>getroſt deinem Herzen.“<lb/>
+            </p>
+            <p> <lb/>Als die Thüre ſich hinter Nina geſchloſſen hatte,<lb/>ſprach die Schriftſtellerin leiſe vor ſich hin:<lb/>
+            </p>
+            <p> <lb/>„Die ſich im Glücke finden,<lb/>Im Schmerze ſich verbinden,<lb/>Im Unglück ſich erkennen —<lb/>Kann keine Ferne trennen!<lb/>
+            </p>
+            <p> <lb/>Campanula hatte ſtets ein Sprüchlein zur Hand; ſie<lb/>blickte auf dieſe Sinngedichte, wie man ein Barometer<lb/>anſchaut — die Ziffern und Grade bleiben dieſelben, aber<lb/>Sturm und Sonnenſchein üben innerhalb dieſer Wahrzeichen<lb/>ihren bewegenden Einfluß — es iſt jeder Wechſel vorgeſehen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0049" n="43" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=49"/>***<lb/>8.<lb/>Scabioſa, die Wittwenblume.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">D</hi>es Generals Rettungsverſuche fielen der Art aus,<lb/>daß er keine Neigung verſpürte, zur Familie Aſchbach zu-<lb/>rückzukehren. Wir wiſſen bereits, daß Graf Wladimir der<lb/>zu Rettende war. Die Hülfseifrige Excellenz kam aber<lb/>nicht früh genug, um des Lieutenants Schickſal zu wen-<lb/>den; die boshafte Intrigue, welche ihn ſtürzen ſollte, war<lb/>zu gut angelegt. Da Wladimir nur einen einzigen Feind<lb/>beſaß, der ſein Oheim war, ſo ging ſie ſelbſtverſtändlich<lb/>von dieſem aus. Weil der alte Mann Wladimir’s Gläu-<lb/>biger nicht wohl überzeugen zu können glaubte, er beſitze<lb/>das Kraut, das gegen den Tod gewachſen iſt, ſo ſprengte<lb/>er aus, er ſtehe auf dem Punkte, ſich zu verheiraten.<lb/>Dem unglücklichen Neffen blieb nichts übrig, als ſeinen<lb/>anſtürmenden Creditoren zu erklären, er ſei außer Stande,<lb/>ſie ſofort zu befriedigen. Er mußte ihnen dasjenige über-<lb/>laſſen, was er noch an Geldeswerth beſaß. Eine große<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0050" n="44" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=50"/>
+            </p>
+            <p> <lb/>Börſenpanique macht einen kurzen Moment eine Weltſtadt<lb/>ſtußen; die Panique eines armen Lieutenants aber geht<lb/>ſpurlos vorüber, ſein Sturz betäubt Niemanden als ihn<lb/>ſelbſt.<lb/>
+            </p>
+            <p> <lb/>Es liegt an eines Menſchen Schmerz<lb/>An eines Menſchen Wunde — nichts!<lb/>Es kümmert um des Kranken Leid<lb/>Sich ewig der Geſunde — nichts!<lb/>
+            </p>
+            <p> <lb/>Das klingt bitter, und iſt doch ſo wahr! — Der ele-<lb/>ganteſte Tänzer der ariſtokratiſchen Kreiſe machte glück-<lb/>lichern Nachfolgern Platz, und die Comteſſen, die noch<lb/>geſtern mit ihm liebäugelten, würden ihn heute nicht ge-<lb/>kannt haben, wäre er nicht geflohen vor allem, was ihn<lb/>bisher umgab. Vor ſich ſelbſt vermochte er leider nicht<lb/>zu fliehen. Eine Zeit lang irrte er ziellos umher; dann<lb/>beſchloß er, ſein Schickſal auf ſich zu nehmen, und ließ<lb/>ſich von neuem zum Militair anwerben. Er durfte zu-<lb/>frieden ſein, daß, Dank der Dazwiſchenkunft des Generals<lb/>Klingenberg, ihm wenigſtens durch die Gläubiger ſeine<lb/>Freiheit nicht genommen wurde. Dieſes höchſte Gut lernt<lb/>gemeiniglich nur der vollkommen würdigen, der in Gefahr<lb/>kommt, deſſelben beraubt zu werden. Natürlich ermangelte<lb/>der General nicht, ſeinem Schützling in der neuen, un-<lb/>erquicklichen Stellung jene Protection angedeihen zu laſſen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0051" n="45" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=51"/>
+            </p>
+            <p> <lb/>die ihm über kurz oder lang ein Avancement zu höheren<lb/>Chargen ſicherte — aber ach, wie leicht wogen Troſt und<lb/>Hoffnung gegen die übervolle Waagſchale ſeines zertrüm-<lb/>merten Glückes!<lb/>
+            </p>
+            <p> <lb/>Während Wladimir alles verlor, was ihm Freude<lb/>geweſen, gab Janos die Hoffnung nicht auf, die Wittwe<lb/>und mit ihr ſein Glück zu finden. Die Angebetete kam<lb/>ihm doppelt bezaubernd vor, als er in Mentone erfuhr,<lb/>ſie wäre ſchon längſt, d. h. vor beinahe vierzehn Tagen<lb/>nach Peſth gereiſt. Aber der Gatte, hieß es, ſei gar nicht<lb/>in Mentone geſtorben; ſogar wollte Niemand daſelbſt etwas<lb/>von einem lebendigen oder todten Begleiter der Dame ge-<lb/>ſehen haben. Janos fand dieſe Behauptung geradezu<lb/>lächerlich: Södernäs mußte in Mentone geſtorben ſein,<lb/>weil ſeine Wittwe dies öffentlich in den Zeitungen mit-<lb/>theilte. War dies auch etwas ſehr verſpätet geſchehen, ſo<lb/>blieb immerhin Lidy’s Todesnachricht tauſend Mal glaub-<lb/>würdiger als die Behauptung der Behörden, es ſei in<lb/>Mentone überhaupt kein Södernäs geſtorben. Janos wußte<lb/>ſich ſelbſt zu pfiffig, um nicht auch hinter fremde Schliche<lb/>zu kommen — ſelbſtverſtändlich wollten die liſtigen Ita-<lb/>liener nicht zugeben, daß wiederum ein Kranker in ihrem<lb/>viel geprieſenen Mentone geſtorben ſei! Innerlich ſeine<lb/>Klugheit beweihräuchernd, obwohl zugleich verdrießlich über<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0052" n="46" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=52"/>
+            </p>
+            <p> <lb/>den verfehlten Reiſezweck, dampfte der liebende Rittmeiſter<lb/>nach Peſth. Lidy Södernäs war da geweſen, aber dann<lb/>nach Wien weiter gereiſt. Alſo nach Wien. In Wien<lb/>forſchte der Rittmeiſter abermals nach ſeiner Erſehnten<lb/>trotz des beſten Polizeiſpions; er hatte jetzt ſchon eine<lb/>förmliche Routine in dem Geſchäfte. Uebrigens waren<lb/>keine ungewöhnliche Anſtrengungen erforderlich. Sie wohnte<lb/>„Hôtel Victoria“ an der Favoritenſtraße auf den Wieden,<lb/>Zimmer Nr. 15. Der erſte beſte Fiaker trug mit Extra-<lb/>trinkgeld-Eile den Liebenden dahin.<lb/>
+            </p>
+            <p> <lb/>Die Wittwe empfing ihn kalt und entließ ihn tief<lb/>entrüſtet ob ſeines Antrages nebſt Liebeserklärung, ſo ent-<lb/>rüſtet, daß ſie ihm auch nicht ein Mal für die ferne Zeit,<lb/>wo ihre Wittwentrauer beendet ſein würde, Hoffnung gab.<lb/>
+            </p>
+            <p> <lb/>Dieſe ganze Leidensgeſchichte trug der Rittmeiſter zür-<lb/>nend, betrübt, verzweifelnd und doch wieder hoffend zu<lb/>unſerem alten Freunde, dem General von Klingenberg,<lb/>indem er Seine Excellenz bat, der Dame ein halbes hun-<lb/>dert Entſchuldigungsgründe für ſein, des Rittmeiſters,<lb/>ſtürmiſches Vordringen zu überbringen, und tauſend Bit-<lb/>ten, ihr Herz zu erweichen. Der alte Mann übernahm<lb/>die zarte Miſſion, und zwar, abgeſehen von der eigenen<lb/>Neugier, im Intereſſe des Liebenden, d. h. ganz anders,<lb/>als Janos dieſes Intereſſe verſtand. Denn alles, was<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0053" n="47" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=53"/>
+            </p>
+            <p> <lb/>ihm über Lidy bekannt wurde, ſchien dem alten Herrn<lb/>nur eine Beſtätigung ſeiner Meinung, ſie ſei eine ſchlaue,<lb/>gefallſüchtige Perſon. Wenn er jetzt zu ihr ging und ſo-<lb/>gar ſchon mit einem ſtillen Ingrimm dazu die Handſchuhe<lb/>anzog, ſo ſann er auf nichts Geringeres, als ſeinem Auf-<lb/>traggeber jede fernere Illuſion über die ſchöne Wittwe zu<lb/>benehmen.<lb/>
+            </p>
+            <p> <lb/>Nro. 15 im „Hôtel Victoria“ iſt ein hübſches Zim-<lb/>mer im erſten Stocke mit braunen Plüſchmöbeln. Wien<lb/>läßt uns an der Favoritenlinie Luft und verhältnißmäßige<lb/>Stille genießen, zwei Dinge, welche in den meiſten Gaſt-<lb/>höfen der Reſidenz nicht erkauft werden können. General<lb/>Klingenberg wurde von der Wittwe in jenem Zimmer<lb/>empfangen. Sie war ruhig und wie unter dem Einfluß<lb/>einer leichten Ermüdung, — dabei noch hübſcher und har-<lb/>moniſcher in ihrer Erſcheinung, als die Photographie dies<lb/>verrathen hatte. Sie lauſchte der Anrede des Beſuchers<lb/>ohne irgendwelche Erregung und erwiderte dann: „Ich<lb/>verzeihe dem Rittmeiſter Janos ſeine Vorausſetzung, die<lb/>Wittwe eines alten kranken und unſcheinbaren Mannes<lb/>müſſe ſich beeilen, um raſch und in vollen Zügen nachzu-<lb/>holen, was ſie verſäumte. Nur Gott und ich ſelbſt kön-<lb/>nen ja wiſſen, wie viel Dank und Verehrung ich meinem<lb/>Gatten ſchuldete!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0054" n="48" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=54"/>
+            </p>
+            <p> <lb/>„Das Intereſſe für einen Greis iſt eben beſonderer<lb/>Natur,“ meinte der General mit Beziehung.<lb/>
+            </p>
+            <p> <lb/>„O gewiß,“ betheuerte Lidy lebhafter. „Man hat<lb/>das Glück, einem kränkelnden Manne alles, ſeine ganze<lb/>Welt, ſein zu können! Ach, Södernäs war ein ſo gedul-<lb/>diger Kranker; er verklärte ſich mehr und mehr zu einem<lb/>herrlichern Daſein — ſolches Sterben iſt kaum ein Tod<lb/>zu nennen. Es war ein freudenvoller Heimgang!“<lb/>
+            </p>
+            <p> <lb/>„Ah — ah —“ ſtaunte der Andere. „Ja, es muß<lb/>erhebend ſein, vorwurfsfrei das Gedächtniß eines ſolchen<lb/>Todten zu feiern.“<lb/>
+            </p>
+            <p> <lb/>Lidy zuckte zuſammen, ihre Wangen wurden ſichtbar<lb/>bleicher. „Weshalb betonen Sie dieſen Ausdruck, Excel-<lb/>lenz?“ ſtieß ſie raſch hervor.<lb/>
+            </p>
+            <p> <lb/>„Es iſt nur zu erklärlich,“ ſagte der General deutlich<lb/>und bitter, „nur allzu erklärlich, daß eine ſo ſchöne Frau<lb/>wie Sie, meine Gnädige, dem greiſen Gemahl Verehrung,<lb/>einem jüngern glücklichern Manne aber Ihre ganze unver-<lb/>kürzte Herzenstheilnahme zollten — ich brauche wohl kaum<lb/>noch den Namen Wladimir beizufügen.“<lb/>
+            </p>
+            <p> <lb/>Lidy zitterte. „O mein Gott!“ ſchluchzte ſie. ….<lb/>„Södernäs würde mir gewiß mein Unrecht verzeihen,<lb/>wenn er aus dem Grabe zurückkehren könnte. Ja, hätte<lb/>ich Wladimir retten können! Aber es ſcheint ſich alles,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0055" n="49" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=55"/>
+            </p>
+            <p> <lb/>alles gegen ihn zu verſchwören. Ach, und er iſt ſo gut,<lb/>ſo herzensgut, mein armer Wladimir — doch Sie kennen<lb/>ihn, denn er hat Ihnen alles vertraut — reden Sie mir<lb/>von ihm!“<lb/>
+            </p>
+            <p> <lb/>„Ihre Offenheit iſt wahrhaft anerkennenswerth, meine<lb/>Gnädigſte. Sie nehmen mithin nicht den mindeſten An-<lb/>ſtand, Ihre nahen Beziehungen zu Graf Wladimir anzu-<lb/>erkennen?“<lb/>
+            </p>
+            <p> <lb/>„Wie ſollte ich zaudern, dieſelben anzuerkennen, jetzt,<lb/>wo Wladimir von dem Onkel verſtoßen und in’s Unglück<lb/>geſchleudert iſt, jetzt, wo mein Gemahl nicht mehr unter<lb/>den Lebenden weilt — Wladimir ſelbſt würde den fal-<lb/>ſchen Stolz mißbilligen, der mir jetzt noch die Lippen ver-<lb/>ſchlöffe!“<lb/>
+            </p>
+            <p> <lb/>Seine Excellenz lachte wie ein Kobold und kaute da-<lb/>zwiſchen an dem grauen Schnauzbart.<lb/>
+            </p>
+            <p> <lb/>Er mußte hinaus in’s Freie, um einen gruſeligen<lb/>Fluch gegen die Weiber und über das ganze verderbte<lb/>Menſchengeſchlecht zu ſchleudern! O, es war zu toll, mit<lb/>ſo harmloſer, holder Miene über ein ſo böſes Verhältniß<lb/>zu reden und die ſchönſte Regung des Frauenherzens, der<lb/>Frauenſitte, einfach als „falſchen Stolz“ unter die Füße<lb/>zu treten.<lb/>
+            </p>
+            <p> <lb/>„Mein Einkommen als Wittwe iſt leider ein ſehr ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0056" n="50" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=56"/>
+            </p>
+            <p> <lb/>ringes,“ nahm Frau Södernäs von neuem das Wort; ich<lb/>kann Wladimir keine weſentliche Dienſte mehr erzeigen.<lb/>Doch werde ich, ſo viel wie immer möglich, in ſeiner<lb/>Nähe bleiben und ſeinen Geiſt auf die unantaſtbaren Be-<lb/>ſitzthümer des Lebens zu lenken ſuchen, da er die Wan-<lb/>delbarkeit der Glücksgüter nur zu ſchwer empfunden hat.“<lb/>
+            </p>
+            <p> <lb/>„Vortrefflich!“ applaudirte der General. „Was kann<lb/>einem jungen Manne Böſes geſchehen, deſſen ſichtbarer<lb/>Schutzgeiſt ihn ſtündlich umſchwebt? Ja, ja, verlaſſen Sie<lb/>ihn nicht, Sie ſind eine muthige Dame!“<lb/>
+            </p>
+            <p> <lb/>„Es iſt der Muth der Liebe. — Ach, wenn jene<lb/>Nina ihn gekannt hätte, wie ich ihn kenne, er wäre jetzt<lb/>auf dem Gipfel des Glückes!“<lb/>
+            </p>
+            <p> <lb/>„In der That — aber Sie? Wenn Wladimir’s Er-<lb/>wählte Ihre Stellung anders aufgefaßt hätte — —?“<lb/>
+            </p>
+            <p> <lb/>„Ich —? wie dürfte ich an mich ſelbſt denken? Nein,<lb/>Lidy Södernäs will lieber eine Verſchollene, Ungekannte<lb/>ſein, als das Glück des einzigen Menſchen beeinträchtigen,<lb/>den ſie noch auf dieſem Erdenrund zu lieben hat. Kein<lb/>Opfer wird der Einſamen, Heimatloſen zu groß ſcheinen!“<lb/>
+            </p>
+            <p> <lb/>Der General erhob ſich: „Ich bewundere ſo viel er-<lb/>habene Opferfreudigkeit und beklage, daß der einfache,<lb/>ehrliche Antrag des Rittmeiſters Janos ſo unüberſteiglichen<lb/>Hinderniſſen begegnet. Leben Sie wohl, ſchöne Frau!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0057" n="51" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=57"/>
+            </p>
+            <p> <lb/>„Ja, wahrhaftig, die Welt war früher beſſer,“ mur-<lb/>melte der General, die Treppe hinab ſteigend. „Ich alter<lb/>Sünder erröthe noch heute tiefer als jene Scabioſa mit<lb/>den Taubenaugen. So arg waren wir früher nicht.“<lb/>
+            </p>
+            <p> <lb/>„Befehlen einen Fiaker, Excellenz?“ fragte der Portier<lb/>dienſtwillig.<lb/>
+            </p>
+            <p> <lb/>„Danke, für uns Grauköpfe iſt der <hi rendition="#aq">pompe funèbre</hi>
+               <lb/>eben recht!“ So ging er.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0058" n="52" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=58"/>
+            </p>
+            <p> <lb/>9.<lb/>Tauſendgüldenkraut.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">I</hi>m Parke wandelte Campanula und dachte über ein<lb/>ferneres Capitel ihres neuen Romanes nach. Daſſelbe<lb/>mußte ungemein befriedigend ausfallen, denn Campanula’s<lb/>Geſicht zeigte eitel Lächeln. Sie ſetzte ſich auf jene bereits<lb/>erwähnte Birkenbank, wo „das Leiden anging,“ wie es im<lb/>Liede von der Straßburger Schanze heißt, und zog ein<lb/>Papier heraus, auf das ſie mit flüchtigem Bleiſtift alſo<lb/>ſchrieb: „Nichts konnte rührender ſein als das Wieder-<lb/>begegnen der Liebenden. Sprachlos ſtarrte der junge Sol-<lb/>dat in das ſüße Geſicht der Geliebten, welche alle Schwierig-<lb/>keiten überwand, um ihm die rettende beſeligende Liebeshand-<lb/>entgegenzuſtrecken. Der ſchöne Jüngling in der groben<lb/>Uniform eines gemeinen Soldaten erbebte, als ſich die<lb/>zarte Rechte der Angebeteten in die ſeine ſchmiegte, die von<lb/>harter Arbeit ſchwielig geworden war; es war ein Augen-<lb/>blick wie er nur im Menſchenleben ....“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0059" n="53" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=59"/>
+            </p>
+            <p> <lb/>„Guten Morgen, Fräulein Campanula!“<lb/>
+            </p>
+            <p> <lb/>Papier und Bleiſtift rollten zu Boden, und ſprachlos<lb/>ſtarrte der Blauſtrumpf auf den Sprecher; wie die raſt-<lb/>loſe Feder es ſo eben noch niedergeſchrieben — — es war<lb/>kein Anderer als der durch ſein Schickſal ſo höchſt roman-<lb/>tiſch gewordene Wladimir! Ja, er war es wirklich, nicht<lb/>in grober Uniform oder mit ſchwieligen Händen, nicht,<lb/>wie es die Schriftſtellerin im vorigen Capitel beſchrieben,<lb/>„mit dem lechzenden Blicke ſtummer Verzweiflung,“ ſon-<lb/>dern, den Umſtänden nach — er war ohne Frage mit<lb/>dem Nachtzug hergeeilt — recht wohl ausſehend und in<lb/>ein höchſt elegantes Civil gekleidet.<lb/>
+            </p>
+            <p> <lb/>„Wie gut, daß ich Sie hier treffe, verehrte Freundin.<lb/>Ich hatte nämlich auf Ihre Morgenpromenade gerechnet,<lb/>da mir unendlich viel daran liegt, mit Ihnen zu reden,<lb/>ehe ich von den Schloßbewohnern bemerkt werde.“<lb/>
+            </p>
+            <p> <lb/>“So?“ fragte Campanula in geheimer Trauer über<lb/>ihr zerſtörtes Capitel.<lb/>
+            </p>
+            <p> <lb/>„O gewiß. Ich muß erfahren, ob Nina mir alle<lb/>Hoffnung nimmt! Jetzt darf ich ihr erhobenen Hauptes<lb/>entgegentreten; das ſchreckliche Bewußtſein, als Schuldner<lb/>der Wechſeljuden da zu ſtehen, iſt von mir genommen —<lb/>ich komme direkt von der Beiſetzung meines plötzlich ver-<lb/>ſtorbenen Oheims! Es iſt, als ob die letzte tückiſche<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0060" n="54" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=60"/>
+            </p>
+            <p> <lb/>Handlung gegen mich auf ihn ſelbſt zurückgefallen wäre;<lb/>eine Erkältung erfaßte ihn, und ehe Jemand ihn für<lb/>wirklich krank hielt, erlag er einem Anfall, der ihn für<lb/>einige Tage der Sprache beraubte, dann tödtete. Iſt es<lb/>nicht, als läge in meinem plötzlichen Schickſalswechſel ein<lb/>Wink der Vorſehung, die Hoffnung auf Nina feſtzuhalten?<lb/>Wo iſt ſie? Kann ich ſie ſehen?“<lb/>
+            </p>
+            <p> <lb/>„Unmöglich!“ entgegnete der Blauſtrumpf mit Würde.<lb/>Wladimir hatte eine Strafe verdient für die ganz unbe-<lb/>rechnete, und deshalb in den Augen der Schriftſtellerin<lb/>falſche Löſung ſeines Herzensdrama’s.<lb/>
+            </p>
+            <p> <lb/>„Wie!“ rief der junge Mann erregt. „Glauben Sie,<lb/>Nina würde nicht einmal meine Rechtfertigung anhören,<lb/>jetzt, wo meine Irrthümer ausgeglichen werden bis auf die<lb/>letzte Spur?“<lb/>
+            </p>
+            <p> <lb/>„Nina iſt mit den Großeltern verreiſt, um ihren<lb/>Bräutigam aufzuſuchen!“<lb/>
+            </p>
+            <p> <lb/>„Mein Gott! So bald hat ſie mich vergeſſen?“ fragte<lb/>betäubt der Graf. „Wohin iſt ſie gegangen? Weſſen<lb/>Reichthum und hohe Stellung galt ihr höher als die Nei-<lb/>gung, die ſie noch vor ſo kurzer Zeit für mich empfand?<lb/>— Ja, Campanula, ich war ihr theuer, ich weiß es;<lb/>o, das iſt eine furchtbare Strafe für meinen Leichtſinn!“<lb/>
+            </p>
+            <p> <lb/>„Lieber Freund! Sie verkennen Nina ganz und gar.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0061" n="55" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=61"/>
+            </p>
+            <p> <lb/>Sie ſucht keinen reichen Mann, im Gegentheil, es iſt ein<lb/>armer, gemeiner Soldat, welchem ſie ihre Hand anbieten<lb/>wollte!“<lb/>
+            </p>
+            <p> <lb/>Der Jubel, welcher ſich bei dieſer Mittheilung Wla-<lb/>dimir’s bemächtigte, ſpottete jeder Beſchreibung. Er hatte<lb/>Nina mit dem neu errungenen Majorat an ſich feſſeln<lb/>wollen; ſie ſollte reich, geliebt und glücklich ſein. Das<lb/>holde Mädchen aber war bereit, den Armen, Vergeſſenen<lb/>zwiſchen all’ ihren glänzenden Verehrern zu bevorzugen.<lb/>Campanula vermochte nicht, alle Fragen zu beantworten,<lb/>welche der Beglückte ihr, Nina betreffend, vorlegte. Er<lb/>beſchloß, ſchleunigſt nach Wien zurückzukehren und die Fa-<lb/>milie dort in dem Hotel zu erwarten, in welchem die<lb/>Aſchbachs ſtets einkehrten. Campanula begleitete nun den<lb/>Ungeduldigen zur Bahnſtation und im Fahren fragte ſie<lb/>nach Lidy. Wladimir hatte die Wittwe nur flüchtig ge-<lb/>ſehen; aber ſie vor allem ſollte ſich jetzt eines ſchönen<lb/>geſicherten Looſes erfreuen. Campanula, der ewigen Fragen<lb/>nach Nina müde, erzählte, auf welche Art ſie einſtens<lb/>mit Nina bekannt geworden.<lb/>
+            </p>
+            <p> <lb/>„Vor ſechs Jahren verlebte ich einen Sommer in Kiel.<lb/>Damals erregte eine Entführungsgeſchichte, welche im be-<lb/>nachbarten Bade Düſternbrook vorgefallen war, großes<lb/>Aufſehen, weil die betreffenden Perſönlichkeiten dieſem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0062" n="56" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=62"/>
+            </p>
+            <p> <lb/>Ereigniſſe eine beſonders merkwürdige Bedeutung gaben.<lb/>Die Dame war nämlich eine hübſche Oeſterreicherin, die<lb/>einer vornehmen Familie angehörte, der Herr ein alter<lb/>Schiffsbaumeiſter, der ſich bis zu einem bedeutenden Poſten<lb/>beim königlich däniſchen Marine-Schiffsbau emporgeſchwun-<lb/>gen hatte. Durch die Exploſion eines Dampfkeſſels ſchwer<lb/>verletzt, lebte er nun von einer Penſion, welche durch<lb/>königliche Gnade und in Anbetracht der getreuen Amts-<lb/>führung des Herrn Södernäs ungewöhnlich hoch bemeſſen<lb/>worden war. Da das ungleiche Paar ſofort die Gegend<lb/>verlaſſen hatte, verſtummte nach und nach die Unterhal-<lb/>tung über die Flüchtlinge, und ich würde ſie ganz und<lb/>gar vergeſſen haben, hätte mich nicht im folgenden Jahre<lb/>der Zufall in dem wenig bekannten, aber reitzenden Bade<lb/>Eilſen im Fürſtenthum Lippe-Schaumburg mit Herrn und<lb/>Frau Södernäs zuſammengeführt. Eines Tages trieb<lb/>mich ein Gewitterſchauer in den Schutz des Ida-Thurmes,<lb/>der über die Wipfel eines ſchönen Buchenwaldes hinweg<lb/>das Weſerthal weithin überſchaut. Ich fand daſelbſt, gleich-<lb/>falls Schutz ſuchend, das Ehepaar Södernäs, welches ich<lb/>ſo kennen und alsbald ſchätzen lernte. Lidy mied ängſtlich<lb/>jede Anſpielung auf ihre Herkunft, vorzugsweiſe aus Rück-<lb/>ſicht für ihren Gatten, dem ſie die treueſte Pflegerin war.<lb/>Ich erfuhr ihren Mädchennamen erſt hier, als ſie mir<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0063" n="57" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=63"/>
+            </p>
+            <p> <lb/>ihre Schuld geſtand und mich bat, Ihr Glück, Wladimir,<lb/>zu fördern! Die Arme, ihr ganzes Daſein war Ent-<lb/>ſagung.“<lb/>
+            </p>
+            <p> <lb/>„Reden wir nur jetzt nicht von ſo ernſten Dingen!“<lb/>bat Wladimir. „Vergangene Ereigniſſe ſind für mich wie<lb/>weggewiſcht von der Tafel meines Lebens. Ich erblicke<lb/>nur einen einzigen Namen, der ſie ausfüllen wird, ſo<lb/>lange noch ein Athemzug in mir iſt. — Ob man wohl<lb/>vor Glück ſterben kann, Campanula?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0064" n="58" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=64"/>
+            </p>
+            <p> <lb/>10.<lb/>Nieswurz.<lb/>***<lb/>
+               <hi rendition="#g">D</hi>er alte Hans machte eine ſchreckliche Entdeckung; er<lb/>hatte freilich dieſelbe Entdeckung ſchon oft in ſeinem Leben<lb/>gemacht, aber niemals unter ſo erſchwerenden Umſtänden.<lb/>Er mußte ſich geſtehen, er ſei verliebt, und zwar derliebt<lb/>— in die coquette Wittwe! Und wie verliebt! — Der<lb/>würdige Kriegsheld wußte nicht, ob er ſich ſelbſt aus-<lb/>lachen, bedauern oder beneiden ſollte um ſein unermüd-<lb/>liches Herz. Er kam ſich ſo befremdlich vor, als ſei er<lb/>ein ganz Anderer, der nur für einige Zeit ſeine Rolle<lb/>gebe; aber recht ſchlecht gab er ſie, d. H. zerſtreut, mit<lb/>Seufzern und innerem Grollen. Nicht genug, daß der<lb/>General die Augen Lidy’s fort und fort auf ſich leuchten<lb/>fühlte, daß er nicht müde wurde, ſich ihre Stimme zu<lb/>vergegenwärtigen — nein, er empfing auch noch zahlloſe<lb/>Briefe von Rittmeiſter Janos, voll von Liebesklagen und<lb/>orthographiſchen Fehlern: Briefe, in die er blickte wie in<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0065" n="59" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=65"/>
+            </p>
+            <p> <lb/>einen Spiegel, bis er zuleht nicht mehr unterſchied, was<lb/>Janos für die Wittwe ſchwärmte und was er ſelbſt an<lb/>ihr bewunderte. O, er tadelte ſie auch, dieſe Lidy, er<lb/>tadelte ſie bitterer denn zuvor; aber dieſer Tadel fiel wie<lb/>Oel in die Flammen, — er löſchte nicht, er feuerte<lb/>nur an.<lb/>
+            </p>
+            <p> <lb/>Baron Klingenberg betrat Nr. 15 nicht wieder; aber<lb/>— „Alter ſchützt vor Thorheit nicht“ — er that das<lb/>Thörichtere, er ging vor ihren Fenſtern vorüber, erſpähte<lb/>ihre einfachen Gewohnheiten, begegnete ihr, wenn ſie<lb/>ausging; und gerade dies verſteckte Forſchen gab ſeiner<lb/>Phantaſie immer neuen Vorwand, ſich mit Lidy zu be-<lb/>ſchäftigen. Er ſchlug ſich unermüdlich mit der Frage<lb/>herum, wie es dem berechnetſten Raffinement möglich ſei,<lb/>ſo täuſchend die beſcheidene Natürlichkeit nachzuahmen, —<lb/>eine verdrießliche Frage für einen Mann, der ſich ſeit<lb/>mehr denn vierzig Jahren für einen feinen Menſchenken-<lb/>ner hielt.<lb/>
+            </p>
+            <p> <lb/>Ueberhaupt war Se. Excellenz in bewölkter Stimmung<lb/>und gab ſich einſiedleriſchen Gelüſten hin. Neben andern<lb/>Kennzeichen ſeines Uebels offenbarte der General auch eine<lb/>giftige Eiferſucht auf alle männlichen Individuen, welche<lb/>die Keckheit hatten, im Victoriahôtel zu wohnen. Das<lb/>„Wiener Fremdenblatt“ war noch nicht trocken, ſo mußte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0066" n="60" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=66"/>
+            </p>
+            <p> <lb/>bereits der Diener es dem Baron Klingenberg überreichen,<lb/>damit dieſer, finſteren Blickes, die angekommenen Frem-<lb/>den Revue paſſiren laſſe. Es mußte ſich doch einmal<lb/>zeigen, was für Verbindungen die Wittwe hatte; und es<lb/>zeigte ſich deutlich, ſchwarz auf weiß; — da ſtand es:<lb/>Hôtel Victoria, „Graf Wladimir Czepanowiz“ — und<lb/>darunter — der General faßte an ſeinen grauen Kopf<lb/>und mißtraute den eigenen Sinnen — darunter: „Rit-<lb/>tergutsbeſitzer Aſchbach nebſt Familie.“<lb/>
+            </p>
+            <p> <lb/>Ein bitteres Lächeln bezeichnete das erſte Erwachen<lb/>der Thatkraft bei dem überraſchten Zeitungsleſer. „Ab-<lb/>ſcheulich!“ rief er dann und langte nach einem Stiefel-<lb/>paare. „Abſcheulich! — die herzige, arme Nina ſo zu<lb/>hintergehen. Uf!“ er war in den rechten Stiefel gefah-<lb/>ren: Deshalb that die Wittwe gar ſo fittig, Beide, der<lb/>Wladimir und ſie, machen eine ... uf!“ Er trampte<lb/>den zweiten Stiefel feſt. Infame Spekulation! Aber<lb/>dieſer freche Streich ſoll ihnen verſalzen werden“ — der<lb/>General ergriff ſeinen Spazierſtock und ſchwang ihn dro-<lb/>hend. Vernichten will ich den Buben, der ein ſo ſcham-<lb/>loſes Spiel mit ehrlichen Leuten zu treiben wagt!“<lb/>
+            </p>
+            <p> <lb/>Herr und Frau Aſchbach waren mit Herrn Grafen<lb/>Czepanowiz ausgegangen, aber die junge Dame befand<lb/>ſich in ihrem Zimmer. Der General klopfte, und eine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0067" n="61" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=67"/>
+            </p>
+            <p> <lb/>helle Stimme, die der armen betrogenen Nina, rief:<lb/>„Herein!“<lb/>
+            </p>
+            <p> <lb/>„O,“ rief die Kleine erfreut, wie prächtig, daß Sie<lb/>kommen. Der Großpapa ging ſo eben fort, um Sie auf<lb/>heute zum Diner — zu meinem Verlobungsdiner, Ex-<lb/>cellenz! — einzuladen. Ich bin ſo unendlich glücklich!“<lb/>
+            </p>
+            <p> <lb/>Der General erwiderte nichts; er ſchaute nur auf eine<lb/>zweite Dame in Trauer, an deren Seite Nina geſeffen<lb/>hatte; dieſe Dame war Lidy.<lb/>
+            </p>
+            <p> <lb/>„Ich vergaß, Sie vorzuſtellen,“ entſchuldigte ſich<lb/>Nina. Unſer lieber Freund, Baron Klingenberg, —<lb/>meine künftige Schwägerin, Lidh Södernäs!“<lb/>
+            </p>
+            <p> <lb/>„Wir ſind ſchon alte Bekannte!“ fügte die Wittwe<lb/>hinzu.<lb/>
+            </p>
+            <p> <lb/>„Mein Gott!“ ſtieß der alte Herr hervor, „welch’<lb/>ein Narr bin ich geweſen!“<lb/>
+            </p>
+            <p> <lb/>„Wie ſo? weshalb?“ forſchten die Damen.<lb/>
+            </p>
+            <p> <lb/>„Ich — nein, ich wage es kaum auszuſprechen. —<lb/>ich wußte nicht, daß Sie Wladimir’s Schweſter wären<lb/>— ich war auf dem beſten Wege, Nina und Wladimir<lb/>zu trennen, weil ich ein Bild und einen Brief von Ihnen<lb/>zu Geſichte bekam, und auf den vertrauten Ton des Ley-<lb/>teren die ärgſten Muthmaßungen gründete! O gnädige<lb/>Frau, können Sie mir verzeihen?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0068" n="62" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=68"/>
+            </p>
+            <p> <lb/>Lidy war ſehr bleich geworden. „Gott Lob,“ ſprach<lb/>ſie, daß dieſes Mißtrauen mich unverdient trifft; er hat<lb/>meinen Bruder vor den ſchweren Folgen dieſes Mißver-<lb/>ſtändniſſes geſchüßt. Aber es thut mir weh, Excellenz,<lb/>ſehr, ſehr weh! daß Sie mich ſehen und hören, meine<lb/>Mittheilungen über die tiefſten Intereſſen entgegennehmen<lb/>— und mich für eine Heuchlerin und Lügnerin halten<lb/>konnten!“<lb/>
+            </p>
+            <p> <lb/>„Wenn Sie wüßten,“ rief der alte Hans lebhaft und<lb/>faßte Lidy’s beide Hände, wenn Sie wüßten, welchen<lb/>Kampf es mich koſtete, Ihre Erſcheinung mit den unab-<lb/>weisbaren Thatſachen zu verbinden, — o Sie könnten,<lb/>Sie dürften mir nicht mehr zürnen!“<lb/>
+            </p>
+            <p> <lb/>„Ich bin empört,“ erklärte Nina, zwiſchen das Paar<lb/>tretend, „daß ihr ganze Gefühlsſcenen abſpielt und dabei<lb/>vergeßt, daß ich die Gefährdete, Beeinträchtigte, Ge-<lb/>tränkte bin!“<lb/>
+            </p>
+            <p> <lb/>„Nein, mein Kind!“ widerſprach der alte Hans und<lb/>drückte einen herzhaften, väterlichen Kuß auf die ſchmol-<lb/>lenden Lippen. Sie ſind die Beſchenkte; denn Ihr Ver-<lb/>lobter ſteht von Stund’ an und in Folge dieſer Aufklä-<lb/>rung gerechtfertigt vor Ihnen!“.<lb/>
+            </p>
+            <p> <lb/>Lidy’s Hand zuckte bei dieſen Worten in der des<lb/>Generals, und dieſer erinnerte ſich, daß in ihrem Briefe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0069" n="63" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=69"/>
+            </p>
+            <p> <lb/>dennoch die Rede von einer Schuld gegen den verſtor-<lb/>benen Södernäs war.<lb/>
+            </p>
+            <p> <lb/>„Wie kommt es denn,“ fragte er mit etwas rauher<lb/>Stimme, „daß Niemand von Wladimir’s Bekannten um<lb/>die Exiſtenz ſeiner Schweſter wußte?“<lb/>
+            </p>
+            <p> <lb/>„Ich war die Gattin eines Mannes, der ſeine Lauf-<lb/>bahn als Zimmermann begonnen hatte. Konnte ich mich<lb/>der Gefahr ausſehen, von einer Verwandtſchaft, die ſich<lb/>ſtets lieblos gegen mich und Wladimir gezeigt hatte, be-<lb/>dauert und hochmüthig beklagt zu werden, weil ich die<lb/>Gefährtin des edelſten, bravſten Menſchen war, der mich<lb/>an ſein Herz zog als Schüßer und Erretter? Nein, ich<lb/>wollte verſchollen ſein für Alle daheim, außer meinem<lb/>Bruder. Ich war es in Wirklichkeit; denn eine blutarme<lb/>Waiſe ſcheint ſelbſt den Angehörigen eine Bürde, welche<lb/>nie einen Schritt für ſie thaten, nie einen Gedanken an<lb/>ſie verſchwendeten. Ich war alſo wie todt; nur der ver-<lb/>ſtorbene Onkel mußte ſich meiner erinnern, — denn er<lb/>haßte mich, ſeit ich in Düſternbrook ſeiner unwürdigen<lb/>Tyrannei entflohen war!“<lb/>
+            </p>
+            <p> <lb/>„Ah, Sie entflohen Ihrem Oheim!“<lb/>
+            </p>
+            <p> <lb/>„Ja, er ſchleppte mich wie eine Sklavin hierhin und<lb/>dahin, wo er Geneſung für ſeine muthwillig zerſtörte<lb/>Geſundheit hoffte. Sein Geiz und ſeine Selbſtſucht<lb/>
+            </p>
+            <p>•<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0070" n="64" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=70"/>
+            </p>
+            <p> <lb/>führten Scenen herbei, deren Zeuge bis dahin nur Gott<lb/>geweſen war. In Düſternbrook aber vernahm auch ein<lb/>Zimmernachbar die Ausbrüche der ungezügeltſten Laune,<lb/>denen ich preisgegeben war. Die hilfloſe verlaſſene Com-<lb/>teſſe Lidy fand einen Freund — einen milden Schutz-<lb/>engel, und ſie vertraute ihm ihr armes freudloſes Daſein.<lb/>Jeder von uns, mein Gatte und ich, traten mit der Klage<lb/>vor den Traualtar, daß wir einander gar ſo wenig zu-<lb/>brachten; aber wir belächelten nachher unſere gegenſeitige<lb/>Beſcheidenheit; denn wir beſaßen das, was uns über alle<lb/>Maßen reich und glücklich machte, ein tiefes, herzliches<lb/>Verſtändniß! Kein Hauch hat den Glanz des Eheringes<lb/>getrübt, den ich nach ſechsjähriger Ehe von der erkalteten<lb/>Hand meines Mannes zog. — Er war mein Lehrer und<lb/>Vorbild und wird das bleiben, ſo lange ich lebe.“<lb/>
+            </p>
+            <p> <lb/>Der General fuhr ſich mit der Fauſt über die Augen;<lb/>es überkam ihn etwas, deſſen er ſich ungeheuer ſchämte:<lb/>er beneidete den alten Södernäs in ſeinem Grabe. — —<lb/>Und doch, daſſelbe Weib, das jetzt Worte der innigſten<lb/>Treue redete, daſſelbe Weib hatte den Mann gekränkt,<lb/>dem ſie dankbar ſein mußte, war ſich einer Schuld gegen<lb/>den Verſtorbenen bewußt. ...<lb/>
+            </p>
+            <p> <lb/>Die Rückkehr der Großeltern und des beglückten Bräu-<lb/>tigams unterbrachen das Geſpräch. Wladimir verſicherte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0071" n="65" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=71"/>
+            </p>
+            <p> <lb/>zwar, nach Nina’s Mittheilungen bliebe ihm nichts übrig,<lb/>als Se. Excellenz zu fordern auf Leben und Tod, der<lb/>alte Krieger aber behauptete, er dürfe ſich durchaus keiner<lb/>Lebensgefahr ausſehen, da er eine Rolle in Campanula’s<lb/>Feſtſpiel zum Polterabend zu übernehmen habe.<lb/>
+            </p>
+            <p> <lb/>„Es wäre auch undankbar,“ pflichtete Großpapa Aſch-<lb/>bach bei; „denn ohne des Generals Dazwiſchenkunft wüß-<lb/>ten wir gar nicht, welch ein warmes Herz und welch<lb/>einen unbeirrten Sinn das Kind, die Nina, beſitzt.“<lb/>
+            </p>
+            <p> <lb/>„Und eben ſo wenig,“ ergänzte Großmama, „daß<lb/>Wladimir auch das Unglück wie ein Mann zu tragen<lb/>vermag.“<lb/>
+            </p>
+            <p> <lb/>„Hören Sie nur meine Alte,“ lachte Herr Aſchbach;<lb/>„die und Campanula ſind ganz weg in den Jungen. Ja,<lb/>Excellenz, wenn wir Zwei nur auch braune Locken hätten<lb/>und gute Tänzer wären!“<lb/>
+            </p>
+            <p> <lb/>„Ach, wenn es ſo ſtände mit uns!“ ſagte der Ge-<lb/>neral; er ſeufzte und blickte Lidy an.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0072" n="66" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=72"/>
+            </p>
+            <p> <lb/>11.<lb/>Myrthen.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">D</hi>en alten Hans hatten ſeine Ahnungen nicht betrogen.<lb/>Campanula ſchrieb ihm eine Rolle zum Polterabend, die<lb/>lang und ſchwer war; ſie ließ ihn als Erdgeiſt auftreten.<lb/>Aber mit dem Memoriren ging es recht übel, und die<lb/>Dichterin kam immer ſehr aufgeregt aus den Proben.<lb/>„Ich muß glauben, das Alter ſchadet ſeinem Gedächtniſſe!“<lb/>ſprach ſie zornig. Aber das Alter war es nicht, was<lb/>ſeinem Gedächtniſſe ſchadete; es war etwas ganz Anderes:<lb/>der alte Knabe war bis über die Ohren — — nun, wir<lb/>wiſſen es ja ſchon!<lb/>
+            </p>
+            <p> <lb/>Campanula ſchmeichelte, drohte, flehte, um ihre impro-<lb/>viſirte Künſtlerbande für das Feſtſpiel zu präpariren.<lb/>Mit dem alten Hans haperte es am meiſten, und die<lb/>Rolle war doch ſo ſchön, und er ſah ſo gut aus im langen,<lb/>wallenden Silberbart, ehrwürdig wie ein Prophet des<lb/>alten Teſtamentes.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0073" n="67" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=73"/>
+            </p>
+            <p> <lb/>Der Autor eines Feſtſpiels iſt alle Mal zu einem<lb/>wahren Martyrium condemnirt, wenn daſſelbe in Privat-<lb/>kreiſen in’s Leben tritt. Schon bei den Vorbereitungen<lb/>hat er tauſend Unannehmlichkeiten zu durchkämpfen; es iſt,<lb/>als ob Jeder dem Schriftſteller einen unbezahlbaren Dienſt<lb/>leiſtete, der auch nur eine Hand zu der Vorſtellung rührt;<lb/>und während nun ſeine Lorbeeren gepflückt werden, ſitzt<lb/>der Dichter krampfhaft lächelnd und mit Angſtſchweiß auf<lb/>der Stirne da und ſieht, wie ſein Werk gefoltert und<lb/>verrenkt wird.<lb/>
+            </p>
+            <p> <lb/>Der guten Campanula wurde denn auch durch ihren<lb/>Polterabend-Scherz die ganze Hochzeit vergällt, und die<lb/>darſtellenden Künſtler fanden ſchließlich, daß ſie, Campa-<lb/>nula, eine unleidliche Perſon ſei und daß ſie, die Künſtler,<lb/>die Dichtung ſelbſt eben ſo gut, wenn nicht beſſer, her-<lb/>geſtellt haben würden. Indeß lief die Sache leichter und<lb/>glatter vom Stapel, als man gedacht hatte. Namentlich<lb/>zeigte ſich Se. Excellenz unter dem Einfluß einer In-<lb/>ſpiration, welche ihn ganz in die Rolle verſetzte; mag ſein,<lb/>daß der Wortlaut nicht wiedergegeben ward, aber die<lb/>Idee wurde zur Anſchauung gebracht. Nina, die glück-<lb/>liche Braut, klatſchte am Schluſſe in die kleinen Hände,<lb/>und ihr helles, frohes Lachen ertönte bei allen ſcherzhaften<lb/>Anſpielungen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0074" n="68" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=74"/>
+            </p>
+            <p> <lb/>Der alte Hans war auf ſeine Lorbeeren nach einem<lb/>heißen Schlachttage — und er hatte dieſelben in helden-<lb/>hafter Weiſe erfochten — nicht ſo ſtolz geweſen, als auf<lb/>ſeine mimiſchen und deklamatoriſchen Erfolge. Aber warm<lb/>war ihm dabei geworden, warm von innerer Erregung.<lb/>
+            </p>
+            <p> <lb/>Auch auf der Bühne war es warm geweſen, da man<lb/>ſich wieder in den erſten Sommertagen befand. Nina<lb/>war ein ganzes Jahr Braut geweſen, da Wladimir nicht<lb/>nur das vernachläſſigte Schloß auf ſeinem Majorate für<lb/>die junge Herrin in Stand ſetzen ließ, ſondern auch ſelbſt<lb/>erſt lernen mußte, ſeine Verhältniſſe zu überſchauen und<lb/>Herr und Gebieter zu ſein. Herr Aſchbach verlangte<lb/>außerdem, daß ſein Enkelſohn vor der Hochzeit mündig<lb/>erklärt werde. — Das alles geſchah im Laufe dieſes<lb/>Jahres, und das Sehen und Gehen machte die Verlobten<lb/>einander lieber und werther.<lb/>
+            </p>
+            <p> <lb/>Morgen ſollten ſie nun für immer vereint werden!<lb/>Draußen über Park und Flur lag eine ſtille, helle Sommer-<lb/>nacht, und während neue Aufführungen die Geſellſchaft<lb/>feſſelten, ſchlug der General ſeinen erdgeiſtiſchen Purpur-<lb/>mantel um die Schultern, drückte ſeine reifartige Krone<lb/>feſter in die Stirne und ging in’s Freie. Dem Feſt-<lb/>programm zufolge ſollten alle Darſteller zum Schluſſe ein<lb/>Tableau im Coſtume bilden; bis dahin konnte eine Stunde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0075" n="69" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=75"/>
+            </p>
+            <p> <lb/>oder noch länger verfließen. So ſchritt er denn dahin<lb/>durch den leichten Abendnebel, und zuweilen funkelte der<lb/>Goldbeſatz des Gewandes oder die Krone im Mondlichte<lb/>auf. Nach einiger Zeit glaubte er Schritte zu vernehmen,<lb/>die ihm folgten, und zu ſeiner unausſprechlichen Freude<lb/>gewahrte er Lidy, welche ihn aufgeſucht hatte. Die<lb/>Wittwe Södernäs war während der ganzen Zeit bei ihrem<lb/>Bruder geweſen und hatte die Aufgaben getheilt, die er<lb/>ſich ſtellte. Ihre Hand war es, welche die Ausſchmückung<lb/>des alten Familienſitzes leitete; ihr Rath unterſtützte den<lb/>noch minder erfahrenen jungen Majoratsherrn.<lb/>
+            </p>
+            <p> <lb/>Als Schweſter eines nun angeſehenen Mannes erin-<lb/>nerten ſich die übrigen Familienmitglieder ihrer auch plötzlich<lb/>in freundlicher Art. Man ging ſie ſogar auf’s dringenſte<lb/>an, ihren Mädchen-Namen wieder anzunehmen und das<lb/>leidige „Södernäs“ fallen zu laſſen. Aber Lidy wollte<lb/>nichts von einem ſolchen Vorſchlage wiſſen und vermied<lb/>es ſogar, ſich ihrer Mädchenzeit zu erinnern, die ihr ſo<lb/>viele ſchwere Prüfungen gebracht hatte.<lb/>
+            </p>
+            <p> <lb/>Selbſtverſtändlich konnte Wladimir ſein Schloß nicht<lb/>einrichten, ohne den General in die lebhafteſte Thätigkeit<lb/>und Mitleidenſchaft zu ziehen. Das Arbeitszimmer Sr.<lb/>Excellenz war gar häufig der Schauplatz eines förmlichen<lb/>Feſtes der Handwerker; die Wege und Gänge, welche der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0076" n="70" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=76"/>
+            </p>
+            <p> <lb/>alte Hans ſelbſt von einem Ende der Stadt bis in das<lb/>andere unternahm, waren nicht zu zählen. Und doch<lb/>freute er ſich kindiſch, wenn wieder ein Brief mit friſchen<lb/>Aufträgen einlief, — ja, um dieſe Briefe drehte ſich ſein<lb/>ganzes Denken, denn ſie zeigten Lidy’s klare, angenehme<lb/>Handſchrift. General Klingenberg hätte hinüber reiſen<lb/>können und ſeinen jungen Freund in deſſen neuer Heimat<lb/>begrüßen. Er that es nicht, denn er war überzeugt,<lb/>Lidy würde, Auge in Auge mit ihm, zurückhaltend ſein,<lb/>indeß ſie brieflich ein wohlthuendes und ehrendes Ver-<lb/>trauen darlegte. Die Briefe der zwei verwittweten Leute<lb/>wurden ſtets länger, ernſter und inhaltreicher; ſie tauſchten<lb/>ihre Erfahrungen und Anſichten aus, und hier und da<lb/>zog ein wehmüthiger Hauch über die Seiten, der etwa<lb/>in die Worte zu faſſen wäre: „Ich fühle mich einſam.“<lb/>
+            </p>
+            <p> <lb/>Als ſich, nach langer Correſpondenz, die zwei Be-<lb/>kannten im Trubel der frohen Hochzeitsgäſte wieder<lb/>begegneten, da fanden beide anfangs nicht den rechten<lb/>Ton für ihren Verkehr; es drängte ſich eine Befan-<lb/>genheit in den Vordergrund, die beiden doch ſonſt ſo<lb/>völlig fremd war. Eine eigentliche Converſation war<lb/>bis heute zwiſchen ihnen nicht geführt worden. Jetzt<lb/>aber ſchien irgend eine zwingende Idee Lidy für ein<lb/>Rendezvous zu beſtimmen, und unter dem rothen, gold-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0077" n="71" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=77"/>
+            </p>
+            <p> <lb/>beſetzten Mantel klopfte ein jugendlich ſtürmiſches Herz<lb/>ihr entgegen.<lb/>
+            </p>
+            <p> <lb/>„Ich habe keine Gelegenheit gefunden, mit Ihnen<lb/>ungeſtört zu reden,“ begann die Wittwe etwas zaghaft,<lb/>„und doch drängt es mich ſo ſehr, Ihnen zu danken für<lb/>die unendliche Güte, Theilnahme und Gefälligkeit, welche<lb/>Sie meinem Bruder — und mir erwieſen haben. Mir<lb/>zunächſt, obwohl ich perſönlich keiner Beſorgungen bedürftig<lb/>war. Sie gaben mir Beſſeres! Wenn nach einer ver-<lb/>nachläſſigten Jugend-Erziehung mich Södernäs einem<lb/>reiferen Verſtändniß in den Wiſſenſchaften zuführte, ſo<lb/>danke ich dagegen Ihnen Einblicke in das Leben und die<lb/>verſchiedenen Intereſſen, welche in der großen Welt maß-<lb/>gebend ſind; ſie ſollen mir ſichere Führer auf meiner<lb/>fernern Laufbahn ſein.“<lb/>
+            </p>
+            <p> <lb/>Sie hatte ſchnell und bewegt geſprochen und legte<lb/>ihre Hand in herzlicher Weiſe in die des alten Geiſter-<lb/>königs.<lb/>
+            </p>
+            <p> <lb/>„O Lidy,“ ſagte das durchaus nicht unirdiſche Phan-<lb/>tom, „danken Sie mir nicht; Ihre Briefe waren wie<lb/>ſüße Frühlingsblumen an dem vereinſamten Pfade eines<lb/>Greiſes. Ich, ich bin beglückt und dankbar, daß Sie<lb/>mich Ihres Vertrauens würdig finden.“<lb/>
+            </p>
+            <p> <lb/>„Ach, wie könnte ich anders — aber Sie halten mich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0078" n="72" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=78"/>
+            </p>
+            <p> <lb/>für edler, als ich bin. Sie kennen nicht meine ganze<lb/>Vergangenheit. Ich glaubte bisher, mein Bruder hätte<lb/>Ihnen alles mitgetheilt; da er mir aber verſichert, dem<lb/>ſei nicht ſo, dachte ich daran, Ihnen, meinem einzigen<lb/>Freunde, eben heute mein ſchmerzliches Geheimniß darzu-<lb/>legen. Ich gebe Ihnen daſſelbe zur völligen Verfügung.<lb/>Verdiene ich nicht mehr Ihre Theilnahme und die Zu-<lb/>neigung der braven Familie, welcher mein Bruder von<lb/>jetzt an angehört, ſo haben Sie mir nur zu ſagen: Gehen<lb/>Sie. Und in der Stunde nach der Einſegnung des Braut-<lb/>paares werde ich von allen Denen, die mir auf Erden<lb/>theuer ſind, für immer Abſchied nehmen.“<lb/>
+            </p>
+            <p> <lb/>„Lidy! Lidy!“ rief der General; wenn Sie wüßten,<lb/>wie Sie mich foltern! Zittern Sie nicht ſo heftig, armes<lb/>Kind, — wenn Sie einen Mord auf dem Gewiſſen hätten:<lb/>neben Ihnen ſteht ein Mann, deſſen Liebe größer iſt, als<lb/>es Ihre Schuld ſein kann.“<lb/>
+            </p>
+            <p> <lb/>„O kein Mord — kein Mord!“ rief Lidy, ihr Haupt<lb/>tief hernieder beugend; „aber ein Betrug, der es mir<lb/>unmöglich machte, die Anträge des ehrlichen Janos anzu-<lb/>nehmen, ſelbſt wenn ich ihn liebte, — ein Betrug, der<lb/>mich von den redlichen Menſchen trennt und mich von<lb/>allen harmloſen Lebensfreuden ausſchließt. O mein Freund!<lb/>Ich habe den fleckenloſen Namen meines Mannes beſchimpft,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0079" n="73" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=79"/>
+            </p>
+            <p> <lb/>beſchimpft in den Stunden, wo ſeine erkaltete, ſegenſpen-<lb/>dende Hand noch in der meinen ruhte, ich habe eine<lb/>Fälſchung mit dieſem Namen ausgeführt — um des<lb/>Geldes willen.“<lb/>
+            </p>
+            <p> <lb/>„Unmöglich, Lidy, unmöglich!“ keuchte der Baron.<lb/>
+            </p>
+            <p> <lb/>„Es iſt ſo,“ wiederholte die Wittwe, ſich beruhigend.<lb/>Mein Mann bezog eine ſehr bedeutende Penſion. Er<lb/>ſtarb auf unſerer Reiſe nach Mentone in einem kleinen<lb/>Dorfe und trotz der langen Todes-Erwartung verhältniß-<lb/>mäßig plötzlich. Ich hatte dieſe Reiſe voll banger Ahnun-<lb/>gen angetreten, die durch einen verzweiflungsvollen Brief<lb/>meines Bruders geſteigert wurden. Sie wiſſen, Wladimir<lb/>hatte damals bedeutende Schulden; er liebte aber bereits<lb/>Nina und hoffte, wenn ihm nur Zeit gelaſſen würde,<lb/>die Hand der Erbin und mit ihr Glück und Ruhe vor<lb/>ſeinen Drängern zu erreichen. Södernäs that, was er<lb/>konnte, um Wladimir beizuſtehen; er verpflichtete ſich zu<lb/>einer vierteljährlichen Unterſtützung meines Bruders, die<lb/>nahezu die Hälfte unſeres Einkommens beanſpruchte, da-<lb/>gegen aber auch den armen Bedrängten vorläufig über<lb/>Waſſer erhielt. Mein guter, opferwilliger Mann erreichte<lb/>Mentone nicht; neben der Bitterkeit ſeines Verluſtes drängte<lb/>ſich mir nun auch die der Unmöglichkeit auf, meinen<lb/>Bruder zu retten, da die Penſion wegfiel. Vielleicht war<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0080" n="74" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=80"/>
+            </p>
+            <p> <lb/>ich arme, bedrängte und betrübte Frau nicht völlig zu-<lb/>rechnungsfähig, als ich beſchloß, den Tod meines Gatten<lb/>zu verheimlichen! Leider wurde mir dieſes Unrecht in<lb/>jeder Weiſe erleichtert. Södernäs hatte ſich ſchon längſt<lb/>meiner Hand für ſeine ſchriftliche Geſchäftsführung bedient,<lb/>da die ſeine gelähmt war, und die italieniſchen Behörden<lb/>ſind nichts weniger als pedantiſch, namentlich in einem<lb/>kleinen, verlorenen Dorfe — kurzum, ich fälſchte die<lb/>Unterſchrift des Verſtorbenen und bezog die Penſion. —<lb/>Es ruhte natürlich kein Segen auf dieſer That mißleiteter<lb/>Schweſterliebe; ſie hätte nahezu Wladimir unendlich un-<lb/>glücklich gemacht. Sie wiſſen den Reſt — ich erwarte<lb/>Ihr Urtheil!“<lb/>
+            </p>
+            <p> <lb/>Der General umfaßte ſtatt aller Antwort die ſchlanke<lb/>Geſtalt im faltigen grauen Seidengewande und zog ſie<lb/>an ſeine Bruſt. „Lidy,“ fragte er, „willſt du es noch<lb/>einmal mit einem Greiſe verſuchen, nun du weißt, wie<lb/>dankbar wir Grauköpfe find?“<lb/>
+            </p>
+            <p> <lb/>„Ach,“ ſeufzte die Wittwe, „wie könnten Sie der Be-<lb/>trügerin ſo viel Vertrauen ſchenken?“<lb/>
+            </p>
+            <p> <lb/>„Still, ſtill, die Baronin Klingenberg iſt keine Betrü-<lb/>gerin; der Schaden läßt ſich erſehen. Aber ſie iſt eine<lb/>arge Herzensdiebin — und gegen ſolche Gefühls-Annec-<lb/>tionen haben noch keine Geſetze Stand gehalten.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0081" n="75" corresp="http://opacplus.bsb-muenchen.de/title/BV020662976/ft/bsb11163078?page=81"/>
+            </p>
+            <p> <lb/>Als der Vorhang ſich hob, um das Schlußtableau zu<lb/>zeigen, ſtanden zwei Figuren mit in demſelben, welche<lb/>das Programm nicht genannt hatte. Die eine war halb<lb/>von dem Königspurpur des Generals verhüllt und ſelbſt<lb/>im Purpur holder Verlegenheit — Lidy! Die andere,<lb/>Campanula, welche mit der einen Hand den bräutlichen<lb/>Orangenblüthenkranz auf das Haupt der jungen Wittwe<lb/>drückte und die andere mit der Myrthenkrone ihrem Herzens-<lb/>kinde Nina entgegen ſtreckte.<lb/>
+            </p>
+            <p> <lb/>Das iſt die Geſchichte Seiner Excellenz.<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

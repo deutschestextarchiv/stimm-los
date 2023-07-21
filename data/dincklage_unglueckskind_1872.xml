@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Unglückskind</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_unglueckskind_1872</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Das Unglückskind, 1872.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Das Unglückskind</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1872</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 283–360</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Das Unglückskind</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p> <lb/>
+               <pb facs="#0297" n="283" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=297"/>
+            </p>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">Daſ Unglückskind.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0298" n="284" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=298"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0299" n="285" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=299"/>
+            </p>
+            <p> <lb/>I.<lb/>Zehn Stunden bis zehn Tage.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#in">D</hi>as Dorf Hüſingen war un-<lb/>glücklicher Weiſe einer der<lb/>hübſcheſten Orte in der<lb/>ganzen Gegend; <hi rendition="#g">unglück-</hi>
+               <lb/>
+               <hi rendition="#g">licher Weiſe</hi>, weil ein<lb/>großer Brand es vor eini-<lb/>gen Jahren in Aſche legte<lb/>und die Hauptſtraße daher aus lauter ganz neuen<lb/>rothen Ziegelhäuſern beſtand, deren Aufbau die<lb/>Bewohner in ihren Vermögensverhältniſſen zurück-<lb/>gebracht hatte. In den Nebengaſſen gab es frei-<lb/>lich noch alte große Häuſer mit Strohdächern und<lb/>auch einige ganz kleine, in denen Leute wohnten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0300" n="286" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=300"/>
+            </p>
+            <p> <lb/>welche kein Vieh halten konnten, Hütten, die man<lb/>dort „Spieker“ nennt. Solch’ ein Spieker hat<lb/>ein, höchſtens zwei Fenſterchen Front und eine<lb/>ſchmale Thür; <hi rendition="#g">ſchmal</hi> pflegt auch die Wirthſchaft<lb/>zu ſein, die drinnen geführt wird. In einem die-<lb/>ſer Spieker wohnte die alte Poſtillons-Drüke mit<lb/>ihrer Tochter.<lb/>
+            </p>
+            <p> <lb/>Drüke war keine ſehr angenehme weibliche<lb/>Erſcheinung; ſie hatte einen dreiſten Geſichts-<lb/>ausdruck, eine laute, harte Stimme und ſah un-<lb/>ſauber aus. Sie pflegte ſo viel Lärm in ihrer<lb/>kleinen Küche zu machen, daß ſich die Nachbarn<lb/>wunderten, wie noch irgend ein brauchbares Stück<lb/>in ihrer Haushaltung exiſtiren könne; es war<lb/>faſt, als hätten ihre groben Porzellantaſſen und<lb/>ihre ſchwarzgeräucherten Binſenſtühle ſich an die<lb/>halsbrecheriſche Hausgymnaſtik ihrer Beſitzerin<lb/>gewöhnt und wüßten es ſo geſchickt einzurichten,<lb/>wenn auch nicht ganz unzerbrochen, doch wenig-<lb/>ſtens brauchbar zu bleiben. Die Verwandtſchaft<lb/>zwiſchen <hi rendition="#g">Muth</hi> und <hi rendition="#g">Zerſtörungsſinn</hi>, welche<lb/>die Phrenologen betonen, trat bei Drüke deutlich<lb/>hervor; ſie war keine böſe Frau, aber eine Frau,<lb/>von der die Leute ſagen: „Sie ſteht vor dem<lb/>Teufel nicht ſtill!“ — Sie <hi rendition="#g">ſchwieg</hi> gewiß vor<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0301" n="287" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=301"/>
+            </p>
+            <p> <lb/>nichts ſtill, aber ſie ſtand auch nicht ſtill, wo ein<lb/>paar tüchtige Fäuſte und raſches Handeln erfor-<lb/>derlich waren. Da ihr verſtorbener Mann dem<lb/>Trunk etwas ergeben war, fuhr ſie manch' liebes<lb/>Mal die Poſt durch Nacht und Schneegeſtöber; ja<lb/>man behauptete, ſie habe einmal, als ein Vaga-<lb/>bund die Poſt anfiel, im Vertrauen darauf, daß<lb/>der Schwager nicht mehr zurechnungsfähig ſei,<lb/>den Räuber mit dem Peitſchenſtiel zu Boden ge-<lb/>ſchlagen. Drüke war wie ein zäher, wilder Schöß-<lb/>ling am veredelten Stamm der Civiliſation. Trotz<lb/>der ſichtbaren Armuth ihres Hausſtandes finden<lb/>wir ſie beſchäftigt, auf ihrem baufälligen Herde<lb/>Holzklötze aufzuhäufen, als beabſichtige ſie einen<lb/>Ochſen zu braten, obgleich es nur ein Töpfchen<lb/>mit Grütze und Waſſer war, das ſie inmitten<lb/>des Scheiterhaufens aufhing, indem ſie mit dem<lb/>Holzſchuh die mächtigen Kloben zuſammenſchob.<lb/>Dabei ſang ſie mit gellender Stimme ein altes<lb/>Lied, welches lautete:<lb/>
+            </p>
+            <p> <lb/>„Das war die captäniſche Tochter,<lb/>Die hat die Soldaten ſo lieb,<lb/>Sie ging der ſo lange ſpazieren,<lb/>Bis ſie das Lager wohl fand.<lb/>Da ſtand der captäniſche Vater — —“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0302" n="288" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=302"/>
+            </p>
+            <p> <lb/>„Mutter,“ klang eine weiche Frauenſtimme<lb/>aus der Kammer, „ich bitte Euch, ſingt nicht; das<lb/>Kind erwacht ſonſt!“<lb/>
+            </p>
+            <p> <lb/>„So, alſo auch nicht einmal ſingen ſoll man<lb/>des Unglückskindes wegen? Na, das fängt gut an!“<lb/>
+            </p>
+            <p> <lb/>Drüke wollte ſoeben den Ohren der Nachbar-<lb/>ſchaft anvertrauen, wie der captäniſche Vater be-<lb/>dauerte, daß ſeine kampfluſtige Tochter nicht ein<lb/>Knabe ſei, als ſich die Thür nach der Straße öff-<lb/>nete und eine große, ernſte Bauerfrau eintrat.<lb/>Sie war in koſtbare ſchwarze Stoffe gekleidet,<lb/>nickte herablaſſend mit dem Kopfe und ſetzte ſich<lb/>ſchweigend, indem ſie ein großes Paket in gelbem<lb/>Strohpapier neben ſich auf den Tiſch legte.<lb/>
+            </p>
+            <p> <lb/>„Meine Näherin hat ſich verheirathet und ſeit-<lb/>dem bekomme ich meine Sachen nicht prompt wie-<lb/>der,“ ſagte die Frau, „obwohl es mir im Sommer<lb/>nicht auf ein Pfund Butter und eine halbe Stiege<lb/>Eier ankommt, wenn ich zur Kirche gehe; ebenſo<lb/>holte ich jeden Winter ein gut Stück Speck aus<lb/>dem Wiemen — aber ſie heirathete doch und läßt<lb/>mich warten, ſo iſt Alles aus zwiſchen uns!“<lb/>
+            </p>
+            <p> <lb/>Drüke ſtemmte die Arme in die Seite und fuhr<lb/>ein paar Mal mit der breiten Zunge über die<lb/>dünnen, bräunlichen Lippen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0303" n="289" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=303"/>
+            </p>
+            <p> <lb/>„Nun höre ich,“ fuhr die Bäuerin fort, „Eure<lb/>Kläre macht ihre Sachen gut, und wir haben einen<lb/>Todten!“<lb/>
+            </p>
+            <p> <lb/>„So, iſt der <hi rendition="#g">Bauer</hi> todt?“ fragte Drüke<lb/>neugierig.<lb/>
+            </p>
+            <p> <lb/>„Nein, es iſt ein recht blider (vergnügter)<lb/>Todter, eine alte, unverheirathete Muhme, des<lb/>Bauern Schweſter, die bei uns lebte; ihr weint<lb/>Niemand nach außer meinen kleinen Kindern und<lb/>den Dienſtleuten, weil ſie miſerabel gutherzig war.<lb/>Freitag iſt die Grube und dazu müſſen die neuen<lb/>Mützen und Schürzen fertig ſein!“<lb/>
+            </p>
+            <p> <lb/>„Ganz recht,“ entgegnete Drüke; „da Ihr nun<lb/>die Muhme beerbt, kommt es Euch wohl nicht<lb/>darauf an, ein oder zwei Gulden im Voraus zu<lb/>bezahlen auf die Arbeiten da!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Einen</hi> höchſtens — <hi rendition="#g">einen</hi> höchſtens!“ ſagte<lb/>die Frau und zog einen leinenen Geldbeutel aus<lb/>der Taſche ihres Rockes, „aber Donnerſtag Abend<lb/>ſchicke ich den Kleinknecht und Alles muß fix und<lb/>fertig ſein.“<lb/>
+            </p>
+            <p> <lb/>Drüke ſtreckte bereits die knorrige Rechte nach<lb/>dem bedächtig zuſammengezählten Gulden aus, als<lb/>ein Kind in der Kammer weinte. Die Bäuerin<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0304" n="290" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=304"/>
+            </p>
+            <p> <lb/>legte, raſcher als man es vermuthen konnte, die<lb/>breite Hand über ihre Stüwer und Dübbeltjes,<lb/>indem ſie ſagte: „Hat die Kläre ein Kind, wie alt<lb/>iſt es denn?“<lb/>
+            </p>
+            <p> <lb/>„O, das Unglückskind!“ zeterte die Groß-<lb/>mutter; „wie alt? Na, zehn Stunden iſt es alt!“<lb/>
+            </p>
+            <p> <lb/>Die Bäuerin ſtrich ihre Münzen wieder ein,<lb/>nahm ihr Paket in Strohpapier vom Tiſche und<lb/>ſchritt wortlos durch die niedere Hausthür von<lb/>dannen.<lb/>
+            </p>
+            <p> <lb/>Auf dieſen Augenblick ſchien Drüke mit gifti-<lb/>gem Humor gewartet zu haben; ſie ſtellte ſich ſo-<lb/>fort vor ihre Schwelle und rief, begünſtigt durch<lb/>ihr glückliches Organ, der Dahinſchreitenden die<lb/>ganze Straße hinunter nach: „Ja, macht ſchnell,<lb/>daß Ihr fortkommt, es könnte Euch zehn Eier<lb/>für's Kilber (Kindelbier) koſten! Hier muß man<lb/>die Füße aufheben! ſagte der Hahn, als er in den<lb/>Pferdeſtall ging — Blixum, wir müſſen Euch zu<lb/>Gevatter nöthigen, wir brauchen ſolche Leute, die<lb/>erſt beten, wenn's donnert. Tragt den Kopf nur<lb/>hoch und verlangt, daß die ganze Welt tanzt, wenn<lb/>Ihr pfeift — Ordnung muß ſein! ſagte der Bauer<lb/>und rechte ſein Haar mit der Miſtforke. Wer gut<lb/>ſchmeert, der gut fährt! aber ohne Schmeer, Frau,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0305" n="291" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=305"/>
+            </p>
+            <p> <lb/>da kracht der Wagen und da racht (ſchimpft) die<lb/>Poſtillons-Drüke!“<lb/>
+            </p>
+            <p> <lb/>So ging es weiter, bis vor allen Thüren alle<lb/>Leute die Bäuerin am Ende des Gäßchens ver-<lb/>ſchwinden ſahen.<lb/>
+            </p>
+            <p> <lb/>„Mutter!“ rief die weiche Stimme aus der<lb/>Kammer, „wie mögt Ihr ſo viel Alarm ſchlagen!“<lb/>
+            </p>
+            <p> <lb/>„Was habe ich denn ſonſt vom Leben?“ gab<lb/>die liebenswürdige Matrone zurück; „arm ſind wir,<lb/>arm bleiben wir, aber den Mund kann man mir<lb/>eben ſo wenig verbieten, als wäre ich die dickſte<lb/>Bauerfrau im Kirchſpiel. Ich regiere in meinem<lb/>Hauſe und in unſerem Sträßchen wie ich will!“<lb/>
+            </p>
+            <p> <lb/>, Vielleicht hätte die Frau mir ſpäter zu ver-<lb/>dienen gegeben!“ meinte Kläre mit einem Seufzer.<lb/>
+            </p>
+            <p> <lb/>„Wer heut' nicht hilft, hilft auch mein Lebtag<lb/>nicht um Gottes Lohn. Wenn ſie uns braucht,<lb/>kommt ſie doch wieder, wenn ſo Eine durch den<lb/>Regen geht, tropft immer das Meiſte beizu.“<lb/>
+            </p>
+            <p> <lb/>Kläre drückte ihr bleiches, hübſches Angeſicht<lb/>in die Kiſſen und ſchwieg.<lb/>
+            </p>
+            <p> <lb/>„Weißt Du,“ begann wieder die Alte, heran-<lb/>tretend und der Wiege ein paar heftige Stöße<lb/>verſetzend, „wenn wieder Mondenſchein iſt, ſo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0306" n="292" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=306"/>
+            </p>
+            <p> <lb/>werde ich zur Mamſell gehen, ſie muß etwas für<lb/>Dich und das Kind thun!“<lb/>
+            </p>
+            <p> <lb/>‚„O Mutter,“ bat Kläre, „wie könnt Ihr nur<lb/>das Herz haben, daran zu denken! Ihr wißt doch<lb/>am beſten, wie undankbar wir gegen die Mamſell<lb/>geweſen ſind; wenn ich an <hi rendition="#g">Die</hi> denke, dann möchte<lb/>ich mich rein zu Tode ſchämen!“<lb/>
+            </p>
+            <p> <lb/>„Das wäre der Mühe werth, und was ſollte<lb/>dann aus dem Unglückskind da werden?“<lb/>
+            </p>
+            <p> <lb/>„Das weiß Gott!“ ächzte Kläre und bedeckte<lb/>ihr Geſicht mit den Händen.<lb/>
+            </p>
+            <p> <lb/>Nach zehn Tagen war Mondenſchein. Drüke<lb/>zog ſämmtliche Röcke, die ſie beſaß, über einander<lb/>an, den beſten zu oberſt, hielt den Kopf mit den<lb/>auf Spannenlänge geſchorenen Haaren über den<lb/>Waſſereimer, um ſich, wie ein Nilpferd ſchnau-<lb/>fend, zu waſchen, ſpritzte ein paar Hände voll<lb/>Waſſer in ihr graumelirtes Haar und verfügte<lb/>ſich vor einen Spiegel von der Größe einer Taſſen-<lb/>ſchale, um die naſſen Borſten in einer Art Locke<lb/>hinter das Ohr zu drehen. Endlich ſtülpte ſie eine<lb/>ſchwarze Mütze auf, ſpendelte ſich ein unſauberes<lb/>Tuch um Hals, Bruſt und Taille und pfiff dabei<lb/>halblaut ein Poſthornſignal. Am Feuer ſaß Kläre,<lb/>dicke Thränen tropften, eine nach der andern, von<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0307" n="293" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=307"/>
+            </p>
+            <p> <lb/>ihrer Wange herab auf den Säugling, der auf<lb/>ihren Knieen lag; aber ſie ſagte kein Wort, ſie<lb/>wußte ſchon, daß Drüke's Deviſe lautete: „Was<lb/>ich will — das will ich!“<lb/>
+            </p>
+            <p> <lb/>„Halt' Dich munter, Kläre,“ ſprach Drüke, der<lb/>Thür zuſchreitend. „Wenn Du eine Botſchaft für<lb/>die Mamſell haſt, ſo ſag' ſie mir; 's iſt jetzt Alles<lb/>um's halbe Porto!“<lb/>
+            </p>
+            <p> <lb/>„O nein,“ entgegnete Kläre, „wie könnte ich<lb/>eine Botſchaft für ſie haben; ich werde ſie nie<lb/>wieder mit Augen anſehen dürfen!“<lb/>
+            </p>
+            <p> <lb/>„Iſt auch nichts Plaiſirliches an ihr zu ſehen!“<lb/>rief Drüke und ſchnalzte mit den Fingern, indem<lb/>ſie die Schultern in die Höhe zog und die Hal-<lb/>tung einer Verwachſenen annahm.<lb/>
+            </p>
+            <p> <lb/>„Mutter, Ihr verſündigt Euch,“ fuhr die<lb/>Tochter empor; „hat ſie mich nicht erzogen und<lb/>gehalten wie ihr eigenes Kind, bis — bis ich da-<lb/>von ging?“<lb/>
+            </p>
+            <p> <lb/>„Das hat ſie; aber ſie that das nur, damit<lb/>Du nicht von Deiner Mutter lernen ſollteſt und<lb/>werden wie ſie iſt, und deshalb rieth ich, Deine<lb/>Mutter, Dir, davon zu gehen, damit ſie einſieht:<lb/>Natur iſt Natur! Nun hat ſie was für ihre<lb/>Weisheit!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0308" n="294" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=308"/>
+            </p>
+            <p> <lb/>„Und wir haben Jammer und Elend!“ fügte<lb/>Kläre traurig hinzu.<lb/>
+            </p>
+            <p> <lb/>„Damelei — Damelei! Wenn Du Deiner Mutter<lb/>ähnlicher wärſt, Du ſchüttelteſt das Fell aus wie<lb/>ein Pudel und ließeſt unſern Herrgott und die<lb/>Gemeinde von Hüſingen für den Wurm da ſorgen;<lb/>Dochter, Du must weten, <hi rendition="#g">ungünnt</hi> Brod ward<lb/>
+               <hi rendition="#aq">ook eten</hi>!“ Mit dieſem nicht würdig zu über-<lb/>ſetzenden Schlußwort der plattdeutſch redenden<lb/>Poſtillons-Drüke begab dieſe ſich auf ihren Weg<lb/>zur Mamſell.<lb/>
+            </p>
+            <p> <lb/>Das Reiſeziel unſerer philoſophiſchen Freun-<lb/>din war zwei Wegſtunden von Hüſingen entfernt<lb/>und zeigte ſich als ein überlanges, ſteinernes Haus.<lb/>Ueber der Hausthür war ein weißes Schild<lb/>mit einem großen gemalten Poſthorn, rechts von<lb/>der Thür eine transportable Pferdekrippe, links<lb/>eine grün geſtrichene Holzbank. Die Hausthür<lb/>führte ſogleich in eine große Küche, eigentlich ein<lb/>Zimmer mit Eſtrich und einem Kamin mit Rauch-<lb/>fang, die nie zum Kochen benutzt oder durch häus-<lb/>lichen Betrieb entweiht wurde, in Summa die<lb/>Gaſtſtube für Alles, was da täglich kam und ging<lb/>und die Reſidenz der Poſthalterin, Mamſell Euphe-<lb/>mia Maria Clara Holter. Da ſaß ſie denn auch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0309" n="295" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=309"/>
+            </p>
+            <p> <lb/>mit ihrer Näharbeit an einem mit Wachstuch über-<lb/>zogenen Tiſch, welcher die Mitte des Raumes inne<lb/>hatte. Mamſell hatte die Poſthalterei, Felder,<lb/>Gärten und Wieſen, ingleichen fünfzehntauſend<lb/>Gulden in baar von ihrem verſtorbenen Vater<lb/>geerbt und man wußte, daß ſie, eine treffliche<lb/>Haushälterin, immer von Neuem einen Reichs-<lb/>thaler auf den andern dazulege. Sie mochte etwa<lb/>dreißig Jahre zählen und war verwachſen; nicht<lb/>in jener ängſtlichen, verkümmerten Art mancher<lb/>ihrer Leidensſchweſtern: nein, Mamſell ſchien ſich<lb/>vorbereitet zu haben, die Länge eines Grenadiers<lb/>und die Kräfte eines Grobſchmieds zu repräſen-<lb/>tiren, bis ein ungeheurer, lawinenhafter Druck<lb/>von oben den Kopf zwiſchen die Schultern preßte<lb/>und den Rücken zu einer ſcharfen, verdrießlichen<lb/>Wellenlinie aufſtaute. Ihr Geſicht hatte einen<lb/>entſchiedenen, forſchenden, etwas übellaunigen Aus-<lb/>druck und ihre ſchmalen, dunklen Augen ein leb-<lb/>haftes, blitzendes Licht. Mamſells Ausſehen war<lb/>das einer klugen, charakterfeſten Frau.<lb/>
+            </p>
+            <p> <lb/>Drüke fand ſie nicht allein. An der andern<lb/>Seite des Wachstuchtiſches ſaß ein gutmüthig aus-<lb/>ſchauender flachsblonder Herr, der zur eben ein-<lb/>getroffenen Zeitung aus einer ſehr langen Pfeife<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0310" n="296" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=310"/>
+            </p>
+            <p> <lb/>rauchte und dazu ſeinen Morgenbittern aus einem<lb/>kleinen Schnapsglaſe trank. Mamſell nickte nur<lb/>mit dem Kopfe, als die Poſtillonswitwe eintrat;<lb/>dieſe wartete indeß keinen Willkommen ab, ſon-<lb/>dern rückte neben das Feuer einen Stuhl und ſetzte<lb/>ſich darauf, indem ſie ſchmetterte: „Gu'n Morgen<lb/>in’s Haus, gu'n Tag auch, Herr Steuereinnehmer<lb/>Backer!“<lb/>
+            </p>
+            <p> <lb/>Der blonde Herr blies bedächtig ein paar Rauch-<lb/>wolken über die Zeitung hinaus und entgegnete<lb/>dann: „Na, Drüke, lebt Sie noch?“<lb/>
+            </p>
+            <p> <lb/>„Jeder Wurm freut ſich des Lebens!“ meinte<lb/>Drüke und lockte die waſſerblauen Augen des<lb/>Steuerbefliſſenen noch einmal von der Zeitung<lb/>hinweg, indem ſie hinzufügte: „Ich komme, der<lb/>Mamſell und Mynheer Backer zu ihrem Verſpruch<lb/>Glück und Segen anzuwünſchen!“<lb/>
+            </p>
+            <p> <lb/>„Dann hätteſt Du zu Haus bleiben ſollen!“<lb/>ließ ſich Mamſell trocken vernehmen. „Wie es ſeit<lb/>zehn Jahren war, ſo iſt es heute, ſo wird es immer<lb/>zwiſchen uns ſein; ich habe keine Vorliebe für das<lb/>Mannsvolk!“<lb/>
+            </p>
+            <p> <lb/>„Recht ſo!“ applaudirte Drüke. „Viel Ge-<lb/>ſchrei und wenig Wolle, ſagte jener Bauer, als er<lb/>ſein Schwein ſchor!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0311" n="297" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=311"/>
+            </p>
+            <p> <lb/>„Man kann den Mannsleuten ihre Natur nicht<lb/>austreiben,“ fügte Mamſell ernſt hinzu.<lb/>
+            </p>
+            <p> <lb/>„Und den Fuſel nicht abgewöhnen!“ trompetete<lb/>Drüke in ihrer tiefſten Tonlage.<lb/>
+            </p>
+            <p> <lb/>Herr Backer faltete die Zeitung zuſammen,<lb/>klopfte die Aſche aus dem weißen Pfeifenkopfe,<lb/>ſchlang den Reſt ſeines Bittern nicht ohne Bitter-<lb/>keit hinunter, ſetzte ſeine Mütze auf und ſagte:<lb/>„Wenn wir Mannsperſonen auch bei Ihnen nicht<lb/>viel gelten, Mamſell, will mich's doch bedünken,<lb/>als hätten wir wohl ein halbes hundert und drüber<lb/>recht luſtige Ecoſſaiſen und Tempèten mit einander<lb/>getanzt, um nicht von den Hopſern und Schleifern<lb/>zu reden — ſo bin ich doch wenigſtens fünf- bis<lb/>ſechsmal des Jahres zu etwas gut!“<lb/>
+            </p>
+            <p> <lb/>„Im Tanzen nimmt es hier Keiner mit Herrn<lb/>Backer auf!“ beſtätigte Mamſell und blickte dem<lb/>Steuerempfänger mit leiſem Kopfnicken nach, als<lb/>er hinausging. Mamſell war nämlich nicht nur<lb/>eine gute und vielbegehrte Partie, ſondern eine<lb/>eben ſo geſuchte Tänzerin. Das Tanzen war ihre<lb/>einzige mädchenhafte Schwäche und ſie fehlte ge-<lb/>wiß nie auf den anſpruchsloſen Bällen ihres<lb/>Wohnortes.<lb/>
+            </p>
+            <p> <lb/>Herr Backer hatte ſich zwar erhaben, aber doch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0312" n="298" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=312"/>
+            </p>
+            <p> <lb/>nicht minder mit einem Korbe belaſtet, von dem<lb/>Schauplatz zehnjähriger Huldigung und geduldigen<lb/>Minnedienſtes zurückgezogen. Ihm war ſo übel<lb/>zu Muthe, als ſei ein Schnupfen im Anzuge, und<lb/>er nahm ſich vor, auf den Abend bei ſeiner Haus-<lb/>hälterin eine Taſſe Fliederthee zu beſtellen. Ehe<lb/>er indeß noch der braven Perſon dieſen ſeinen<lb/>Auftrag ausſprechen konnte, rief ihm dieſelbe in<lb/>der Thür entgegen:<lb/>
+            </p>
+            <p> <lb/>„Herr Einnehmer, ich wollte gerade auf die<lb/>Poſt gehen, um Ihnen zu ſagen, daß die Fran-<lb/>zöſiſche da iſt, um ihr Paket zu holen.“<lb/>
+            </p>
+            <p> <lb/>Die „Franzöſiſche“ war eine kleine, verſchüch-<lb/>terte ſchweizer Bonne bei einer benachbarten Guts-<lb/>beſitzersfamilie, die von Zeit zu Zeit zu ihm kam,<lb/>um die kleinen Sendungen, welche ſie aus der<lb/>Heimath erhielt, von ihm unterſuchen und durch<lb/>ihn zu dem niedrigſten Satz verſteuern zu laſſen.<lb/>Das heutige Paket war bei Weitem größer als<lb/>die vorigen; er hatte es ſchon Morgens auf ſein<lb/>mächtiges Schreibpult gelegt und fand nun die<lb/>„Franzöſiſche“ vor demſelben ſitzend, die kleinen<lb/>Hände wie liebkoſend auf das Papier der Um-<lb/>hüllung gedrückt. Sie ſtand ſogleich auf, als er<lb/>eintrat, und machte eine nette Verbeugung.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0313" n="299" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=313"/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Excusez</hi>, wenn ich ſtör' Ihnen,“ ſprach ſie<lb/>höflich.<lb/>
+            </p>
+            <p> <lb/>„Nicht im Geringſten,“ dienerte Herr Backer<lb/>und reichte ihr ſeine große Papierſcheere zum<lb/>Durchſchneiden des Bindfadens. „Sie bekommen<lb/>da gewiß ein recht ſchönes Geſchenk, meine ich.“<lb/>
+            </p>
+            <p> <lb/>Die Händchen mit der Scheere zitterten, des<lb/>Mädchens große, lichtbraune Augen füllten ſich<lb/>mit Thränen.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Hélas</hi>, Sie ſehen, mein ſchwarzer Anzug;<lb/>meine liebe Mama iſt todt, ich bin allein in der<lb/>Welt, und in jener Enveloppe ſind die letzten<lb/>Souvenirs von Glück, Jugend und Heimath.“<lb/>
+            </p>
+            <p> <lb/>Die Erbſchaft war allerdings eine mehr als<lb/>beſcheidene: ein zerleſenes Gebetbuch, ein dünn ge-<lb/>tragener Trauring, ſechs ſilberne Theelöffel, eine<lb/>große, altmodige goldene Uhr vom „ſeligen Papa“<lb/>und dergleichen Dinge. Das Geſicht der kleinen<lb/>Dame glühte vor unterdrückter Bewegung; als<lb/>ſich endlich aber noch zwei ſehr mittelmäßige Paſtell-<lb/>bilder zeigten, auf welche das Mädchen inbrünſtig<lb/>die Lippen drückte, da brachen die Thränen un-<lb/>aufhaltſam hervor und tropften auf den gänzlich<lb/>fühlloſen Schreibtiſch des Steuerempfängers. Es<lb/>war das erſte Mal, daß im Steuerbureau eine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0314" n="300" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=314"/>
+            </p>
+            <p> <lb/>Dame weinte; deshalb war Herr Backer in großer<lb/>Verlegenheit, was er thun ſolle; er nahm endlich,<lb/>troſtbereit, die Adreſſe des Pakets, las und redete:<lb/>„Mademoiſelle Zoë Piccard, o bitte, weinen Sie<lb/>nicht!“<lb/>
+            </p>
+            <p> <lb/>„Pardon, Monſieur, ach wenn Sie wüßten,<lb/>wie brav, wie honnet mein' Eltern ſind geweſen!<lb/>Ich verlaſſen bin jetzt von Alles, was mein Herz<lb/>hat geliebt!“<lb/>
+            </p>
+            <p> <lb/>Herr Backer fühlte ein ſonderbares Kribbeln<lb/>in den Augen, lehnte ſeine ſtämmige Figur an<lb/>einen Kleiderſchrank und ſeufzte: „Ich lebe auch<lb/>ganz verlaſſen!“<lb/>
+            </p>
+            <p> <lb/>„Sie haben keine Mama?“ fragte Zoë mit-<lb/>leidig, als ob ſie ſtaune, daß ein ſechs Fuß hoher,<lb/>breitſchulteriger Mann von fünfunddreißig Jahren<lb/>es möglich mache, allein durch die Straßen des<lb/>Dorfes zu gehen.<lb/>
+            </p>
+            <p> <lb/>„Ja, ſehen Sie,“ erklärte Backer und ſetzte ſich<lb/>auf einen Stuhl der Franzöſin gegenüber. „Mutter<lb/>zog mit mir hier ein, als ich das Haus, in welchem<lb/>Sie ſind, gebaut hatte — wie finden Sie es? Ich<lb/>habe den Plan mit eigener Hand entworfen. Wiſſen<lb/>Sie, ich brauchte nicht zu ſparen, denn die Backers,<lb/>hier wie in Hüſingen und wo ſie wohnen, ſind<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0315" n="301" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=315"/>
+            </p>
+            <p> <lb/>Alle vermögende Leute; aber ich habe auch kein<lb/>Geld weggeworfen, ſehen Sie! <hi rendition="#g">Gut</hi> ſollte Alles<lb/>ſein, aber kein Firlefanz; hören Sie, ich bin nicht<lb/>für den Firlefanz.“<lb/>
+            </p>
+            <p> <lb/>„Was heißen Firlefanz?“ fragte das Mädchen.<lb/>
+            </p>
+            <p> <lb/>„Nun, wiſſen Sie, ſo Steinhauereien oder<lb/>Balcons oder bunte Glasſcheiben; und Mutter<lb/>war auch nicht für den Firlefanz, ja, wir richteten<lb/>Alles auf's Beſte ein, und wie eben die Sache<lb/>in Ordnung war, da ſtarb meine Mutter; nun iſt<lb/>Haus und Garten, ich habe nämlich darin auch<lb/>ein Luſthäuschen, für Niemanden da, denn mich<lb/>allein freut das auch nicht!“<lb/>
+            </p>
+            <p> <lb/>„O, die ſchöne Roſen und Reſeda!“ rief an's<lb/>Fenſter tretend Zoë, die Händchen zuſammen-<lb/>ſchlagend, ſo daß Herr Backer nicht umhin konnte<lb/>ihr mit manchem: „Hören Sie, ſehen Sie, wiſſen<lb/>Sie!“ den Garten zu zeigen und einen dicken<lb/>Blumenſtrauß für ſie abzuſchneiden. Da der<lb/>Garten einen ſo vortrefflichen Eindruck machte,<lb/>wäre es unfreundlich geweſen, nicht auch das<lb/>ganze Haus vom Boden bis in den Keller, vom<lb/>Saal bis in den Kuhſtall zu zeigen, bei welcher<lb/>Veranlaſſung Zoë äußerte, ſie verſtehe ſehr guten<lb/>Käſe zu bereiten.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0316" n="302" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=316"/>
+            </p>
+            <p> <lb/>Als die „Franzöſiſche“ ſich erinnerte, der<lb/>Wagen ihrer Herrſchaft erwarte ſie, da durfte ſie<lb/>
+               <hi rendition="#g">ſelbſt nur</hi> die Blumen tragen; mit den übrigen<lb/>Sachen belaſtete ſich Herr Backer und legte ſie<lb/>ſorgſam in das Fuhrwerk, dann hob er auch Zoë<lb/>hinein, oder vielmehr ſie ſchwebte über ſeiner<lb/>breiten Fauſt in die Höhe mit vielen Dankes-<lb/>worten, die ſeiner Güte galten. Wie leicht ſie<lb/>war!<lb/>
+            </p>
+            <p> <lb/>„Tanzen Sie gern?“ fragte der Einnehmer,<lb/>als ſie ihm die Hand zum Abſchied bot.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Mon Dieu, que oui</hi>! Aber man hat mich in<lb/>Deutſchland nicht für einen Ball invitirt — ich<lb/>bin ſehr unbekannt.“<lb/>
+            </p>
+            <p> <lb/>„Gut!“ entgegnete Backer befriedigt. „Sehen,<lb/>Sie, wenn Sie zum Vogelſchießen kommen, ſo<lb/>werde ich Sie einführen und alle Tänze mit<lb/>Ihnen tanzen, die Sie mir ſchenken wollen.“<lb/>
+            </p>
+            <p> <lb/>Nicht viel fehlte und Zoë hätte die Fauſt ge-<lb/>küßt, die ihr Händchen quetſchte, vor lauter Ent-<lb/>zücken; aber eben trieb der Kutſcher die Pferde<lb/>an und ſie konnte nur noch winken und nicken.<lb/>Niemals war Herrn Backer's Haus ſo ſtill gewe-<lb/>ſen als an dieſem Tage; er ſtand vor ſeinem<lb/>Schreibpult, ſchrieb aber nicht, ſondern betrachtete<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0317" n="303" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=317"/>
+            </p>
+            <p> <lb/>ein paar runde Flecke auf der ſchwarzen Oelfarbe<lb/>der Tiſchplatte — die Thränen des armen, frem-<lb/>den Kindes!<lb/>***<lb/>„Piccard,“ murmelte er, „das mag auf Deutſch<lb/>ſo viel wie Backer heißen.“<lb/>
+            </p>
+            <p> <lb/>Und mit ironiſcher Schadenfreude ſchloß Herr<lb/>Backer ſein Selbſtgeſpräch:<lb/>
+            </p>
+            <p> <lb/>„Sehen Sie, Mamſell Holter, nun haben wir<lb/>eine andere Tänzerin — ein Vögelchen, ein wahres<lb/>Vögelchen, die gewiß niemals auf die Manns-<lb/>perſonen ſchimpft! Ja honnet — honnet, einen<lb/>honnetten Mann könnte ſie gebrauchen.“<lb/>
+            </p>
+            <p> <lb/>Mamſell Holter ſaß indeß neben der Poſtillons-<lb/>Drüke und ahnte nicht, welche Gefahr ſie lief,<lb/>ihren treueſten und beſten Tänzer zu verlieren.<lb/>
+            </p>
+            <p> <lb/>„Nun, Drüke?“ fragte ſie nach einer Pauſe,<lb/>„was treibt Ihr denn in Hüſingen?“<lb/>
+            </p>
+            <p> <lb/>„Je nun,“ erwiderte die liebenswürdige Witwe,<lb/>„es könnte beſſer, es könnte ſchlechter gehen; wo<lb/>es Botenwege oder Leichenwachen giebt, wo zu<lb/>einer Hochzeit gekocht oder ein Vieh krank wird —<lb/>da muß Drüke helfen.“<lb/>
+            </p>
+            <p> <lb/>„Allerdings,“ warf Mamſell ein und blitzte<lb/>die Witwe ſcharf von der Seite an, „das reguläre<lb/>Arbeiten war nie Eure Natur, deshalb ſeid Ihr<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0318" n="304" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=318"/>
+            </p>
+            <p> <lb/>Pracher und bleibt Pracher — ja, wenn man Euch<lb/>Eure Natur austreiben könnte!“<lb/>
+            </p>
+            <p> <lb/>„Oho,“ widerſprach Drüke, „durch den Som-<lb/>mer habe ich ein reguläres Amt, heute ſchon in's<lb/>zweite Jahr.“<lb/>
+            </p>
+            <p> <lb/>„Das mag ein nettes Amt ſein!“<lb/>
+            </p>
+            <p> <lb/>„Wie man's nimmt, es trägt ſeine Renten —<lb/>ich bin Kegeljunge.“<lb/>
+            </p>
+            <p> <lb/>„Kegeljunge!“ wiederholte Mamſell langſam<lb/>und nähte dann eifrig weiter.<lb/>
+            </p>
+            <p> <lb/>„Ja, wenn mein Mann ſeliger, der Tobias,<lb/>noch lebte, er, der Eurem Hauſe ſiebenundzwanzig<lb/>Jahre in Ehren diente — es wäre Alles anders!“<lb/>klagte Drüke mit winſelnder Stimme.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Nichts</hi> wäre anders,“ entſchied Mamſell,<lb/>„er tränke und <hi rendition="#g">Ihr</hi> gingt müßig und verſchleu-<lb/>dertet, was Ihr habt.“<lb/>
+            </p>
+            <p> <lb/>„Mir iſt meine Natur nicht ausgetrieben,“<lb/>entſchuldigte ſich Drüke, „die Kläre iſt ſchon ganz<lb/>anders, und nun hat die Kläre ein Kind, das muß<lb/>ich aufziehen und es wird zurückſchlagen auf <hi rendition="#g">meine</hi>
+               <lb/>Natur!“<lb/>
+            </p>
+            <p> <lb/>„Wo iſt denn Euer Schwiegerſohn? Ihr<lb/>habt doch ſelbſt die Kläre, da ſie noch beinahe ein<lb/>Kind war, zu ihm beredet. Der Teufel, der wie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0319" n="305" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=319"/>
+            </p>
+            <p> <lb/>ein brüllender Löwe ſuchet, wen er verſchlinge —<lb/>und der Teufel iſt die böſe Natur, die ſie von<lb/>ihren Eltern erbte — verblendete ſie, daß ſie mein<lb/>ehrbares Haus verließ und ſich einem Taugenichts,<lb/>einem elenden Bartputzer an den Hals warf —<lb/>nun mag er für Frau und Kind ſorgen! Wo iſt<lb/>Euer ſelbſterwählter Schwiegerſohn?“<lb/>
+            </p>
+            <p> <lb/>„Auf und davon!“ rief Drüke und ſchnippte<lb/>mit den Fingern.<lb/>
+            </p>
+            <p> <lb/>„Ich habe mein Wort gegeben, ich kann fortan<lb/>nichts mehr für Kläre thun.“<lb/>
+            </p>
+            <p> <lb/>„Aber für das Kind?“ fragte Drüke.<lb/>
+            </p>
+            <p> <lb/>Mamſell ſann eine Zeit lang nach, dann ſprach<lb/>ſie: „Ich bin der Meinung, daß uns Gott in die<lb/>Welt geſetzt hat, damit wir gegen unſere Natur<lb/>angehen; meine Natur“ — Mamſell blickte auf<lb/>Herrn Backer's Glas — „wäre es wohl, zu hei-<lb/>rathen und nicht jeden Tag den Poſtknechten den<lb/>Hafer auszumeſſen, dabei ſtiehlt noch jeder ordent-<lb/>liche Poſtillon für ſeine Pferde. Na, und der be-<lb/>eidigte Poſtſecretär iſt auch eine große Laſt und<lb/>verlangt ſeine Bedienung wie ein Prinz, Schwarz-<lb/>brod rührt er gar nicht an — ſeht, ſo würde es<lb/>mir Keiner verdenken im ganzen Kirchſpiel, wenn<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0320" n="306" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=320"/>
+            </p>
+            <p> <lb/>ich heirathete; aber ich <hi rendition="#g">ſelbſt</hi> verdenke es mir<lb/>und bleibe ledig. Die Kläre nahm ich von klein<lb/>auf zu mir, um ihr die träge, ſorgloſe Natur aus-<lb/>zutreiben, welche ihre Eltern zu Grunde richtete;<lb/>ſie war ein gutes Kind und wurde fleißig, aber<lb/>ſorglos blieb ſie doch. Ich habe an ihr gethan,<lb/>was ich konnte; von dreizehn Frauensperſonen —<lb/>den Mannsleuten iſt einmal nicht zu helfen! —<lb/>denen ich beſtrebt war die Natur auszutreiben,<lb/>iſt, außer mir ſelbſt, nur eine gerettet, die verſtor-<lb/>bene alte Waſchfrau, — ich trat zwiſchen ſie und<lb/>die Flaſche. Leider faßte ſie alsbald die Zehrung<lb/>und ſie ſtarb. Der Kläre, die ihren eigenen Weg<lb/>ſuchte, kann ich nicht helfen; ſie muß einen Dienſt<lb/>annehmen, aber das Kleine ſollt Ihr nicht in's<lb/>Unglück führen mit Eurem Beiſpiel; bringt es<lb/>mir und ich will es zur Nonne bilden, Euch Allen<lb/>zur Sühne, vielleicht daß Gott mir hilft, die<lb/>dritte ſündige Natur auszutreiben; ich habe dann<lb/>nicht umſonſt gelebt!“<lb/>
+            </p>
+            <p> <lb/>Drüke fuhr vom Stuhl in die Höhe und<lb/>ſchleuderte denſelben an die Wand. „Zur Nonne?“<lb/>kreiſchte ſie.<lb/>
+            </p>
+            <p> <lb/>„Ja, ich werde ſie ſchon vor Heirathsgedanken<lb/>bewahren!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0321" n="307" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=321"/>
+            </p>
+            <p> <lb/>„Aber das Unglückskind iſt ein Junge,<lb/>Mamſell!“<lb/>
+            </p>
+            <p> <lb/>„Ein Junge?“ fragte Mamſell gedehnt —<lb/>„dann erzieht ihn zum Kegeljungen!“<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>II.<lb/>Zehn Jahre.<lb/>
+            </p>
+            <p> <lb/>Wenn Mamſell Holter vorausſetzte, die ſünd-<lb/>liche Natur des trunkfälligen Poſtillons und des<lb/>arbeitsſcheuen, weiblichen Kegeljungen würde in<lb/>der dritten Generation bedeutend gemildert und<lb/>leitungsfähiger ſein, ſo warf der jugendliche To-<lb/>bias Spahn, alias Unglückskind, die altbewährten,<lb/>reichen Erfahrungen der würdigen Poſthalterin<lb/>gänzlich über den Haufen. Sie wagte die Er-<lb/>klärung, der flüchtige Bartputzer habe dem Söhn-<lb/>chen wieder <hi rendition="#g">neue</hi> Erbſünde hinterlaſſen; am lieb-<lb/>ſten aber redete ſie gar nicht von der Poſtillons-<lb/>familie. Ja, mitunter kamen ihr Zweifel, ob man<lb/>überhaupt die Natur austreiben könne? Sie<lb/>wurde ſchwankend in ihrer Miſſion, und zwar be-<lb/>merkte ſie, daß ihre <hi rendition="#g">eigene</hi> Natur dann und<lb/>wann ganz vernehmlich anklopfte.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0323" n="309" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=323"/>
+            </p>
+            <p> <lb/>Wenn Mamſell nicht von dem Unglückskind<lb/>redete, ſo that es dagegen die ganze Umgegend.<lb/>Er war in Hüſingen der Hecht im Karpfenteich der<lb/>ABC-Schule, und keine Woche verging, ohne daß<lb/>man Sonntags nach der Kirche neue Streiche von<lb/>Drükens Enkel und Pflegekind zu berichten hatte.<lb/>Obwohl Tobias ſchlechtweg „Unglückskind“ genannt<lb/>wurde, war kaum eine glücklichere Zuſammenſtel-<lb/>lung körperlicher und geiſtiger Gaben bei einem<lb/>zehnjährigen Knaben denkbar. Daß die letzteren<lb/>nicht zum Nutz und Frommen der Nachbarſchaft<lb/>angewendet wurden, war freilich für dieſe unan-<lb/>genehm. Um keinen Preis würden die Dorfkinder<lb/>Montags die Schule verſäumt haben; denn der<lb/>Schulmeiſter pflegte ausnahmslos einen oratori-<lb/>ſchen Vortrag an Tobias Spahn zu halten, welcher<lb/>für die Schüler ſo intereſſant war wie eine Theater-<lb/>vorſtellung.<lb/>
+            </p>
+            <p> <lb/>„Tobias Spahn!“ klang es nach dem Morgen-<lb/>geſang, während deſſen die Spannung, „ob was<lb/>komme“ und „was es heute ſei“, die jungen See-<lb/>len bereits um alle Andacht brachte. Auf den An-<lb/>ruf erhob ſich von einem der allerunterſten Plätze<lb/>ein blühender, ſchöner und kraftvoller Junge mit<lb/>großen, lachenden, blauen Augen und langen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0324" n="310" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=324"/>
+            </p>
+            <p> <lb/>braunen Haaren. Er reckte ſich vor dem Schul-<lb/>monarchen ſo hoch es ging auf und ſagte mit heller<lb/>Stimme und durchaus unbefangen: „Guten Mor-<lb/>gen, Herr Magiſter!“ Tobias lernte zwar ſo gut<lb/>wie gar nichts, aber das Hochdeutſche ſprach er<lb/>beſſer als alle anderen Kinder, und er konnte je-<lb/>des Lied, Deutſch und Latein, alsbald auswendig,<lb/>wenn er es nur einigemal gehört hatte. Dieſer<lb/>Umſtand, ſo wie ſeine Kraft und Verwegenheit<lb/>flößten den Dorfbuben großen Reſpect ein.<lb/>
+            </p>
+            <p> <lb/>„Tobias Spahn, ungerathener Knabe, Du<lb/>wirſt Deinen Lehrer in's Grab und Dich ſelbſt an<lb/>den Galgen bringen, wenn Du Dich nicht alsbald<lb/>beſſerſt! Man hat mir folgende Bosheiten be-<lb/>richtet, und ich frage Dich, ob Du, wie es behauptet<lb/>wird, der Thäter ſeieſt: erſtens und ſchlimmſtens<lb/>ereignete ſich am heiligen Sonntagabend eine<lb/>Miſſethat. Als Jungfer Sabina, des Herrn<lb/>Pfarrers Köchin, ihr in Ehren ergrautes Haupt<lb/>zur wohlverdienten Nachtruhe niederlegen wollte,<lb/>da fand ſie in ihrem Bett auf der verſchloſſen ge-<lb/>weſenen Bodenkammer — drei junge Ferken!“<lb/>
+            </p>
+            <p> <lb/>„Ja, Herr Magiſter, es ließ ſich auf eine kalte<lb/>Nacht an, die Thierchen dauerten Einen, ſo er-<lb/>barmte ich mich des Viehes, ſteckte es in einen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0325" n="311" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=325"/>
+            </p>
+            <p> <lb/>Sack, ſtieg in des Herrn Pfarrers Paradiesapfel-<lb/>baum, von da in das offene Kammerfenſter der<lb/>Jungfer Bine und legte die „Biggen“ ſo gut und<lb/>leiſe in's Bett, als ich nur konnte.“<lb/>
+            </p>
+            <p> <lb/>„Zum Andern,“ fuhr der Schulmeiſter mit<lb/>grimmem Anſtand fort, indeß die anderen Kinder<lb/>ſich anſtießen und kicherten, „zum Andern haſt Du<lb/>die unſchuldigen und höchſt unmündigen Zwillings-<lb/>kindlein des Schneiders in die Behauſung Deiner<lb/>Großmutter gelockt und ihnen ihre weißen Haare<lb/>mit Tinte ſchwarz gefärbt.“<lb/>
+            </p>
+            <p> <lb/>„Ja, Herr Magiſter, ich ſchenkte ihnen die<lb/>Pflaumen, welche meine Mutter mir vorige Woche<lb/>gab, und ſie ſaßen ganz ſtill dabei; es läßt ſie<lb/>doch beſſer, als das lichte Haar!“<lb/>
+            </p>
+            <p> <lb/>Man konnte keinen ſorgloſeren Sünder ſehen als<lb/>das Unglückskind. Tobias betrachtete ſeine Unthaten<lb/>als eine angenehme Unterbrechung des Lernens,<lb/>das er überaus verabſcheute und ſorgſam ver-<lb/>mied, war indeß viel zu unerſchrocken, um je-<lb/>mals ſeine üblen Streiche zu leugnen, wenn ſie<lb/>entdeckt wurden. Manche wurden aber nie ent-<lb/>deckt oder wenigſtens nicht verrathen, weil man<lb/>einem zehnjährigen Schlingel nicht ſo viel treffende<lb/>Phantaſie zutraute. Ein Bauer Hüſingens z. B.,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0326" n="312" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=326"/>
+            </p>
+            <p> <lb/>der das Unglückskind mehrere Male gefaßt und<lb/>geſchlagen hatte, mußte bei beſonders hoher Fluth<lb/>viel von den Ueberſchwemmungen der Ems leiden<lb/>und beſchloß demzufolge, ſein altes Haus durch<lb/>ein neues zu erſetzen, das auf einer Sandhöhe<lb/>erbaut wurde. Die „Haushebung“ oder „Haus-<lb/>richte“ ging mit aller Feier von Statten, da der<lb/>Bauer ein wohlhabender Mann war. Bei einer<lb/>Hausrichte wird unter dem Beiſtande der Nach-<lb/>barn und Freunde das ganze Holzwerk des Hauſes<lb/>ſo hingeſtellt, daß die leeren Zwiſchenräume der<lb/>Balken nur noch durch Mauer- oder Fachwerk<lb/>(ein mit Lehm verklebtes Geflecht) ausgefüllt, ſo<lb/>wie Thüren und Fenſter, wie Bedachung ein-<lb/>gefugt und aufgedeckt zu werden brauchen. Die<lb/>hülfreichen Nachbarn trinken an ſolchen Tagen<lb/>eine unglaubliche Menge Branntwein und ſind<lb/>größtentheils mehr wie heiter, wenn gegen Abend<lb/>ſich über den Dachſparren an der Giebelſeite der<lb/>buntbebänderte Tannenbuſch erhebt, unter welchem,<lb/>verheißungsvoll für den Wohlſtand des neuen<lb/>Hauſes, ein hölzerner Schinken hängt. Der Zimmer-<lb/>mann redet jetzt etwas unter dieſem Emblem auf<lb/>die Untenſtehenden hinunter, das Niemand ver-<lb/>ſtehen würde, ſelbſt wenn die Rede mehr Sinn<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0327" n="313" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=327"/>
+            </p>
+            <p> <lb/>hätte, als dies der Fall iſt. Herabgeſtiegen, wer-<lb/>den der Hausbeſitzer und die Hauserbauer von<lb/>den jungen Mädchen der Nachbarſchaft mit einer<lb/>Krone aus Flittergold und buntem Papier be-<lb/>ſchenkt, ſo wie mit langen, weißen Thonpfeifen,<lb/>die in ähnlicher Weiſe ausgeputzt ſind. Abends<lb/>hat der Hausbeſitzer eine Feſtlichkeit mit Tanz<lb/>und Branntwein zum Beſten zu geben, die man<lb/>„Kronenbier“ nennt. Der Feind unſeres Tobias<lb/>gab ſein Kronenbier. Um Mitternacht füllten<lb/>Rauch, Staub und Qualm jeder Art die ohnehin<lb/>nicht ſehr luftige Tanzkammer und die Violinen<lb/>wurden nahezu vom Geſchrei der erregten Ver-<lb/>gnüglinge übertönt. Auf einmal verſtummt der<lb/>wüſte Lärm, die erhitzten Geſichter nehmen einen<lb/>dumm-entſetzten Ausdruck an, bis nach kurzem Ver-<lb/>ſtummen Alle zur Hausthür drängen, von welcher<lb/>aus man das neue Hausgerüſt auf der Höhe im<lb/>Mondenſchein liegen ſieht — und ſonderbar! der<lb/>grüne Tannenbuſch wiegt ſich hoch über dem Giebel<lb/>wie eine leuchtende Feuergarbe; wenn der Wind<lb/>vorüberzieht, regnen die Funken durch die Sparren<lb/>nieder, und nach etwa zehn Minuten neigt ſich das<lb/>brennende Stämmchen, nimmt einen ungeheuren<lb/>Schwung und — iſt verſchwunden! Ein ſo ſchreck-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0328" n="314" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=328"/>
+            </p>
+            <p> <lb/>licher Spuk war noch nie in Hüſingen geſehen<lb/>worden. Die Dorfſchönen klammern ſich an ihre<lb/>handfeſten Tänzer und wollen dieſe verhindern,<lb/>an den Schauplatz des Ereigniſſes zu eilen; dieſe<lb/>ſchleudern in unbändiger Neugier die liebevollen<lb/>Feſſeln ab, ergreifen Meſſer, Beſen, Spaten, kurz,<lb/>was ſich eben findet, und rücken, ſelb zwanzig,<lb/>muthig hinaus zum Neubau. Richtig, der Buſch<lb/>iſt fort, als ob ihn und den Schinken die Erde<lb/>verſchlungen hätte; nur hier und da glimmt noch<lb/>ein Zweiglein im thaufeuchten Graſe —! Die<lb/>Freude des Kronenbiers war dahin, aber ein kleiner<lb/>Schlingel freute ſich um ſo mehr; er kroch zu ſeiner<lb/>Großmutter in's Bett und ſagte flüſternd: „O Beſt-<lb/>mutter, die Geſichter hättet Ihr ſehen ſollen, als<lb/>ſie Alle an der Hecke vorüber kamen, hinter welcher<lb/>ich in dem Erdäpfelfelde ſaß — na, das neue<lb/>Haus iſt dem Bauern durch dieſe Vorgeſchichte<lb/>verleidet!“<lb/>
+            </p>
+            <p> <lb/>„Wie machteſt Du's denn, Du Teufelskind?“<lb/>
+            </p>
+            <p> <lb/>„Weißt Du, als ich neulich Mutter Kläre be-<lb/>ſuchte, kaufte ich mir Schwefel in der Apotheke<lb/>und machte davon einen langen Schwefelfaden,<lb/>den band ich, als die Leute fort waren, an die<lb/>Tanne da oben, nebenbei noch ein Tau, welches<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0329" n="315" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=329"/>
+            </p>
+            <p> <lb/>die Bauleute vergeſſen hatten. Wie es Zwölf<lb/>ſchlägt, zünde ich den Schwefelfaden an, und als<lb/>ich merke, daß die betrunkenen Kerle ſich heran-<lb/>wagen, reiße ich das Bäumchen herunter und<lb/>werfe es über die Hecke, ich ſelbſt krieche raſch<lb/>hinterher — aber es war kalt draußen, Beſt-<lb/>mutter.“<lb/>
+            </p>
+            <p> <lb/>„Paſſ' nur auf, daß ſie Dich nicht fangen, mein<lb/>Sohn! Uebrigens gönn' ich's ihnen Allen, daß ſo<lb/>ein Kind den weiſen Leuten „den Geck anſcheert“<lb/>(ſie zum Narren hat). Jeder Vogel ſingt nach<lb/>ſeinen Federn — Du haſt <hi rendition="#g">meine</hi> Natur.“<lb/>
+            </p>
+            <p> <lb/>Obwohl das neu errichtete Haus alsbald derart<lb/>in Ruf kam, daß es auf einem Fleck Erde ſtehe,<lb/>den die „Olkes“ oder Erdgeiſter beanſpruchten,<lb/>und die Bäuerin ſich nie dazu verſtand, in daſſelbe<lb/>einzuziehen, ſondern vorzog, nöthigenfalls unter<lb/>dem bisherigen Dache elendiglich zu ertrinken: ſo<lb/>wurde der Spuk doch nicht an dem Unglückskind,<lb/>dem Vertreter der böſen Erdgeiſter, gerochen. Da-<lb/>gegen aber ſchnob die in ihren zarteſten Gefühlen<lb/>gekränkte Jungfer Sabina Rache. Sie verſalzte<lb/>dem hochwürdigen Pfarrer durch mehrere Tage<lb/>die Suppe, ſetzte ihm Speiſen vor, die ihm zuwider<lb/>waren, und braute den abſcheulichſten Kaffee von<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0330" n="316" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=330"/>
+            </p>
+            <p> <lb/>der Welt. Der geiſtliche Herr wagte eine beſchei-<lb/>dene Klage; doch Sabina brach in Thränen aus<lb/>und winſelte:<lb/>
+            </p>
+            <p> <lb/>„Ja, ja, jagt mich aus dem Dienſt, Herr<lb/>Paſtor; ein Kinderſpott, wie ich es bin, gehört<lb/>in’s Armenhaus. Zeigt den Buben, daß ſie das<lb/>Recht haben, Sonntags die Miniſtranten in der<lb/>Sakriſtei an den Chorhemden zuſammenzunähen,<lb/>in's Schloß der Kirchthür ein Zündhütchen zu<lb/>ſtecken, ſo daß die Magd des Küſters, wenn ſie<lb/>zum Morgenläuten aufſchließt, beinahe den Tod<lb/>von dem greulichen Knall hat, laßt andächtigen<lb/>Frauen, wenn ſie ſich nach der Kirche auf der<lb/>Feuerkieke die Füße wärmen, Poggen (Fröſche) in<lb/>die Holzſchuhe ſtecken, auf welche die armen, alten<lb/>Mütter dann treten — o, ich könnte mir den<lb/>Athem ausreden, wollte ich alle Thaten der tu-<lb/>gendhaften Schlingel wiederholen, welche der Herr<lb/>Paſtor und der Magiſter zu Chriſten erziehen!“<lb/>
+            </p>
+            <p> <lb/>„Aber,“ fragte der alte Herr ungeduldig, „was<lb/>willſt Du denn, das geſchehen ſoll? Der Junge<lb/>hat für ſeine Kinderei nachgeſeſſen und verſprochen,<lb/>dergleichen nicht wieder zu thun.“<lb/>
+            </p>
+            <p> <lb/>„Was geſchehen ſoll? Ich bin öffentlich be-<lb/>ſchimpft, ich will öffentliche Beſtrafung.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0331" n="317" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=331"/>
+            </p>
+            <p> <lb/>„Oeffentlich?“ wunderte ſich der Pfarrer; „ich<lb/>denke, die Thierchen ſtaken in Deinem Bett?“<lb/>
+            </p>
+            <p> <lb/>„Aber die ganze Gemeinde weiß es,“ ſchluchzte<lb/>die Jungfer überlaut, „und ich werde nicht eher<lb/>meine Gedanken für meine Pflicht haben können,<lb/>bis der Junge, dieſes wahre Unglückskind, dieſe<lb/>Kukuksbrut, beſtraft iſt vor Land und Leuten!“<lb/>
+            </p>
+            <p> <lb/>So Jungfrau Sabina. Abends ſaßen Pfarrer<lb/>und Schulmeiſter in geheimer Berathung zuſam-<lb/>men. Die Tabakswolken wirbelten dichter und<lb/>dichter gegen die Decke; aber das entſcheidende<lb/>Strafverfahren blieb unentſchieden.<lb/>
+            </p>
+            <p> <lb/>„Erſtlich,“ ſagte der Magiſter, „hat die<lb/>Poſtillons-Drüke ein vermaledeites Mundwerk und<lb/>wird mir die ganze Bevölkerung auf den Hals<lb/>hetzen, meine Ehefrau wäre ihres Lebens nicht<lb/>mehr ſicher vor der Alten; zweitens iſt an dem<lb/>Jungen ſo etwas Beſonderes, daß man alle ſeine<lb/>Bosheiten gleich wieder vergißt.“<lb/>
+            </p>
+            <p> <lb/>„Eben um dieſes Beſondern willen müſſen wir<lb/>ihn ſtrafen,“ beharrte der Pfarrer; „die Wege der<lb/>
+               <hi rendition="#g">beſonderen</hi> Menſchen gehen immer hart am Ab-<lb/>grund vorüber, und auf <hi rendition="#g">uns Zwei</hi> fällt dereinſt<lb/>die Verantwortung, das junge Reis nicht gebun-<lb/>den zu haben zur Zeit, da es noch biegſam war.“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0332" n="318" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=332"/>
+            </p>
+            <p> <lb/>Es wurde nach vielen neuen Vorträgen be-<lb/>ſchloſſen, an dem nächſten Sonntag ſolle Tobias<lb/>an der Kirchenthür ſtehen, auf der Bruſt ein Schild<lb/>mit der Inſchrift: „<hi rendition="#g">Tobias Spahn, welcher</hi>
+               <lb/>
+               <hi rendition="#g">den Sabbatsfrieden ſtörte</hi>!“<lb/>
+            </p>
+            <p> <lb/>Es war die mildeſte Strafe; aber dennoch eine<lb/>ſehr demüthigende und öffentliche. Die Herren<lb/>glaubten, daß man in dem „kleinen Strick“ das<lb/>Ehrgefühl auf dieſe Weiſe <hi rendition="#g">wecken</hi> müſſe! Der<lb/>Magiſter übernahm es, dem Delinquenten die über<lb/>ihn verhängte Buße unter vier Augen mitzutheilen,<lb/>um ihm die Auskunft zu laſſen, <hi rendition="#g">ſelbſt</hi> Jungfer<lb/>Sabina's Herz zu erweichen, damit dieſe ihn ſeiner<lb/>Strafe entbinde und Gnade für Recht ergehen<lb/>könne. Dieſe Rechnung war indeß ohne Tobias<lb/>gemacht. Der Kleine zeigte nicht die mindeſte<lb/>Neigung mit Jungfer Sabina ein glimpfliches<lb/>Abkommen zu treffen, ſondern entgegnete einfach:<lb/>„Herr Magiſter, ich werde Sonntag nicht an der<lb/>Kirchthür ſtehen!“<lb/>
+            </p>
+            <p> <lb/>Worauf der Präceptor, äußerlich grimmig, inner-<lb/>lich erleichtert, ſagte: „Das wird ſich finden, Burſche!“<lb/>
+            </p>
+            <p> <lb/>Des Magiſters Lebensgefährtin packte ſofort<lb/>ihre Sachen, um bei Drüke's Annäherung mit<lb/>ihren jüngſten Kindern zu ihren Eltern flüchten<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0333" n="319" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=333"/>
+            </p>
+            <p> <lb/>zu können, indeß ihr Gatte das Haus der Poſtillons-<lb/>witwe, ſo wie das Unglückskind überwachen ließ.<lb/>Nichts Verdächtiges zeigte ſich. Drüke ſang den<lb/>„Malbrook“, ein altes holländiſches Tanzlied, und<lb/>der Junge lungerte mit zwei Slowakenknaben<lb/>umher, die ihre Mauſefallen und Drahtarbeiten<lb/>an den Thüren feil boten. Das war nicht auf-<lb/>fallend; es kam, ſeitdem Tobias laufen konnte,<lb/>kein Hauſirer, Scheerenſchleifer, Muſikant oder<lb/>Bärenführer in's Dorf, dem ſich das Unglückskind<lb/>nicht beharrlich anſchloß, es verſtändigte ſich mit<lb/>Allen und lernte mit Geſchick ihre Handgriffe und<lb/>Redensarten. Wie lernſcheu Tobias war, er hatte<lb/>eine geſchickte Hand und einen anſchlägigen Kopf,<lb/>ſo daß er ſchon manchen „Stüber“ (Mariengroſchen)<lb/>verdiente: er raspelte Holzbeſen trotz eines unga-<lb/>riſchen Schweinehirten, ſeine vogelſcheuchenden<lb/>Klappermühlen ſtanden ſogar in den Erbſenbeeten<lb/>benachbarter Gemeinden mit beſtem Erfolg; Drüke's<lb/>Stolz aber waren die Spazierſtöcke, an denen<lb/>Tobias einen Katzenkopf oder einen offenen Rachen<lb/>ausſchnitzte. Ja, Drüke war überhaupt ſtolz auf<lb/>den Jungen; wie ſie meinte, weil er ihr gliche,<lb/>eigentlich aber, weil er das erſte Geſchöpf war,<lb/>das ihrem Willen ſiegreich Widerſtand leiſtete.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0334" n="320" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=334"/>
+            </p>
+            <p> <lb/>Dieſer Widerſtand vollzog ſich nicht durch kindiſches<lb/>Schreien, Toben und Murren, nein, es war eine<lb/>lachende, tändelnde Selbſtbeſtimmung, die daher-<lb/>flatterte wie eine Schneeflocke und feſtſaß wie ein<lb/>Schrotkorn. Tobias umging die wortreichen Schwä-<lb/>chen ſeiner Großmutter, wie man einen Fels um-<lb/>ſchifft, an welchem ſich die Meereswogen brechen;<lb/>Kinder gewöhnen ſich an ewiges Reden wie an<lb/>Mühlengeklapper.<lb/>
+            </p>
+            <p> <lb/>„Es iſt <hi rendition="#g">mein</hi> Junge,“ ſagte Drüke, „und jede<lb/>Mutter lobt <hi rendition="#g">ihre</hi> Butter.“<lb/>
+            </p>
+            <p> <lb/>Man konnte keine ſorgloſere, zufälligere Haus-<lb/>haltung ſehen, als die im Spieker; für keine Mahl-<lb/>zeit, für keine Einrichtung gab es beſtimmte Stun-<lb/>den. Die Bewohner lebten im Schatten der treff-<lb/>lichen Hüſinger Gemeindeordnung ein Zigeuner-<lb/>leben, und eine Zukunft ſchien kaum für die Zwei<lb/>zu exiſtiren. Der Magiſter erfuhr zu ſeiner und<lb/>des Pfarrers Genugthuung, daß die Alte und der<lb/>Junge in Nichts von ihren Gewohnheiten ab-<lb/>wichen und den morgenden Strafact nicht ſo ernſt<lb/>aufzufaſſen ſchienen. Jungfer Sabina's Geſicht<lb/>glättete ſich mehr und mehr, und der Eierkuchen<lb/>war Samſtag Abends tadellos, der Tag der Ver-<lb/>geltung ſollte ja endlich heraufdämmern! — Ja<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0335" n="321" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=335"/>
+            </p>
+            <p> <lb/>er dämmerte herauf, und Jungfer Sabina ſchlief<lb/>ſanfter denn ſeit lange den Schlaf der Gerechten<lb/>— da donnerte und polterte es gegen die ver-<lb/>riegelte Hausthür, der Haushund bellte wüthend,<lb/>und über allem Lärm trompetete die durchdringende<lb/>Stimme der Poſtillons-Drüke: „Mein Kind, mein<lb/>Unglückskind iſt fort! Jungfer Sabina hat meinem<lb/>Jungen ein Leids angethan!“<lb/>
+            </p>
+            <p> <lb/>Des Paſtors Zipfelmütze, ſo wie des Kaplans<lb/>verwirrte Haare wurden an verſchiedenen Fenſtern<lb/>ſichtbar, die beiden Würdigen ſtrebten vergebens,<lb/>ſich auch <hi rendition="#g">vernehmbar</hi> zu machen. Der Hund<lb/>erſtickte beinahe vor lauter Gebell und Ingrimm,<lb/>und Drüke kreiſchte, als wollte ſie die Mauern<lb/>des Paſtorats niederreden. Endlich krachte das<lb/>Schloß der Thür, der Hund erſchien mit geſträubten<lb/>Haaren und glühenden Augen, dann wurde in<lb/>dunkelbraunen Nachtgewändern Jungfer Sabina<lb/>ſichtbar, worauf das Schreien und Bellen ſo<lb/>greulich anſchwoll, daß ſich die Dorfbewohner in<lb/>ihren Betten bekreuzten und die Vögel, welche im<lb/>Weinſpalier und den Apfelbäumen geſchlafen hatten,<lb/>entſetzt von dannen flohen.<lb/>
+            </p>
+            <p> <lb/>Von dem Sabbatsfrieden <hi rendition="#g">dieſes</hi> Sonntags<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0336" n="322" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=336"/>
+            </p>
+            <p> <lb/>iſt nicht viel zu rühmen; Jungfer Sabina bekam<lb/>ihre Magenkrämpfe, und Drüke wanderte, einen<lb/>großen Stock in der Hand, einen Gensdarmen zur<lb/>Seite, der holländiſchen Grenze zu, ihren Enkel<lb/>wieder zu ſuchen, die Slowaken hatten ihren Weg<lb/>hierher genommen und vermuthlich Tobias mit<lb/>ihnen. An der Grenze kehrte der Haltefeſt um, und<lb/>nach zwei Tagen kam auch Drüke <hi rendition="#g">ohne</hi> ihr Un-<lb/>glückskind zurück.<lb/>
+            </p>
+            <p> <lb/>Wohl ſelten ſind in einem anſpruchsloſen Kirch-<lb/>dorfe und in einer Spiekerfamilie ſo viele auf-<lb/>regende Ereigniſſe vorgekommen, als in Hüſingen<lb/>und bei den Poſtillonsleuten. Kaum hatte man<lb/>die Flucht des Unglückskindes ein wenig vergeſſen<lb/>und begann ſich der herrſchenden Dürre zuzuwen-<lb/>den, mit gelegentlicher Abſchweifung auf die<lb/>Schweinebräune, da — entfloh nicht etwa wieder<lb/>Jemand, nein, es kam im Gegentheil der vor mehr<lb/>denn zehn Jahren entflohene Barbiergehülfe Spahn<lb/>wieder! Und <hi rendition="#g">wie</hi> kam er? Gleich einem großen<lb/>Herrn mit der Poſt, bekleidet mit einem tadel-<lb/>loſen Tuchrock und einem dito Ueberzieher, begleitet<lb/>von einem Koffer, deſſen Gewicht auf dreißig bis<lb/>vierzig Pfund angeſchlagen wurde. Ganz Hüſin-<lb/>gen ſtaunte. Spahn aber redete mit Niemandem,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0337" n="323" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=337"/>
+            </p>
+            <p> <lb/>ſondern ging ſofort dem Sträßchen zu, wo Drüke<lb/>wohnte. Als es ſo todtenſtill im Spieker war,<lb/>mußte er denken, Alles ſei ausgegangen oder ge-<lb/>ſtorben; er blickte erſt durch's Fenſter hinein und<lb/>öffnete dann die Thür.<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#g">Still</hi> war es im Spieker, Drüke pfiff und<lb/>ſang nicht mehr ſeit das Unglückskind fort war;<lb/>ſie ſaß ſtundenlang träumend am Feuer und<lb/>ließ die Welt ihren Gang gehen. Sie war die<lb/>Einzige in Hüſingen, welche ſich nicht wunderte,<lb/>daß ihr Schwiegerſohn daherkam, um die Kläre<lb/>zu holen und ihr ein gutes Leben zu bereiten.<lb/>Spahn hatte ſeit Kurzem das rentable Geſchäft<lb/>ſeines Vater geerbt, welcher nichts von des Sohnes<lb/>Heirath mit einem armen Dorfmädchen wiſſen<lb/>wollte, und jetzt ſollte Kläre es gut haben; aber<lb/>wo war ſie denn?<lb/>
+            </p>
+            <p> <lb/>„Sie dient als Haushälterin beim Einnehmer<lb/>Backer — geh' zu ihr, ſie wird Dir Alles ſagen,<lb/>laß Mutter Drüke allein.“<lb/>
+            </p>
+            <p> <lb/>„Habt Ihr mir's verziehen, daß ich davon ging,<lb/>Mutter?“ fragte Spahn an der Thür.<lb/>
+            </p>
+            <p> <lb/>„Ich habe nichts zu verzeihen — laß mich<lb/>allein!“<lb/>
+            </p>
+            <p> <lb/>Er dachte, ſie ſei kindiſch geworden, und ſtaunte,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0338" n="324" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=338"/>
+            </p>
+            <p> <lb/>wie ihn <hi rendition="#g">einſt</hi> ihr lärmendes Gebahren und <hi rendition="#g">jetzt</hi>
+               <lb/>ihre Abgeſchloſſenheit hinaustreiben konnte.<lb/>
+            </p>
+            <p> <lb/>Kläre, welche jetzt eine geachtete Bürgersfrau<lb/>und Beſitzerin eines guten Barbier- und Bürſten-<lb/>geſchäfts werden ſollte, führte ſchon ſeit Jahren<lb/>Herrn Backer's Haushalt. Backer's ſemmelblonde<lb/>Haare waren in den letzten zehn Jahren ſehr dünn<lb/>geworden, und ſein Haus und ſeine Blumen machten<lb/>ihm ſchon längſt keine Freude mehr, ſeit die Sonne,<lb/>welche zwei Jahre über ihm und ſeinem Glück<lb/>geleuchtet hatte, für immer untergegangen war.<lb/>Er trank noch immer ſeinen Morgenbittern bei<lb/>Mamſell Holter, er tanzte noch immer mit ihr<lb/>die Tempèten und Ecoſſaiſen, er ging regelmäßig<lb/>zu Club und Vogelſchießen, aber es war doch<lb/>eigentlich nichts von ihm dabei als ſein Körper,<lb/>und nichts tanzte als die Füße! Es lag zwiſchen<lb/>jenem Vogelſchießen, wo er Mademoiſelle Zoë<lb/>Piccard in das Hüſinger Honoratiorenzelt ein-<lb/>führte, und allen jetzigen Feſten ſo viel Leid,<lb/>daß Herr Backer es gar nicht zu Ende denken<lb/>konnte.<lb/>
+            </p>
+            <p> <lb/>Zoë hatte an jenem Sommertage ein nagel-<lb/>neues weißes Mullkleid getragen und war unter<lb/>dem Schutze der Hüſingenſchen Schuljungfer auf-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0339" n="325" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=339"/>
+            </p>
+            <p> <lb/>getreten. Herr Backer hatte ihr den Arm geboten<lb/>und dann auf ſeinem Rockärmel eine Hand in<lb/>einem wunderkleinen, ganz neuen, canariengelben<lb/>Handſchuh erblickt; von dem Handſchuh ſchaute er<lb/>auf in die großen, kindlichen Augen, heute waren<lb/>ſie nicht mehr ſo ſchüchtern als früher, und Made-<lb/>moiſelle rief fröhlich: „Monſieur Backer, ich 'aben<lb/>ſehr viel Glück gehabt, ich ſein luſtick wie kleiner Kind,<lb/>o, wenn mein honnet Eltern könnten ſehn mir!“<lb/>— Einſtweilen übernahm es Herr Backer, ſie<lb/>recht gründlich anzuſchauen.<lb/>
+            </p>
+            <p> <lb/>Mamſell Holter wechſelte trotz ihres unbeſieg-<lb/>baren Vorurtheils gegen die Männerwelt die<lb/>Farbe, als Backer mit Zoë im Honoratiorenzelt<lb/>erſchien, und blieb den ganzen Abend wortkarg,<lb/>ſelbſt während des Tanzes. Mitten in einem Schot-<lb/>tiſchen wurde der freudeſtrahlende Backer aber auch<lb/>bleich und trübe, ſeine kleine Tänzerin hatte ihm<lb/>nämlich mitgetheilt: jetzt, wo es ihr zum erſten<lb/>Mal in Deutſchland gefiele, ſei ſie im Begriff,<lb/>daſſelbe zu verlaſſen. Sie habe ihre Stelle zu Micha-<lb/>elis gekündigt, um in die Schweiz zu einer alten<lb/>Tante zu gehen, welche, durch einen Lotteriegewinn<lb/>zu einem hübſchen Vermögen gekommen, ihre Nichte<lb/>Zoë Piccard adoptiren wolle.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0340" n="326" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=340"/>
+            </p>
+            <p> <lb/>Herr Backer forſchte, ob Zoë unter <hi rendition="#g">keiner</hi>
+               <lb/>Bedingung in Deutſchland bleiben werde, und<lb/>Zoë ward ſehr roth und konnte ſich keine ſo<lb/>zwingende Veranlaſſung denken; worauf der Steuer-<lb/>einnehmer die Ausſicht auf eine Heirath nannte.<lb/>Die Kleine entgegnete einfach: „<hi rendition="#aq">Impossible, Mon-</hi>
+               <lb/>
+               <hi rendition="#aq">sieur</hi>, ich ſein arm' Blut!“<lb/>
+            </p>
+            <p> <lb/>Jetzt ließ ſich Herrn Backer's Edelſinn nicht<lb/>länger bändigen, er warf ihr in der Tempète zärt-<lb/>liche Blicke zu, drückte heftig bei allen Begegnun-<lb/>gen ihre Fingerchen und trug ihr vor dem Hops-<lb/>walzer in aller Form ſeine Hand an. Am folgen-<lb/>den Sonntag führte Herr Backer Mademoiſelle<lb/>Piccard an ſeinem Arm zur Kirche, in ſeiner<lb/>Weſtentaſche pickte die Uhr des verſtorbenen Mon-<lb/>ſieur Piccard als Liebesgabe ſeiner Verlobten, und<lb/>unter der Uhr klopfte ein glückſeliges Herz. Als<lb/>die Hüſinger Honoratioren aus dem Gottesdienſt<lb/>heimkehrten, fand Jeder derſelben auf ſeinem Tiſch<lb/>eine gedruckte Karte, welche anzeigte:<lb/>
+            </p>
+            <p> <lb/>Zoë Piccard,<lb/>Heinrich Backer, Steuer-Einnehmer,<lb/>Verlobte.<lb/>La Suiſſe. Hüſingen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0341" n="327" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=341"/>
+            </p>
+            <p> <lb/>Die Ehe des Paares war, trotz aller dagegen<lb/>ſprechenden Prophezeiungen, eine unendlich glück-<lb/>liche, und wurde das noch in erhöhtem Grade, als<lb/>dem Gatten ein Töchterchen geſchenkt war, bei wel-<lb/>chem die Tante in der Schweiz Pathenſtelle an-<lb/>nahm und dem Täufling den Namen Laurence gab.<lb/>Zoë war eine kleine unermüdete Hausfrau geweſen<lb/>und hatte ſpielend ausgeführt, was die hüſinger<lb/>Damen mit Aufgebot alles Ernſtes und aller wuch-<lb/>tigen Kräfte in's Werk ſetzten; jedoch nach der Geburt<lb/>des Kindes waren die Füße, die ſo gern tanzten<lb/>und hüpften, gar müde geworden und ein langan-<lb/>dauernder Huſten warf das zarte Weſen ganz dar-<lb/>nieder. Backer hatte ſeine Frau ſtets als etwas<lb/>ſo Außergewöhnliches und Ueberirdiſches betrachtet,<lb/>daß ihn die Furcht ſie zu verlieren, eigentlich von<lb/>vornherein beherrſchte; er erſchöpfte Alles, was ſich<lb/>für die Kranke thun ließ, und brachte endlich Frau<lb/>und Kind zur Tante in die Schweiz. — Von dort<lb/>kam er allein zurück, Zoë war begraben, die reich<lb/>gewordene Tante hatte die kleine Laurence zur<lb/>Pflege und Erziehung übernommen. Schon zu<lb/>Lebzeiten der verſtorbenen Frau Backer war Kläre<lb/>in’s Haus gekommen und Zoë hatte ſie ungemein<lb/>gern gehabt; ſo wirthſchaftete dieſe denn in Gottes<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0342" n="328" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=342"/>
+            </p>
+            <p> <lb/>Namen weiter und pflegte ihren verwitweten Herrn,<lb/>wie ſie konnte.<lb/>
+            </p>
+            <p> <lb/>Wäre Spahn einige Wochen eher gekommen,<lb/>um Kläre und das Kind zu holen, ſie hätte noch<lb/>eine glückliche Frau werden können; aber der Ge-<lb/>danke an das Unglückskind drückte jede frohe Re-<lb/>gung nieder, und ſie konnte nur mit Schmerz<lb/>nehmen, was ſie nicht auch ihm geben konnte.<lb/>Damals, als er verſchwand, da wußte ſie, er war<lb/>
+               <hi rendition="#g">daheim</hi> wie in der <hi rendition="#g">Fremde</hi> ein Bettler; aber<lb/>jetzt, wo ihn ein beſſeres Loos erwartete, jetzt<lb/>zerriß es ihr Herz, ihn bettelnd zu wiſſen. —<lb/>Nun Kläre wieder zu Ehren gekommen war, über-<lb/>ſchritt ſie zum erſten Mal ſeit ihrer Heirath wieder<lb/>die Schwelle der Mamſell Holter. Dieſe war<lb/>ungewöhnlich gnädig und ſagte: „Ein gut Theil<lb/>von Deiner Natur habe ich Dir doch ausgetrieben;<lb/>das mit dem Jungen iſt nun Deine und Deines<lb/>Mannes gerechte Strafe, Ihr entlieft beide Eurer<lb/>Pflicht, und wie die Alten ſungen, ſo zwitſchern<lb/>die Jungen!“<lb/>
+            </p>
+            <p> <lb/>„Ach, und mein armer Herr!“ ſchluchzte Kläre.<lb/>„Er iſt gut wie ein Schaf und nun wieder ſo<lb/>allein!“<lb/>
+            </p>
+            <p> <lb/>Mamſell räusperte ſich: „Wenn die Stunde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0343" n="329" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=343"/>
+            </p>
+            <p> <lb/>kommt, werde ich ihn nicht verlaſſen, obwohl —<lb/>obwohl er eine Mannsperſon iſt! — Weine nicht,<lb/>Deine Alte in Hüſingen ſoll auch nicht verkommen,<lb/>ſo lange ich lebe!“<lb/>
+            </p>
+            <p> <lb/>Als Kläre das Haus des Steuer-Einnehmers<lb/>verlaſſen hatte, irrte dieſer hülflos durch alle<lb/>Räume ſeines grabesſtillen Hauſes und murmelte:<lb/>„Nun iſt das Letzte fort von meinem einſtigen<lb/>Glücke; ich kann nicht ſo allein ſein, vielleicht thut<lb/>es die Mamſell jetzt!“ Er zog ſeine Uhr heraus,<lb/>um zu ſehen, ob es eine paſſende Stunde zur Wer-<lb/>bung ſei, es war die große Uhr des verſtorbenen<lb/>Piccard. Herr Backer ſtutzte. „Nein, nein!“ rief<lb/>er heftig — „die Uhr geht treulich weiter, ob<lb/>Einer nach dem Andern ſtarb und ging, ich will<lb/>es wie <hi rendition="#g">ſie</hi> machen und ſtill ausharren, bis — bis<lb/>ich ſterbe, oder Gott mir mein Kind wieder giebt,<lb/>ſchön, lieb und gut, gleich ihrer Mutter!“<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>III.<lb/>Zweimal zehn Jahre.<lb/>
+            </p>
+            <p> <lb/>„Sie hat ausgeraſt!“ ſagten die Leute von Hü-<lb/>ſingen, als Drüke ein ſteinaltes Mütterchen von<lb/>achtzig Jahren war. Sie hatte ſich, ſeit ſie den<lb/>Poſten als Kegeljunge aufgegeben, das Tabak-<lb/>rauchen angewöhnt, und die Männer behaupteten,<lb/>der Tabak hätte ſie ſtiller und duldſamer gemacht,<lb/>indeß die Frauen verſicherten, ſie traure noch im-<lb/>mer über den entlaufenen Großſohn, der, wenn<lb/>er noch lebte, jetzt ſeine zwanzig Jahre auf dem<lb/>Rücken haben mußte.<lb/>
+            </p>
+            <p> <lb/>Wäre Drüke immer eine ſanfte Frau geweſen,<lb/>
+               <hi rendition="#g">wer</hi> würde ihr gedankt haben, daß ſie mit achtzig<lb/>Jahren aufhörte den Leuten Bosheiten zu ſagen?<lb/>Wer ſich einmal zu der Würde eines „Dollbregen“<lb/>aufgeſchwungen hat, den reſpectirt die Welt und<lb/>liebt ihn beinahe, wenn er ſeinen beſten Freunden<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0345" n="331" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=345"/>
+            </p>
+            <p> <lb/>nicht das Fell über die Ohren reißt. Wenn Hü-<lb/>ſingen etwas mehr Intelligenz beſeſſen hätte, ſo<lb/>würde es ſich zum Curort aufgeſchwungen haben;<lb/>in der Pfarre waren täglich die lebendigen Be-<lb/>weiſe zu ſehen, daß die dortige Luft einem hohen<lb/>Alter ungemein förderſam ſein mußte. Dort, um<lb/>das Feuer gereiht, ſaßen drei altehrwürdige Mär-<lb/>chengeſtalten: der Paſtor, der ſehr klein geworden<lb/>war und ſehr große, ſtark umwickelte Füße bekom-<lb/>men hatte, die auf einem Schemel ſtanden; Jungfer<lb/>Sabina, die ſehr lang und ſehr dünn geworden<lb/>war und von der Zeit ſehr ſorgſam ſkeletirt wurde,<lb/>endlich Drüke mit kurzen zotteligen Haaren, der<lb/>Tabakspfeife im Munde und einem verſchmitzten<lb/>Ausdruck in den Augen. Sie ſteckte in einer wol-<lb/>lenen Jacke des ſeligen Poſtillons und pflegte ſich<lb/>ſelbſt: „Ich alter Burſche“ zu nennen. Seit jener<lb/>Schreckensnacht im Pfarrhauſe, die der Flucht des<lb/>Unglückskindes folgte, hatten die beiden tapferen<lb/>Kämpinnen, Drüke und Sabina, eine unbegrenzte<lb/>Hochachtung für einander gefaßt und ſich als<lb/>ebenbürtig erkannt. Drüke wurde noch ſorgloſer,<lb/>da ſie von der Pfarre aus beköſtigt wurde, und<lb/>ſagte wie jener kaiſerliche Hofnarr: „Ich darf<lb/>nicht erſt beten, ich bekomme das Eſſen vom<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0346" n="332" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=346"/>
+            </p>
+            <p> <lb/>Schloſſe!“ Trotz dieſer Unterſtützung konnte die<lb/>Witwe doch alsbald die Miethe für ihren Spieker<lb/>und ihr Kartoffelfeld nicht mehr bezahlen; ſie ſtand<lb/>am Rande eines Bankerottes von 7, ſchreibe ſieben<lb/>Thalern, aus welchem nichts zu retten war, als<lb/>ihre Perſon und eine alte Vogelſcheuchenklapper<lb/>ihres Enkels. Da befriedigte Mamſell Holter die<lb/>erbarmungsloſen Gläubiger und Drüke zog in die<lb/>Pfarre, um das Greiſenkleeblatt vollzählig zu<lb/>machen.<lb/>
+            </p>
+            <p> <lb/>„Heute ſind es zehn Jahre!“ ſagte Drüke eines<lb/>Tages durch ihre Rauchwolken hindurch.<lb/>
+            </p>
+            <p> <lb/>Der Pfarrer wandte ſeine trüben Augen auf<lb/>ſie und tröſtete wohlwollend: „Wir wollen die<lb/>Hoffnung nicht ſinken laſſen, Gertrud; Gott kann<lb/>ihn zurückführen zu unſerer Freude und unſerem<lb/>Troſt. Ich bete täglich, die Heiligen mögen ſeine<lb/>Seele beſchützen!“<lb/>
+            </p>
+            <p> <lb/>„Herr Ohm!“ rief Drüke, „ich habe Zeit mei-<lb/>nes Lebens noch nie eine Hoffnung ſinken laſſen,<lb/>ging's nicht auf Schuhſohlen, ſo ging's auf Socken;<lb/>aber von dem Jungen weiß ich's ſo gewiß, als<lb/>jetzt der Kaffee in’s Feuer kocht, daß er wieder-<lb/>kommt, und wie ein <hi rendition="#g">Junker</hi> wiederkommt!“<lb/>
+            </p>
+            <p> <lb/>„Gertrud, Gertrud, Hoffart ſteht ſchlecht zu<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0347" n="333" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=347"/>
+            </p>
+            <p> <lb/>grauen Haaren — Sabina, der Kaffee kocht über!<lb/>— wünſcht nicht, daß er wie ein Junker komme,<lb/>ſondern mit Gottesfurcht ausgerüſtet.“<lb/>
+            </p>
+            <p> <lb/>„Was Einer wünſchen ſoll, kann man ihm<lb/>nicht vorſchreiben, Paſtor, und ich halte ſo viel<lb/>von der chriſtlichen Demuth als die Kuh von der<lb/>Muskatnuß! Wer ſonſt kein Brod hat, muß bei<lb/>der Demuth zu Tode hungern; aber alte Raben<lb/>wittern, wo das meiſte Vieh fällt. Ich wußte, die<lb/>Kläre würde mit dem Spahn zurecht kommen, und<lb/>da ſitzt ſie nun, hat fünf Kinder wie die Perdriſen<lb/>(Feldhühner) ſo munter und geht an den Hochzeiten<lb/>(Weihnachten, Oſtern und Pfingſten) in einem<lb/>ſeidenen Kleide zur Kirche! Hat ſie mir nicht neu-<lb/>lich eine goldene Piſtole geſchickt, die jeden Augen-<lb/>blick ſechstehalb Thaler werth iſt —? Aber die<lb/>hebe ich für das Unglückskind auf und ſage da-<lb/>bei: Goldenes Geld macht gute Freunde! Und<lb/>wenn er noch zehn Jahre wegbleibt, ich lebe, und<lb/>lebe bis er kommt!“<lb/>
+            </p>
+            <p> <lb/>„Wir werden ja ſehen!“ meinte die achtund-<lb/>ſiebzigjährige Sabina, die den Kaffee gerettet<lb/>hatte.<lb/>
+            </p>
+            <p> <lb/>„Ja, wir werden ſehen!“ wiederholte der Pfarrer,<lb/>der fünfundachtzig Jahre zählte.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0348" n="334" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=348"/>
+            </p>
+            <p> <lb/>Drüke klopfte ihre Pfeife aus, knöpfte ihre<lb/>Jacke zu und ſagte: „Ich werde heute mal zu<lb/>Mamſell Holter hinüber laufen; wenn es mir<lb/>dort zu ſpät wird, ſo bleibe ich die Nacht über da.<lb/>Guten Tag!“ Und die Achtzigjährige trat rüſtigen<lb/>Schrittes ihre zwei Stunden weite Wanderung an.<lb/>
+            </p>
+            <p> <lb/>Mamſell Holter war nie eine Schönheit ge-<lb/>weſen, dafür veränderte ſie ſich aber auch beinahe<lb/>gar nicht; ihr Haar war etwas grau melirt und<lb/>ihr Geſichtsausdruck etwas milder als vor zwanzig<lb/>Jahren, im Ganzen aber ſah ſie für eine Fünfzi-<lb/>gerin recht wohlerhalten aus. Sie war von Jahr<lb/>zu Jahr wohlhabender geworden, alſo eine immer<lb/>beſſere Partie. Jeder ihrer beeidigten Poſtſecre-<lb/>täre benahm ſich im Anfange muſterhaft, in der<lb/>Hoffnung, die Hand der Mamſell Poſthalterin zu<lb/>erlangen; ſobald er aber mit Würde abgewieſen<lb/>ward, ſchlug der Beeidigte in's Flegelhafte über<lb/>und trieb das ſo lange, bis ihm gekündigt wurde.<lb/>Als Kläre fort war, kam freilich nicht <hi rendition="#g">die Stunde</hi>,<lb/>welche die junge Frau dem Verſprechen der Mam-<lb/>ſell entdeutet hatte, aber doch eine andere. Mam-<lb/>ſell fragte den Einnehmer in ihrer kurzen Weiſe:<lb/>ob er glaube, ſie koche gut? Der Einnehmer war<lb/>bereit, ſeinen guten Glauben zu beſchwören.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0349" n="335" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=349"/>
+            </p>
+            <p> <lb/>„Nun denn,“ ſagte Mamſell, „ſo geben Sie<lb/>ſich bei mir in die Koſt, es ſoll gut und billig<lb/>ſein. Ich bin es müde, immer den Grasaffen, mei-<lb/>nen Schlingeln von Poſtſecretären, gegenüber zu<lb/>ſitzen!“<lb/>
+            </p>
+            <p> <lb/>So kam zu dem gewohnten Bittern noch das<lb/>Mittagbrod in der Poſthalterei, an welchem ſich<lb/>auch häufig Durchreiſende betheiligten. Herr<lb/>Backer fand ſeine Lebensweiſe ſehr verbeſſert und<lb/>freute ſich, mit ſeiner Uhr ungebunden weiter zu<lb/>gehen, ohne etwas an ſeiner Pflege und Unter-<lb/>haltung zu vermiſſen.<lb/>
+            </p>
+            <p> <lb/>Vielleicht wäre das noch jahrelang ſo fort-<lb/>gegangen, wenn nicht Drüke auf den Gedanken<lb/>gekommen wäre, die Mamſell zu beſuchen. Dieſe<lb/>Beſuche ſchienen, gleich Sturmvögeln, immer eine<lb/>Umwälzung in dem gleichmäßigen Daſein der<lb/>Mamſell und des Steuereinnehmers anzuzeigen.<lb/>Kaum war Drüke diesmal im Poſthauſe angelangt<lb/>und hatte ſich neben dem Feuer niedergekauert, ſo<lb/>kam auch die Poſt an, mit ihr ein Brief, den<lb/>Mamſell, die den Briefbeutel gewöhnlich ſelbſt nach-<lb/>ſah, hin- und herwandte und ſchließlich der Haus-<lb/>magd einhändigte, ihn ſofort zum Herrn Einnehmer<lb/>zu tragen. Nicht lange, ſo kam Herr Backer ſelbſt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0350" n="336" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=350"/>
+            </p>
+            <p> <lb/>dahergelaufen, roth vor Aufregung, den offenen<lb/>Brief in der Hand: „Liebe Mamſell,“ rief er, „wiſſen<lb/>Sie, in dieſem Briefe ſteht, die alte Tante meiner<lb/>Seligen iſt geſtorben, das Kind beerbt ſie und ſoll<lb/>nun hierher zu uns kommen! Hören Sie, Mamſell,<lb/>das giebt eine tüchtige Umwälzung!“<lb/>
+            </p>
+            <p> <lb/>„In zehn Minuten geht die Poſt ab,“ erwi-<lb/>derte Mamſell, „dann wollen wir überlegen, was<lb/>dabei zu thun iſt!“<lb/>
+            </p>
+            <p> <lb/>Backer ſank auf einen Stuhl, ganz überwältigt<lb/>von — er wußte nicht war es Freude oder Schreck<lb/>— kurz, von Ueberraſchung, als neben ihm eine<lb/>knarrende, harte Stimme ſagte: „Man weiß nicht,<lb/>wie der Haſe läuft! ſagte der Bauer und legte die<lb/>Schlinge auf's Dach!“<lb/>
+            </p>
+            <p> <lb/>„Wie, alter Poſtgaul?“ fragte Backer.<lb/>
+            </p>
+            <p> <lb/>„Ich meine nur, könnte ſein: der Haſe liefe<lb/>endlich doch auf's Dach und finge ſich!“<lb/>
+            </p>
+            <p> <lb/>„Denkt nur, Drüke, mein Kind kommt; ſie<lb/>muß hübſch gewachſen ſein, die Laurence!“<lb/>
+            </p>
+            <p> <lb/>„Die Jungen wachſen in die Wolken und die<lb/>Alten in die Erde!“ murmelte Drüke und legte<lb/>ſich eine Kohle auf die Pfeife. Dann ſchwiegen<lb/>Beide.<lb/>
+            </p>
+            <p> <lb/>Backer's Geſicht zuckte vor Ungeduld, bis end-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0351" n="337" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=351"/>
+            </p>
+            <p> <lb/>lich der Poſtknecht ſeinem Horne eine ſinnloſe, ohr-<lb/>zerreißende Fanfare entlockte, der einzige Poſt-<lb/>reiſende einſtieg und der Poſtkaſten zugeſchloſſen<lb/>und eingeſchoben wurde. Der wichtige Act war<lb/>beendet und die Poſtkutſche rumpelte von dannen.<lb/>Mamſell ſtrich ſich die Schürze glatt, warf einen<lb/>Blick auf die große Wanduhr und ſetzte ſich an<lb/>den grünen Wachstuchtiſch.<lb/>
+            </p>
+            <p> <lb/>„Leſen Sie, Mamſell, leſen Sie! Ich muß<lb/>jetzt eine ganz andere Einrichtung machen, aber<lb/>wie?“<lb/>
+            </p>
+            <p> <lb/>Mamſell erwiderte nichts, bis ſie den Brief<lb/>geleſen; dann ſprach ſie: „Das Kind findet in<lb/>drei Monaten eine Reiſegeſellſchaft nach Bremen;<lb/>in drei Monaten kann viel gethan werden und<lb/>muß auch Vieles geſchehen!“<lb/>
+            </p>
+            <p> <lb/>Hier fuhr ſich Backer mit dem Schnupftuch<lb/>über die Stirn, ſein Antlitz war eitel Rathloſigkeit.<lb/>
+            </p>
+            <p> <lb/>„Die Kleine,“ nahm Mamſell wieder das Wort,<lb/>„iſt in guten Verhältniſſen geweſen und beſitzt<lb/>ein hübſches Vermögen — Ihr vernachläſſigtes<lb/>Haus und Ihr Kartoffelgarten würden Ihrer Erbin<lb/>wenig gefallen!“<lb/>
+            </p>
+            <p> <lb/>„Großer Gott, ſoll ich ihr etwa ein neues<lb/>Haus bauen und einen Park anlegen?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0352" n="338" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=352"/>
+            </p>
+            <p> <lb/>„Das nicht, aber das ganze Haus muß ange-<lb/>ſtrichen und tapezirt werden, und in dem Garten<lb/>müſſen wieder Blumen wachſen und Lauben ſtehen,<lb/>wie ehedem!“<lb/>
+            </p>
+            <p> <lb/>„Und ich — ich ſoll das in drei Monaten be-<lb/>ſorgen? Hören Sie, ſehen Sie — das iſt un-<lb/>möglich!“<lb/>
+            </p>
+            <p> <lb/>„Das Kind wird nicht ſelbſt kochen und wirth-<lb/>ſchaften wollen und können,“ fuhr Mamſell er-<lb/>barmungslos fort — „Sie müſſen eine Köchin<lb/>miethen!“<lb/>
+            </p>
+            <p> <lb/>„Haus geſtrichen und tapezirt, Garten mit<lb/>Blumenbeeten — Köchin — iſt noch mehr nöthig,<lb/>Mamſell?“<lb/>
+            </p>
+            <p> <lb/>„Ja, in das renovirte Haus gehören neue<lb/>Möbel, die Ihrigen ſind nun über zwanzig Jahre<lb/>alt, und dann muß das Kind eine leitende<lb/>Hand haben, Sie müſſen ſich wieder eine Frau<lb/>nehmen!“<lb/>
+            </p>
+            <p> <lb/>Herr Backer rang nach Luft. „Möbeln und<lb/>eine Frau!“ rief er mit wildem Lachen, „Möbeln<lb/>und eine Frau — weiter nichts in einem einzigen<lb/>Quartal, Möbeln und —“<lb/>
+            </p>
+            <p> <lb/>„Gut, dann nehmen Sie erſt die Frau, die<lb/>wird ſchon für das Uebrige ſorgen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0353" n="339" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=353"/>
+            </p>
+            <p> <lb/>Backer ſah Mamſell mit weit aufgeriſſenen<lb/>Augen an.<lb/>
+            </p>
+            <p> <lb/>„Sehen Sie,“ brachte er ſtockend vor, „ich<lb/>wüßte nur <hi rendition="#g">eine</hi>, die das könnte; das ſind <hi rendition="#g">Sie</hi>,<lb/>Mamſell Holter!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ich weiß auch keine andere!“ entgegnete<lb/>Mamſell entſchieden.<lb/>
+            </p>
+            <p> <lb/>„Nun denn“ — athmete der Einnehmer auf,<lb/>wie von Centnerlaſt befreit, „dann iſt ja Alles in<lb/>Ordnung!“<lb/>***<lb/>„Bis ſo weit, ja! Aber wir müſſen erſt einen<lb/>feſten Plan machen. Die Kleine ſoll mich nicht<lb/>mehr in der Poſthalterei finden, ich habe eben<lb/>ein Angebot auf dieſelbe und vermiethe dazu ein<lb/>gut Theil meiner Ländereien. Nach meinem Tode<lb/>fällt die Hälfte meines Eigenthums und dieſes mein<lb/>Vaterhaus einem Verwandten väterlicher Seits zu;<lb/>die andere Hälfte bekommt Ihre Kleine von dem Tage<lb/>ab, wo ſie mich Mutter nennt, ich will keine<lb/>
+               <hi rendition="#g">Stief</hi>mutter für ſie ſein und ihre Natur mit<lb/>Lindigkeit behandeln. Wenn Ihr Haus in Wichs<lb/>iſt, wird Hochzeit gemacht, das ganze Dorf ſoll<lb/>tractirt werden, weil dies nicht ſo eine zuſammen-<lb/>geblaſene Ehe iſt, wie die meiſten, ſondern wir<lb/>uns dreimal zehn Jahre kannten und prüften!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0354" n="340" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=354"/>
+            </p>
+            <p> <lb/>Mein Wille iſt gut, das Andere muß Gott thun!“<lb/>Mamſell fuhr ſich mit der Schürze über die Augen,<lb/>aber nur flüchtig, dann ſtand ſie auf und ſagte:<lb/>„Es iſt in drei Minuten Mittag!“<lb/>
+            </p>
+            <p> <lb/>„Hören, Sie,“ rief Backer ganz überwältigt,<lb/>„ich bin ein <hi rendition="#g">glücklicher</hi> Mann!“<lb/>
+            </p>
+            <p> <lb/>„Na, <hi rendition="#g">das</hi> iſt kein Glück,“ entgegnete Mamſell,<lb/>„das iſt nur vernünftige Ueberlegung. Was die<lb/>Leute in ihrer dummen Natur Glück nennen,<lb/>das fliegt Einem nicht ſo an wie die Stechfliegen;<lb/>wer glücklich ſein will, ſoll vorher ſeine Natur aus-<lb/>treiben und dann gehen, wie Gott ihm die Wege<lb/>zeigt!“ Mamſell ſah mit wahrem Feldherrnblick<lb/>umher und berechnete ihre inneren Siege. Jetzt<lb/>jetzt war es entſchieden; ſie durfte Backer wieder<lb/>lieben, weil er ſie nicht entbehren konnte und auch<lb/>eben ein Angebot auf die Poſthalterei gemacht wurde.<lb/>
+            </p>
+            <p> <lb/>Die Poſtillons-Drüke hatte während der<lb/>Verhandlung unermüdlich mit dem Kopfe genickt;<lb/>als Mamſell von Gottes Wegen ſprach, ſchnitt ſie<lb/>ein ſaures Geſicht und ſprach vor ſich hin: „Man<lb/>kann dem lieben Gott nicht trauen! ſagte der<lb/>Bauer und heuete ſein Gras am Sonntag!“<lb/>
+            </p>
+            <p> <lb/>„Wie meint Ihr, Mutter Drüke?“ fragte<lb/>Mamſell.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0355" n="341" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=355"/>
+            </p>
+            <p> <lb/>„Nein,“ knurrte die Alte, „ich gratulire Euch<lb/>nicht; ich habe das vor einer Stiege Jahren gethan<lb/>und wurde ſchlecht aufgenommen. Was kommen<lb/>ſoll, das kommt! ſagte der Schneider, als er ſich<lb/>einen Rauſch antrank; Euer Verſpruch iſt gekommen,<lb/>mein Unglückskind wird auch wieder kommen.“<lb/>
+            </p>
+            <p> <lb/>Herrn Backer's Bräutigamsſtand zeichnete ſich<lb/>durch keinerlei ſentimentale Begegniſſe aus; ſein<lb/>ganzes Haus, ja die ganze Straße roch nach Oel-<lb/>farbe, Mamſell roch nach Oelfarbe und er ſelbſt<lb/>roch nach Oelfarbe, es war, als hätte es Oelfarbe<lb/>geregnet. Der Einnehmer durfte nicht mehr durch<lb/>die Vorderthür in ſein Haus gehen und keins<lb/>der Zimmer betreten, welche fertig waren. Eines<lb/>Tages bekam er Ordre, mit Mamſell nach Mün-<lb/>ſter zu fahren, und dort wurde er von einem Ma-<lb/>gazin in das andere geſchleppt; in einer jeden<lb/>dieſer Niederlagen wählte und handelte Mamſell,<lb/>als ob die Seligkeit von der Façon der Stühle<lb/>und dem Muſter der Gardinen abhänge. Backer<lb/>wurde immer müder und durſtiger, Mamſell im-<lb/>mer zufriedener. Backer trug ein langes Regiſter<lb/>in der Hand und mußte über jede erledigte Num-<lb/>mer ein Kreuz zeichnen und hinter dem Kreuze den<lb/>Preis eintragen. Wir müſſen leider geſtehen, daß<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0356" n="342" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=356"/>
+            </p>
+            <p> <lb/>der leichtſinnige Mann, nur um ſeinen Durſt zu<lb/>löſchen, auch einige Artikel kreuzigte, welche noch<lb/>nicht beſorgt waren. Somit ging das Paar, eine<lb/>Stunde vor Abgang des Zuges — ein anderer Zug<lb/>als der, welcher den armen Backer ſchon den ganzen<lb/>Tag gepeinigt hatte — zum Bahnhof. Backer be-<lb/>ſtellte ſich eine Flaſche „Rothſpohn,“ aber zwiſchen<lb/>Lipp' und Kelchesrand forderte Mamſell das Regiſter<lb/>— der Einnehmer wechſelte die Farbe, ſuchte lange<lb/>und fand endlich — da ſchnellte Mamſell empor.<lb/>
+            </p>
+            <p> <lb/>„Aber, Backer,“ rief ſie, „Sie haben ja das<lb/>Brautkleid und den Myrtenkranz ausgeſtrichen;<lb/>wir müſſen auf der Stelle einen Wagen nehmen<lb/>und verſuchen, das noch ſchnell zu beſorgen!“<lb/>
+            </p>
+            <p> <lb/>Geſagt, gethan; Backer erhielt keinen Tropfen<lb/>zu trinken und kam, mit vielen Paketen beladen,<lb/>nur noch mit knapper Noth in's Coupé, als der<lb/>Zug nach einer Stunde abging. Hungrig, durſtig<lb/>und müde eine lange Nachtreiſe anzutreten, gehörte<lb/>leider nicht zu den Dingen, die unſeres gemäch-<lb/>lichen Freundes Laune ſehr verbeſſerten. Mam-<lb/>ſell ſchien nichts von ſeiner Verſtimmung zu be-<lb/>merken, ſie war immer am bedachteſten, wo es am<lb/>meiſten zu thun und zu denken gab.<lb/>
+            </p>
+            <p> <lb/>Herrn Backer's Haus war als Lohn aller An-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0357" n="343" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=357"/>
+            </p>
+            <p> <lb/>ſtrengungen nach Ablauf der vorbeſtimmten drei<lb/>Monate ein wahres Dorfwunder von Sauberkeit<lb/>und Nettigkeit der Einrichtung; der Garten hatte<lb/>eine neue Mauer, neue Beete, Wege und einen<lb/>kleinen künſtlichen Berg erhalten, und Herrn Backer's<lb/>Hochzeit war mit Sang und Klang gefeiert wor-<lb/>den. Mamſell hatte ſein und ihr Schickſal wie<lb/>ein Stück Garn von der Spule gehaspelt und<lb/>ſchaute mit befriedigter Ordnungsliebe auf ihr<lb/>Werk. Nur in einem Punkte hatte ſich unſer<lb/>junges altes Ehepaar verrechnet, ſo verſtändig<lb/>daſſelbe vorgeſehen und vorgeſorgt zu haben glaubte.<lb/>Sie erwarteten, „unſer Kind“ ſei ein kleines<lb/>Schulmädchen; als aber Laurence wirklich ankam,<lb/>da war ſie eine ſtattliche Dame über Mittelgröße<lb/>mit vielen krauſen blonden Haaren, roſigen Wan-<lb/>gen und den großen Augen ihrer Mutter, aber<lb/>nicht ſcheu und ängſtlich wie Zoë's Augen, ſon-<lb/>dern keck und muthig. Sie war keine arme Bonne,<lb/>ſondern das verzogene Kind des Wohlſtandes.<lb/>Einen kurzen Augenblick zitterte Mamſell, oder<lb/>richtiger Frau Backer, beim Anblick ihrer Stief-<lb/>tochter: ſie fühlte, daß zwei tüchtige Frauennatu-<lb/>ren ſich hier begegneten; aber auch nur einen<lb/>Augenblick zitterte ſie, dann ſagte ſie ſich mit<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0358" n="344" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=358"/>
+            </p>
+            <p> <lb/>einem grenzenloſen, nie geahnten Stolze: „<hi rendition="#g">Ich</hi>
+               <lb/>
+               <hi rendition="#g">bin ihre Mutter</hi>!“ Alle durch ein langes<lb/>ernſtes Leben aufgeſpeicherte Zärtlichkeit thaute in<lb/>ihrem Herzen für dies Kind auf. Laurence war<lb/>ein gutmüthiges, ungebundenes Weſen, ihre Eltern<lb/>kamen ihr uralt vor, aber an die Eigenheiten der<lb/>verſtorbenen Großtante gewöhnt, fielen ihr die-<lb/>jenigen der Eltern nicht ſonderlich auf. Alles<lb/>ging trotz des Rechnungsfehlers ſo außerordentlich<lb/>gut, daß das Backer'ſche Ehepaar im Stillen weiter<lb/>rechnete und zwar auf eine recht gute Partie für<lb/>das Kind. Auf dem herannahenden Vogelſchießen<lb/>ſollte Laurence die Bekanntſchaft der deutſchen Ge-<lb/>ſelligkeit machen, und Herr Backer eröffnete ihr die<lb/>goldenſten Ausſichten auf ein Feſt, das einſt Ma-<lb/>demoiſelle Piccard entzückend gefunden hatte.<lb/>
+            </p>
+            <p> <lb/>Aus den Augen des jungen Mädchens leuch-<lb/>tete frohe Lebensluſt, als ſie hinter den Eltern<lb/>das bereits gefüllte Honoratiorenzelt betrat; ſie<lb/>verneigte ſich hierhin und dahin, aber ein Ausdruck<lb/>der Enttäuſchung lag auf den beweglichen Mienen,<lb/>als ſie die Verſammlung auch ihrerſeits gemuſtert<lb/>hatte. Die Familie Backer fand mit einiger Mühe<lb/>Stühle und Frau Backer begann Kaffee einzuſchenken.<lb/>
+            </p>
+            <p> <lb/>„Da ſind wir nun, mein Kind,“ ſprach der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0359" n="345" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=359"/>
+            </p>
+            <p> <lb/>Einnehmer vergnügt; „das wird aber mal ein<lb/>heiterer Tag heute!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Mon Dieu</hi>, Papa, ſind hier alle Leute alt?“<lb/>flüſterte Laurence.<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Alle alt</hi>?“ ſtaunte Backer, „Herr Peters iſt<lb/>eben dreißig, Fräulein Maus kaum Mitte der<lb/>Zwanziger und Aennchen Trampler erſt neunzehn<lb/>— ſieh dort, die im braunen Wollkleide mit dem<lb/>röthlichen Haare!“<lb/>
+            </p>
+            <p> <lb/>„Dieſe Leute ſcheinen alle ſehr traurig zu ſein!“<lb/>meinte wieder Laurence und ſtrich über die Falten<lb/>ihres widerſpenſtigen roſa Jaconnetkleides.<lb/>
+            </p>
+            <p> <lb/>„Traurig? keineswegs, aber man kann doch<lb/>nicht immer lachen und ſingen und ſpringen, wenn<lb/>man luſtig iſt — nachher kommen auch die jungen<lb/>Leute vom Schießen, da wirſt Du ſehen, wie ſich<lb/>der König eine Königin wählt; Deiner Mutter ge-<lb/>fiel das ſehr gut!“<lb/>
+            </p>
+            <p> <lb/>Die junge Dame ſeufzte und wurde blaſſer<lb/>und ſchweigſamer, je mehr durcheinander geredet<lb/>wurde. Sie hatte wohl auch ihre Eltern ſehr<lb/>ernſt und gleichmüthig gefunden, aber dieſen Um-<lb/>ſtand mit dem hohen Alter derſelben entſchuldigt;<lb/>plötzlich ſtand ſie der feierlichen norddeutſchen<lb/>Schwerfälligkeit wie vereinſamt gegenüber, ohne<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0360" n="346" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=360"/>
+            </p>
+            <p> <lb/>zu verſtehen, welch' ein Schatz von Biederkeit unter<lb/>dieſem Deckſtein geborgen iſt — ſie ängſtigte ſich<lb/>und ein Bewußtſein ſehnenden Heimwehs nach<lb/>ihren leichtfüßigen, beweglichen Geſpielinnen „da-<lb/>heim in der Schweiz“ kam über ſie. Herr Peters<lb/>verſäumte nicht, dem hübſchen und reichen Mäd-<lb/>chen ſeine Huldigungen darzubringen, er hatte ein<lb/>Eiſengeſchäft und war der Löwe des Ortes.<lb/>
+            </p>
+            <p> <lb/>„Hat man in der Schweiz auch Vogelſchießen?“<lb/>
+            </p>
+            <p> <lb/>„O gewiß,“ entgegnete Laurence in Erinnerung<lb/>aufleuchtend; „wenn Sie Franzöſiſch verſtehen,<lb/>werde ich Ihnen davon erzählen!“<lb/>
+            </p>
+            <p> <lb/>„Franzöſiſch — nein, das wird hier nicht ge-<lb/>fordert!“<lb/>
+            </p>
+            <p> <lb/>„Herr Peters,“ rief ein junger hereinſtürzen-<lb/>der Bierbrauer, „Ihr Gaſt hat eben den Königs-<lb/>ſchuß gethan!“<lb/>
+            </p>
+            <p> <lb/>„Himmelſacrament, <hi rendition="#g">jetzt</hi> ſchon den Königs-<lb/>ſchuß?“<lb/>
+            </p>
+            <p> <lb/>„Wer iſt denn Ihr Gaſt?“ fragten Alle zu-<lb/>gleich.<lb/>
+            </p>
+            <p> <lb/>„Er iſt Reiſender für eine nordamerikaniſche<lb/>Maſchinenfabrik, ein blutjunges Bürſchchen!“<lb/>
+            </p>
+            <p> <lb/>„Ausländer können hier nicht Schützenkönig<lb/>werden!“ brüllte der Thierarzt.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0361" n="347" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=361"/>
+            </p>
+            <p> <lb/>„Er iſt ein Deutſcher“ meinte Peters klein-<lb/>laut; „ſehen Sie, wenn man Pech hat, Fräulein<lb/>Backer, ich hoffte Sie zu <hi rendition="#g">meiner</hi> Königin zu<lb/>machen!“<lb/>
+            </p>
+            <p> <lb/>„Man hole ihn und frage ihn, woher er iſt?<lb/>Ausländer zählen nicht mit!“ überbrüllte der Thier-<lb/>arzt alles Geſchrei und Gerede.<lb/>
+            </p>
+            <p> <lb/>Laurence warf dem Thierarzt einen beinahe<lb/>drohenden Blick zu und ergriff heimlich Partei für<lb/>Denjenigen, der, gleich ihr, fremd und auslän-<lb/>diſch war.<lb/>
+            </p>
+            <p> <lb/>„Er wirft Geld unter die Leute,“ berichtete<lb/>Herr Backer vom Eingang des Zeltes aus, „ſie<lb/>hängen ihm die Ehrenkette um, rufen Vivat und<lb/>tragen ihn auf den Schultern hierher! Nein, hören<lb/>Sie, ſo was lebt nicht, ſeit die Welt ſteht!“<lb/>
+            </p>
+            <p> <lb/>Man ſpürte das Nahen einer Menſchenmaſſe,<lb/>die Stillen im Zelte wurden lebendig und ſtiegen<lb/>auf Stühle und Tiſche, um den neuen König zu<lb/>ſehen. Laurence ſtand zufällig dem Eingang ge-<lb/>genüber und gewahrte, wie zwei ſtämmige Burſchen<lb/>einen jungen Mann dahertrugen, welcher ſo la-<lb/>chend und ſicher auf den Schultern ſeiner Träger<lb/>ſaß, als könnte es keinen angenehmeren Sitz geben.<lb/>Die ganze elaſtiſche und doch kräftige Erſcheinung<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0362" n="348" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=362"/>
+            </p>
+            <p> <lb/>des Fremden, ſeine im Winde ſpielenden Haare,<lb/>ſeine leuchtenden Augen gaben ſich als die Ver-<lb/>körperung frohmüthiger Jugend; dazu hielt er in<lb/>der Rechten einen gefüllten Pokal, den er mit dem<lb/>Ausrufe: „<hi rendition="#g">Es leben die braven Emslän-</hi>
+               <lb/>
+               <hi rendition="#g">der</hi> — hoch und dreimal hoch!“ an die Lippen<lb/>führte und leerte. Das Volk draußen ſchrie:<lb/>„Hoch! hoch!“ Die Honoratioren ſahen einander<lb/>ſchweigend und unſicher, was zu thun ſei, an.<lb/>„Seine Ausſprache iſt eine fremde!“ erklärte der<lb/>Thierarzt verächtlich.<lb/>
+            </p>
+            <p> <lb/>„Ach was, das entſcheidet nicht!“ knurrte der<lb/>Menſchenarzt, deſſen Geduld doch endlich bei den<lb/>vorlauten Anmaßungen des Thierarztes riß. Der<lb/>Letztere aber hatte, wie er wußte, einen Beruf,<lb/>
+               <hi rendition="#g">Allen</hi> im Orte vorzuſprechen, nämlich ſein mäch-<lb/>tiges, vernichtendes Organ, deſſen er ſehr gern als<lb/>„meine bekannte Donnerſtimme“ Erwähnung that.<lb/>Er fand es jetzt geradezu komiſch, daß der andere<lb/>Arzt mit ſeiner freundlichen, leiſen Stimme hier<lb/>dreinreden wollte, und drängte ſich in's Freie.<lb/>
+            </p>
+            <p> <lb/>„Mein Herr!“ donnerte der Thierarzt, „ich<lb/>kenne Sie zwar nicht, muß Ihnen aber, im Na-<lb/>men des Honoratiorenzeltes, mittheilen, daß wir<lb/>uns den Teufel darum ſcheeren, wen das <hi rendition="#g">Volk</hi>
+               <lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0363" n="349" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=363"/>
+            </p>
+            <p> <lb/>als König anerkennt; dagegen aber beſteht das un-<lb/>umſtößliche Geſetz, daß nur Inländer, ja nur<lb/>
+               <hi rendition="#g">Kirchſpielsgeborene</hi> oder Einſäſſige Schützen-<lb/>könig werden können!“<lb/>
+            </p>
+            <p> <lb/>Der Fremde ſprang auf die Erde, verbeugte<lb/>ſich und erwiderte mit ſeiner klaren, klingenden<lb/>Stimme: „Um ſo beſſer, Herr Thierarzt, ich bin<lb/>aus Hüſingen, und Hüſingen iſt meines Wiſſens<lb/>eine Filiale der hieſigen Kirche!“<lb/>
+            </p>
+            <p> <lb/>Der Thierarzt riß den Mund auf, jedoch ohne<lb/>zu donnern, und brachte nur ſpöttiſch hervor:<lb/>„Na, wer's glaubt; Sie reden verflucht aus-<lb/>ländiſch!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#aq">Bestmoder</hi>,“ rief der junge König im reinſten<lb/>emsländiſchen Plattdeutſch, „<hi rendition="#aq">komt issen her un</hi>
+               <lb/>
+               <hi rendition="#aq">segget de Mannlü un Frolüwel wel dat ick sünn</hi>!“<lb/>
+            </p>
+            <p> <lb/>Wer drängte ſich hervor in einem alten Män-<lb/>nerwams und die Pfeife im Munde, das alte run-<lb/>zelige Antlitz voll Freude und Stolz? Die Po-<lb/>ſtillons-Drüke! Sie nahm die Pfeife aus den<lb/>dünnen Lippen und ſagte: „Bei ſolchem Wetter<lb/>krähen die Hennen — <hi rendition="#g">das iſt mein Unglücks-</hi>
+               <lb/>
+               <hi rendition="#g">kind</hi>!“<lb/>
+            </p>
+            <p> <lb/>Keine Stimme der Welt hätte einen größeren<lb/>Eindruck machen können, als das Gekrächze der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0364" n="350" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=364"/>
+            </p>
+            <p> <lb/>alten Drüke. Die gekränkte Volkspartei um-<lb/>drängte ihren Candidaten jubelnd von der einen<lb/>Seite, die Honoratioren, Backer und der Doctor<lb/>an der Spitze, begrüßten den Wiedergekehrten von<lb/>der andern. Die Muſik tuſchte dazwiſchen aus<lb/>voller Kraft, und der Thierarzt übertönte wieder<lb/>dieſe mit: „Bravo, bravo, der Junge kannte mich<lb/>noch!“<lb/>
+            </p>
+            <p> <lb/>Drüke und ihr Enkel mußten ſich mit in's<lb/>Honoratiorenzelt ſetzen. Die Alte war ganz ſtill,<lb/>nur als Frau Backer ſie anredete, entgegnete<lb/>Drüke: „Ja, ja, Mamſell, ich darf jetzt keine gott-<lb/>loſe Reden mehr führen, nicht mehr fluchen und<lb/>dem Pfarrer widerſprechen — dies iſt das letzte<lb/>Signal und ich bereite mich in Ehren abzu-<lb/>fahren!“<lb/>
+            </p>
+            <p> <lb/>Alles kam heran, um den Tobias Spahn ſeine<lb/>Schickſale erzählen zu hören, der Thierarzt gebot<lb/>Stille und die allgemeine Neugier verſchaffte ihm<lb/>Gehorſam. Tobias ſtellte ſich in den Zelteingang<lb/>und Aller Augen hafteten an ſeinen Lippen.<lb/>
+            </p>
+            <p> <lb/>„Meine Lebensgeſchichte hat einen großen Feh-<lb/>ler,“ begann der Schützenkönig, „ſie iſt zu kurz.<lb/>Ich ging mit gar leichtem Gepäck von Hüſingen in<lb/>die Welt und deshalb bin ich wohl ſo raſch vor-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0365" n="351" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=365"/>
+            </p>
+            <p> <lb/>wärts gekommen. Einen Paß hatte ich nicht, aber<lb/>dafür einen Spitznamen, der mir weit beſſer fort-<lb/>half. Einen Namen hat Jedermann, man ver-<lb/>gißt auch den <hi rendition="#g">guten</hi> Namen gar leicht; aber der<lb/>Spitzname, ſelbſt der <hi rendition="#g">böſe</hi> Spitzname, macht die<lb/>Leute aufſchauen, das prägt ſich ein, weil es ſo<lb/>ſelten vorkommt. Wenn mich Jemand fragte: Wie<lb/>heißt Du? da war ich gewohnt zu erwidern: Ich<lb/>bin das Unglückskind! — So ſagte ich auch in<lb/>Scheveningen einem alten, verdrießlichen Herrn,<lb/>der gelangweilt in einem Rollſtuhl ſaß, offenbar<lb/>ein Kranker, wie ſo viele dort. Wir, meine un-<lb/>gariſchen Freunde und ich, boten ihm Mauſefallen<lb/>und Unterſetzer für Bügeleiſen zum Verkauf, er<lb/>blickte uns an und fragte: Wie heißt Ihr denn?<lb/>Raſch entgegnete ich: <hi rendition="#g">der</hi> da heißt Laczi, der an-<lb/>dere Gabor und ich bin das Unglückskind! — Der<lb/>alte Herr und der Diener hinter ſeinem Stuhle<lb/>lächelten, und ich mußte dem Erſteren von meiner<lb/>Großmutter erzählen und wie ich Vogelklappern<lb/>geſchnitzt habe und der Jungfer Sabina die Fer-<lb/>keln in's Bett that, wofür ich eine öffentliche<lb/>Strafe erleiden ſollte und lieber fortlief. Nachdem<lb/>ich Alles genau erzählt, befahl der mürriſche alte<lb/>Herr, ich ſolle am nächſten Tage wieder zu ihm<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0366" n="352" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=366"/>
+            </p>
+            <p> <lb/>kommen, wenn ihn ſein Diener an den Strand<lb/>rolle; ich erwiderte: Ja, Herr, wenn Ihr auch fin-<lb/>ſter ausſeht, ich fürchte mich gar nicht vor Euch!<lb/>— Am nächſten Tage waren wohl noch acht bis<lb/>zehn andere Herren bei meinem Gönner, einige<lb/>gingen an Stöcken und Krücken, andere ſahen<lb/>bleich und hinfällig aus, ſie waren alle Curgäſte<lb/>des großen Badeortes. Alle betrachteten mich und<lb/>lachten, als mein alter Bekannter ſagte: „Das iſt<lb/>das Unglückskind!“ Jeder fragte mich nun aus<lb/>und ich erzählte ſorglos, was ich wußte, endlich<lb/>ſagte der im Rollſtuhl: Du biſt zu jung, Unglücks-<lb/>kind, um ſo auf der Landſtraße zu leben; wir,<lb/>dieſe Herren und ich, wollen eine Summe für<lb/>Deine Erziehung zuſammenlegen, ich wohne in<lb/>Amſterdam und werde ſehen, was ſich aus Dir<lb/>machen läßt! — So geſchah es. Ich ward in<lb/>eine Anſtalt gegeben, wo alle Knaben alsbald über<lb/>meine Unwiſſenheit lachten; ſie ſahen ebenſo auf<lb/>mich herab, wie ich in der Schule zu Hüſingen<lb/>wegen meiner Streiche hoch angeſehen wurde, das<lb/>ärgerte mich und ich lernte. Meine Gönner be-<lb/>ſtimmten mich für das Maſchinenfach, und als ich<lb/>Lehrjahre und Examen beſtanden hatte, wurde ich<lb/>einem amerikaniſchen Hauſe empfohlen, für wel-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0367" n="353" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=367"/>
+            </p>
+            <p> <lb/>ches ich jetzt reiſe — Sie ſehen, ich bin ein glück-<lb/>liches Unglückskind!“<lb/>
+            </p>
+            <p> <lb/>Das Herz der Honoratioren war längſt für<lb/>den jungen Reiſenden erweicht, ſeiner Anerkennung<lb/>durch alle Schichten des Schützenvolkes ſtand nichts<lb/>mehr im Wege, und es erübrigte nur noch, daß<lb/>er ſich ſeine Königin unter den Mädchen des Ortes<lb/>erwähle. Tobias blickte im Kreiſe umher, einen<lb/>Moment hafteten ſeine Augen auf der erröthenden<lb/>Laurence, dann trat er vor Frau Backer und ſprach:<lb/>„Mamſell Holter, von Kindheit an ſchienen Sie<lb/>mir die würdigſte Dame, die exiſtiren kann; als<lb/>ich jetzt, ein Mann, meine Mutter wiederſah, er-<lb/>fuhr ich von ihr, was die Meinen Ihnen Alles<lb/>danken — wollen Sie meine Königin ſein und es<lb/>verſuchen, dem wilden Burſchen ſeine unbändige<lb/>Natur auszutreiben?“ Er küßte die großen Hände<lb/>der guten Dame mit Ehrfurcht, und ſie, die uner-<lb/>ſchüttert ihr ganzes Leben und Lieben getragen,<lb/>konnte jetzt auf dem Vogelſchießen zwei langſam<lb/>herniederrollende Thränen nicht zurückhalten.<lb/>
+            </p>
+            <p> <lb/>„O,“ ſagte ſie, den Blick nach Oben gerichtet,<lb/>„ſo hat es doch ſeinen Segen, daß ich der Kläre<lb/>ihre Natur austrieb. Sie hat auf ihren Sohn einen<lb/>geſetzten und dankbaren Sinn vererbt — aber,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0368" n="354" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=368"/>
+            </p>
+            <p> <lb/>Tobias — ich ſage Du zu Dir! — Tobias, Deine<lb/>Königin kann ich doch nicht ſein, denn ich bin<lb/>nicht mehr Mamſell Holter, ſondern Frau Steuer-<lb/>einnehmer Backer. Indeß, ich habe eine Tochter<lb/>und ſie mag mich vertreten. Laurence, dies iſt<lb/>Tobias Spahn, der mich ehren will!“<lb/>
+            </p>
+            <p> <lb/>Daß Frau Backer Tobias duzte, war für die<lb/>anweſende Geſellſchaft Das, was am Hofe ein<lb/>Adelsbrief iſt; es konnte Niemand mehr etwas<lb/>gegen ihn einzuwenden haben. Die jungen Damen<lb/>bekränzten die Königin, und der König gab ihr<lb/>den Arm, um Muſik an der Spitze, Freudenſchüſſe<lb/>von allen Seiten, einen Rundgang in ſeinem neuen<lb/>Staate mit ihr anzutreten. Zum erſten Mal<lb/>konnte das junge Paar allein ſprechen.<lb/>
+            </p>
+            <p> <lb/>„Es thut mir wirklich leid,“ begann Laurence<lb/>aufgeregt und das ihr ſo viel geläufigere Fran-<lb/>zöſiſch redend, „es thut mir wirlich leid, daß die<lb/>Mama mich Ihnen ſo <hi rendition="#aq">contre coeur</hi> aufdrängte!“<lb/>
+            </p>
+            <p> <lb/>Tobias blickte ſie überraſcht an und entgegnete:<lb/>„Sie ſchließen auf mich, nach Ihrem Gefühl <hi rendition="#aq">contre</hi>
+               <lb/>
+               <hi rendition="#aq">coeur</hi> an der Seite eines Landläufers durch die<lb/>Straßen gehen zu müſſen; ich weiß durch Herrn<lb/>Peters, daß Sie eine Erbin ſind und Anſprüche<lb/>machen können. Aber ſeien Sie überzeugt, daß ich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0369" n="355" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=369"/>
+            </p>
+            <p> <lb/>den glücklichen Zufall nicht mißbrauchen werde, der<lb/>mir erlaubt, neben Ihnen einherzuſchreiten. Niemals<lb/>würde ich darnach geſtrebt haben, hier eine ſolche<lb/>Rolle zu ſpielen; doch es geſchieht meiner Groß-<lb/>mutter, der alten Poſtillons-Drüke, zu Liebe.“<lb/>
+            </p>
+            <p> <lb/>„Nun, wenn es ihr zu Liebe geſchieht, ſo kann's<lb/>mir auch recht ſein,“ warf Laurence hin, „ich werde<lb/>gewiß Niemandes Freude ſtören, Monſieur Spahn!“<lb/>
+            </p>
+            <p> <lb/>„Ich danke Ihnen im Namen meiner Groß-<lb/>mutter!“ ſagte Tobias kühl, und dann grüßten<lb/>ſie nach allen Seiten, nur um einander nicht<lb/>anzuſehen. Laurence begriff nicht, wie man ſo gut<lb/>Franzöſiſch reden und dabei ſo unhöflich ſein<lb/>könne als ihr König. Tobias fand den Geldſtolz<lb/>der Erbin nicht überraſchend; ſeine Laufbahn<lb/>hatte ihn die Macht des Geldes genugſam<lb/>kennen gelehrt; aber es that ihm leid, daß gerade<lb/>ein ſo hübſches, heiteres Mädchen eine ſo gute<lb/>Partie ſein mußte. Das Königspaar eröffnete<lb/>den Ball, dann kamen die Adjutanten mit den<lb/>Ehrendamen, und darauf die Honoratioren, Jeder<lb/>mit ſeiner Gattin. Alle tanzten ſo lange herum,<lb/>als Athem und Füße vorhalten wollten, Alle<lb/>ſahen gelaſſen und fröhlich aus, und alle Damen,<lb/>bis auf Laurence, trugen dunkle, ernſte Kleider.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0370" n="356" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=370"/>
+            </p>
+            <p> <lb/>Es wurde der jungen Schweizerin ganz bitter um's<lb/>Herz, als ſie ihre alten Eltern vergnüglich und<lb/>im Schweiße ihres Angeſichts, ja mit einem<lb/>Künſtlerſtolze tanzen ſah, und ſie ſelbſt ſchwebte<lb/>ſo freudlos dahin, als wären dies die traurigſten<lb/>Stunden ihres Lebens. Der Doctor, der ein Auge<lb/>für Schönheit hatte, ſtieß ſeine nach Athem rin-<lb/>gende Gemahlin an, zeigte auf Tobias und Lau-<lb/>rence und ſprach: „Sieh, Liſette, das gäbe ein<lb/>ſchönes, geſundes Paar!“ Sie nickte nur und<lb/>fächerte ſich mit dem Taſchentuche. Frau Backer<lb/>ſchüttelte den Arm ihres echauffirten und ganz elektri-<lb/>ſirten Geſponſes und ziſchelte: „Du, Heinrich,<lb/>ſieh' die beiden Kinder an; das wäre doch fatal,<lb/>wenn ſich da etwas anſpänne!“<lb/>
+            </p>
+            <p> <lb/>„Ohne Sorge, Frau,“ entgegnete der Einneh-<lb/>mer; „meine Selige war ganz anders damals,<lb/>unſer Mädchen ſieht ja höchſt ernſt und gleich-<lb/>gültig aus!“<lb/>
+            </p>
+            <p> <lb/>„Hm, mir gefällt das nicht; der Poſtillons-<lb/>junge mag hingehen, wo er hingehört!“<lb/>
+            </p>
+            <p> <lb/>Als der Ball zu Ende ging, wandte ſich Tobias,<lb/>der mit allen Anderen ſo luſtig geweſen war,<lb/>außer mit <hi rendition="#g">ſeiner</hi> Dame, an dieſe und ſprach:<lb/>„Sie haben nun geſehen, Mademoiſelle, daß ich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0371" n="357" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=371"/>
+            </p>
+            <p> <lb/>wirklich ein Unglückskind bin; aber ſeien Sie über-<lb/>zeugt, daß ich Ihre Wege nicht wieder kreuzen<lb/>werde, um Sie ungeſtört den heutigen Tag ver-<lb/>geſſen zu laſſen!“<lb/>
+            </p>
+            <p> <lb/>Laurence wechſelte die Farbe. — „Denken Sie<lb/>nicht daran; es iſt mir ganz einerlei, ob Sie bleiben<lb/>oder gehen!“<lb/>
+            </p>
+            <p> <lb/>Tobias dankte der Geſellſchaft für alle Freund-<lb/>lichkeit, beklagte, daß er die Heimath ſchon morgen<lb/>in der Frühe verlaſſen müſſe, und hoffte über's<lb/>Jahr ſeine Würde perſönlich in die Hände ſeiner<lb/>Mitbürger niederlegen zu können. Die bekannte<lb/>Donnerſtimme rief: „Hurrah!“ und ſang dann<lb/>indiscreter Weiſe:<lb/>
+            </p>
+            <p> <lb/>„Ueber's Jahr, da iſt mein' Zeit vorbei,<lb/>Da g'hör' i Dein und mein,<lb/>Wenn i komm', wenn i komm', wenn i wiederum komm',<lb/>Da ſoll die Hochzeit ſein!“<lb/>
+            </p>
+            <p> <lb/>Tobias führte die bleich gewordene Laurence<lb/>ihren Eltern zu: „All' mein Ringen und Mühen,<lb/>Hoffen und Verlangen ging dahin, in meiner<lb/>Heimath als achtungswerther Mann genannt zu<lb/>werden — ich hoffe, Sie gedenken meiner ſo!“<lb/>Seine Stimme zitterte, und auf Frau Backer's<lb/>ſchwarzem Handſchuh — ſie trug immer Herren-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0372" n="358" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=372"/>
+            </p>
+            <p> <lb/>handſchuhe — lag ein heller warmer Tropfen, eine<lb/>Thräne — der Schützenkönig war im Herren-<lb/>zimmer verſchwunden und am nächſten Morgen<lb/>abgereiſt.<lb/>
+            </p>
+            <p> <lb/>— — — — —<lb/>
+            </p>
+            <p> <lb/>Laurence wurde, zur Freude ihrer Eltern, eben<lb/>ſo geſetzt und zurückhaltend als die anderen<lb/>Mädchen des Ortes. Der Schützenball war ihr<lb/>nicht gut bekommen, ſie ſah manchmal recht blaß<lb/>aus. Der Arzt rieth Haferſchleim und Bewegung<lb/>an. Das junge Mädchen wählte ſich eine Freun-<lb/>din, ein älteres, einfaches Frauenzimmer, die<lb/>Tochter des Geometers in Hüſingen, und beſuchte<lb/>dieſelbe häufig an den ſchönen Herbſttagen, welche<lb/>jetzt eintraten. Wenn ihre Freundin beſchäftigt<lb/>war — und wann wäre ſie das nicht geweſen? —<lb/>ging Laurence in die Pfarre. Sie küßte dem<lb/>Paſtor ehrfürchtig die Hand, ſchenkte der alten<lb/>Sabina ein hübſches Heiligenbild oder eine Tafel<lb/>Chocolade, und huſchte dann durch den Pfarr-<lb/>garten auf die Wieſe, wo Drüke die Kühe des<lb/>Pfarrers hütete. Drüke erhielt ein Paar neue<lb/>Strümpfe oder eine Mütze und ein Päckchen Ta-<lb/>bak, den ſie gemüthlich rauchte, während die Erbin,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0373" n="359" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=373"/>
+            </p>
+            <p> <lb/>mit einem großen Stocke bewaffnet, neben dem<lb/>Weißkohlfelde ſtand, das zu beſuchen die Kühe<lb/>eine beſondere Neigung zeigten. Dann ſaßen ſie,<lb/>die beiden Hirten, unter den Erlenſträuchen nieder<lb/>und Drüke erzählte von ihrem Unglückskinde und<lb/>lehrte Laurence Lieder, alte, alte Lieder, von dem<lb/>falſchen Verleumder und:<lb/>
+            </p>
+            <p> <lb/>„Wenn das Stroh in Flammen ſteht<lb/>Und der Schnee dazwiſchen weht,<lb/>Wie bald iſt das verbrennt.<lb/>So iſt es mit der Liebe,<lb/>Wie bald hat dies ein End'!“<lb/>
+            </p>
+            <p> <lb/>Das war Laurence's Lieblingslied. Drüke glaubte,<lb/>ihr Enkel müſſe auf der See ſein; Geld, viel Geld<lb/>hatte er für ſie da gelaſſen, und ſie hatte ihm das<lb/>Goldſtück und die Klapper geſchenkt. Das Kühe-<lb/>hüten that Drüke zum Zeitvertreib.<lb/>
+            </p>
+            <p> <lb/>Als eines Tages Laurence wieder ſchüchtern<lb/>und eilig, wie dies ihre Art, auf der Wieſe er-<lb/>ſchien, und ſofort entdeckte, daß die Bleßkuh,<lb/>welche die unartigſte war, mit der Schnauze einen<lb/>Kohlkopf beſchnüffelte und ſchleunigſt verjagt<lb/>werden mußte — gewahrte ſie, zur Drüke zurück-<lb/>kehrend, daß dieſe nicht allein war; neben ihr<lb/>lehnte ihr Enkel an einer Pappel. Laurence wollte<lb/>fliehen, aber Tobias erreichte ſie noch rechtzeitig<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0374" n="360" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=374"/>
+            </p>
+            <p> <lb/>und hielt ihre zitternde Hand in der ſeinen.<lb/>
+            </p>
+            <p> <lb/>„Laurence!“ flüſterte Tobias.<lb/>
+            </p>
+            <p> <lb/>„O, können Sie mir verzeihen,“ ſchluchzte<lb/>Laurence, „daß ich den ſchönſten Tag Ihres Lebens<lb/>verdarb, daß ich ſo lieblos ſchien, wo Alles Ihnen<lb/>gut war? Ach, ich habe ſeitdem keine ruhige<lb/>Stunde mehr gehabt und hätte mich ſelbſt haſſen<lb/>mögen!“<lb/>
+            </p>
+            <p> <lb/>„Weil Sie mich nicht haßten?“<lb/>
+            </p>
+            <p> <lb/>Laurence nickte mit dem Kopfe. Plötzlich ſang<lb/>die alte Drüke:<lb/>
+            </p>
+            <p> <lb/>„Zehntauſend Ducaten, das iſt viel ſchönes Geld,<lb/>Mein Schatz iſt mir lieber als halber die Welt!“<lb/>
+            </p>
+            <p> <lb/>Die beiden jungen Leute errötheten und Tobias<lb/>fragte: „Hat Beſtmutter Recht?“<lb/>
+            </p>
+            <p> <lb/>„Ja!“ ſagte Laurence verſchämt, und er zog<lb/>ſie in ſeine Arme.<lb/>
+            </p>
+            <p> <lb/>Die bekannte Donnerſtimme wieherte vor Lachen,<lb/>als die Verlobungskarten des Enkels der alten<lb/>Drüke und der Backer'ſchen Erbin umhergeſchickt<lb/>wurden, und brüllte dann: „Hab' ich's nicht ge-<lb/>ſagt? — und das will nun ein Unglückskind ſein!“<lb/>
+            </p>
+            <p> <lb/>Ende.<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p/>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

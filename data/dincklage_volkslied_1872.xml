@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Das Volkslied des Emslandes</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_volkslied_1872</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Das Volkslied des Emslandes, 1872.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Das Volkslied des Emslandes</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>A. H. Payne</name></publisher>
+                  <date>1872</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Der Salon für Literatur, Kunst und Gesellschaft</title><biblScope unit="volume">09</biblScope><biblScope unit="pages">S. 370–380</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/6700772/ft/bsb11045784</idno><idno type="shelfmark">Shelfmark: Per. 177 l-9</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            <p><choice corresp="375" cert="low"><sic>unglücklicheu</sic><corr>unglücklichen</corr></choice></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Das Volkslied des Emslandes</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p/>
+            <p> <lb/>
+               
+                  <hi rendition="#c #larger">Das Volkslied des Emslandes.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>Von <hi rendition="#g">E. von Dincklage</hi> *).<lb/>
+            </p>
+            <p> <lb/>Kräftige, gutgenährte, freie Volksſtämme haben durchgängig wenig Lie-<lb/>der, ſind dagegen aber beſtändiger im Feſthalten ihrer Volkspoeſie, weil ſie<lb/>überhaupt Achtung vor dem Ererbten, Beſtehenden haben. Der Emsländer<lb/>hat nicht nur eine ihm eigenthümliche, niederdeutſche <hi rendition="#aq">Mutter</hi>ſprache — nein,<lb/>er leitet ſeinen Dialect, ſeine Geſichtszüge, ja, zum großen Theil ſeine Sitten<lb/>kühnlich bis zu jenen Tagen hinauf, wo Hengiſt und Horſa in ihren Myo-<lb/>paronen (verpichte Weidenkörbe mit Rindshaut überzogen, in Kahnform) der<lb/>fernen Küſte Britanniens entgegen ſteuerten. Sogar der Name <hi rendition="#aq">Emsländer</hi>,<lb/>den ſich der Sohn jenes Landſtriches giebt, der das ſandige Bett der Ems<lb/>umfaßt, bis ſie ſich, in ihrem Lauf zum Dollart, durch die fetten Marſchen<lb/>Oſtfrieslands windet — sogar dieſer Name, den keine Landkarte, keine geo-<lb/>graphiſche Bezeichnung ſanctionirt, iſt dennoch unſchwer als der Urname des<lb/>Stammes zu erkennen, welchen einſt die Legionen des römiſchen Feldherrn<lb/>Varus in „Amſivarier“ überſetzten. Iſt der norddeutſche Bauer ſchon im<lb/>Allgemeinen gravitätiſch und wortkarg, ſo iſt in dem Emsländer dieſer Cha-<lb/>rakterzug durch den Umſtand noch vorzugsweiſe ausgebildet, daß das ſterile<lb/>Erdreich, die weiten Sand- und Haideſtrecken ihn auch örtlich iſoliren und,<lb/>da der Grundbeſitz nur in abnormen Fällen aus einer Hand in die andere<lb/>geht, ſchon durch viele Generationen und Jahrhunderte die Scholle und ihre<lb/>Beſitzer gewiſſermaßen eine Welt für ſich repräſentirten. Der Fremde,<lb/>welcher den Emsländer hochdeutſch anredet, wird der Gaſtlichkeit des biedern<lb/>Landmannes höfliche Antworten verdanken; aber um in das Erbgut ſeiner<lb/>Traditionen, in den Burgfrieden feiner harmloſen Bergnügungen gezogen zu<lb/>werden, dazu iſt beinahe der ſprichwörtliche Scheffel Salz zuvörderſt zu<lb/>verzehren.<lb/>
+            </p>
+            <p> <lb/>Unſere culturhiſtoriſchen Schatzgräber und Geiſterbeſchwörer haben<lb/>außerdem die Gewohnheit, einfach zu fragen, <hi rendition="#aq">ob</hi> noch alte Sitten, Ueberliefe-<lb/>rungen und Poeſien beſtehen; indeß die ſchönere Frage: <hi rendition="#aq">weshalb</hi> ſich Eins<lb/>oder das Andere erhielt, meiſt unberückſichtigt bleibt, vielleicht aus dem ein-<lb/>fachen Grunde, weil kein ſummariſches Studium darüber Gewißheit giebt,<lb/>ſondern nur eine volle und lange Vertraulichkeit mit dem Leben und Anſich-<lb/>ten der Bevölkerung.<lb/>
+            </p>
+            <p> <lb/>Oſtfriesland und Holland ſind ſangesarm — <hi rendition="#b">Frisia non cantat</hi>! —<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>*) Unſere verehrte Mitarbeiterin hat in einer Reihe von Novellen ſo meiſter-<lb/>hafte Schilderungen dieſes „Emslandes“ gegeben, welches ſie für die Literatur<lb/>gleichſam erſt entdeckte, daß es unſeren Leſern gewiß höchſt willkommen ſein wird,<lb/>durch dieſelbe kundige Hand in das Leben und Weben, das Dichten und Trachten<lb/>der Bewohner jenes eigenartigen Landſtrichs eingeführt zu werden, wie dies obiger<lb/>Articel verſucht.<lb/>
+            </p>
+            <p> <lb/>Die Redaction des „Salon“.<lb/>
+            </p>
+            <p> <lb/>----- 421 / 908 —----<lb/>
+            </p>
+            <p> <lb/>als ob das ewige Wogengeräuſch der Nordſee die Lieder übertäubt hätte.<lb/>Es iſt nicht Unempfindlichkeit, man achtet und liebt die Muſik ungemein;<lb/>aber ſie bleibt das Eigenthum Einzelner. Wenn noch Bruchſtücke der wilden<lb/>Trinklieder exiſtiren, welche die Vitalienbrüder und ihr Anführer, der große<lb/>Seeräuber und noch größere Trinker Claus Störtebeker, bei ihren Gelagen<lb/>ſangen, oder der Spottlieder, mit welchen ſich die unverſöhnlichen Parteien<lb/>der Fettkoper und Schieninger verfolgten, ſo kennt die Menge nichts mehr<lb/>von dieſen Weiſen und ihr poetiſches Wiſſen drängt ſich in einigen kräftigen<lb/>Wahrſprüchen und den Liedern des reformirten Geſangbuchs zuſammen. Von<lb/>Holland und Oſtfriesland begrenzt, finden wir das Ems- oder Münſterland;<lb/>früher unter die gedeihliche Botmäßigkeit des Münſter'ſchen Krummſtabs ge-<lb/>ſtellt, hat es bis auf die Neuzeit keine Veranlaſſung gehabt, mit dem Schick-<lb/>ſal, welches über ſeinen weiten Ebenen waltete, noch mit den, wenn auch<lb/>durch Arbeit erkauften Gaben dieſer Ebenen unzufrieden zu ſein. Der ſchroffe<lb/>Unterſchied zwiſchen reich und arm, der in Holland und Oſtfriesland fühlbar<lb/>wird, exiſtirt nicht im Emsland, das genau begrenzt das Herzogthum Arem-<lb/>berg-Meppen ausmacht. Hier hat auch der Arme noch ſein kleines Heim-<lb/>weſen, ſeine magere Kuh, ſein Schwein, und geht ihm auch dieſes verloren,<lb/>so bleibt ihm doch ſicher die Hülfe ſeiner Nachbarn, auf die ſchon ſeit Jahr-<lb/>hunderten dieſe Nachbarpflicht ſich vererbt; und nöthigenfalls kommt die ganze<lb/>Gemeinde zu Hülfe. Der Emsländer bat nichts Bettelhaftes, ſelbſt wenn er<lb/>factiſch betteln geht, „<hi rendition="#b">by de Hüse geiht</hi>;“ bei den Häuſern geht, nennt er<lb/>es. Er tritt in einem anſtändigen Anzug, mit guten Stiefeln oder Holz-<lb/>ſchuhen ein, ſetzt ſich und beginnt eine Converſation, die weder jammernd<lb/>noch drohend, zumeiſt gar nicht einmal ſeine individuellen Wünſche berührt.<lb/>Erſt wenn er ſich ausgeruht und die Neuigkeiten des Tages erſchöpft hat,<lb/>macht er die ſocialen Motive ſeines Beſuchs unverblümt geltend: „Ich komme<lb/>um Heu für meine Kuh!“ oder: „Gebt mir heute kein Brod; Ihr habt ge-<lb/>ſchlachtet, Fett iſt mir lieber!“ Eine alte Bettlerin kam ſtets von Zeit zu<lb/>Zeit auf ein Landgut und erklärte, ſie hätte keine Erdäpfel mehr, man gab<lb/>ihr immer, was ſie verlangte, bis eines Tages keine zur Hand waren. Die<lb/>Alte rief gekränkt: „Was laßt Ihr mich dann erſt den Weg machen!“<lb/>
+            </p>
+            <p> <lb/>Das iſt nicht etwa Frechheit; der Bettler findet in ſeiner Bitte nichts<lb/>Herabwürdigendes, der von ihm Angeſprochene nichts Drückendes oder Un-<lb/>ziemliches — Beide ſtehen noch unter dem Geſetz jenes patriarchaliſchen Geiſtes,<lb/>der leider von den Fortſchritten der ſogenannten Intelligenz berührt, mehr<lb/>und mehr ſchwindet. Während die Maſſe der Almoſen unter dem Einfluß<lb/>der letztern wächſt, ſinkt dagegen die Würde des unterſtützten Individuums<lb/>bis zu dem Begriff einer mehr oder minder tauglichen Arbeitskraft. Unſer<lb/>Emsländer führt den Bettelſtab wie ein Philoſoph, er könnte in die Rinde<lb/>dieſes unfruchtbaren Holzes einſchneiden, was der iriſche Fürſt Taddy<lb/>O'Shaughlin in ſein Schwert ätzen ließ: „<hi rendition="#b">I am</hi>!“ In dieſem „Ich bin“<lb/>oder mehr noch „Ich bin ich!“ wurzelt der ruhige, gemeſſene, aber auch wie-<lb/>der nicht unſchlaue Volksgeiſt; das Abſchließen an ſich bedingt ſchon ein Miß-<lb/>trauen, das Selbſtgefühl eine geiſtige Kraft. Dieſer Volksgeiſt erhält durch<lb/>den Umſtand einen gewiſſen Schwung, daß er ſich in zwei Sprachen darthun<lb/>muß, der niederdeutſchen oder <hi rendition="#aq">platten</hi> und der hochdeutſchen; er benutzt<lb/>beide wie ſein Alltagswamms und ſeinen Sonntags- oder Lakenrock; Laken<lb/>oder Tuch iſt nämlich Das, was im Nibelungenlied die Seide darſtellt, das<lb/>Schönſte und Paſſendſte für alle Feſte in Luſt und Leid. <hi rendition="#aq">Plattdeutſch</hi> ar-<lb/>
+            </p>
+            <p> <lb/>----- 422 / 908 —----<lb/>
+            </p>
+            <p> <lb/>beitet, ſorgt, ißt und trinkt unſer Bauer; <hi rendition="#aq">hochdeutſch</hi> betet und ſingt er, kein<lb/>niederer, unſchriftmäßiger Ausdruck entweiht ſein enges, mühſam errungenes,<lb/>hochdeutſches Wiſſen, ſogar bei ſeinem Namen bildet es einen Rangunter-<lb/>ſchied. „Ich heiße Mar-Engel“, ſagt ein friſches Bauermädchen, „und<lb/>ſchreibe mich“, fügt ſie hinzu, „Maria Angela“. Die Verketzerungen der Na-<lb/>men ſind freilich meiſt viel unpoetiſcher, ſo Wübke aus Walburga, Geſche aus<lb/>Geſina rc.<lb/>
+            </p>
+            <p> <lb/>Das Volkslied trägt dieſer Unterſcheidung Rechnung; die hohen Ge-<lb/>danken haben den Wortklang beibehalten, ohne freilich immer ſtreng an ihrem<lb/>urſprünglich folgerechten Sinn zu haften, das Pathos an ſich genügt ſchon,<lb/>eigentlich klingt ſogar das am rührendſten, was man gar nicht mehr verſteht.<lb/>Die leicht faßlichen Gedanken dagegen hat ſich der Dialect ſofort zu eigen<lb/>gemacht und der Reim wirkt verſöhnend, wo es im Uebrigen nicht ſo recht<lb/>klappen will. Die Mundart des Emsländers iſt kräftig in den Einzelaus-<lb/>drücken, ungemein biegſam in ihrer Zuſammenſtellung; nicht nur iſt eine bis<lb/>in's Schwebende ſtreifende Modulation der Vocale geſtattet, ſondern läſtige<lb/>Silben werden, wie im Engliſchen, ganz weggeſtrichen, was die Ausdrucks-<lb/>weiſe knapp und treffend macht. In dieſer Sprache ſind Worte, welche uns<lb/>direct aus einem der dort ſo häufigen Hünengräber zu klingen ſcheinen;<lb/>Worte, die auf ihre hochdeutſchen Nachkommen wie Methuſalem auf ſeine<lb/>Zeitgenoſſen herabblicken können, unverſtümmelt, unveraltet wie ſie einſt Karl<lb/>der Große oder ſchon vor ihm der Amſivarenführer Bojokal (53 n. Chr.)<lb/>ſprach, er, der mit ſeinem Stamm vertrieben, dem römiſchen Befehlshaber<lb/>Julius Avitus zurief: „Fehlen kann uns die Erde, worauf wir leben — <hi rendition="#aq">nicht</hi>
+               <lb/>worauf wir ſterben!“<lb/>
+            </p>
+            <p> <lb/>Die älteſten Volkslieder des Emslandes ſind, wie zumeiſt der Fall,<lb/>Bruchſtücke; die Echtheit derſelben kennzeichnet ſich dadurch, daß ſie, mit ge-<lb/>ringen Abweichungen des Textes, eine weite Ausbreitung haben, alſo jenſeits<lb/>der nachweisbaren Uebertragung ſtehen.<lb/>
+            </p>
+            <p> <lb/>Eigenthümlich iſt es, daß Ständchen oder unzarte Liebeslieder ſich unter<lb/>den älteren Weiſen gar nicht finden; noch heute iſt der Emsländer ungemein<lb/>ſittenſtreng: jedes Tändeln oder Hervorheben von Empfindungen, ſelbſt zwi-<lb/>ſchen Eheleuten, oder zwiſchen Eltern und erwachſenen Kindern, gilt als un-<lb/>paſſend und unwürdig vor dritten Perſonen, ja, wer von ſeinen Gefühlen<lb/>
+               <hi rendition="#aq">ſpricht</hi>, kommt geradezu in den Verdacht, keine zu haben; weshalb ſonſt im<lb/>Nichtigen darthun wollen, was nur das Wichtige beweiſen kann?<lb/>
+            </p>
+            <p> <lb/>Eine Wittwe, von der man durch viele Jahre die ſtrengſte Trauer<lb/>fordert, die es nie mehr wagen dürfte, wie jung ſie auch ſein mag, jemals<lb/>wieder zu tanzen: man würde ſie unbarmherzig tadeln, wenn ſie es in ihrem<lb/>Schmerz nicht über ſich gewönne, die Gäſte zum Eſſen und Trinken zu ani-<lb/>miren — beim Leichenmahl für den Gatten!<lb/>
+            </p>
+            <p> <lb/>Die erzählenden Lieder finden vielen Beifall und werden von beſonders<lb/>lungenbegnadeten Sängern und Sängerinnen ſtets bei gemeinſamen Arbeiten,<lb/>Waſchen, Flachsbrechen rc. gewiſſenhaft und mit Selbſtgefühl vorgetragen.<lb/>Sehr beliebt iſt die „captainiſche Tochter“, deren Schickſalen der Kreis immer<lb/>mit großer Stille lauſcht. Das Lied heißt:<lb/>
+            </p>
+            <p> <lb/>„Nun wollen wir ſingen von Freuden,<lb/>Von Freuden ein neues Lied,<lb/>Von einer captainiſchen Tochter,<lb/>Die hat die Soldaten ſo lieb.<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>----- 423 / 908 —----<lb/>
+            </p>
+            <p> <lb/>Ein Körblein trug ſie in dem Arm,<lb/>Ein’ ſchön' Stab in der Hand,<lb/>Sie ging der ſo lange ſpazieren,<lb/>Bis ſie das Lager fand.<lb/>
+            </p>
+            <p> <lb/>Als ſie wol vor das Lager kam,<lb/>Da ſtand der captainiſche Vater<lb/>(Und ſchaute das Mädelein an)<lb/>Ach, Mädel, ach, liebſtes Mädelein,<lb/>Ach, Mädelein, bleibe daheim.<lb/>
+            </p>
+            <p> <lb/>Die Kleider, die Du jetzt trageſt,<lb/>Die will ich verzieren mit Gold —<lb/>Ach, Vater, ach, liebſter Vater,<lb/>Ich habe Luſt an der Welt!<lb/>
+            </p>
+            <p> <lb/>Ach, wär' ich als Knabe geboren,<lb/>So ging' ich fein luſtig in's Feld,<lb/>Im Felde, da geh'n die Trompeten<lb/>Wohl für den Landskönig ſein Geld!“<lb/>
+            </p>
+            <p> <lb/>Die Melodie ſteht feſt; ohne Zweifel iſt ſie ſehr alt, fünf Generationen<lb/>ſangen die captainiſche Tochter nachweisbar, einige Verſe zeigen die Ueber-<lb/>tragung in's Hochdeutſche, der letzte klingt eines Landsknechts würdig. Das<lb/>Ganze mag zu Anfang des Jahrhunderts oder einige Decennien früher mo-<lb/>derniſirt ſein. — Das bekannte Lied von der „wunderſchönen Anna“ fehlt<lb/>auch am Emsufer nicht; ja, Referent erinnert ſich deutlich der Zeit, wo<lb/>Anna's Schickſal einen tiefen Eindruck auf das Kinderherz machte, vorgetra-<lb/>gen von der kleinen Magd am Spinnrocken. Der Fähnrich kommt über die<lb/>grüne Haide geritten, mordet die ſchöne Anna nach einigem Parlamentiren<lb/>ihrerſeits, „weil ſie ſterben muß!“ und reitet wieder fort; als er aber auf der<lb/>grauen Haide hin- und herſprengt, begegnet er Anna's Bruder, der ſich er-<lb/>kundigt, weshalb ſein Kleid von Blut ſo roth ſei? Die Entſchuldigung des<lb/>Fähnrichs, er habe zwei Tauben geſchlachtet, wird nicht angenommen, ſondern<lb/>der Bruder ſtößt ihn ohne Weiteres nieder und<lb/>
+            </p>
+            <p> <lb/>„Die wunderſchöne Anna ſungen die Schüler nach,<lb/>Dem Fähnrich bellten die Hunde nach,<lb/>Die Anna, die kriegt ein' Glockenklang,<lb/>Der Fähnrich kriegte ein Rabengeſang.“<lb/>
+            </p>
+            <p> <lb/>Die Fähnriche müſſen ihrer Zeit höchſt verwegene Geſellen geweſen<lb/>ſein, denn in den alten Liedern bleibt ihnen kein gutes Haar; ſie morden<lb/>förmlich zum Vergnügen, ein Blutdurſt, den ſie im Volksmund mit den Tür-<lb/>ken theilen, deſſen plötzliches Wiedererſcheinen den harmloſen Theil der Be-<lb/>völkerung des Emslandes vor zehn, zwanzig Jahren nicht überraſcht haben<lb/>würde. Jetzt hat freilich jedes Dorf, ja faſt jedes Haus ſeine Zeitung, die<lb/>Zeitungen werden nach dem Holländiſchen „Kranten“ (Couranten) genannt.<lb/>Gutes kann man dem Türken indeß nicht zutrauen, man weiß noch von<lb/>„damals“, daß er kein Chriſt iſt. — Zu den erzählenden Gedichten gehört<lb/>auch „der Bettler aus Angerland, der die Königstochter ſah und ſie heirathen<lb/>wollte;“ leider ſind die vorhandenen Bruchſtücke zu ſehr entſtellt, um ſie hier<lb/>wiedergeben zu können.<lb/>
+            </p>
+            <p> <lb/>Daß die Volkspoeſie dieſes Striches ſo wenig Epiſches bietet, mag der<lb/>durchaus landwirthſchaftlichen Beſchäftigung, vielleicht auch dem undankbaren<lb/>Erdreich Schuld gegeben werden, das ein langſames Entfalten ſeiner Erzeug-<lb/>niſſe bedingt und ſeinen Pflegern viel eher eine große Geduld, als ein plötz-<lb/>liches Aufwallen oder mächtige Leidenſchaften lehrt. Auf die Lyrik haben<lb/>
+            </p>
+            <p> <lb/>----- 424 / 908 —----<lb/>
+            </p>
+            <p> <lb/>dagegen die unbegrenzten Haiden, die röthlich-weißen Buchweizenäcker in den<lb/>tieferen Moorſtrecken einen günſtigen Einfluß. Allein unter den Tannen ge-<lb/>wahrt der Wanderer eine ferne Staubwolke auf der Heerſtraße, das Abend-<lb/>läuten tönt plötzlich herüber aus dem Kirchdorf, das ſich in die grüne Ems-<lb/>niederung, umgeben von Eichenholz, bettet — zwingt es ihn nicht, zu träu-<lb/>men von den fernen Menſchen und ihrer Liebe oder ihrem Haß?<lb/>
+            </p>
+            <p> <lb/>Nun kommt auch der Schäfer mit ſeiner Haidſchnuckenheerde daher<lb/>geſchritten; er trägt einen weißen Wollmantel, „Haike“, und in der Band<lb/>eine Wurfſchaufel, im Knopfloch feines Wammſes baumelt ein großer Strick-<lb/>ſtrumpf, und er ſchaut mit lichtblauen Augen unter dem großen Krempenhut<lb/>hervor, der ſeine flachsblonden Haare bedeckt. Der Spitz rennt hin und her,<lb/>er hat ſich ſchon ganz heiſer gebellt, die Zunge hängt weit über die ſcharfen<lb/>Zähne hinaus und er feucht vor Eifer und Durſt. Sein Gebieter schreitet<lb/>als gingen ihn die Schafe nichts an, feierlich in ſeinen Holzſchuhen weiter,<lb/>er grüßt den einſamen Wandersmann nicht, er ſieht ihn gar nicht an; aber<lb/>kaum iſt er an dem Fremden vorübergeſchritten, als eine trauernde, weiche<lb/>Melodie um die braunrothen Föhrenſtämme zieht und die Schafe erſchreckt<lb/>in einen kurzen Trab fallen. Der Schäfer ſingt:<lb/>
+            </p>
+            <p> <lb/>„Ich ſchrieb der einmal einen traurigen Brief<lb/>An den Herzallerliebſten mein,<lb/>Auf daß wir Beiden verbunden ſein,<lb/>Drücke tief in Dein Herz hinein.<lb/>
+            </p>
+            <p> <lb/>Ach, Schätzlein, was hab' ich <hi rendition="#aq">Dir</hi> zu leide gethan,<lb/>Daß Du der willſt ſcheiden von mir?<lb/>Das haben die falſchen Zungen gethan,<lb/>Die reden von Dir und von mir!<lb/>
+            </p>
+            <p> <lb/>Du falſcher Verläumder, was redeſt Du von mir,<lb/>Bedenke, was Du thuſt (ſprichſt?),<lb/>Weißt Du nicht, daß Gott thut ſtrafen Dir,<lb/>Ja, ſtrafen, das iſt der gewiß.<lb/>
+            </p>
+            <p> <lb/>Das ewige Leben ſei Dir gegeben,<lb/>Dazu eine gutige Nacht,<lb/>Nun Adjes, mein herzallertauſender Schatz,<lb/>Nun Adjes und lebe wohl!“<lb/>
+            </p>
+            <p> <lb/>Wo eine Zeile zu kurz iſt, wird ohne Weiteres ein „der“ eingeſchoben,<lb/>das aber nicht etwa <hi rendition="#aq">Dir</hi> heißt; im Sprachgebrauch heißt es meiſt „dar“,<lb/>das Plattdeutſch für „dort“.<lb/>
+            </p>
+            <p> <lb/>Dies Lied hat in ſeiner Idee viel Aehnlichkeit mit dem bekannten, von<lb/>Weber componirten „Mein Schatz, der iſt auf die Wanderſchaft hin“. Es<lb/>iſt wohl immer ein gutes Zeichen, wenn eine Bevölkerung die <hi rendition="#aq">Verleumdung</hi>
+               <lb/>als ein Unglück betrachtet; leider hat Deutſchland ganze Provinzen aufzu-<lb/>weiſen, wo das Volk mit Nichts mehr verleumdet werden kann, da die ärg-<lb/>ſten Anklagen gegen Sitte und Rechtſchaffenheit eben nur Wahrheit ſind.<lb/>
+            </p>
+            <p> <lb/>Ein hohes Alter darf man dem ſogenannten „Wachterlied“ zuſprechen,<lb/>deſſen erſte und legte Strophe hier Platz finden mag, weil ihre Form ſie<lb/>beſonders kennzeichnet:<lb/>
+            </p>
+            <p> <lb/>„Der Wachter von den Thoren blas,<lb/>Er blas mit heller Stimme,<lb/>O, bleib noch, bleib, Du junger Knab',<lb/>Noch lang, noch lang kein Tag.“<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>----- 425 / 908 —----<lb/>
+            </p>
+            <p> <lb/>„Wenn man Stroh auf's Feuer legt,<lb/>Und der Schnee dazwiſchen weht,<lb/>Wie bald iſt das verbrennt;<lb/>So geht es auch der Liebe — wie bald iſt ſie zu End'!“<lb/>
+            </p>
+            <p> <lb/>Manch' leichtere Weiſen, als „Zehntauſend Ducaten iſt das kein ſchön's<lb/>Geld? Mein Schaß iſt mir lieber als halber die Welt!“ verrathen ſich als<lb/>Einwanderer, da ſie weder im Weſen, noch in der Wortſtellung dem Ems-<lb/>länder angepaßt ſind. — Noch vor wenig Jahrzehnten waren Tanz und<lb/>Geſang bei dem Münſterländer unzertrennliche Gefährten, ein großer Theil<lb/>der Tänze heißt noch wie die maßgebenden Lieder. Doch ſind ſie nicht eben<lb/>— wie es Ulrich von Liechtenſtein nennt! — <hi rendition="#aq">feine</hi> Tanzweiſen; denn der<lb/>Text iſt alles Andere, nur nicht beluſtigend. In den Gegenden, wo man<lb/>noch zum Tanze ſingt — der Landler und Cſardas ſind ja Lieder! — liegt<lb/>in den Tanzweiſen immer eine mehr oder minder betonte Mahnung an das<lb/>Gefühl; das Einzelntanzen des Burſchen und Mädchens ſcheint im Trennen<lb/>und Wiedererhaſchen nur eine Bekräftigung dieſer Idee auszudrücken. An-<lb/>ders der Emsländer; er tanzt wie die Indianer <hi rendition="#aq">Traditionen</hi>, er tanzt —<lb/>oder tanzte! — gleich dem Roſſe in der Tretmühle; er tanzt weniger mit<lb/>den Füßen oder um von der Stelle zu kommen, als daß er Kopf, Schultern,<lb/>Hände und Kniee bewegt, die Sache iſt ihm Arbeit, Feier und Ernſt. — Es<lb/>iſt faſt rührend, eine Greiſin neben dem Krankenbett ihres hochbetagten Ehe-<lb/>herrn ſagen zu hören: „<hi rendition="#b">Et geiht mit Schien to End, dat wass'n anner</hi>
+               <lb/>
+               <hi rendition="#b">Tieden do ick mit us Vader Malbrook danzte!</hi>“ (Es geht anſcheinend<lb/>zu Ende, das waren andere Zeiten, als ich mit Vater den Malborough<lb/>tanzte.) Der Malborough iſt eine faſt wörtliche Ueberſetzung des bekannten:<lb/>„<hi rendition="#b">Marlborough s'en va-t-en guerre</hi>“, dieſes Spottliedes der Franzoſen auf<lb/>Marlborough und die Engländer, welches noch bis tief in die franzöſiſche Re-<lb/>volution hinein geſungen wurde *).<lb/>
+            </p>
+            <p> <lb/>„Malbrook de geiht in Orlog,<lb/>Malbrook de kump nich wär!“<lb/>
+            </p>
+            <p> <lb/>Den Kehraus von „Bestvader un Bestmoder“, Großvater und Groß-<lb/>mutter, nicht zu vergeſſen! Während der Emsländer die Großeltern „beſte<lb/>Eltern“ nennt, ſagt der Frieſe: „<hi rendition="#b">Schonvader</hi>“, was dem Franzöſiſchen „<hi rendition="#b">Beau</hi>
+               <lb/>
+               <hi rendition="#b">père</hi>“ entſpricht.<lb/>
+            </p>
+            <p> <lb/>Die Mode des „Freier-Zu-Singens“, nämlich einem Mädchen, beſonders<lb/>beim Spinnen, eine nahe Verheirathung ſingend vorauszuſagen, hat etwas<lb/>den griechiſchen Chören Verwandtes, um ſo mehr, als in der That eine<lb/>Ehrenbezeugung der ſingenden Mädchen gegen die Beſungene darin liegt und<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>*) Dieſes ſeiner Zeit und ſpäter in der Revolution während der Kriege<lb/>Frankreichs gegen England berühmte Lied ſtammt aus dem Jahre 1709, nach der<lb/>Schlacht von Malplaquet, und entſtand in den franzöſiſchen Grenzprovinzen auf<lb/>das falſche Gerücht hin, daß die Engländer die Schlacht verloren hätten und Marl-<lb/>borough gefallen ſei. Das Lied ſchilderte den Tod des großen Generals und den<lb/>Eindruck, den die Nachricht auf ſeine Gemahlin in England machen würde. — „Da<lb/>man ihn nicht fortſiegen konnte, so verſuchte man, ihn fortzuſingen“, ſagt der<lb/>Bibliophile Jacob in ſeiner Geſchichte des franzöſiſchen Volksliedes. Damals, wie<lb/>heut! Aufgefriſcht wurde das Lied gegen Ende des Jahrhunderts, 1781, durch die<lb/>Amme des unglücklicheu Ludwig's XVII. Es ward allmälig wieder Mode, ſtieg<lb/>aus der hoben Geſellſchaft zurück in das Volk und das Wiegenlied des Dauphin<lb/>wurde das Lied der Revolution!<lb/>
+            </p>
+            <p> <lb/>----- 426 / 908 —----<lb/>
+            </p>
+            <p> <lb/>dieſe Huldigung ausſchließlich ſtattfindet, wenn keine Männer zugegen ſind.<lb/>Der Text heißt, ohne auf größerm Umkreiſe im Geringſten abzuweichen:<lb/>
+            </p>
+            <p> <lb/>„Achtert Huus steiht son Bömeken,<lb/>Haid Windken weih,<lb/>Dar in dar hang en Kröneken<lb/>Von didlumdei,<lb/>Wenn't kolt is, weiht de Wind.<lb/>Well schall dar unner sitten<lb/>Haid Windken weih,<lb/>Gedrud is de Witste, Gedrud is de Moje,<lb/>De dreg son moje Krone,<lb/>Wenn't kolt is weiht de Wind.“<lb/>
+            </p>
+            <p> <lb/>(Hinter dem Hauſe ſteht ein Bäumchen, Haide-Wind wehe! Darinnen hängt<lb/>ein Krönchen, von Didlumdei. Wenn's kalt iſt, weht der Wind. Wer ſoll darun-<lb/>ter ſitzen? Haide-Wind wehe! Gertrud iſt die Weißeſte, Gertrud iſt die Schöne,<lb/>ſie trägt ſolch’ ſchöne Krone — wenn’s kalt iſt, weht der Wind.)<lb/>
+            </p>
+            <p> <lb/>Andere Sprüche bezeichnen auch den Namen des Auserkorenen, ſind<lb/>aber bei Weitem minder originell. Selbſtverſtändlich fehlen die ſchwülſtigſten<lb/>Carmina nicht, um ſo mehr, als Hochzeitsfeierlichkeiten und Gebräuche in<lb/>großartiger Weiſe beſtehen. Eine Hochzeit vereinigt Hunderte von Theil-<lb/>nehmern und dauert durch mehrere Tage. Die Hochzeitsbitter eilen weit und<lb/>breit umher, Verwandte und Bekannte zu „<hi rendition="#aq">nöthigen</hi>“, denn das Kommen<lb/>iſt eine Ehrenſache. In der Hand tragen dieſe Boten einen Stock, an welchen<lb/>jedes eingeladene unverheirathete Frauenzimmer ein ſeidenes, farbiges Band<lb/>von der Länge des Stockes zu binden hat. Zuerſt alſo wird der Stock mit<lb/>ſeinen flatternden Bändern über die Schwelle geſetzt und dann die Nöthigung<lb/>in Verſen vorgetragen: „<hi rendition="#b">Hier sett ick mien Stock un mien Staf — go’n</hi>
+               <lb/>
+               <hi rendition="#b">dag</hi>!“ (Hier ſetz' ich meinen Stock und meinen Stab — guten Tag!) hebt<lb/>er pathetiſch an und beſchreibt nun die Freuden des Feſtes, dreißig Muſikan-<lb/>ten — wenigſtens drei! werden ſpielen und die Tänzer werden „trappeln“,<lb/>daß die „Pfannen“, (Dachziegel) auf dem Hauſe „rappeln“. Nun gar die<lb/>Speiſen, ganze Heerden ſind geſchlachtet, und als Delicateſſe verſpricht er:<lb/>„<hi rendition="#b">Schneppen mit de lange Becken</hi> (Schnäbel), <hi rendition="#b">dat se sallt ower de Tafel</hi>
+               <lb/>
+               <hi rendition="#b">recken!</hi> (reichen)“, auch in ſolchen Jahreszeiten, wo die armen Schnepfen<lb/>längſt von Oculi bis Palmarum ihre Freiheit gerettet haben.<lb/>
+            </p>
+            <p> <lb/>Die Trinklieder zeigen, daß ſie weder bei Reben-, noch ſchäumendem<lb/>Gerſtenſaft heimiſch ſind; das alte Soldknechtslied, welches einſt unter den<lb/>Mauern des belagerten Magdeburgs entſtanden ſein ſoll, kommt in folgender<lb/>Verſion vor:<lb/>
+            </p>
+            <p> <lb/>„Dat Hänsken von Bremen, dat harr der en Guul,<lb/>Den harr der son brune Snuut.<lb/>Mit 't ene Ooge dar sach he nich mit<lb/>Dat anner dat was der rein uut —<lb/>Rein uut — rein uut! Wiske dien Snuut!“<lb/>
+            </p>
+            <p> <lb/>(Das Hänschen von Bremen, das hatt' einen Gaul, der hatt’ eine braune<lb/>Schnauze, mit dem einen Auge ſah er nicht mit, das andere war rein (ganz) aus —<lb/>rein aus, rein aus, wiſche die Schnauz'!)<lb/>
+            </p>
+            <p> <lb/>Die Geſellſchaftslieder ſind auch in den gebildeten Claſſen ungemein<lb/>beliebt, aus dem Weinglas ſteigt die Gemüthlichkeit und mit ihr erinnert<lb/>man ſich ſo vieler ehrwürdiger Lieder; was wäre eine Mahlzeit, wo nicht<lb/>„Rundgeſang und Rebenſaft“ beim Nachtiſch die Runde um den Tiſch machte;<lb/>sogar der katholiſche Geiſtliche, im Volksmund „Herr Ohm“, Herr Onkel,<lb/>
+            </p>
+            <p> <lb/>----- 427 / 908 —----<lb/>
+            </p>
+            <p> <lb/>genannt, ſtimmt kräftig ein und bei der Frage: „Bruder, Deine Liebſte<lb/>heißt!“ — erklingt ſein ſonores: „<hi rendition="#b">Ecclesia</hi>!“ die Kirche, daß man hört, es iſt<lb/>ihm Ernſt damit.<lb/>
+            </p>
+            <p> <lb/>Neben den Liedern, welche den Leuten einfallen, wenn man ſie nach<lb/>denſelben fragt, giebt es noch allerhand Gerümpel, deſſen ſich kein vernünfti-<lb/>ger Menſch erinnert, das nur Kinderſpielzeug iſt und das ſeit einem Jahr-<lb/>hundert Niemand mehr veränderte oder ausſchmückte, weil es zu alt und zu<lb/>ſehr aus der Mode war. Höchſtens erinnert ſich ihrer noch die Mutter,<lb/>wenn ſie ſchon ihr ganzes Repertoir neben der Wiege des ſchreienden Spröß-<lb/>lings erſchöpft hat, und ſie lacht, wenn die älteren Kinder die „Geckheiten“<lb/>ſo viel ſchneller behalten, als die verſtändigen Sachen — das friſtete ihr<lb/>Leben und wies ihnen eine Stellung an, zu welcher ſie, größerntheils, teines-<lb/>wegs berufen waren.<lb/>
+            </p>
+            <p> <lb/>Die eigentlichen Wiegenlieder ſind durchaus praktiſcher Natur; eine<lb/>Bäuerin tändelt nicht mit Bildern, ſie zerſtreut das Kind. Das überall ver-<lb/>breitete „Tuck, tuck, tuck, mien Höhneten rc.“ iſt auch hier bekannt; ganz local<lb/>aber ſind Strophen wie:<lb/>
+            </p>
+            <p> <lb/>Vader un Moder bünt wiet von Huus<lb/>De köne wi nich ropen,<lb/>Us Vader is in't Heenland<lb/>Un koft us Kind en Leheband,<lb/>Mit twee echt sülvern Knöpken<lb/>Denn lehrt us Kind gan löpken.“<lb/>
+            </p>
+            <p> <lb/>(Vater und Mutter sind weit von Haus, die können wir nicht rufen, unſer<lb/>Vater iſt im Heenland und kauft unſerm Kind ein Gängelband, mit zwei echt ſil-<lb/>bernen Knöpfchen, dann lernt unſer Kind ſchnell laufen.)<lb/>
+            </p>
+            <p> <lb/>Das „Heenland“ iſt der benachbarte Theil der niederländiſchen Provinz<lb/>Groningen, dorthin gehen im Sommer die Männer auf Arbeit, dorther<lb/>werden gute Stoffe, Kaffee rc. über die Grenze geſchwärzt.<lb/>
+            </p>
+            <p> <lb/>Das „<hi rendition="#b">use</hi>“, <hi rendition="#aq">unſer</hi>, iſt eine Bezeichnung, welche auf Alles, was das<lb/>Haus umfaßt, lebend oder leblos, angewandt wird; es drückt den Stempel<lb/>der Gemeinſamkeit auf den ganzen Kreis, den das Beſitzthum des Haus-<lb/>herrn umhegt.<lb/>
+            </p>
+            <p> <lb/>Das kleine Lied beruhigt das weinende Kind mit der Verſicherung,<lb/>die Eltern ſeien außer Hörweite; ſonſt wären ſie ja da, wenn das Kind<lb/>weint!<lb/>
+            </p>
+            <p> <lb/>Beim Abzählen der Kinder zu Fangen oder Verſteck hat ſich ein Spott-<lb/>reim auf hochmüthige „Häusler“ (kleine Grundbeſitzer) bewahrt, der den<lb/>Namen Englands mit einflicht, auf deſſen Erwähnung die Forſcher im Ge-<lb/>biet der alten Poeſie beſondere Bedeutung legen.<lb/>
+            </p>
+            <p> <lb/>„Husmann wull en Junker weren,<lb/>Un kunn sien eegen Gout nich vertehren<lb/>Roge, Riege blanket Swerdt!<lb/>De Pape quam von Engelland<lb/>Hecken, Becken, Papenwecken“ etc.<lb/>
+            </p>
+            <p> <lb/>(Hausmann wollt' ein Junker werden, konnte ſein eigenes Gut nicht verzehren,<lb/>Roge Riege, blankes Schwert. Der Pfaffe kam von Engelland, Hecken, Becken,<lb/>Pfaffenwecken rc.)<lb/>
+            </p>
+            <p> <lb/>Ein anderer Riemelrei, der geſungen wird, wenn die Knaben im Früh-<lb/>jahr die Rinde der Weidenzweige losklopfen, um Flötpfeifen daraus zu<lb/>
+            </p>
+            <p> <lb/>----- 428 / 908 —----<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>----- 429 / 908 —----<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>----- 430 / 908 —----<lb/>
+            </p>
+            <p> <lb/>ſchneiden, ſtammt aus der Reformation, hat aber in einem katholiſchen Land-<lb/>ſtrich ſeine Bedeutung verloren; er iſt harmlos im Kindermund:<lb/>
+            </p>
+            <p> <lb/>„Sip, sap, Sunne!<lb/>Mien Moder is 'ne Nunne,<lb/>Mien Vader is en Pape,<lb/>Kann moje Fleitpiepkes maken.<lb/>Ik wull dat Kätken t’ Ohr afsnien,<lb/>Dat Kätken säh von: Mi, mau.“<lb/>
+            </p>
+            <p> <lb/>(Sip, ſap, Sonne! Meine Mutter iſt 'ne Nonne, mein Vater iſt ein Pfaffe,<lb/>kann ſchöne Flötpfeifen machen. Ich wollt’ dem Kätzchen (Katharina von Bora?)<lb/>das Ohr abſchneiden, das Kätzchen ſagte: Mi-Mau!)<lb/>
+            </p>
+            <p> <lb/>Den kleinen, faulen Spinnerinnen ſingt man warnend:<lb/>
+            </p>
+            <p> <lb/>„Hebt ji wall hört van de franzke Sclacht,<lb/>Hebt ji wall hört van Katje?<lb/>Katje was 'ne Oergelfron,<lb/>De spunnt en Draht as en Kabeltau.“<lb/>
+            </p>
+            <p> <lb/>(Habt Ihr gehört von der franz'ſchen Schlacht, habt Ihr gehört von Käthchen?<lb/>Käthden war 'ne Orgelfrau und ſpann einen Faden wie ein Kabeltau.)<lb/>
+            </p>
+            <p> <lb/>Der Schimpf, einen ſo entſetzlichen Faden zu ſpinnen, bannt das „<hi rendition="#b">lutke</hi>
+               <lb/>
+               <hi rendition="#b">Wigd</hi>“ (kleine Mädden) an das „<hi rendition="#b">Weel</hi>“ und den „<hi rendition="#b">Diessen</hi>“ (Rad und<lb/>Wocken); denn das Kabeltau iſt der dickſte aller Stricke.<lb/>
+            </p>
+            <p> <lb/>Vor Eltern und vor dem Alter herrſcht große Ehrfurcht; jüngere Per-<lb/>ſonen reden ältere in allen Verwandtſchaftsverhältniſſen (außer in der Ehe)<lb/>mit „Sie“, „I“ oder „Yi“ (Ihr) an. So hat man nöthig erachtet, manche<lb/>Lieder zu erläutern, um das Abweichen von den heimiſchen Sitten glauben<lb/>zu machen; in einem Entführungsgedicht, das an das von H. Heine benutzte<lb/>„Es fiel ein Reif in der Frühlingsnacht“ erinnert, heißt es:<lb/>
+            </p>
+            <p> <lb/>„Sie gingen zuſammen auf’s Wandern,<lb/>Un frögen ehr Oellern ook nich!“<lb/>
+            </p>
+            <p> <lb/>Damit man ja nicht glaubt, ſie hätten ihre Eltern um Erlaubniß zum Weg-<lb/>laufen gefragt!<lb/>
+            </p>
+            <p> <lb/>In den Räthſeln des Emslandes hat ſich auch noch manch' hochbetagte<lb/>Poeſie erhalten; ſo heißt es von den dort allgemein von Männern und<lb/>Frauen benutzten Schlittſchuhen:<lb/>
+            </p>
+            <p> <lb/>„Dar kömen twee Duwen<lb/>Van Engelland stuwen“ etc.<lb/>
+            </p>
+            <p> <lb/>(Es kamen zwei Tauben von Engeland ſtauben.)<lb/>
+            </p>
+            <p> <lb/>Ferner ein anderes Räthſel:<lb/>
+            </p>
+            <p> <lb/>„Up Lilach stah ick,<lb/>Up Lilach gab ick,<lb/>Up Lilach bin ick walgemot.<lb/>Dar kömen mi söven Landsheeren to möt,<lb/>De frögen mi na kleen Hunnekes Nam,<lb/>Kleen Hunnekes Nam was mi vergeten,<lb/>Ick hebt all dremal segt, I schöllt noch nich weten!“<lb/>
+            </p>
+            <p> <lb/>(Auf dem Leilach ſteh’ ich, auf dem Leilach geh' ich, auf dem Leilach bin ich<lb/>wohlgemuth. Da kamen mir ſieben Landsherren entgegen, die fragten mich nach<lb/>klein Hündchens Namen, klein Hündchens Name iſt mir vergeſſen, ich hab’s drei<lb/>Mal geſagt — Ihr ſollt's noch nicht wiſſen.)<lb/>
+            </p>
+            <p> <lb/>----- 431 / 908 —----<lb/>
+            </p>
+            <p> <lb/>Das Wort „Leilach“ iſt nicht mehr gebräuchlich, ja, in ſeiner Bedeutung<lb/>unverſtändlich geworden; außer in dieſem Räthſel kann man es ſo erloſchen<lb/>nennen, als die Sprache jenes auf einem Plateau verhungerten Indianer-<lb/>ſtammes, den nur ein redender Papagei überlebte, welchen Hume in Amerika<lb/>reden hörte, ohne daß ein Sterblicher die Worte hätte verſtehen können.<lb/>
+            </p>
+            <p> <lb/>Der Dialect zeigt ſich in dieſen „ſchnackiſchen“ Proben ſehr unvortheil-<lb/>haft; derſelbe iſt nicht für das Leichte, Scherzhafte, ſeinen ganzen Reichthum<lb/>und ſeine vollſtändige Kraft heftet er vorzugsweiſe an die großen Ereigniffe<lb/>des Menſchenlebens, namentlich an das ernſteſte — den Tod. Der Ems-<lb/>länder kann um ſo ruhiger zu ſeinen Vätern ſchlafen gehen, als er ihnen,<lb/>durch keine Neuerung entfremdet, unter ganz derſelben Feierlichkeit naht, wie<lb/>dieſe ihren Vorfahren. Mit dem alten Ceremoniell, das ſich noch trotzig allen<lb/>Zeiteinflüſſen entgegenſtemmt, ſind dieſem legten Act auch die alten Ausdrücke<lb/>geblieben, die, in nachſtehende Dichtung zuſammengefaßt, hier Platz finden<lb/>mögen, obwohl ſie nicht <hi rendition="#aq">aus</hi> dem Volksgeiſt, gewiß aber im Volksgeiſt ent-<lb/>ſprungen iſt.<lb/>
+            </p>
+            <p> <lb/>De olde Spinster.<lb/>
+            </p>
+            <p> <lb/>„De Wind, de weiht,<lb/>Dat Weel, dat dreiht,<lb/>De Regen tömig kling,<lb/>De olde Spinster sing,<lb/>Denn heller up un denn mer liese,<lb/>Up ehre oldeweldske Wiese.<lb/>
+            </p>
+            <p> <lb/>Spleet ut, spleet ut!<lb/>Ick sün de Bruut,<lb/>He töwt all dertig Jahr<lb/>Un noch nien Henkleed klar,<lb/>Un noch nien Huushold för mi meten,<lb/>De Hilke, sorg ick, word vergeten!<lb/>
+            </p>
+            <p> <lb/>Mien Haar is gries<lb/>Van Angst un Krüs,<lb/>Den sturen Set van Tiet<lb/>Wer ick in d’ Grouwen quit,<lb/>Dat Kistenlid verschlut up't beste<lb/>Un breng Verdrut un Pien tou Röste.<lb/>
+            </p>
+            <p> <lb/>Spinn lang, spinn kot,<lb/>För alle bot,<lb/>Word doch de Berge bört,<lb/>Werd doch de Klocken hört,<lb/>Siet dertig Jahren hebt se klungen<lb/>Un röpen: Kumm bi Dinen Jungen.<lb/>
+            </p>
+            <p> <lb/>Ick töwe hier<lb/>Upt lesste Ühr<lb/>A'st Lämmken na de Au,<lb/>Un 't kump mi nich to gau,<lb/>Nien Kind mag so Sünd Niclas hopen,<lb/>As ick mien Kuhle endlick open,<lb/>
+            </p>
+            <p> <lb/>Spleet ut, spleet ut,<lb/>Ick be abslut:<lb/>Mien lewe Heer kum bold<lb/>Un mak mi blied un stolt,<lb/>Im Hemmel war de Steeren blenket<lb/>Dar weet ick well üm mi noch denket.<lb/>
+            </p>
+            <p> <lb/>----- 432 / 908 —----<lb/>
+            </p>
+            <p> <lb/>
+            </p>
+            <p> <lb/>De Wind de weiht,<lb/>Dat Weel dat steiht,<lb/>De Regen tömig kling,<lb/>Nien olde Spinster sing.<lb/>De Frönde hebt ehr Kerktög nahmen,<lb/>Se sülvst is na den Kerkhof kamen.“<lb/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#aq">Die alte Spinnerin</hi>.<lb/>
+            </p>
+            <p> <lb/>„Der Wind der weht,<lb/>Das Spinnrad dreht,<lb/>Der Regen ſäumig klingt,<lb/>Die alte Spinn'rin singt,<lb/>Bald heller auf, dann wieder leiſe<lb/>In ihrer alten Liederweiſe.<lb/>
+            </p>
+            <p> <lb/>Zieh aus! Zieh aus!<lb/>Ich bin die Braut,<lb/>Er harrt ſchon dreißig Jahr'<lb/>Und noch kein Todtenhemd fertig,<lb/>Und noch kein Sarg für mich gemeſſen,<lb/>Die Heirath, fürcht' ich, wird vergeſſen.<lb/>
+            </p>
+            <p> <lb/>Mein Haar iſt greis<lb/>Von Angſt und Kreuz,<lb/>Die ſchwere Lebenszeit<lb/>Leg' ich im Grabe ab.<lb/>Sargdeckel ſchließt auf's Beſte zu,<lb/>Bringt Kummer und bringt Pein zur Ruh.<lb/>
+            </p>
+            <p> <lb/>Spinn lang, ſpinn kurz<lb/>Für Jedermann,<lb/>Die Bahre wird gehoben,<lb/>Erklingen Glocken oben,<lb/>Seit dreißig Jahr’ hat's mir geklungen,<lb/>Gerufen: Komm zu Deinem Jungen.<lb/>
+            </p>
+            <p> <lb/>Ich warte hier<lb/>Der letzten Stund'<lb/>Wie's Lamm der Mutter harrt,<lb/>Sie kommt mir nicht zu ſchnell,<lb/>Kein Kind mag auf St. Niclas hoffen,<lb/>Als ich mein’ Grube endlich offen.<lb/>
+            </p>
+            <p> <lb/>Zieh aus! Zieh aus!<lb/>Ich bete ſehr:<lb/>O, lieber Herr, komm bald,<lb/>Und mach' mich froh und ſtolz,<lb/>Im Himmel, wo die Sterne blinken,<lb/>Weiß Den ich, der an mich gedenket.<lb/>
+            </p>
+            <p> <lb/>Der Wind der weht,<lb/>Das Rad das ſteht,<lb/>Der Regen ſäumig klingt,<lb/>Kein’ alte Spinn'rin ſingt,<lb/>Ihr Kirchzeug haben die Freunde genommen,<lb/>Sie ſelbſt iſt auf den Kirchhof kommen.“<lb/>
+            </p>
+            <p> <lb/>Einer treuen Ueberſetzung mußte der Wohlklang derſelben geopfert<lb/>werden. <hi rendition="#aq">Junge</hi> heißen alle unverheiratheten Männer, ohne Rückſicht auf<lb/>ihre Jahre. St. Nicolastag beſchenkt man die Kinder wie anderwärts zum<lb/>Chriſtfeſt. — Der Emsländer ſagt nicht: Ich denke an Didy — ich ſorge<lb/>
+               <hi rendition="#aq">für</hi> Dich! Er ſorgt und denkt um den Andern, gleichſam einen Kreis der<lb/>Liebe ziehend.<lb/>
+            </p>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

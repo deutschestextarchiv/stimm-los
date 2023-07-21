@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ihr eigener Herr</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_herr_1872</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Ihr eigener Herr, 1872.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Ihr eigener Herr</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1872</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">1</biblScope><biblScope unit="pages">S. 219–281</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-1</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Ihr eigener Herr</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p/>
+            <p> <lb/>Ihr eigener Herr.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0234" n="220" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=234"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0235" n="221" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=235"/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#in">L</hi>ena Bredebeck ſtellte ſich mitten<lb/>in die geöffnete Scheunenthür<lb/>ihres Hauſes, ſtemmte die Hände<lb/>in die kräftige Taille und über-<lb/>ſah durch den Schlagbaum einen<lb/>Theil ihrer Felder und Wieſen.<lb/>Auf dem Felde ackerte ein Knecht,<lb/>denn die Ernte war ſchon eingefahren, und auf<lb/>der Wieſe hütete die kleine Magd an fünfzehn<lb/>kräftige, weißbunte Kühe, die jährigen Rinder nicht<lb/>mit eingerechnet. Die Hühner kamen vom Dünger,<lb/>wo ſie geſcharrt hatten, als ſie Lena Bredebeck da<lb/>ſtehen ſahen, wandten die Hälſe und blickten an<lb/>ihrer ſtattlichen Geſtalt empor; der alte Haushund<lb/>Namens Strom, der vor dem Kälberſtall auf einem<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0236" n="222" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=236"/>
+            </p>
+            <p> <lb/>Bündel Stroh geſchlafen hatte, ſtand auf, näherte<lb/>ſich der kräftigen Jungfrau in jener vorſichtigen<lb/>Art, die zwar eine unterwürfige Liebkoſung beab-<lb/>ſichtigt, aber zugleich die Fluchtbereitſchaft nicht<lb/>außer Augen ſetzt. Lena's anſehnliche Füße zeig-<lb/>ten ſich mit noch umfangreicheren Holzſchuhen, wie<lb/>dieſelben im norddeutſchen Flachlande üblich ſind,<lb/>bekleidet, und Strom’s Rippen waren mehrfach<lb/>mit dieſen Holzſchuhen in unliebſame Berührung<lb/>gekommen, ohne daß der arme Köter in ſeinem<lb/>Betragen einen ausreichenden Grund für dieſen<lb/>Knuff entdecken konnte. Deshalb die Vorſicht!<lb/>Da aber Lena nicht einmal den <hi rendition="#g">Menſchen</hi> ge-<lb/>genüber jemals auf den Gedanken kam, ihr Thun<lb/>und Laſſen zu rechtfertigen, ſo wäre dies einem<lb/>
+               <hi rendition="#g">Hunde</hi> gegenüber wahrhaft lächerlich. Es giebt<lb/>ja Menſchen, welche ſich nach Anderen richten<lb/>
+               <hi rendition="#g">müſſen, viele</hi> ſogar — der Amtsrichter nach<lb/>dem Landdroſten, der Paſtor nach dem Biſchof,<lb/>Lena's Dienſtboten und Heuerlinge nach ihr ſelbſt<lb/>— aber die Bredebeckbäuerin brauchte ſich nach<lb/>Niemand zu richten, als nach dem lieben Gott im<lb/>Himmel. „Ich bin mein eigener Herr!“ ſagte ſie<lb/>und handelte auch darnach. Die Wirthſchaft ging<lb/>unter Lena's Leitung knapp und ordentlich; als<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0237" n="223" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=237"/>
+            </p>
+            <p> <lb/>zwei ihrer Knechte mit in den Krieg gegen Frank-<lb/>reich ziehen mußten, da fuhr ſie mit dem zweiten,<lb/>verwaiſten Geſpann Pferden ſelbſt ein, und der<lb/>Großknecht hatte ſeine liebe Noth, daſſelbe zu lei-<lb/>ſten, was ſeine Herrin ausführte. Freilich, die<lb/>Knochen hatte ſie zur Arbeit und rechte Manns-<lb/>länge dazu, und derbe Fäuſte und einen großen<lb/>rothen Mund mit weißen geſunden Zähnen, die<lb/>ſich in dem kräftigen ſchwarzen Pumpernickel täg-<lb/>lich von Neuem ausdauernd abpolirten, und roſige<lb/>Wangen mit breiten Backenknochen, und gelb-<lb/>blonde Haare und ein paar helle, helle, herrlich<lb/>blaue Augen. Die blieben das Schönſte an ihr<lb/>und ſo rein, wie ein klarer Himmel! Obwohl<lb/>Lena nicht die Sanfteſte war und eine gute Klinge<lb/>ſchlug, wenn ſie gereizt ward, ſo war über dieſe<lb/>Augenſterne doch nie eine Unwahrheit oder Ver-<lb/>ſtellung oder ein unſauberer Gedanke gezogen.<lb/>
+            </p>
+            <p> <lb/>Die Sonne ſchien ruhig auf die Landſchaft, die<lb/>Vögel ſangen in dem Apfelbaum hinter dem<lb/>Schweineſtall und es war wirklich ſchwer zu glau-<lb/>ben, daß drüben in Frankreich ein blutiger, lan-<lb/>ger Krieg ausgefochten wurde. Lena dachte auch<lb/>nicht daran, ſie meinte immer, ſie hätte genug<lb/>an ihre eigenen Sachen und Pflichten zu denken,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0238" n="224" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=238"/>
+            </p>
+            <p> <lb/>bei all' dem andern Simuliren komme doch nichts<lb/>heraus.<lb/>
+            </p>
+            <p> <lb/>Sie ſann alſo über ihre eigenen Angelegen-<lb/>heiten, als ſich jenſeits des Schlagbaums, neben<lb/>den Erlenbüſchen, eine ſchlanke Männergeſtalt<lb/>zeigte. Sobald Lena dieſelbe bemerkte, erhob ſie<lb/>auch die rechte Hand vom Schürzengurt und winkte<lb/>dem Jüngling gebieteriſch genug. Dieſer kam mit<lb/>einer Gemeſſenheit heran, die etwas an Strom’s<lb/>Vorſicht erinnerte, obwohl ſie nicht ganz frei von<lb/>Trotz war; er ſtellte ſich Lena gegenüber, die ihn<lb/>mit ihren blauen Augen prüfend und gedanken-<lb/>voll anſah. Wer hätte den jungen Menſchen nicht<lb/>auch gern angeblickt? Er war nicht friſch, nicht<lb/>heiter, nicht allzu kräftig, aber bei alledem männ-<lb/>lich; ſeine lichtbraunen Augen ſchattirten mit den<lb/>etwas dunkleren, lockigen Haaren, die Augenbogen<lb/>lagen fein, gerade und ſchwarz da und der Mund<lb/>war klein wie der einer Frau. Alles an ihm war<lb/>ſchlank und biegſam, vielleicht nicht energiſch genug<lb/>und etwas nachläſſig in Haltung und Anzug, aber<lb/>die Natur hatte gewiß nicht gegen ihn gegeizt.<lb/>
+            </p>
+            <p> <lb/>„Was ſuchſt Du denn, Matthes, was treibſt<lb/>Du Dich auf dem Bredebeckhof umher?“ forſchte<lb/>Lena nicht eben freundlich.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0239" n="225" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=239"/>
+            </p>
+            <p> <lb/>„Darf ich nicht auf dem Land und Sand meiner<lb/>eigenen Braut umhergehen?“ gegenfragte Matthes,<lb/>der Lena's Verlobter war.<lb/>
+            </p>
+            <p> <lb/>„So, haſt mich geſucht —? nun dann will-<lb/>kommen, Matthes!“ Sie ſtreckte ihm die breite,<lb/>rothe Hand hin, die er zwiſchen ſeine ſchlanken,<lb/>braunen Finger nahm.<lb/>
+            </p>
+            <p> <lb/>„Was könnte ich ſonſt ſuchen?“ brummte er.<lb/>
+            </p>
+            <p> <lb/>„Nein, Du <hi rendition="#g">kannſt</hi> nichts ſuchen außer mir!“<lb/>rief Lena hoch aufgerichtet. „Glück genug für<lb/>Dich, daß die Bredebeck-Bäuerin einen ſo jungen<lb/>Fant wie Dich auserwählt hat, aber mir denkt,<lb/>wenn meine Kräfte abnehmen, ſo wirſt Du noch<lb/>ein Jahr oder zehn rüſtig bei der Arbeit ſein!“<lb/>
+            </p>
+            <p> <lb/>„Sind das <hi rendition="#g">alle</hi> Deine Gedanken über unſer<lb/>Verlöbniß?“ fragte Matthes unwillig.<lb/>
+            </p>
+            <p> <lb/>„O nein, nicht alle! Ein jüngerer Bauer, rechne<lb/>ich, wird mir immer beſſer gehorchen, als einer,<lb/>der ſchon in den Jahren iſt, und dann ſtoßen<lb/>auch die Felder Eures Hofes an die meinigen,<lb/>ſo wird dereinſt alles richtig zu einander kommen!“<lb/>
+            </p>
+            <p> <lb/>Matthes hatte die Arme verſchränkt und ſah<lb/>unwirſch zur Erde, dann plötzlich auffahrend fragte<lb/>er ſcharf:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0240" n="226" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=240"/>
+            </p>
+            <p> <lb/>„So, und an meiner Perſon gefällt Dir nichts,<lb/>als daß ich jung und nachgiebig bin?“<lb/>
+            </p>
+            <p> <lb/>Lena's Augen gingen von dem Ausdruck des<lb/>Staunens zu einer ſanfteren Regung über: „Du<lb/>fragſt recht ſonderbar, Matthes, es wäre dazu<lb/>wohl <hi rendition="#g">nach</hi> der Hochzeit die rechte Zeit geweſen,<lb/>weißt Du, bis heute hat mir noch kein Burſch'<lb/>beſſer gefallen als Du, obwohl Du ein gut Theil<lb/>ſtärker zur Arbeit ſein ſollteſt; vielleicht füttere<lb/>ich Dich noch mehr heraus! Seit Deine Mutter<lb/>ſelig den Kochlöffel aus der Hand gelegt hat,<lb/>mag's manchmal mit Eurem Breitopf nicht zum<lb/>Beſten ſtehen!“<lb/>
+            </p>
+            <p> <lb/>Matthes antwortete nicht, ſeine Aufmerkſamkeit<lb/>ſchien nunmehr dem Innern des Hauſes zu-<lb/>gewendet, in deſſen Thür die Beherrſcherin noch<lb/>immer breit und ſtattlich aufgepflanzt war.<lb/>
+            </p>
+            <p> <lb/>Ueber den jetzt leeren Viehſtänden, die zu bei-<lb/>den Seiten der Dreſchtenne angebracht waren,<lb/>ſtand eine Leiter aufgerichtet, auf deren oberſten<lb/>Sproſſen ſich eben ein paar kleine, nackte Füße<lb/>nebſt dem Saume eines braunen Rockes aus Haid-<lb/>ſchnuckenwolle ſehen ließen. Behende traten die<lb/>kleinen Füße von einer Staffel auf die andere,<lb/>und ihnen folgte eine faſt noch kindliche Mädchen-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0241" n="227" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=241"/>
+            </p>
+            <p> <lb/>geſtalt und ein ſchwarzer Krauskopf mit dunklen,<lb/>lebensfrohen Augen.<lb/>
+            </p>
+            <p> <lb/>„Bäuerin!“ rief die Kletternde, indem ſie die<lb/>letzten fünf Stufen überſprang und auf der Lehm-<lb/>tenne ſtand, „rathet nur, wie viel Eier ich da oben<lb/>gefunden habe, nun wie denkt Ihr?“<lb/>
+            </p>
+            <p> <lb/>„Ich denke,“ erwiderte Lena ſtrafend, „daß<lb/>Du ein faules, nichtsnutziges Ding biſt und bei<lb/>keiner Arbeit aushältſt —! Habe ich Dich nicht in<lb/>den Garten zum Jäten geſtellt, und ſtatt deſſen<lb/>kletterſt Du auf den Balken umher?“<lb/>
+            </p>
+            <p> <lb/>„Ganz recht!“ rief das Mädchen, „ich war<lb/>auch im Garten, ich wollte auch gewiß und wahr-<lb/>haftig jäten, da ſah ich den Uelk (Iltis) ſachtfüßig<lb/>am Dache emporſteigen — ſollte ich ihm die Eier<lb/>laſſen! Bei Leibe nicht, ich war noch flinker als<lb/>Meiſter Eierdieb!“<lb/>
+            </p>
+            <p> <lb/>Lena's geſunder breiter Mund verzog ſich zum<lb/>Lachen. „Wie viel ſind's denn?“ fragte ſie.<lb/>
+            </p>
+            <p> <lb/>„Neunundzwanzig, Bäuerin, einen ganzen Vor-<lb/>tuch voll, die großen müſſen von der weißen Henne<lb/>ſein, ich möchte wetten, das eine hat einen dop-<lb/>pelten Dotter — wollen wir wetten, Matthes?“<lb/>
+            </p>
+            <p> <lb/>„Was gilt's?“ rief der junge Mann lebhaft.<lb/>
+            </p>
+            <p> <lb/>Die Kleine erröthete und lachte: „Du weißt,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0242" n="228" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=242"/>
+            </p>
+            <p> <lb/>Bauer, daß ich auf der Straße gefunden bin und<lb/>daß man vergeſſen hat, meine Mitgift neben mich<lb/>zu legen. Ich beſitze daher nichts als eine wun-<lb/>derliche ſilberne Münze, welche mir der gute Ma-<lb/>homed ben Ali geſchenkt hat, als ich noch bei den<lb/>Künſtlern war. Mahomed pflegte mich auf einer<lb/>Schiebkarre auf ein Seil hinauf zu fahren, das<lb/>in den Kirchthurm oder auf ein hohes Dach ge-<lb/>ſpannt war. Wenn wir hoch, hoch oben anlangten,<lb/>dann faßte er mich um den Leib, zeigte mich den<lb/>Leuten und küßte mich — er war ſehr gut zu mir.<lb/>Nun Matthes?“<lb/>
+            </p>
+            <p> <lb/>„Ei, was ſoll die alberne Wette?“ grollte Lena,<lb/>„der Matthesbauer iſt zu alt für ſolche Kindereien.“<lb/>
+            </p>
+            <p> <lb/>„Oho,“ lachte die Kleine, „wie lang’ iſt's denn,<lb/>da ſaß er mit uns auf der Schulbank, in drei<lb/>Jahren bin ich ſo alt als er!“<lb/>
+            </p>
+            <p> <lb/>„Ja, wir wollen wetten!“ rief Matthes, durch<lb/>den kecken Widerſtand des Schwarzkopfs ermuthigt,<lb/>der bereits jubelnd in die Küche geſprungen war,<lb/>um das Ei zu kochen.<lb/>
+            </p>
+            <p> <lb/>In dieſem Augenblicke vernahm man in den<lb/>tiefen Sandgleiſen des Fahrweges, welcher ſich<lb/>quer vor dem Schlagbaum hinzog, das Knarren<lb/>eines Fuhrwerks, Strom fing mörderlich zu<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0243" n="229" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=243"/>
+            </p>
+            <p> <lb/>bellen an und die Hühner ergriffen die Flucht.<lb/>Langſam und bedächtig kam ein hoch aufgemauertes<lb/>Fuder Torf in Sicht, neben welchem ein alter<lb/>Bauer im blauen Frieswams einherſchritt.<lb/>
+            </p>
+            <p> <lb/>„Hü! Hü!“ rief der Vetter am Schlagbaum<lb/>— der Bauer war nämlich Lena's Vetter — die<lb/>Braunen ſtanden wie die Bäume, ihr Lenker wand<lb/>die Zügel um die Wagenleiter und ſtapfte auf die<lb/>Bäuerin los. „Nun, Nichte, wie geht's? Ihr<lb/>ſeid hübſch voran mit der Arbeit, wie ich ſehe; das<lb/>muß man Dir laſſen, fix am Platze wie nur Einer<lb/>— hat Matthes Dir geholfen?“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Mir</hi> geholfen? Nun, Vetter, Ihr kennt mich<lb/>ſchlecht, ich helfe mir <hi rendition="#g">ſelber</hi>, wozu wäre ich denn<lb/>mein eigener Herr?“<lb/>
+            </p>
+            <p> <lb/>„Na, Lenchen, ich will Dir ſagen, ich für mein<lb/>Theil halte nichts davon, wenn die Weiber ihre<lb/>eigenen Herren ſind, weißt Du. Denn warum?<lb/>was eine rechte Frau ſein will, die muß gehorchen<lb/>können!“<lb/>
+            </p>
+            <p> <lb/>„Wenn ſie Geld und Verſtand genug hat,<lb/>weshalb ſoll ſie nicht commandiren? Ein- für<lb/>allemal, Vetter, ich kann nicht gehorchen, ich<lb/>brauche es nicht und will es auch nicht!“<lb/>
+            </p>
+            <p> <lb/>Der Alte ſchüttelte den Kopf und ſchritt der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0244" n="230" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=244"/>
+            </p>
+            <p> <lb/>Küche zu, indem er murmelte: „Ich will mir nur<lb/>eine Kohle auf die Pfeife legen. Nichte, mir iſt's<lb/>alles eins, wie Du Deinen Kopf trägſt, aber früher<lb/>oder ſpäter kommt für Jedermann die Stunde, wo<lb/>er ſich beugt, und hätte er einen Nacken aus<lb/>Hagebuchen, was das härteſte Holz ſein thut.<lb/>Weißt Du, wenn man durch ſechzig Jahre über<lb/>die Thürſchwelle in die Welt geguckt hat, da ruft<lb/>man den Leuten zu: Gott helfe Euch! und räth:<lb/>Halt' Dich an Gott!“<lb/>
+            </p>
+            <p> <lb/>„O, ich bin auch keine Heidin oder Scheeren-<lb/>ſchleiferin!“ ſtritt Lena. „Ich habe meine dreißig<lb/>Jahre im Guten verlebt und Andacht und Almoſen-<lb/>geben obenan geſtellt, aber mein eigener Herr bleibe<lb/>ich doch!“<lb/>
+            </p>
+            <p> <lb/>Inzwiſchen hatten Matthes und der Schwarz-<lb/>kopf das Ei gekocht und aufgeſchlagen — das<lb/>Mädchen jubelte laut, als wirklich zwei ſchöne,<lb/>citrongelbe Dotter in demſelben lagen, und ſie<lb/>nahmen jeder einen und aßen ihn auf.<lb/>
+            </p>
+            <p> <lb/>„Nun, Femi,“ fragte Lena, als ſie mit dem Vet-<lb/>ter eintrat, „denkſt wohl heute Feiertag zu machen?“<lb/>
+            </p>
+            <p> <lb/>„Ich gehe ſchon! Seht nur, ich habe meine<lb/>Wette gewonnen, Bäuerin! Guten Tag auch,<lb/>Bruchbauer, was giebt es Neues, Ohm?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0245"/>[231[<lb/>
+            </p>
+            <p> <lb/>„Neues, kleine Katz'? Ja Neues giebt es genug!<lb/>Die Franzoſen kommen, am Ufer des Emsſtromes<lb/>wird ein Lager für ſie gebaut — jetzt kannſt Du<lb/>Deine Tannen verkaufen, Nichte, die ſind eben<lb/>recht!“<lb/>
+            </p>
+            <p> <lb/>„Hat denn der Franzoſe den Preußen ge-<lb/>ſchlagen?“ rief Matthes unruhig.<lb/>
+            </p>
+            <p> <lb/>„O nein, nein, <hi rendition="#g">die</hi>, welche daherkommen, ſind<lb/>gefangen, alle gefangen, und die Leute nennen das<lb/>Lager — wartet einmal — Neu — Neu — Satan<lb/>oder Setan oder Sedan — ſo was in der<lb/>Art “<lb/>
+            </p>
+            <p> <lb/>„Das iſt lange vorausgeſagt, es kämen die<lb/>Franzoſen mit rothen Hoſen,“ bemerkte Lena<lb/>feierlich.<lb/>
+            </p>
+            <p> <lb/>„Was voraus gewickt (prophezeit) wird, das<lb/>trifft ein!“ beſtätigte der Vetter ernſt.<lb/>
+            </p>
+            <p> <lb/>„Haben ſie rothe — —?“ begann Femi eifrig.<lb/>
+            </p>
+            <p> <lb/>„Hinaus an die Arbeit!“ herrſchte Lena. „Iſt<lb/>das ein aweiſiges Geſchöpf!“ fügte ſie hinzu, in-<lb/>deß der Schwarzkopf wie der Wind verſchwand,<lb/>um draußen, nicht eben mit allzu großer Rückſicht<lb/>auf das Kraut, die Unkräuter auszuraufen.<lb/>
+            </p>
+            <p> <lb/>„Verſtand kommt nicht vor Jahren!“ begütigte<lb/>der Bruchbauer.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0246" n="232" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=246"/>
+            </p>
+            <p> <lb/>„Sie ſoll nicht vergeſſen, daß ſie das Brod<lb/>der Barmherzigkeit ißt!“ grollte Lena.<lb/>
+            </p>
+            <p> <lb/>„Das kann ſie nicht vergeſſen,“ ſprach Matthes,<lb/>ſeine Mütze aufſetzend, im Gehen. „Das kann<lb/>ſie nicht vergeſſen, ſie wird oft genug von Dir<lb/>daran erinnert!“ Die Thür ſchloß ſich hinter ihm.<lb/>
+            </p>
+            <p> <lb/>Lena war, wie ſie es geſagt hatte, andächtig<lb/>und barmherzig. Ihre Andacht fiel, genau wie<lb/>ein Repetirwerk, an gewiſſen Tagen und Stun-<lb/>den unausbleiblich ein, und ihre Barmherzigkeit<lb/>hatte immer das nämliche Geſicht und denſelben<lb/>Schnitt. Dieſe Barmherzigkeit war wunderbar<lb/>nüchtern und freudlos anzuſehen. Der Beglückte<lb/>fühlte ſie wie einen Vorwurf und die Geberin<lb/>wälzte ſie gleich einer Laſt von ſich. Es war Lena<lb/>völlig ernſt mit ihren Tugenden, doch dieſelben<lb/>waren wie ungeläutertes Metall, werthvoll aber<lb/>unſchön. An gewiſſen Sonnabenden ging Lena<lb/>ſtets zur Beichte. Sie war ſich nicht vieler Sün-<lb/>den bewußt, ſondern lebte wahr und rechtſchaffen,<lb/>aber ſie ſchlief dann und wann im Gebete ein<lb/>und manchmal hielt ſie ſich für allzu weltlich, nie-<lb/>mals aber konnte der Beichtvater die Ueberzeugung<lb/>in ihr anfachen, ſie ſei hochmüthig. „Ich ſtehe<lb/>Jedermann Rede und Antwort,“ ſagte ſie, „und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0247" n="233" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=247"/>
+            </p>
+            <p> <lb/>thue, was zu meinem Stande gehört!“ Sie war<lb/>eben regierende Bäuerin und hatte, ſeitdem ſie<lb/>in früheſter Jugend verwaiſt wurde, nie verſucht,<lb/>ſich ohne ihren Reichthum und ihren Stand zu<lb/>denken.<lb/>
+            </p>
+            <p> <lb/>Wieder war der Beichtſamſtag herangekommen,<lb/>Femi wichſte aufmerkſam die Lederſchuhe ihrer<lb/>Gebieterin, indeß dieſe ihre feſten dunklen Röcke<lb/>anzog und ein Wolltuch um die kräftigen Schul-<lb/>tern ſpendelte. Eine große ſeidene Schürze und<lb/>eine Mütze mit Seidenbändern machten den Schluß<lb/>der Toilette aus. Noch einige Befehle, und dann<lb/>ſchritt ſie über den Fußpfad neben der Garten-<lb/>hecke dahin durch den Kartoffelacker. Die Haus-<lb/>hälterin des Pfarrers empfing das angeſehene Ge-<lb/>meindemitglied mit der größten Aufmerkſamkeit;<lb/>ſie holte ſofort ein Stuhlkiſſen herbei, als fürch-<lb/>tete ſie, das mächtige Knochengerüſt der Bäuerin<lb/>könne ſich bei einem harten Druck verſchieben, ſie<lb/>drängte unter die großen, blank gewichſten Schuhe<lb/>eine Feuerkieke mit Meſſingreif und ſchüttete ſo-<lb/>fort ein gedoppeltes Maß gebrannter Bohnen in<lb/>den Trichter der Kaffeemühle. Es gab gewiß nichts<lb/>in der Pfarre, das Lena nicht zu Gebote ſtand,<lb/>aber der würdige Seelenhirt und ſein Kaplan<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0248" n="234" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=248"/>
+            </p>
+            <p> <lb/>waren eben nicht anweſend, der eine verreiſt, der<lb/>andere zu einem entfernt wohnenden Kranken.<lb/>Auch den Kaffee wollte Lena nicht trinken, ſie<lb/>hörte nur flüchtig einige Neuigkeiten des Dorfes<lb/>an, ſprach noch ein wenig vom Wetter und den<lb/>Schweinepreiſen, und ſchlug dann den Heimweg<lb/>wieder ein.<lb/>
+            </p>
+            <p> <lb/>Lena war eigentlich nicht neugierig, ſie war<lb/>zu „ſtramm“ dazu, ihre gebietende Stellung erhob<lb/>ſie über ſolche kleine weibliche Schwächen. Sie<lb/>traute der Menſchheit nicht beſonders viel Gutes<lb/>zu, aber ſehr kräftige Perſonen ſind ſelten miß-<lb/>trauiſch und Lena war es auch nicht. Es war<lb/>gegen ihre Gewohnheit, daß ſie an der Gartenhecke<lb/>ihre Schritte hemmte und auf die halblauten<lb/>Stimmen lauſchte, welche ſich drinnen eifrigſt un-<lb/>terhielten. Die Stimmen gehörten Matthes und<lb/>Femi an.<lb/>
+            </p>
+            <p> <lb/>„Das muß einen Haufen Geld gekoſtet haben,<lb/>Matthes!“ ſagte der Schwarzkopf. „Echtes Gold<lb/>und ein rother Stein in der Mitte, die Bäuerin<lb/>hat's nicht ſchöner. Ich glaubte, Du hätteſt über<lb/>all' die Kriegs- und Franzoſenrederei unſere Wette<lb/>lange vergeſſen. Als Du mich geſtern durch den<lb/>Schweinehirten wiſſen ließeſt, ich ſollte hinten im<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0249" n="235" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=249"/>
+            </p>
+            <p> <lb/>Garten ſein, wenn <hi rendition="#g">ſie</hi> zur Beichte ginge, da dachte<lb/>ich, Du wollteſt mich zum Narren haben.“<lb/>
+            </p>
+            <p> <lb/>„Dich zum Narren haben, Femi?“ rief Mat-<lb/>thes, „da biſſe ich mir doch lieber ein Stück von<lb/>der Zunge ab, als daß ich Dir ein unrechtes Wort<lb/>ſagte, Du biſt ja eine arme verlaſſene Waiſe!“<lb/>
+            </p>
+            <p> <lb/>Es entſtand eine kurze Pauſe, dann begann das<lb/>Mädchen: „Du ſagſt wohl immer, ich wäre ver-<lb/>laſſen, und die anderen Leute meinen auch ſo —<lb/>aber es iſt nicht wahr, ich fühle es nicht, ich bin<lb/>als gehörte mir die Welt und ich weiß, wenn ich<lb/>jetzt über die Hecke ſpränge und dem Bredebeckhof<lb/>den Rücken kehrte, ich würde nicht hungrig ſchlafen<lb/>gehen; ich konnte ſchon als vierjähriges Kind auf<lb/>der Landſtraße meinen Unterhalt verdienen, als<lb/>mein Pflegevater noch lebte, und Mahomed ben Ali<lb/>ſagte immer, ich hätte Gold in Händen und Füßen,<lb/>Sonnenſchein in den Augen und Vogelſang in der<lb/>Kehle. Wenn die Bäuerin eines Tages nichts<lb/>hätte als <hi rendition="#g">ſich</hi> — hui, was wollte ſie mit den gro-<lb/>ßen Fäuſten anders anfangen, als dreſchen und<lb/>Torf graben? Aber glaub’ mir, ich werde <hi rendition="#g">nie</hi>
+               <lb/>Schwielen in dieſen Händen haben, niemals!“<lb/>
+            </p>
+            <p> <lb/>„Sie hat Gold, aber keinen Sonnenſchein und<lb/>keinen Vogelſang!“ ſprach Matthes traurig. „Ich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0250" n="236" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=250"/>
+            </p>
+            <p> <lb/>bitte Dich, Schwarzkopf, laß es Dir nicht ein-<lb/>fallen, vom Bredebeckhofe fort zu gehen, es gäbe<lb/>ein ſchreckliches Unglück, und keine zehn Pferde<lb/>zögen mich zu dieſer Heirath — Du biſt ja noch<lb/>das Einzige hier!“<lb/>
+            </p>
+            <p> <lb/>„Dummheit iſt’s, was Du redeſt! Ob ich da<lb/>bin oder nicht, ſie zwingt Dich nach ihrem Willen<lb/>und biegt Dich, bis Du Dich fügſt wie eine Korb-<lb/>weide. Ich würde mich an Deinem Platze ſchä-<lb/>men, ein armes barfüßiges Bettelkind zur Hülfe<lb/>zu rufen, wo Du Manns biſt, Dir ſelbſt zu helfen.<lb/>Das Elend iſt, Alle <hi rendition="#g">fürchten</hi> ſich vor ihr, nur<lb/>ich nicht, denn ich bin freier, tauſendmal freier<lb/>als ſie!“<lb/>
+            </p>
+            <p> <lb/>„Oho —“ machte Matthes und ſtieß einen<lb/>langgezogenen Pfiff aus, „'s iſt noch nicht aller<lb/>Tage Abend, und wenn ich ſie habe, werde ich ſie<lb/>ſchon zum Schweigen bringen, darin ſteht mein<lb/>Plan ſo feſt, als unſere Kirmeß, wart's nur ab.“<lb/>
+            </p>
+            <p> <lb/>„Und mit was zwingſt Du ſie?“<lb/>
+            </p>
+            <p> <lb/>„Ich zwinge ſie nicht, ſie zwingt ſich ſelbſt,<lb/>wenn ich ihr die Wahl laſſe, <hi rendition="#g">mir</hi> zu gehorchen,<lb/>oder durch mich, ihren Mann, in ihrer Standes-<lb/>ehre gekränkt zu werden. Andere Weiber lenkt<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0251" n="237" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=251"/>
+            </p>
+            <p> <lb/>man durch ihr Herz, ſie hat nichts als ihren<lb/>Stand, ſo muß ich ſie daran faſſen!“<lb/>
+            </p>
+            <p> <lb/>„Du bringſt's nicht fertig, Matthes, wenn ſie<lb/>Dich mit den blauen Eisaugen anſieht!“<lb/>
+            </p>
+            <p> <lb/>„Nun, ich thaue mich an Deinen Feueraugen<lb/>wieder auf und dann geht es, Femi, Du Zucker-<lb/>kind, deshalb mußt Du da bleiben, damit ich Dich<lb/>anſehe und dann ſelbſt den Teufel nicht fürchte!“<lb/>
+            </p>
+            <p> <lb/>„Ich wollte, es käme Alles anders, Matthes,<lb/>der Gedanke an Dich hängt an meinen Füßen<lb/>wie ein paar enge, drückende Schuhe, es iſt mir<lb/>ganz, als wollteſt Du eine Sünde thun, wenn —“<lb/>
+            </p>
+            <p> <lb/>Die Zweige der Hecke rauſchten neben Femi,<lb/>ſie wandte ſich um und ſah in die blauen Eis-<lb/>augen. Einen Moment blickten ſich die beiden<lb/>Frauen feſt und forſchend an — dann fügten ſich<lb/>die grünen Zweige wieder zu einander und Lena<lb/>war nicht mehr ſichtbar.<lb/>
+            </p>
+            <p> <lb/>„So,“ ſagte Femi, „jetzt könnt’ es ſich ereig-<lb/>nen, das Abendeſſen wäre meine Henkersmahlzeit<lb/>auf dem Bredebeck, na, einmal mußt' es ja doch<lb/>ſo kommen!“<lb/>
+            </p>
+            <p> <lb/>Matthes ſchlich ſich unter der Doppelwucht von<lb/>Lena's zu erwartendem Zorne und von Femi's<lb/>drohendem Verluſt von dannen. Er war diesmal<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0252" n="238" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=252"/>
+            </p>
+            <p> <lb/>nicht trotzig, denn er fühlte, daß er ſeine ſtramme<lb/>Verlobte im verſchwiegenen Herzen noch tauſend-<lb/>mal mehr und bitterer gekränkt hatte, als durch<lb/>ſeine Worte. Indeſſen von den Befürchtungen des<lb/>jungen Paares ging keine in Erfüllung. Lena kam<lb/>wie ſonſt zum Abendeſſen, beſorgte wie ſonſt ihre<lb/>Arbeiten und es fiel kein böſes Wort. Niemals<lb/>noch hatte ein Beichtgang ſo viel Eindruck auf die<lb/>Bredebeckbeſitzerin gemacht, als dieſer, wo ſie nicht<lb/>gebeichtet hatte, wo ihr vielmehr gebeichtet worden<lb/>war. Zwei Punkte fielen beſonders ſchwer in die<lb/>Wagſchale ihres Nachdenkens, zuerſt, daß Mat-<lb/>thes nur ein geringes Glück darin fand, auf einen<lb/>Hof wie den ihrigen zu heirathen, dann, daß das<lb/>ſchwarzköpfige Bettelmädchen von Gottes Gnaden<lb/>ſich freier und unabhängiger fühle, als ſie ſelbſt,<lb/>die im Stande war, ſich jeden Moment mit ſilber-<lb/>nen Thalern ganz zuzudecken. Ja, aber was war<lb/>Lena ohne ihre Thaler, ohne ihr ſteinernes Haus<lb/>mit dem breitgedrückten, rothen Ziegeldache, ohne<lb/>ihre Knechte und Mägde, ohne ihre Heuerlinge<lb/>und ihre Viehheerden, ohne ihre Wieſen und Fel-<lb/>der, Gärten, Holzungen, Moor- und Haideſtrecken?<lb/>Die Bäuerin betrachtete ihre ſtarken Glieder und<lb/>wiederholte Femi's Worte: „Was wollte ſie mit<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0253" n="239" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=253"/>
+            </p>
+            <p> <lb/>den großen Fäuſten anders anfangen, als dreſchen<lb/>und Torf graben?“ leiſe vor ſich hin murmelnd.<lb/>Femi hatte nichts, als <hi rendition="#g">ſich</hi>, ſie wollte keine ſchwere<lb/>Arbeit verrichten und gedachte ſich doch auf's Beſte<lb/>durchzuhelfen. Lena mußte ſich geſtehen, der<lb/>Schwarzkopf würde das mit Glück und Schick<lb/>fertig bringen, obgleich wohl Niemand in der Ge-<lb/>meinde, ſelbſt der greiſe Pfarrer nicht, auszuden-<lb/>ken vermöchte, <hi rendition="#g">wie</hi> Femi das anſtellen würde.<lb/>Aber Femi ſollte nicht gehen, ſie ſollte ſich nicht<lb/>
+               <hi rendition="#g">freier</hi> fühlen als die Bredebeck-Beſitzerin, Matthes<lb/>ſollte nicht mit mehr als zehn Pferden zu ſeiner<lb/>Verlobten an den Altar geriſſen werden, das wäre<lb/>eine entſetzliche Schande! Nein, er ſollte frei-<lb/>willig kommen, und dann — ja dann ſollte die<lb/>Femi ausgerüſtet werden und eine ordentliche Hei-<lb/>rath machen!<lb/>
+            </p>
+            <p> <lb/>Während Lena all' dieſe Pläne entwarf, waren<lb/>ihre Augen keine Eisaugen, nicht einmal die Augen<lb/>der Gebieterin, denn ſie forſchten nach keiner Un-<lb/>ordnung, ſchätzten keine Arbeit, ſie ſahen im Ge-<lb/>gentheil Anderes, als was zu erblicken war, näm-<lb/>lich die jungen Geſichter der Kinder, deren Worte<lb/>durch Lena's Kopf wogten.<lb/>
+            </p>
+            <p> <lb/>Am Samſtagabend ſpannt ſich der Bauer aus<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0254" n="240" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=254"/>
+            </p>
+            <p> <lb/>dem Arbeitsjoch, er plaudert eine Stunde länger<lb/>in der Schenke oder am Torffeuer ſeines Nach-<lb/>bars, denn er darf am nächſten Morgen aus-<lb/>ſchlafen! Verſteht denn Derjenige, welcher das<lb/>ganze Jahr die Sonne nicht aufgehen ſieht, was<lb/>das heißt: ausſchlafen? Ahnt er die Wonne, bei<lb/>dem Glockenſchlage, der uns täglich aus den Fe-<lb/>dern ruft und ſchreckt, ſich nun erſt recht auszu-<lb/>ſtrecken, der Zeit ein Schnippchen zu ſchlagen und<lb/>ſich in den Morgentraum hinein zu duſeln?<lb/>
+            </p>
+            <p> <lb/>Das iſt des Landmanns erſte Sonntagsfreude<lb/>und ſie fängt ſchon Sonnabends an. Auch der<lb/>Schulze hatte bereits die Werkeltage hinter ſich<lb/>geworfen, als er in die Bredebeckküche trat, ſich<lb/>breitſpurig auf dem Ehrenplatze niederließ, ſeine<lb/>lange Pfeife aus dem Munde nahm und verhei-<lb/>ßungsvoll ſprach: „Vorigen Dienſtag ſind ſie ge-<lb/>kommen!“<lb/>
+            </p>
+            <p> <lb/>„Wer iſt gekommen?“ fragte Lena zerſtreut.<lb/>
+            </p>
+            <p> <lb/>„Die Franzoſen. Und ſie haben richtig rothe<lb/>Hoſen an, Nachbarin, einige ganz weite, wie die<lb/>Bojeröcke der Frauen, andere wieder eng. Jungens,<lb/>das ſind Kerle, einige ſchwarz, wie Schornſtein-<lb/>feger, ſage ich Euch, andere braun, andere gelb,<lb/>alles natürliche Haut, und wieder welche von un-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0255" n="241" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=255"/>
+            </p>
+            <p> <lb/>ſerer Farbe, ſie laufen wie die Migämkes (Amei-<lb/>ſen) durcheinander und ſummen wie ein Imm<lb/>(Bienenſchwarm).“<lb/>
+            </p>
+            <p> <lb/>„Sehen ſie ſchreckhaft aus?“ fragte die Vieh-<lb/>magd, welche ihrerſeits auch nichts Anziehen-<lb/>des bot.<lb/>
+            </p>
+            <p> <lb/>„Nicht die Spur, ganz wie die Lämmer, ſie<lb/>nehmen Alles zu Dank, was Du ihnen giebſt,<lb/>Tabak, Zwiebeln, Geld —“<lb/>
+            </p>
+            <p> <lb/>„Gott bewahre,“ unterbrach zornig die Vieh-<lb/>magd, „ich gebe ihnen nichts, fällt mir nicht ein<lb/>— wer ſchenkt mir denn was?“<lb/>
+            </p>
+            <p> <lb/>„Ja, wenn Dich die Franzoſen mal erſt ge-<lb/>fangen nehmen, dann bekommſt Du auch Ge-<lb/>ſchenke!“<lb/>
+            </p>
+            <p> <lb/>„Heilige Mutter Gottes — wollen mich die<lb/>Franzoſen gefangen nehmen? O das iſt das Schreck-<lb/>lichſte von dem ganzen Kriege!“<lb/>
+            </p>
+            <p> <lb/>Der Schulze lachte über die dumme Trine und<lb/>ſagte zu Lena gewendet: „Einige haben Medaillen<lb/>auf der Bruſt und eine Quaſte vor der Naſe bum-<lb/>meln, andere haben rothe Mützen und die Klunkern<lb/>wehen hinten nach wie ein Pferdeſchwanz. Um die<lb/>Holzbuden, die Baracken heißen, machen ſich die<lb/>Franzoſen ſelbſt einen hohen Holzzaun, und draußen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0256" n="242" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=256"/>
+            </p>
+            <p> <lb/>ſteht dem Preußen ſeine Landwehr, Pferdevolk<lb/>ohne Pferde, wo ſie Cafalterie zu ſagen und was<lb/>viel Durſt haben; dieſelbige Landwehr ſchießt auf<lb/>jeden, der davon geht!“<lb/>
+            </p>
+            <p> <lb/>„Mar’ Joſeph!“ ſchrie die Viehmagd, „das iſt<lb/>das Schrecklichſte von dem ganzen Kriege; weshalb<lb/>ſchießt denn die Landwehr auf uns?“<lb/>
+            </p>
+            <p> <lb/>„Nicht auf uns, nur auf die Franzoſen!“<lb/>
+            </p>
+            <p> <lb/>„Das iſt nur gut!“ beruhigte ſich Trine.<lb/>
+            </p>
+            <p> <lb/>„Weißt Du, Lena,“ fuhr der Schulze fort,<lb/>„das iſt nicht ſo ein Geſindel, dieſe Franzoſen,<lb/>ſie ſehen blos ſo aus, aber der Trompeter, der in<lb/>Neu-Sedan ſelbſt die Zignale blaſen thut und<lb/>Alles damit beſtimmt und zuerſt weiß, ſagte mir,<lb/>der eine Braune mit den ſchwarzen Augen, den<lb/>ſie Turko oder Türke rufen, wäre der Sohn eines<lb/>wirklichen Prinzen in Afrika, und wer weiß, ob<lb/>nicht der Prinz aus Afrika einen Tag kommt und<lb/>dem Preußen Alles wieder fortnimmt! Der Trom-<lb/>peter ſagt, in Afrika wohnten noch eine Menge<lb/>Leute, die alle von der Hitze ſo braun ſind.“<lb/>
+            </p>
+            <p> <lb/>„Hat der Prinz in Neu-Sedan ſchöne Kleider<lb/>an?“ fragte Lena aufmerkſam.<lb/>
+            </p>
+            <p> <lb/>„Ah, keine Spur, der Ellbogen ſieht ihm<lb/>durch die Jacke, ſein Hemd wäſcht er ſich alleinig<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0257" n="243" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=257"/>
+            </p>
+            <p> <lb/>in der Emſe, bindet ſich die Aermel um den Hals<lb/>und läßt es auf dem Rücken trocknen, da iſt nichts<lb/>von einem Prinzen als ſein Geſicht!“<lb/>
+            </p>
+            <p> <lb/>„So —“ forſchte die Bäuerin geſpannt, „ſieht<lb/>man es in ſeinem Geſichte, daß er was iſt?“<lb/>
+            </p>
+            <p> <lb/>„Nun natürlich, und in ſeinem Gang und ſo<lb/>in ſeinem Weſen, ſonſt könnte man es ja nicht<lb/>ausnehmen, daß er <hi rendition="#g">mehr</hi> iſt!“<lb/>
+            </p>
+            <p> <lb/>„Kann ich die Franzoſen zu ſehen bekommen?“<lb/>erkundigte ſich die Hausherrin angelegentlich.<lb/>
+            </p>
+            <p> <lb/>„Natürlich kannſt Du. Es koſtet fünf Groſchen,<lb/>Du kannſt auch welche in die Arbeit bekommen,<lb/>wenn Du willſt, ſie ſind ausgehungert wie die<lb/>Wölfe, das Arbeiten iſt nur minne, aber möglich<lb/>nimmſt Du ein paar auf den Hof, Du biſt ja<lb/>Dein eigener Herr!“<lb/>
+            </p>
+            <p> <lb/>Lena lächelte nicht, ſie dachte an den gefangenen<lb/>zerlumpten Prinzen, dem man es doch noch anſah,<lb/>daß er anders ſei als die anderen! Femi fragte<lb/>heute nichts, ſie ſchälte ihre Erdäpfel eifrig und<lb/>mäuschenſtill, eine nach der andern. In dem<lb/>ſchwarzen Kopf des Mädchens tauchte die Ahnung<lb/>deſſen auf, was in Lena's Geiſte vor ſich ging; es<lb/>ſchien ſo unwahrſcheinlich, ſo unglaublich, die<lb/>Bäuerin wolle ſich in die Lage einer gefallenen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0258" n="244" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=258"/>
+            </p>
+            <p> <lb/>Größe hineinverſetzen, ja den Eindruck derſelben<lb/>durch eigene Anſchauung verſtärken — und doch<lb/>es war ſo, das ſtand auf der breiten, ſinnenden<lb/>Stirn der Gebietenden und in ihren träumeriſch<lb/>ſchauenden blauen Augen, wenn auch nur für<lb/>Femi verſtändlich, die plötzlich ſo empfand, als<lb/>wären die Worte zu hart geweſen, welche Lena ſo<lb/>tief berührt hatten. Immer, ſeit ihrer früheſten<lb/>Kindheit, hatte ſich Femi gleichſam unter dem<lb/>kühlen Schatten der Bredebeckerbin erblickt, die<lb/>ganze unnahbare und ſchwerfällige Weiſe der Haus-<lb/>regentſchaft ließ keine Art von Vertraulichkeit<lb/>aufkommen, die Pflegetochter dachte nie daran,<lb/>ihre Wohlthäterin ſei ein Weib, ein Mädchen,<lb/>gleich ihr ſelbſt, Lena erſchien nur wie eine Macht,<lb/>eine Kraft, ein Wille, ein Stand, gegen welche<lb/>man getroſt einen kleinen harmloſen Krieg führen<lb/>könne und die zu überliſten faſt ein Verdienſt<lb/>ſchien — an dieſem Abend dachte Femi neue Ge-<lb/>danken über dieſen Punkt! Ein menſchlich Regen<lb/>erweckt Theilnahme, und der Schwarzkopf ver-<lb/>muthete, hinter dem Allen liege eine Eiferſucht<lb/>auf Matthes verſteckt.<lb/>
+            </p>
+            <p> <lb/>„Wär' mir recht,“ nahm Lena indeſſen das<lb/>Wort, „wenn Du, Schulze, morgen Nachmittag<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0259" n="245" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=259"/>
+            </p>
+            <p> <lb/>mit mir und Matthes hinausfahren thäteſt nach<lb/>dieſen Franzoſen, wenn Deine kleine Tochter mit<lb/>uns will, ſo iſt noch ein Platz für ſie da, neben<lb/>mir auf der Bank.“<lb/>
+            </p>
+            <p> <lb/>Matthes ſchlief die Nacht vom Samſtag auf<lb/>den Sonntag bei Weitem nicht ſo gut als ſonſt.<lb/>Wenn ſeine Verlobte that, was ihr zu thun zu-<lb/>ſtand, nämlich ihm den Handel aufſagte, ſo war<lb/>er ein geſchlagener Menſch, ja er wurde in ſeinem<lb/>Dorfe faſt unmöglich. Zwar beſaß ſein Vater<lb/>auch ein recht anſehnliches Bauerngut, aber daſſelbe<lb/>war in den letzten Jahren, nach dem Tode ſeiner<lb/>energiſchen Mutter, ſehr zurückgekommen, manche<lb/>Unglücksfälle hatten die Wirthſchaft in Schaden<lb/>gebracht und weder Vater noch Sohn verſtanden<lb/>es, die Leitung kräftig zu handhaben. Der Vater<lb/>war zwar noch durchaus kein alter Mann, aber er<lb/>zeigte ſich mehr und mehr entmuthigt, dabei lebten<lb/>dreizehn Kinder im Hauſe, deren älteſtes eben<lb/>Matthes war, dem naturgemäß die Sorge für das<lb/>kleine Volk mit anheim fiel. Alle dieſe Ver-<lb/>hältniſſe würde Lena beſtens geordnet haben; brach<lb/>ſie nun aber das Verlöbniß, dann war ihre ganze<lb/>Sippe, ihr großer Anhang — wo Reichthum da<lb/>Anhang! — plötzlich für Matthes eine Schaar<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0260" n="246" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=260"/>
+            </p>
+            <p> <lb/>von Gegnern und Feinden und er konnte ſicher<lb/>nie mehr recht aufkommen. Energieloſe Naturen,<lb/>gleich der des jungen Bauern, ſind häufig zum<lb/>Trotz, ja zu ſchlauen Maßnahmen geneigt, ſie<lb/>vollbringen ſogar einzelne kühne Thaten, aber ſie<lb/>trauen ſich ſelbſt keine Conſequenz, keine Ausdauer<lb/>zu, ſie ſind vielleicht nicht körperlich, aber ſicher<lb/>geiſtig träge, und wer nichts von <hi rendition="#g">ſich</hi> erwartet,<lb/>der wird ganz gewiß nie etwas Rechtes leiſten.<lb/>Matthes verhehlte ſich keineswegs, daß dem Wohl-<lb/>ſtand ſeines Hauſes kein äußeres Hinderniß ent-<lb/>gegenſtehe, aber das innere, welches vom Vater<lb/>auf den Sohn vererbt war, erſchien ihm um ſo<lb/>unbeſiegbarer. Seine Vorfahren, bis herab auf<lb/>ſeinen Vater, hatten ſtets, in richtiger Selbſt-<lb/>erkenntniß, ſehr entſchiedene Frauen heimgeführt<lb/>und ſie fuhren gut dabei. Matthes fand es ſehr<lb/>natürlich, daß auch er eine reſolute Bäuerin nähme,<lb/>nur wenn er in Femi's Nähe war, ſtiegen aller-<lb/>hand kindiſche Revolutionsgelüſte in ihm auf, mit<lb/>denen er ſich gern vor dem Schwarzkopf aufputzte.<lb/>Ja, der Schwarzkopf, der Schwarzkopf! Matthes<lb/>war ein Bauernburſch, er hatte ſich niemals laut<lb/>oder leiſe geſtanden, er liebe den armen Fremd-<lb/>ling — ſie blieb ja trotz aller Anmuth immer eine<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0261" n="247" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=261"/>
+            </p>
+            <p> <lb/>Landläuferin — aber doch kannte ſeine Einbil-<lb/>dungskraft kein lieberes Bild als den barfüßigen<lb/>Wildfang; ſie war die verkörperte Poeſie ſeines<lb/>einfachen und nüchternen Daſeins. Es beruhigte<lb/>den jungen Mann einigermaßen, als er Lena,<lb/>breit und fromm wie immer, in ihrem Kirchenſtuhl<lb/>ſitzen ſah. Sie trug große Goldringe auf allen<lb/>Fingern, auf ihrer Bruſt blinkte ein breites, kunſt-<lb/>volles und geſchmackloſes Goldgeſchmeide, in ihren<lb/>Ohren hingen ſchwere Ohrringe und ihr blondes<lb/>Haar war mit Waſſer glatt gekämmt unter den<lb/>rothen Seidenbändern der Haube. So hatte ſie<lb/>ſchon an zehn Jahre da geſeſſen und Matthes fühlte<lb/>ſich merkwürdig beruhigt bei dieſem Anblick. Nach<lb/>dem Gottesdienſt blieb der junge Bauer ein wenig<lb/>zurück, damit Lena, ohne ihn anreden zu müſſen,<lb/>nach Hauſe gehe, aber ſie ſtand mitten auf dem<lb/>Kirchhofe ſtill und wartete bis er heraustrat. Als<lb/>er ihr nahe kam, ſagte ſie gelaſſen: „Mit Schein,<lb/>macht es Dir Freude, die Franzoſen mal anzu-<lb/>ſehen, ſo werden wir heute Nachmittag mit dem<lb/>Schulzen, der die Einrichtung da kennt, hinfahren,<lb/>ich laſſe den Knecht zu Haus, ſo kannſt Du die<lb/>Zügel nehmen!“<lb/>
+            </p>
+            <p> <lb/>Gott Lob, der Schulze ging mit! Lena wollte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0262" n="248" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=262"/>
+            </p>
+            <p> <lb/>alſo nicht mit ihm allein ſein und wollte ihm keine<lb/>Vorwürfe machen. Matthes ſchnippte mit den<lb/>Fingern. „Sie ſcheut das Aufſehen!“ murmelte<lb/>er ſehr zufrieden. Beſcheiden genug kam der Ver-<lb/>lobte ſelbſt nicht entfernt auf den Gedanken, Lena<lb/>könnte ſo mild verfahren, weil ſie ein Wohlge-<lb/>fallen an ſeiner Perſon finde — o nein! es waren<lb/>die Höfe und die Stellungen, die man verlobt<lb/>hatte, man ſchuldete beiden viel bewußter Ehrbarkeit<lb/>und Pflichttreue als ſich einander ſelbſt. Matthes<lb/>war in der That ſehr guter Laune, als er den mit<lb/>grüner Oelfarbe geſtrichenen Bankwagen ſeiner<lb/>Zukünftigen erkletterte, er ſchob ihr das blaue<lb/>Sitzkiſſen ſorgſam zurecht und reichte ihr ritterlich<lb/>den rothen, baumwollenen Regenſchirm, der ſo-<lb/>wohl vor Näſſe als vor Sonnenſchein ſchützt.<lb/>Auch Lena war ausnehmend huldvoll, ſie fragte<lb/>Matthes, ob er ſich nicht erſt die Pfeife anſtecken<lb/>wolle? Obſchon er recht wohl wußte, ſie liebe das<lb/>Rauchen nicht, ſo entgegnete er: „Ich kann's<lb/>Deinetwegen ſchon laſſen!“ und wurde ſelbſt roth<lb/>und verlegen ob ſeiner Galanterie.<lb/>
+            </p>
+            <p> <lb/>Wenn der norddeutſche Bauer ſich wenig um<lb/>Politik und Weltgeſchichte kümmert, ſo hat er<lb/>dafür eine gar ſichere und ausdauerde Tradition.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0263" n="249" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=263"/>
+            </p>
+            <p> <lb/>Er wunderte ſich nicht, daß der Franzoſe, gegen<lb/>welchen Vater ſelig auch gefochten hatte, wieder<lb/>Krieg anfing, die Gefangenen waren ihm gleich-<lb/>ſam alte Bekannte, den „dazumal“ waren auf<lb/>ſeinem Hofe auch eine Stiege, oder ſo, von ihnen<lb/>im Quartier, ja ſelbſt der „Turko“ war keine<lb/>neue Idee, denn im Volke blieb noch eine lebendige<lb/>Erinnerung an den einſt in Deutſchland ſo ge-<lb/>fürchteten Türken, von jener Zeit her, wo ganz<lb/>Europa vor dem Muſelmann zitterte. Der Türke<lb/>ſpielt noch in manchen Erzählungen und Sprich-<lb/>wörtern ſeine Rolle. Jetzt waren ſie in Neu-<lb/>Sedan, an dem ſandigen Ufer der Ems, da, wo<lb/>einſt die Legionen des Varus gleichfalls ihr Lager<lb/>gehabt haben mögen, die Franzoſen und Turkos,<lb/>zwiſchen ihren Gruppen wogten die Beſucher um-<lb/>her, welche der Bahnzug gebracht hatte, der zwanzig<lb/>Schritt vom Pfahlzaun durch Tannen, Haide,<lb/>Sand und Felder dahinbrauſte. Die Gefangenen<lb/>ſahen ſolche Beſucher gern, welche das Einerlei<lb/>ihres Lagerlebens unterbrachen und ihnen Gelegen-<lb/>heit boten, ihre kleinen Arbeiten aus Holz, Erd-<lb/>äpfeln und Weiden für einige „Groß“ zu ver-<lb/>kaufen. Die Fremden legten achtungsvolle Rück-<lb/>ſicht gegen die Beſiegten an den Tag, und un-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0264" n="250" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=264"/>
+            </p>
+            <p> <lb/>zählige Gaben an Lebensmitteln und Kleidungs-<lb/>ſtücken wanderten in die Paliſadenumhegung von<lb/>Neu-Sedan. Lena ſchritt nachdenkend hinter ihren<lb/>Begleitern drein — eine anſtändige Bäuerin geht<lb/>allemal und unabänderlich <hi rendition="#g">hinter</hi> ihrem Gatten<lb/>oder Beſchützer einher, wo immer ſie ſich öffentlich<lb/>und feierlich ſehen läßt.<lb/>
+            </p>
+            <p> <lb/>Wie ſonderbar, dieſe Tauſende mit den dunklen<lb/>Augen und wunderlichen Uniformen wußten nichts<lb/>vom Bredebeckhof, wie man auch zuvor nichts von<lb/>ihnen gewußt hatte. Sie redeten eine fremde, unver-<lb/>ſtändliche Sprache und ſelbſt die, welche einige deutſche<lb/>Worte verſtanden, zuckten bedauernd die Achſeln,<lb/>wenn man ſie in der niederdeutſchen (oder platt-<lb/>deutſchen) Mundart, die doch jedes Kind im Lande<lb/>verſteht, anredete. Lena hatte ſo viel zu ſehen, daß<lb/>ſie des Prinzen ganz vergaß. Bald war es eine<lb/>Gruppe leidenſchaftlich Kegel ſchiebender Turkos,<lb/>bald ein vornehm ausſchauender <hi rendition="#aq">chasseur-à-cheval</hi>
+               <lb/>mit einem Ehrenzeichen auf der Bruſt, dann wieder<lb/>Linienſoldaten, die ſich um einen Kochtopf mit<lb/>Zwiebelſuppe gelagert hatten, oder ein See-<lb/>ſoldat oder gar ein Neger. Da, auf einmal<lb/>hörte ſie neben ſich ſagen: „Du Augen ſchön'.“<lb/>
+            </p>
+            <p> <lb/>Aufſchauend konnte ſich Lena nicht leugnen,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0265" n="251" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=265"/>
+            </p>
+            <p> <lb/>daß ihr ſelbſt dieſe Schmeichelei gegolten habe; ſie<lb/>ſah in ein braunes, ſchmales Geſicht, aus welchem<lb/>ſchwarze Augen und blendend weiße Zähne hervor-<lb/>leuchteten, und erblickte eine elaſtiſche, muskelſtarke<lb/>Geſtalt in der Turko-Uniform, indeß aus dem<lb/>Ellbogen der gelb beſetzten Jacke das Hemd un-<lb/>genirt hervorſchaute und die Schuhe ſehr defect<lb/>waren. Lena erbebte — das mußte der afrika-<lb/>niſche Prinz ſein! Erkannte ſie ihn an ſeiner<lb/>fürſtlichen Haltung oder an dem zerfetzten Aermel?<lb/>Sie wußte es nicht. „Wer biſt Du?“ fragte ſie<lb/>und ſuchte ihre Begleiter.<lb/>
+            </p>
+            <p> <lb/>„Mahomed ben Ali nix bös!“ verſicherte der<lb/>Andere.<lb/>
+            </p>
+            <p> <lb/>„Afrika?“ fragte Lena naiv genug.<lb/>
+            </p>
+            <p> <lb/>„Afrique!“ beſtätigte mit ſtolzem Aufwerfen<lb/>des Kopfes der braune Mann.<lb/>
+            </p>
+            <p> <lb/>Lena war nie für ſtille, zeugenloſe Wohlthaten<lb/>geweſen, denn „wer es dazu hat, ſoll ein Beiſpiel<lb/>geben!“ ſagte ſie; jetzt aber, als ſie zufällig an<lb/>einer Barackenecke dem Prinzen allein gegenüber<lb/>ſtand, fuhr ſie mit ſicherem Griff in ihre Rock-<lb/>taſche, holte ein leinenes Beutelchen hervor und<lb/>reichte ihrem orientaliſchen Bewunderer zwei voll-<lb/>wichtige Ducaten aus demſelben.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0266" n="252" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=266"/>
+            </p>
+            <p> <lb/>,,Zu einem neuen Wamſe !“ ſagte ſie und<lb/>berührte zu beſſerem Verſtändniß die zerriſſenen<lb/>Aermel.<lb/>
+            </p>
+            <p> <lb/>Der Muſelmann ſtieß einen unartikulirten<lb/>Schrei aus, machte einen kunſtgerechten Rund-<lb/>ſprung, der damit ſchloß, daß er die ſtämmige<lb/>Bäuerin umfaßte und mit den Worten: „Du<lb/>ſchön!“ einen herzhaften Kuß auf ihre Lippen<lb/>drückte. Lena würde entflohen ſein, wenn nicht<lb/>Mahomed ſelbſt, ſofort nach vollbrachter That,<lb/>wie von der Erde verſchlungen, entſprungen wäre,<lb/>indeß zugleich die kräftige Stimme des Schulzen<lb/>die vermißte Bäuerin rief. Lena folgte den Män-<lb/>nern fügſam wie ein Lamm, wie im Traume ſaßen<lb/>ſie und der rothe Schirm wieder auf dem Wagen,<lb/>die Worte der Begleiter tönten aus einem Nebel<lb/>heraus und dazwiſchen flüſterte ein fremder Klang:<lb/>„Du ſchön!“ und ſie ſah die ſchwarzen Augen ſo<lb/>nahe vor den ihrigen, und dann — — nur ein<lb/>Prinz konnte es wagen, die Bredebeckerbin zu küſſen<lb/>und ſie ſchön zu finden, gewiß nur ein Prinz!<lb/>Aber wenn er auch gar kein Prinz ſein ſollte,<lb/>ſchön blieb er doch immer und ein ſo zärtlicher<lb/>Mann lebte gewiß nicht in ganz Deutſchland —<lb/>niemals war noch, bis heute, von Lena's Augen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0267" n="253" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=267"/>
+            </p>
+            <p> <lb/>die Rede geweſen, die dummen Bauernburſche<lb/>hatten ſie doch lange genug geſehen, aber was<lb/>verſtanden die? Lena dachte ſelbſt mitunter, ihre<lb/>Augen wären doch ſehr — blau. Aber Andere<lb/>hatten das nie bemerkt.<lb/>
+            </p>
+            <p> <lb/>Die Woche nach der Lagerbeſichtigung war die<lb/>gemüthlichſte, welche der Bredebeckhof ſeit der drei-<lb/>zehnjährigen Regierung der jetzigen Bäuerin erlebt<lb/>hatte. Lena hieß Alles gut oder bemerkte gar<lb/>nicht einmal, was vorging. Am Donnerſtag kam<lb/>ein kleiner Bube gelaufen, der einen hübſchen<lb/>Weidenkorb trug. Der braune Türke ſchenkte dieſe<lb/>eigene fürſtliche Arbeit an Lena; in dem Korbe lag<lb/>ein Strauß von rothen und weißen Blumen und<lb/>Knospen, die alle von Kartoffeln geſchnitzt waren<lb/>und an grüne Weidenzweige und Blätter zierlich<lb/>befeſtigt. Die Beſchenkte nahm die Gabe ſchwei-<lb/>gend und trug dieſelbe in ihre Kammer; zu Füßen<lb/>der großen Wandbettſtelle (Koje oder Butze ge-<lb/>nannt) befand ſich eine Borte, auf dieſes Bret<lb/>ſtellte Lena den erhaltenen Korb, der ganz das<lb/>Gegentheil ſeiner Gattung beſagte. Als Matthes<lb/>am Abend jenes Tages bei ſeiner Verlobten vor-<lb/>ſprach, erzählten ihm alle Hausgenoſſen einzeln<lb/>und heimlicher Weiſe, die Bäuerin habe ein Ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0268" n="254" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=268"/>
+            </p>
+            <p> <lb/>ſchenk von einem Türken bekommen und überhaupt<lb/>ſei Lena ſo ganz anders als ſonſt. Matthes fand<lb/>dieſes Geſchenk durchaus unziemlich, er hatte den<lb/>Schreck vom letzten Samſtag noch nicht ganz ver-<lb/>ſchmerzt, ſo ſagte er: „Wir werden mit Schein<lb/>jetzt Alle reich werden, wenn die lumpigen Fran-<lb/>zoſen anfangen, uns Schenkungen und Verehrungen<lb/>zu ſchicken!“<lb/>
+            </p>
+            <p> <lb/>Lena blickte ihn ernſt an und entgegnete: „Wenn<lb/>Du den Weidenkorb meinſt, Matthes, ſo iſt das<lb/>keine Verehrung. Ich hatte mit dem Türken ge-<lb/>wettet, gerade ſo, wie Du es mit der Femi ge-<lb/>than haſt und ihr ein Kreuz brachteſt; mißdünkt<lb/>Dich's, wenn zwei mit einander wetten?“<lb/>
+            </p>
+            <p> <lb/>„O nein, gar nicht!“ ſtotterte Matthes. Er<lb/>ſowohl als der Schwarzkopf ſaßen hochroth und<lb/>verlegen da und Niemand wagte eine weitere Frage.<lb/>
+            </p>
+            <p> <lb/>Lena's Dienſtleute vermutheten einhellig, die<lb/>Erſtere würde am folgenden Sonntag wieder in<lb/>das Franzoſenlager hinausfahren, Niemand wußte<lb/>Beſtimmtes, aber Alle waren überzeugt, es mußte<lb/>ihr dort etwas ganz Beſonderes begegnet ſein.<lb/>Nur Femi hielt ſich über die Gefühle der Bäuerin<lb/>beſſer belehrt — Lena war eiferſüchtig!<lb/>
+            </p>
+            <p> <lb/>Wir maßen uns ſo gern ein, wie uns ſcheint,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0269" n="255" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=269"/>
+            </p>
+            <p> <lb/>völlig objectives Urtheil über Diejenigen an, deren<lb/>Thun und Laſſen wir überſchauen zu können glau-<lb/>ben, und lernen nicht von der eigenen Erfahrung,<lb/>die uns zeigt, daß der Strom unſerer Willens-<lb/>kraft entſchiedener und reichlicher aus den ver-<lb/>borgenen inneren Quellen geſpeiſt wird, als durch<lb/>das, was Regen und Sonnenſchein äußerlich in<lb/>ſein Bett ſtrömen laſſen oder an ſeinen Ufern<lb/>erblühen machen. Sicher iſt, daß Lena alle Com-<lb/>binationen dadurch zu nichte machte, daß ſie ruhig<lb/>zu Hauſe blieb und, wie gewöhnlich, ſich nach der<lb/>Vesper mit ihrem großen, ſilberbeſchlagenen Gebet-<lb/>buche neben die ehrwürdige Wanduhr ſetzte, die<lb/>Augen feſt auf die Zeilen geheftet. „Es iſt Alles<lb/>beim Alten!“ ſagten die Leute heimlich und ent-<lb/>täuſcht, als ſie bemerkten, wie ſich Lena's Lippen<lb/>bewegten. War es der engliſche Gruß, den ſie<lb/>ausſprachen —? O nein, es war ein irdiſcher, ſehr<lb/>irdiſcher Gruß, ſie ſagte lautlos, gleichſam in ihr<lb/>unruhiges Herz hinein: „Du Augen ſchön!“ Lena<lb/>erging es nicht wie den Bäumen, die ſich biegen<lb/>und fügen können, wenn der Sturm losbricht, die<lb/>ganze Wucht eines neuen, unbekannten Gefühls<lb/>erfaßte ſie an der ſtolz getragenen Krone und ſie<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0270" n="256" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=270"/>
+            </p>
+            <p> <lb/>empfand den Kampf bis in die innerſten Lebens-<lb/>faſern. „Sie betet!“ flüſterten die Mägde.<lb/>
+            </p>
+            <p> <lb/>Am Montag würde ſchon die ganze Lager-<lb/>epiſode vergeſſen geweſen ſein, wenn nicht der zer-<lb/>lumpte Bube, welcher den Korb des braunen Tür-<lb/>ken gebracht hatte, abermals erſchienen wäre, um<lb/>nach der Bäuerin zu fragen. Diesmal trug er<lb/>nichts, aber er hielt die rechte Hand unverrückt in<lb/>der Taſche ſeines Beinkleides, als ſollte ſie dort<lb/>einen Gegenſtand hüten. Wirklich empfing Lena<lb/>ein weißes Papier, wie einen Brief, aber keine<lb/>menſchliche Seele konnte, außer ihr ſelbſt und dem<lb/>Boten, wiſſen, ob es wirklich einer war; ob es<lb/>gar ein türkiſches Schreiben ſein mochte, blieb ganz<lb/>unentſchieden.<lb/>
+            </p>
+            <p> <lb/>Lena, die ſonſt immer im Dunkeln zu Bett<lb/>ging, nahm an dieſem Abend die Lampe mit in<lb/>die Kammer, weil ſie noch — beten wollte! Femi<lb/>ſchlich ſich auf ihren nackten Füßen vor das Schlüſ-<lb/>ſelloch und ſah richtig, daß die Bäuerin unver-<lb/>wandt in den türkiſchen Brief ſchaute. Als Femi<lb/>nach einer guten Stunde wieder hinſchlich, brannte<lb/>die Lampe noch immer, und Lena las noch immer<lb/>den türkiſchen Brief, der gewiß furchtbar ſchwer<lb/>zu entziffern war. Wer ihr bei dieſem türkiſchen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0271" n="257" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=271"/>
+            </p>
+            <p> <lb/>Studium über die Schulter geblickt hätte, würde<lb/>inne geworden ſein, der Brief ſei nur ein leeres<lb/>weißes Papier, in welchem eine Photographie lag<lb/>— das Bild des afrikaniſchen Prinzen in einer<lb/>ſchmucken neuen Uniform, in der erhobenen Hand<lb/>ein gefülltes Glas, als brächte er eben Lena's<lb/>Geſundheit aus. Lena war keineswegs an Pho-<lb/>tographien gewöhnt, dieſer geheimnißvolle, faſt un-<lb/>heimliche Raub an dem ſichtbaren „Ich“ des Men-<lb/>ſchen drang mit der vollen Macht der Neuheit auf<lb/>ſie ein; ſie ſaß da und grübelte, was er gedacht<lb/>haben möge, als er an ſie dachte!<lb/>
+            </p>
+            <p> <lb/>Lena war nicht krank, aber ſie ſchlief nicht in<lb/>dieſer Nacht. Am nächſten Tage fuhr ſie in die<lb/>Stadt, zwei Tage darauf abermals, und dann in's<lb/>Franzoſenlager — ganz ſo, als gäbe es keine Ar-<lb/>beit mehr auf dem Bredebeckhofe zu thun, und<lb/>die Pferde ſtänden nur des Hafers wegen im<lb/>Stalle. Niemand, ſelbſt Femi nicht, wußte, was<lb/>vorging. Letztere wurde ganz verwirrt, als ſie den<lb/>Befehl erhielt, zehn neue Grabſcheite und zehn<lb/>Aexte beim Schmied zu beſtellen, auf das Ende<lb/>der Woche. Die Bäuerin brachte aus der Stadt<lb/>ein Dutzend nagelneuer Zinnteller und eben ſo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0272" n="258" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=272"/>
+            </p>
+            <p> <lb/>viele Löffel mit, ſie befahl dem Schäfer, einige<lb/>„Schnucken“ auszuſuchen, welche gut zum Schlach-<lb/>ten ſeien, und als das große Rind, von der Weide<lb/>heimkehrend, Lena's Hand leckte, ſagte ſie ſtill lä-<lb/>chelnd: „Es hilft nicht, Bleſſe, Du mußt doch<lb/>daran !“<lb/>
+            </p>
+            <p> <lb/>Einige Leute vermutheten, die Bäuerin rüſte<lb/>zu ihrer Hochzeit, aber Matthes, der doch auch da-<lb/>zu gehörte, kam und ging, ohne daß ſeine Verlobte<lb/>ihm auch nur eine Silbe davon ſagte. Sie hatte<lb/>immer geäußert: im Winter hätte man die beſte<lb/>Muße zum Heirathen. Der Knecht brachte die -<lb/>doppelte Fracht Getreide zur Mühle, und Niemand<lb/>wußte, wer die gute Gottesgabe eſſen ſollte. End-<lb/>lich, am Montag Morgen um ſechs Uhr, nachdem<lb/>die Bredebeckhausgenoſſenſchaft ihr Gebet geſpro-<lb/>chen hatte und ihre Morgenſuppe gegeſſen, welche<lb/>nach zweiſtündigem Dreſchen ſehr gut mundete,<lb/>machte der Schleier des Geheimniſſes Anſtalt, ſich<lb/>zu lüften. „Femi,“ ſprach Lena, „lauf' zum jungen<lb/>Bauern und ſag' ihm, er ſoll den heutigen Tag<lb/>zu meiner Arbeit kommen, und beſtell' dem Schul-<lb/>zen, er ſoll Schlag Acht hier ſein; wenn die Bei-<lb/>den da ſind, ſoll auch mein ganzes Volk kommen,<lb/>damit ich Allen Beſcheid gebe!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0273" n="259" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=273"/>
+            </p>
+            <p> <lb/>Wenn Lena das ganze Dorf gerufen hätte, ſie<lb/>würden Alle gekommen ſein, ſogar die Schwer-<lb/>kranken, denn die allgemeine Neugier war bereits<lb/>bis auf eine unnatürliche Höhe geſteigert. Als<lb/>die Wanduhr zum Schlage ausholte, ſtanden alle<lb/>Berechtigten in der geräumigen Küche wie <hi rendition="#g">ein</hi>
+               <lb/>Mann, Lena bot dem Schulzen und Matthes einen<lb/>Stuhl, ſetzte ſich ſelbſt gelaſſen nieder und ſagte<lb/>dann im ruhigſten Ton: „Ich thue Euch zu wiſſen,<lb/>daß, von wegen des Krieges, meine Uferarbeiten<lb/>und Stackwerke an der Emſe bis heute nicht ver-<lb/>neut werden konnten, weilen daß dieſen Sommer<lb/>keine Arbeiter da waren. Indeß muß vor dem<lb/>Winter Alles in Ordnung kommen, damit mir die<lb/>Winterfluth den Eſch nicht unterwühlt, ſomit —“<lb/>Todtenſtille, Lena erhebt ihre Stimme zu voller<lb/>Kraft und Klarheit — „ſomit hat der Comman-<lb/>dant mir ein zehn Stück Franzoſen bewilligt,<lb/>welche heute, von einem Landwehrmann bewacht,<lb/>die Arbeit anfangen. Du, Matthes, wirſt mit<lb/>dem Stackmeiſter die Aufſicht führen. Trine bleibt<lb/>bei mir im Hauſe, Gert und Jan fahren mit den<lb/>Pferden Buſch und Erde zu, Ihr Anderen geht bis<lb/>zum Abend in's Moore zum Torfringen. Laßt<lb/>Euch zugleich geſagt ſein, daß die Franzoſen unter<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0274" n="260" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=274"/>
+            </p>
+            <p> <lb/>meinem Dache nicht neugierig angegafft und nicht<lb/>mit vorwitzigen Fragen beläſtigt werden ſollen!“<lb/>
+            </p>
+            <p> <lb/>Das betreffende „Volk“, unter demſelben Femi,<lb/>war keineswegs damit einverſtanden, daß es die<lb/>Bredebeckfranzoſen nicht zu ſehen bekommen ſollte,<lb/>aber es war eben keine Weigerung denkbar, und<lb/>ſie wanderten mit ihren Butterbröden und Trink-<lb/>keſſeln grollend ihres Weges. Während ſie aus-<lb/>wanderten, zogen in der That die Franzoſen, unter<lb/>ihnen Mahomed ben Ali, ein und machten ſich mit<lb/>mehr guter Laune, als praktiſchem Eifer an die<lb/>Arbeit, indeß der Landwehrmann, den „Kuhfuß“<lb/>quer über die Kniee gelegt, ihnen vom hohen<lb/>Emsufer herab gemächlich zuſchaute und ſich wun-<lb/>derte, was die Kerle immer zu lachen und zu<lb/>ſchnattern hätten. Mahomed, minder lebhaft als<lb/>ſeine Schickſalsgenoſſen, verrichtete ſeine Aufgabe<lb/>mit einer herablaſſenden Würde, welche die Ge-<lb/>ſchmeidigkeit ſeiner Bewegungen doppelt hervor-<lb/>treten ließ. Er blickte von dem künſtlichen Damm,<lb/>den man der Strömung entgegenſtellte, häufig an<lb/>ſeinem Wächter vorüber den Weg am Ufer ent-<lb/>lang, bis endlich ſeine ſchwarzen Augen liſtig und<lb/>befriedigt aufblitzten, denn es ſchritt die Bredebeck-<lb/>bäuerin mit ihrer Magd daher, welche das Mittag-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0275" n="261" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=275"/>
+            </p>
+            <p> <lb/>eſſen herbeitrugen. Mit wenigen Sätzen war er<lb/>an ihrer Seite und befreite Lena's große, rothe<lb/>Hände ritterlich von ihrer Bürde. Es iſt ſonder-<lb/>bar, daß in gewiſſen Lebenslagen wir Alle uns<lb/>der Urſprache erinnern, die unſeren paradieſiſchen<lb/>Voreltern ſo glücklich jede grammatikaliſche Vor-<lb/>bildung erſetzte. Auch Mahomed ſagte, während<lb/>er den Blechkeſſel nahm, der Bäuerin viel ſchöne<lb/>Dinge, indeß er nur ſein „Du ſchöne Augen!“<lb/>murmelte, das bereits ſo tiefen Eindruck gemacht<lb/>hatte, und in ſelbige Augen blickte, bis ſie ſich ver-<lb/>ſchämt ſenkten. Sehr ſpröde Naturen vergeben<lb/>ſich nur dann eine Weichheit, wenn ſie dieſelbe<lb/>mit einer Härte zudecken und vergeſſen machen.<lb/>Kaum ſpürte Lena ihr erſtes mädchenhaftes Herz-<lb/>klopfen, als ſie ſich gereizt an Matthes, der ge-<lb/>dankenlos da ſtand, wandte und rief: „Nun, Fant,<lb/>hätteſt ſo gut als <hi rendition="#g">der</hi> da ſehen können, ich habe<lb/>ſchwer zu tragen, aber Du begreifſt nichts, wenn<lb/>man Dich nicht mit der Naſe drauf ſtößt !“<lb/>***<lb/>Matthes' Züge wurden trotzig und bös. „O,<lb/>ich begreife doch Manches,“ entgegnete er finſter,<lb/>„Manches, das man nicht gerade in der Kirche ab-<lb/>kanzeln läßt, unter Anderem, weshalb die Bredebeck-<lb/>Lena ihre Uferbauten verneuen läßt!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0276" n="262" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=276"/>
+            </p>
+            <p> <lb/>„Das begreift jedes nüchterne Kind!“ ent-<lb/>gegnete die Verlobte ſtramm.<lb/>
+            </p>
+            <p> <lb/>Nicht ſobald war die Mahlzeit unter einen<lb/>Baum geſtellt, als die Franzoſen ſich um dieſelbe<lb/>mit größter Luſtigkeit lagerten, zwiſchen ihnen der<lb/>blonde, dicke, ſchwerfällige Landwehrwächter, den<lb/>ſie wie Kinder hänſelten und neckten und ihren<lb/>„<hi rendition="#aq">chèr papa</hi>!“ riefen, was derſelbe mit breitem,<lb/>gutmüthigem Lächeln aufnahm; offenbar unterhielt<lb/>ihn ſeine Schaar, und der Nationalhaß war unter<lb/>der Pickelhaube, die den dicken Schädel deckte, vor-<lb/>läufig ſo gänzlich verglommen, wie der letzte Funke<lb/>in ſeiner erkalteten Tabakspfeife, die, mit dem<lb/>Portrait Moltke's geſchmückt, neben ihm im<lb/>Graſe lag.<lb/>
+            </p>
+            <p> <lb/>Nach eingenommenem Mahle trat eine Raſtzeit<lb/>ein, der Landwehrargus blinzelte mit den Augen,<lb/>die Franzoſen ſtreckten ſich auf die Erde, ſprangen<lb/>aber alle paar Minuten wieder auf, warfen ein-<lb/>ander mit Eicheln und trieben allerhand ziemlich<lb/>anſtrengende Kurzweil. Mahomed trat zu dem<lb/>Weidenbuſch, unter welchem Lena ſaß, dieſe fragte<lb/>ihn laut, wie ihm die Speiſen geſchmeckt hätten,<lb/>und leiſe: „Möchteſt Du entfliehen, Türke?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0277" n="263" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=277"/>
+            </p>
+            <p> <lb/>Wieder blitzte es über das braune, ſchmale<lb/>Geſicht, dann ſagte er traurig: „Viel gefährlich!“<lb/>
+            </p>
+            <p> <lb/>„Gefährlich?“ entgegnete Lena; „o ich fürchte<lb/>mich vor nichts in der Welt, und außerdem, ich<lb/>bin reich, ich bin mein eigener Herr!“<lb/>
+            </p>
+            <p> <lb/>„Mahomed bei Dir bleibt, Du ſchöne Augen!“<lb/>flüſterte der Turko feurig und beugte ſich, um<lb/>Lena's Hand zu faſſen.<lb/>
+            </p>
+            <p> <lb/>„Still,“ warnte ſie, „der da iſt mein Verlobter,<lb/>ich bin ſeine Braut!“<lb/>
+            </p>
+            <p> <lb/>„Ich ihn ſchlagen todt!“ entſchied der Prinz.<lb/>
+            </p>
+            <p> <lb/>Lena ſtarrte ihn entſetzt an: „Pfui, wie magſt<lb/>Du ſo etwas denken, ich bin ja nicht gezwungen,<lb/>ihn zu heirathen, wenn — —“<lb/>
+            </p>
+            <p> <lb/>„Wenn?“ fragte der Prinz, der große Mühe<lb/>hatte, ihren breiten, hochdeutſchen Dialekt zu<lb/>verſtehen.<lb/>
+            </p>
+            <p> <lb/>„Wenn,“ ſprach Lena entſchloſſen, „mir ein<lb/>Anderer beſſer gefallen thut!“<lb/>
+            </p>
+            <p> <lb/>„Mahomed Dir gefallen?“ forſchte er, die<lb/>dunklen Augen tief in die ihrigen verſenkend.<lb/>
+            </p>
+            <p> <lb/>Sie ſpielte mit den Weidenäſten und ein bräut-<lb/>liches Roth überdeckte ihr Antlitz. Plötzlich brach<lb/>ſich ihr herriſches und ſelbſtwilliges Temperament<lb/>Bahn, und ſie rief mit lauter Stimme: „Ja!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0278" n="264" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=278"/>
+            </p>
+            <p> <lb/>„Ja, ja!“ wiederholte Trine, die, mit Zuſammen-<lb/>räumen der Geräthſchaften beſchäftigt, eine Mah-<lb/>nung zu größerer Eile zu vernehmen glaubte.<lb/>„Ja, ja, wenn ich Alles allein thun ſoll, dann<lb/>geht's nicht haſtiger!“<lb/>
+            </p>
+            <p> <lb/>Lena erhob ſich und half ihr, wonach Beide<lb/>ſich auf den Heimweg machten. Die Bäuerin<lb/>bereute nicht, was ſie geſagt hatte; ſie empfand im<lb/>Gegentheil, ſeit ſie Mahomed ſo entſchiedene Hoff-<lb/>nungen gegeben, die Erinnerung minder bitter,<lb/>welche ſeit Matthes' und Femi's Zwieſprach gleich<lb/>einem Widerhaken in ihrem Gedächtniſſe haftete.<lb/>
+            </p>
+            <p> <lb/>Matthes zurückzuweiſen war leicht, aber den<lb/>Prinzen auf der Höhe eines Bredebeckbauern zu<lb/>befeſtigen — das war ſchwieriger, am beſten ſchien<lb/>ein Abkaufen des Aufgebots, eine raſche Trauung<lb/>— und dann mochten die <hi rendition="#g">Thatſachen</hi> reden!<lb/>Freilich, bis zum Frieden, der Mahomed auf freien<lb/>Fuß ſetzte, mußte der Plan geheim gehalten wer-<lb/>den, aber Lena's Geiſt ſchreckte vor alle dem nicht<lb/>zurück, um ſo weniger, als ihre Augen mit jener<lb/>liebenden Blindheit geſchlagen waren, die gar keine<lb/>Unmöglichkeiten anerkennt, als höchſtens die: dem<lb/>geliebten Gegenſtande zu entſagen! Herkommen<lb/>und Bauernſitte — was waren ſie heute für die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0279" n="265" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=279"/>
+            </p>
+            <p> <lb/>rüſtige Bäuerin? Ein alter, nutzloſer Plunder,<lb/>der ſich längſt überlebt hatte — man muß nur<lb/>klüger ſein als dieſes hartköpfige Bauernvolk, ſo<lb/>überflügelt man ſie doch endlich. Welches Mädchen<lb/>im Kirchſpiel hatte einen Freier gleich Mahomed<lb/>aufzuweiſen? Lena erſchien ſich faſt eine Königin,<lb/>denn ſie glaubte ſich geliebt, ſie glaubte Stolzeres<lb/>erreicht zu haben als alle Anderen. O die Liebe!<lb/>Der Frühling in Island ſoll das Wunderbarſte<lb/>ſein, das die Phantaſie ſich auszumalen vermag<lb/>— ſo raſch und zauberhaft entwickelt ſich die Vege-<lb/>tation, ſo ſchroff ſtehen die Contraſte des hohen<lb/>Nordens und der blühenden Natur nebeneinander.<lb/>Lena war ein lenzumwehtes Island — aber der<lb/>Lenz iſt dort ſo kurz.<lb/>
+            </p>
+            <p> <lb/>Femi, die im Grunde das verzogene Kind der<lb/>Hausgeſellſchaft war und ihrer Jugend und Zier-<lb/>lichkeit wegen im Allgemeinen nicht zu ſchweren<lb/>Arbeiten gezogen ward, empfand ihre Verbannung<lb/>in’s Torfmoor mit großer Unzufriedenheit; heim-<lb/>kehrend ging ſie zögernd hinter den anderen Ar-<lb/>beitern drein; neben dem Bruche ſetzte ſie ſich<lb/>nieder und rief den Voranſchreitenden nach, ſie<lb/>möchten die Franzoſen gehörig anſchauen, hier<lb/>draußen ſei's doch beſſer. Vielleicht würde Nie-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0280" n="266" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=280"/>
+            </p>
+            <p> <lb/>mand im Hauſe, das von den Franzoſen durch-<lb/>ſchwärmt wurde, die Abweſenheit des Schwarzkopfes<lb/>bemerkt haben, wenn nicht Matthes aus ſeiner<lb/>tückiſchen Schweigſamkeit erwacht wäre, um in<lb/>ſcharfem, ihm ſonſt ſo fremdem Ton zu fragen:<lb/>„Wo iſt Femi?“<lb/>
+            </p>
+            <p> <lb/>„Wo wird ſie ſein,“ entgegnete ſchnippiſch die<lb/>Jungemagd, „in ihren Kleidern! Sie ſitzt an Höper's<lb/>Wieſe und ſieht in die Wolken!“<lb/>
+            </p>
+            <p> <lb/>Die anderen Leute lachten, Matthes aber ſagte:<lb/>„Es iſt eine Schande werth, das arme Kind mit<lb/>ſolcher Pferdearbeit zu quälen!“ und ſchaute Lena<lb/>dabei herausfordernd an. Die Bäuerin vernahm<lb/>den Vorwurf kaum, neben ihr lehnte Mahomed<lb/>und flüſterte ihr ſein: „Du ſchöne Augen!“ in<lb/>die Ohren, eine Mittheilung, deren öftere Wieder-<lb/>holung ihr nichts von ihrem Zauber zu rauben<lb/>ſchien.<lb/>
+            </p>
+            <p> <lb/>„Femi? Femi?“ ſprach aufmerkend und ſin-<lb/>nend der Prinz. „Wer ſein Femi?“<lb/>
+            </p>
+            <p> <lb/>„Meine Magd!“ entgegnete Lena hochmüthig.<lb/>
+            </p>
+            <p> <lb/>Matthes ſtülpte ſeine Mütze auf und verließ<lb/>den Hof, indem er der bezeichneten Wieſe zuſchritt.<lb/>Femi ſaß noch da und blickte richtig in die Wol-<lb/>ken, die Arme um die Kniee geſchlungen.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0281" n="267" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=281"/>
+            </p>
+            <p> <lb/>„Nun, Schwarzkopf!“ rief Matthes, „weißt<lb/>Du's ſchon?“<lb/>
+            </p>
+            <p> <lb/>„Was ſoll ich wiſſen?“<lb/>
+            </p>
+            <p> <lb/>„Unſere Bäuerin, die ſtramme Bredebeckerbin,<lb/>das Tugendmuſter der Gemeinde, hat eine Freierei<lb/>mit dem Türken, mit dem braunen Gaudieb ange-<lb/>fangen!“<lb/>
+            </p>
+            <p> <lb/>„Einmal mußte ihr Tag kommen!“ antwortete<lb/>Femi gelaſſen. „Was geht’s uns an?“<lb/>
+            </p>
+            <p> <lb/>„Du willſt mich zum Narren haben, Mäd-<lb/>chen —! Was es <hi rendition="#g">mich</hi> angeht? Sehr viel, Alles,<lb/>ſie iſt meine Braut und ſoll mir Rede ſtehen!“<lb/>
+            </p>
+            <p> <lb/>Femi lachte, als er ſich ſo erhitzte. „Armer<lb/>Junge!“ rief ſie, „und Ihr hattet Euch ſo drücke-<lb/>lieb miteinander!“<lb/>
+            </p>
+            <p> <lb/>„Nein, lieb hatten wir uns nicht, gar nicht,<lb/>Femi, für mich lebt nur <hi rendition="#g">ein</hi> Mädchen in der Welt,<lb/>und das biſt Du, Femi, damit Du es nur weißt!<lb/>— aber dieſes Weib, dieſe Lena, ſoll nicht denken,<lb/>ſie kann mit uns Anderen ſpielen, weil ſie Geld<lb/>hat!“<lb/>
+            </p>
+            <p> <lb/>„Weshalb laßt Ihr mit Euch ſpielen? Jetzt<lb/>ſchimpfſt Du, aber wenn ſie da ſteht, lenkt ſie Dich<lb/>am Schürzenband, und Du wehrſt Dich nicht ſo<lb/>viel als ein Ziegenlamm von vier Wochen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0282" n="268" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=282"/>
+            </p>
+            <p> <lb/>„Steh' jetzt auf und komm'!“ heiſchte Matthes<lb/>mit rauher Stimme; „es ſchickt ſich nicht, daß ein<lb/>Mädchen bei kommender Nacht auf der Land-<lb/>ſtraße ſitze!“<lb/>
+            </p>
+            <p> <lb/>„Die Landſtraße iſt meine Mutter!“ entgeg-<lb/>nete Femi, indem ſie aufſtand und ihm folgte.<lb/>
+            </p>
+            <p> <lb/>„Wäre gut, Schwarzkopf, Du hätteſt Jemand,<lb/>der beſſer für Dich ſorgt als dieſe Mutter, und<lb/>liebevoller als die Bäuerin; glaubſt Du, <hi rendition="#g">ich</hi>
+               <lb/>würde Dich recht halten, wenn ich Dein Mann<lb/>wäre ?“<lb/>
+            </p>
+            <p> <lb/>„Darüber wollen wir uns nicht den Kopf zer-<lb/>brechen, Matthes, das kann nie ſein, wie Du<lb/>auch gut genug weißt; Du biſt Deiner Freund-<lb/>ſchaft ſchuldig, eine Frau mit Geld zu bringen!“<lb/>
+            </p>
+            <p> <lb/>„Nun aber, angenommen es ſtände anders,<lb/>wär' ich Dir recht, haſt Du Jemand lieber als<lb/>mich?“<lb/>
+            </p>
+            <p> <lb/>„Frag' nicht ſo!“ zürnte Femi, „kaum verur-<lb/>theilſt Du die Lena und ſchon thuſt Du wie ſie —<lb/>aber ich will Dir doch meine Gedanken ſagen. Sieh,<lb/>mich wundert es nicht, wenn die Bäuerin von Dir<lb/>abfällt, Du biſt wie ein Feuer, das immer raucht<lb/>und nie brennt — man hat alles Schlimme und<lb/>nichts Gutes davon!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0283" n="269" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=283"/>
+            </p>
+            <p> <lb/>Matthes erwiderte nichts, vor dem Hauſe blieb<lb/>er ſtehen, ſchickte den kleinen Knecht hinein und<lb/>ließ die Bäuerin auf ein paar Worte heraus-<lb/>begehren. „Jetzt, Femi, geh' in’s Haus,“ ſprach<lb/>er ernſt und ruhig, „ich fange an zu brennen und<lb/>will wiſſen, woran ich mit der Lena bin!“<lb/>
+            </p>
+            <p> <lb/>Nachdem Femi den Rücken gewendet, that Mat-<lb/>thes noch raſch einige Züge aus ſeiner Brannt-<lb/>weinflaſche, er mußte dem Feuer in ſeinem Buſen<lb/>doch nicht ſo recht trauen, weil er ſo gefliſſentlich<lb/>nachheizte. Natürlich wartete er, auf einem Holz-<lb/>ſtoß mit ſchlenkernden Füßen ſitzend, ſo, daß man<lb/>ſein Geſicht vom Hauſe her nicht ſehen konnte, er<lb/>ſah ſomit auch Lena nicht und merkte ihr Kommen<lb/>nur an dem Schall ihrer wuchtigen Tritte. „Was<lb/>kommt Dir in den Sinn, Matthes, mich heraus-<lb/>rufen zu laſſen? Habe ich nicht heute ohnedem<lb/>gerade Arbeit genug und übergenug? Weshalb<lb/>kommſt Du nicht in’s Haus?“<lb/>
+            </p>
+            <p> <lb/>„Ich gehe nicht mehr in Dein Haus, Lena,<lb/>ehe ich nicht weiß, wie ich mit Dir daran bin!<lb/>Ich ließ Dich rufen, um das von Dir zu hören!“<lb/>
+            </p>
+            <p> <lb/>Lena ſchrak zuſammen, ſo viel Entſchloſſenheit<lb/>hatte ſie Matthes nicht zugetraut; ſie, die ſtets ſo<lb/>That- und Entſchlußfertige, war in dieſem Augen-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0284" n="270" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=284"/>
+            </p>
+            <p> <lb/>blicke auf eine entſcheidende Antwort völlig unvor-<lb/>bereitet.<lb/>
+            </p>
+            <p> <lb/>„Kinderei!“ rief ſie, „Du haſt wohl einen<lb/>über den Durſt genommen?“<lb/>
+            </p>
+            <p> <lb/>„Ich bin kein Kind, ich bin Dein Bräutigam<lb/>und verlange Antwort — entweder geht der braune<lb/>Lump da drinnen, oder ich gehe!“<lb/>
+            </p>
+            <p> <lb/>„Matthes, ſei vernünftig, wie magſt Du ſolche<lb/>Dinge reden!“ begütigte Lena; er aber ſtellte ſich<lb/>mit funkelnden Augen vor ſie, erfaßte mit ſchar-<lb/>fem Griff ihre ſtämmigen Schultern und ſagte<lb/>keuchend: „Keine Umſtände — welchen von uns<lb/>willſt Du — <hi rendition="#g">ihn</hi> oder <hi rendition="#g">mich</hi>?“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Ihn</hi>!“ entgegnete Lena ſtark und richtete ſich<lb/>in ihrer ganzen impoſanten Höhe auf. „Ihn,<lb/>ich bin mein eigener Herr und kann thun, was<lb/>mir beliebt!“<lb/>
+            </p>
+            <p> <lb/>Matthes' Hände glitten von ihren Achſeln her-<lb/>nieder, er wurde ſehr blaß und — geſtehen wir's,<lb/>ſehr nüchtern, denn er hatte wirklich einige Gläſer<lb/>über den Durſt getrunken und zwar im Zorne.<lb/>
+            </p>
+            <p> <lb/>„Gut, gut!“ murmelte er, „ich will nur hin-<lb/>eingehen und meine Pfeife holen und es der Femi<lb/>ſagen, daß — daß —!“<lb/>
+            </p>
+            <p> <lb/>Matthes ſchwankte, und Lena ſagte mitleidig:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0285" n="271" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=285"/>
+            </p>
+            <p> <lb/>„Ja, komm' herein, eine Taſſe Kaffee wird Dich<lb/>wieder auf die Socken bringen!“<lb/>
+            </p>
+            <p> <lb/>Sie legte ihre derbe Rechte unter ſeinen Ell-<lb/>bogen, und Beide ſchritten, ein Bild liebender<lb/>Eintracht, der Küche zu, welche in den Bauerhäu-<lb/>ſern an den Ufern der Unterems zugleich als ge-<lb/>räumiges Wohngemach dient. Was aber Matthes<lb/>und Lena dort erblickten, das ließ ſie alle eige-<lb/>nen Zerwürfniſſe vergeſſen und brachte Matthes<lb/>raſcher auf die Socken, als eine ganze Kanne voll<lb/>des ſtärkſten und beſten Kaffees.<lb/>
+            </p>
+            <p> <lb/>Inmitten der lebhaft geſticulirenden und durch-<lb/>einander redenden Franzoſen ſtand Mahomed, und<lb/>von ſeinen Armen umſchloſſen, das Köpfchen an<lb/>ſeine Bruſt geſchmiegt, lehnte Femi und blickte mit<lb/>thränenvollen Augen zu ihm empor, der ihr krau-<lb/>ſes Haar ſtreichelte und ihre junge, unentweihte<lb/>Stirn küßte. Ein Schrei, ein unheimlicher, halb<lb/>erſtickter Ausruf qualvoller Wuth, machte die<lb/>Gruppe zuſammenſchrecken, aber im ſelben Mo-<lb/>ment war auch ſchon Matthes an der Seite des<lb/>braunen Prinzen, hatte Femi von ihm hinweg-<lb/>geſchleudert, und es begann zwiſchen Beiden ein<lb/>lautloſes, grimmiges Ringen, das offenbar auf<lb/>Leben und Tod hinausging. Der Araber hatte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0286" n="272" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=286"/>
+            </p>
+            <p> <lb/>alsbald ſeine ſcharfen Zähne in Matthes' linken<lb/>Arm gegraben, ſo daß das Blut herniedertröpfelte,<lb/>und Matthes bemühte ſich, mit der rechten Hand<lb/>den Gegner zu erwürgen. Letzteres würde vielleicht<lb/>gelungen ſein, wenn ſich nicht die übrigen Roth-<lb/>hoſen ihres Kameraden angenommen hätten, in-<lb/>dem ſie insgeſammt über Matthes herſtürzten und<lb/>ihn in bedrohlichſter Weiſe mißhandelten. Mat-<lb/>thes hielt ſich für einen verlorenen Mann und<lb/>trachtete nur, zu beſſerer Gegenwehr, mit dem<lb/>Rücken an eine Wand zu lehnen, da fuhren die<lb/>Kämpfenden, welche der Landwehrmann vergebens<lb/>bedroht und beſchworen hatte, plötzlich auseinan-<lb/>der und ließen von dem blutenden Matthes ab,<lb/>deſſen Kleider zerfetzt und abgeriſſen waren —<lb/>zwiſchen den Parteien ſtand Femi und ſchwenkte<lb/>ein brennendes Holzſcheit, ihre Augen ſprühten<lb/>durch die wogenden Rauchwolken. „Ihr Halun-<lb/>ken, Ihr Mörder!“ rief ſie, „ſeid Ihr Beſtien,<lb/>daß Ihr, ein Dutzend, über einen Einzigen her-<lb/>fallt? Zurück, Geſindel, wer ſich naht, dem ſchlage<lb/>ich mit meinem Kloben den Schädel ein!“ Der<lb/>Zorn hat eben ſo wohl ſeine nicht mißzuverſtehende<lb/>Urſprache, als die Liebe; die Franzoſen begriffen<lb/>vollkommen, was das Mädchen ſagte, und fügten<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0287" n="273" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=287"/>
+            </p>
+            <p> <lb/>ſich alsbald gehorſam den Anordnungen des Land-<lb/>wehrmannes, welcher auf augenblicklichem Rück-<lb/>marſch in's Lager beſtand, um ſich jedweder per-<lb/>ſönlichen Verantwortung zu entziehen. Mahomed<lb/>wollte Lena die Hand reichen, aber ſie wandte ſich<lb/>ab. Femi beſchäftigte ſich mit dem ohnmächtig<lb/>daliegenden Matthes und ſagte traurig: „Gott ver-<lb/>zeihe Dir's, Mahomed ben Ali, wenn er getödtet<lb/>iſt, ſein Leben iſt mir mehr, tauſendmal mehr<lb/>werth als mein eigenes!“<lb/>
+            </p>
+            <p> <lb/>Es iſt nicht zu ergründen, woher bei plötz-<lb/>lichem Regenwetter in der Stadt auf einmal un-<lb/>zählige Regenſchirme kommen, indeß man zehn<lb/>Minuten zuvor Niemanden mit einem Regenſchirm<lb/>bemerkte, und woher bei aufregenden Ereigniſſen<lb/>die neugierigen Zuſchauer gleichſam aus der Erde<lb/>erwachſen, ſelbſt bei ſchwach bevölkerter, ländlicher<lb/>Umgebung. Die Bredebeckküche war, trotz ihrer<lb/>Geräumigkeit, alsbald mit Gaffenden und Kla-<lb/>genden gefüllt, indeß Femi, von den Knechten<lb/>unterſtützt, den Bewußtloſen auf ein Bett trug<lb/>und ſeine Wunden wuſch und verband. Lena ſaß<lb/>ſtarr und theilnahmlos mit feſt verſchlungenen<lb/>Händen da und blickte in das Herdfeuer, über dem<lb/>die Kochtöpfe mit der Abendmahlzeit für die Fran-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0288" n="274" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=288"/>
+            </p>
+            <p> <lb/>zoſen hingen. Niemand heizte nach, Niemand hob<lb/>die Töpfe ab, und die Herrin bemerkte nicht, daß<lb/>Alles wirr durcheinander ging, daß Matthes' junge<lb/>Schweſtern weinten und die Uebrigen ſchwatzten.<lb/>Die Bäuerin lehnte da wie eine im jähen Wirbel-<lb/>wind entwurzelte Eiche. Als ſie ſich wohl durch<lb/>eine Stunde gar nicht gerührt hatte, ward ihr<lb/>Anblick den Leuten unheimlich, ſie umgingen die<lb/>Regungsloſe in einem großen Bogen und flüſterten<lb/>nur gedämpften Tones. Femi, nachdem ihr Pfleg-<lb/>ling erwacht, verbunden und mit Camillenthee<lb/>verſorgt war, näherte ſich der Geſtrengen, legte<lb/>ihre kleine Hand auf Lena's Schulter und ſagte:<lb/>„Ihr könnt Gott danken, Bäuerin, daß der Matthes<lb/>keine ernſtliche Verletzung davonträgt, der Schäfer<lb/>meint, in ſechs Wochen könnte er wieder friſch<lb/>und geſund ſein!“<lb/>
+            </p>
+            <p> <lb/>„So?“ entgegnete Lena gedankenlos. „Wie<lb/>ſagteſt Du?“ fragte ſie noch einmal und rieb ſich<lb/>die Stirn.<lb/>
+            </p>
+            <p> <lb/>Femi wiederholte die vorige Mittheilung und<lb/>bat ihre Herrin, in die freie Luft hinauszugehen,<lb/>damit ſie ſich recht beſinne und der Schwindel ſich<lb/>verliere. Es war keine Wohlthat für die Bäuerin,<lb/>daß das Schwungrad ihrer Denkkraft wieder in<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0289" n="275" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=289"/>
+            </p>
+            <p> <lb/>Bewegung geſetzt wurde, ihre Glieder zitterten und<lb/>ſie vermochte nicht ſich zu erheben. „Wie kam es,<lb/>daß der Türke <hi rendition="#g">Dich</hi> in ſeinen Armen hielt?“<lb/>ſtieß ſie keuchend hervor.<lb/>
+            </p>
+            <p> <lb/>„Mahomed iſt der Freund meiner Jugend,“<lb/>erklärte Femi, „der mich bei jeder Vorſtellung<lb/>unſerer Truppe in einer Schiebkarre auf einen<lb/>Thurm, oder wohinauf das Seil geſpannt war, ſchob,<lb/>Ihr wißt, ich gehörte Niemandem an!“<lb/>
+            </p>
+            <p> <lb/>„Alſo bei den Seiltänzern und Gaukelſpielern<lb/>war er? So iſt er wohl kein afrikaniſcher<lb/>Prinz?“<lb/>
+            </p>
+            <p> <lb/>„Ich weiß das nicht, doch ſagte er mir einmal,<lb/>ſein Vater ſei Waſſerträger in einer Stadt Cairo,<lb/>weit weg über's Meer! Auch iſt er <hi rendition="#g">kein Chriſt</hi>,<lb/>wie wir, ſondern hat den Türkenglauben.“<lb/>
+            </p>
+            <p> <lb/>„So — ſo!“ murmelte Lena, und ihr Kopf<lb/>ſank ſchwer in die Hände. „Kein Prinz — und<lb/>auch kein Chriſt!“<lb/>
+            </p>
+            <p> <lb/>„Matthes hat eine böſe Bißwunde am Arm<lb/>und einen Schlag auf der Schulter!“ theilte der<lb/>Knecht in unnöthiger Gefliſſenheit mit.<lb/>
+            </p>
+            <p> <lb/>„Ja, ja!“ entgegnete Lena, ohne aufzublicken,<lb/>„mein ehrliches Haus iſt wie eine Mördergrube<lb/>und das Volk von der Landſtraße hat darin zu<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0290" n="276" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=290"/>
+            </p>
+            <p> <lb/>commandiren — ich weiß nicht, wer Herr iſt —<lb/>
+               <hi rendition="#g">ich</hi> weiß es nicht!“<lb/>
+            </p>
+            <p> <lb/>„Ach Du Barmherziger, der Krieg,“ jammerte<lb/>Trine, „der iſt an Allem ſchuld, und dies iſt das<lb/>Allerſchlimmſte!“<lb/>
+            </p>
+            <p> <lb/>Lena erhob den Kopf, und in ihrer früheren<lb/>entſchiedenen Art rief ſie: „Schweig, dumme Gans<lb/>— an <hi rendition="#g">dieſem</hi> hier iſt der Krieg nicht ſchuld,<lb/>an dieſem <hi rendition="#g">nicht</hi>!“ Dann verſank die Bäuerin in<lb/>ihr voriges Brüten.<lb/>
+            </p>
+            <p> <lb/>Am nächſten Morgen blühte den Dorfbewohnern,<lb/>denen eigentlich die ganze Sache im Bredebeckhofe<lb/>noch zu glimpflich abgelaufen war, eine andere<lb/>Neuigkeit — <hi rendition="#g">eine</hi>, die unerklärlicher blieb als<lb/>mehrere Todtſchläge und ſonſtige Frevelthaten —<lb/>die Bredebeckbäuerin war in der Nacht auf und<lb/>davon gegangen und hatte dem Kinde, der Femi,<lb/>die Kaſſe und die Regierung der Wirthſchaft, bis<lb/>zu ihrer Rückkehr, anvertraut. Unglaublich, aber<lb/>wahr. Femi wachte in dieſer Nacht des Ver-<lb/>wundeten wegen, welcher fieberte und öfters zu<lb/>trinken begehrte. Aber wenn ſich Matthes ruhig<lb/>verhielt, da ſiegte doch die Müdigkeit über ſeine<lb/>junge Pflegerin; ſie legte den Kopf an die glän-<lb/>zende, ſaubere Flieſenwand neben dem Herde, und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0291" n="277" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=291"/>
+            </p>
+            <p> <lb/>die dunklen langen Wimpern ſanken tiefer und<lb/>tiefer, bis ſie feſt geſchloſſen waren. Jedoch die<lb/>Tochter der Landſtraße ſchläft nicht ſo feſt, als<lb/>andere Bauernkinder, die immer zwiſchen mächtige<lb/>Federpfühle gebettet wurden; ſie gewahrte, halb<lb/>im Traume, wie Lena aus ihrer Kammer trat,<lb/>die Aſche des Feuers zur Seite ſchob und mitten<lb/>in die bloßgelegten Kohlen jenen Weidenkorb mit<lb/>dem Kartoffelbouquet ſetzte, der ſie vor noch ſo<lb/>kurzer Zeit ſo hoch erfreut hatte. Als das Ge-<lb/>flecht vom Feuer ergriffen war, zog die Bäuerin<lb/>richtig aus ihrem Halstuche auch den türkiſchen<lb/>Brief, ſie blickte hinein, aber leſen konnte ſie gewiß<lb/>nicht, denn ſchwere und immer häufigere Thränen<lb/>quollen aus ihren blauen Augen hervor und liefen<lb/>an dem Tuche bis auf die Schürze hernieder. Dann<lb/>ſank auch der Brief in die Flammen. Dieſe fielen<lb/>in Kurzem zuſammen, Femi gewahrte nichts, bis<lb/>dicht an ihrem Ohre ihr Name geflüſtert wurde.<lb/>„Komm, Kind!“ ſprach Lena, „ich wecke Dich, um<lb/>Dir zu ſagen, daß ich <hi rendition="#g">Dich</hi> an meine Stelle ſetze,<lb/>während ich auf eine Wallfahrt gehe; hier in der<lb/>Kiſte liegt das Geld, die Arbeiten gehen ihren<lb/>gewieſenen Weg, ſorge, daß Jeder ſein Recht be-<lb/>kommt, bete dem Volke vor, und wenn es Euch ſo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0292" n="278" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=292"/>
+            </p>
+            <p> <lb/>um's Herz ſein ſollte, ſo betet für Helena Brede-<lb/>beck!“ Sie bückte ſich bei dieſen Worten und küßte<lb/>den Schwarzkopf. Femi ſah, daß ſie ſchon ganz<lb/>zur Reiſe gerüſtet war und nun noch ein großes<lb/>Stück Schwarzbrod einſteckte.<lb/>
+            </p>
+            <p> <lb/>„Nehmt doch vom Stuten,“ (Roggenbrod mit<lb/>Hefen gebacken) bat die Kleine, „wir haben's ja<lb/>doch im Ueberfluß!“<lb/>
+            </p>
+            <p> <lb/>„Nein, nein,“ wehrte Lena, „ich habe mich zu<lb/>hoch gehalten und bin erniedrigt worden, wer ſich<lb/>ſelbſt erniedrigt, der — nein, nein,“ unterbrach<lb/>ſie ſich, „eßt und trinkt und laßt Euch's nicht<lb/>kümmern, was mit mir iſt. Du, Femi, handle<lb/>in Allem ſo, als ob Du meine Tochter wäreſt,<lb/>und der Matthes ſoll ſich keine Unruhe machen,<lb/>ich habe eine Schuld gegen ihn, und die Bredebeck-<lb/>Lena bleibt nichts ſchuldig. Gott befohlen!“<lb/>
+            </p>
+            <p> <lb/>So ging ſie in die Nacht hinaus.<lb/>
+            </p>
+            <p> <lb/>Viele Leute ſagten, Lena käme nie zurück, aber<lb/>nach ſechs Wochen kam ſie doch wieder. Es war<lb/>jetzt ſchon Herbſt und Matthes wohnte bereits<lb/>wieder ſeit einigen Wochen bei ſeinem Vater. Die<lb/>Bäuerin kam zurück, als wäre ſie gar nicht fort<lb/>geweſen, d. h. ſie ſprach mit keiner Silbe, wohin<lb/>ſie gegangen, noch daß ſie überhaupt gegangen ſei.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0293" n="279" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=293"/>
+            </p>
+            <p> <lb/>Sie billigte die Arbeiten, welche inzwiſchen<lb/>hergeſtellt waren, Abends ſagte ſie zu Femi:<lb/>„Kind, Du ſollſt von jetzt mit in meiner Kammer<lb/>ſchlafen, weil Du meine nächſte Angehörige biſt!“<lb/>
+            </p>
+            <p> <lb/>Am nächſten Tage fuhr ſie mit Femi in die<lb/>Stadt und kaufte eine Menge Kleider für die<lb/>Kleine, und der Schneider nähte mit ſeinen Geſellen<lb/>vierzehn Tage daran. Auch die Näherinnen hatten<lb/>zu thun, und die Mägde fragten boshaft, <hi rendition="#g">wo</hi> denn<lb/>an der kleinen Femi Platz für das Alles wäre?<lb/>
+            </p>
+            <p> <lb/>Als Alles zu Stande war, wurde zu einem Mit-<lb/>tageſſen gerüſtet, und der Knecht fuhr eines<lb/>Morgens in die Stadt, um einen dicken Herrn<lb/>mit ſchwarzem Rock und einer Brille herauszu-<lb/>holen; zugleich kamen der Pfarrer, Matthes und<lb/>ſein Vater, der Schulze und ein anderer Nachbar.<lb/>
+            </p>
+            <p> <lb/>Lena ſagte, ſie wolle eine Verſchreibung machen<lb/>und hernach ſollten Alle eſſen, ſo viel ſie nur<lb/>könnten. Als ſie Alle in der Stube um den grünen<lb/>Wachstuchtiſch ſaßen und der ſchwarze dicke Herr<lb/>ſchon ein ganzes Buch weißes Papier vor ſich ge-<lb/>legt hatte, faltete Lena ihre Hände und blickte<lb/>Einen nach dem Andern ernſthaft an. „Ich habe<lb/>Euch gerufen,“ ſagte ſie, „um Euch mitzutheilen,<lb/>daß es mir zu ſchwer wird, mein eigener Herr zu<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0294" n="280" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=294"/>
+            </p>
+            <p> <lb/>ſein. Mein innerer Herzensſinn, mein Name und<lb/>mein Haus ſind nicht geblieben, wie ſie ſollten,<lb/>und ich hätte größeres Unrecht gethan gegen die<lb/>Kirche, mich ſelbſt und alle Anderen, wäre ich<lb/>nicht gewarnt. So bin ich gewillt, das Kind Femi<lb/>als meine Tochter feſtzuſetzen und ihr Alles zu<lb/>geben nach meinem Tode, wenn ſie Matthes hei-<lb/>rathet, der auf die Art dennoch zu dem Bredebeck-<lb/>hofe kommt. Ich entziehe den Kindern nichts,<lb/>außer eine Schenkung für die Kirche, gedoppelte<lb/>jährliche Almoſen und fünfhundert holländiſche<lb/>Gulden für den Türken Mahomed! Er ſoll ſie,<lb/>wenn er frei wird, bekommen, damit er nicht mehr<lb/>zu einem gefährlichen oder mißachteten Gewerbe zu<lb/>greifen braucht. Er darf nicht denken, eine<lb/>
+               <hi rendition="#g">Chriſtin</hi> vergäße ihrer Worte, und ich habe<lb/>ihm Worte geſagt, die ſo gut wie Verſprechungen<lb/>klangen! Nimmſt Du alles das an, Matthes,<lb/>und giebſt mich dafür frei?“<lb/>
+            </p>
+            <p> <lb/>„Ich hatte Dich ſchon freigegeben vorher,<lb/>Lena, Du weißt es, ich danke Dir, aber Du biſt<lb/>mir nichts ſchuldig. Wir könnten nach Deiner Weiſe<lb/>ſehr zufrieden leben, aber Du biſt gewohnt zu<lb/>commandiren, und ich und Femi —!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ich bin es gewohnt, ich habe mich deshalb<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0295" n="281" corresp="http://opacplus.bsb-muenchen.de/title/BV020662972/ft/bsb11013940?page=295"/>
+            </p>
+            <p> <lb/>ſechs Wochen geprüft und hoffe, es ſoll Alles mit<lb/>Rechtem zugehen, rufe Femi herein!“<lb/>
+            </p>
+            <p> <lb/>Femi ſtürzte ſich an Lena's Bruſt und weinte<lb/>und lachte und küßte ſie; „Mutter! Mutter! ich<lb/>habe eine Mutter!“ rief der Schwarzkopf.<lb/>
+            </p>
+            <p> <lb/>„Ja, ja!“ ſagte Lena und drückte das zarte,<lb/>junge Mädchen an ſich, „commandiren konnte ich<lb/>ſchon, aber Andere beglücken und mich lieben<lb/>laſſen, das lerne ich jetzt, und das iſt beſſer, als<lb/>ſein eigener Herr ſein!“<lb/>
+            </p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

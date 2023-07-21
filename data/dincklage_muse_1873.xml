@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Die zehnte Muse</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_muse_1873</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Die zehnte Muse, 1873.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Die zehnte Muse</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>Verlag Bernhard Schlicke</name></publisher>
+                  <date>1873</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Geschichten aus dem Emslande</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 99–178</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730</idno><idno type="shelfmark">Shelfmark: P.o.germ. 274 rtae-2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Die zehnte Muse</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0109" n="99" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=109"/>
+               
+                  <hi rendition="#c #larger">Die zehnte Muse.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0110" n="100" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=110"/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0111" n="101" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=111"/>
+            </p>
+            <p> <lb/>
+               <hi rendition="#in">I</hi>n dem Eßſaal der Juſtizräthin<lb/>Reiting befanden ſich drei Perſo-<lb/>nen inmitten jener ahnungsvollen<lb/>Unordnung und Anhäufung von<lb/>verſchiedenen Gegenſtänden, welche<lb/>einem Gaſtmahl vorauf zu gehen<lb/>pflegen. Eine dieſer Perſonen war<lb/>die kleine korpulente Hausfrau ſelbſt, in einem<lb/>etwas flüchtigen Morgenanzuge, mit elektriſcher<lb/>Beweglichkeit in allen Gliedern und raſtloſem Um-<lb/>herfahren ihrer ſchwarzen, glitzernden, verſchmitz-<lb/>ten Augen. Neben ihr ſtand, oder vielmehr ihren<lb/>Bewegungen um die lange Tafel folgend, ging<lb/>der Gymnaſial-Profeſſor Dallheim; er war ſicht-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0112" n="102" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=112"/>
+            </p>
+            <p> <lb/>bar ſoeben von einer weiteren Fahrt angelangt,<lb/>trug den Hut in den ſorgſam behandſchuhten Hän-<lb/>den, die außerdem noch einen Regenſchirm hielten,<lb/>und unter ſeinem Ueberzieher wurde eine kleine<lb/>Reiſetaſche ſichtbar, welche über die Schulter ge-<lb/>hängt war. Profeſſor Dallheim wäre faſt ein<lb/>hübſcher Mann zu nennen, wenn er nicht gar ſo<lb/>mager und gar ſo gelehrt und wichtig drein ge-<lb/>ſchaut hätte. Die blaue Brille lag ſo ſonderbar<lb/>auf dem weißen Geſicht und unter den weißblon-<lb/>den, matten Haaren, als wenn Buben einem Schnee-<lb/>mann blaue, große Papieraugen ankleben. Die<lb/>dritte Perſon, ein kleiner Diener, war beſchäftigt<lb/>an einem Nebentiſche Gläſer und Teller abzu-<lb/>wiſchen, und die Mienen der Hausfrau verriethen<lb/>eine unangenehme Spannung, ſo oft der hoff-<lb/>nungsvolle Jüngling, wie um mit einer unſicht-<lb/>baren Geiſterſchaar anzutoaſten, ſich durch allerlei<lb/>Geklirr bemerkbar machte.<lb/>
+            </p>
+            <p> <lb/>„Liebe Tante,“ ſprach der Profeſſor, entweder<lb/>in angeborener Zähigkeit an einem Thema feſtzu-<lb/>halten oder in unglaublicher Mißkenntniß des<lb/>tantlichen Gemüthszuſtandes, „liebe Tante, ich<lb/>wende mich an Sie um Ihren Rath; meine Po-<lb/>ſition iſt nämlich eine erwünſchte und angenehme,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0113" n="103" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=113"/>
+            </p>
+            <p> <lb/>aber ſie weiſt dringend darauf hin, einige Schüler<lb/>als Koſtgänger — —“<lb/>
+            </p>
+            <p> <lb/>„Eins, zwei, drei, vier, fünf, ſechs, ſieben,<lb/>acht, neun, zehn, elf, zwölf — —“ zählte halb-<lb/>laut die Dame.<lb/>
+            </p>
+            <p> <lb/>„O nein, nicht ſo viele, liebe Tante, höchſtens<lb/>vier bis fünf, aber dazu müßte mein Hausweſen<lb/>eine weibliche Leitung haben. — —“<lb/>
+            </p>
+            <p> <lb/>„Die Studirpathe mit dem Präſidenten — die<lb/>neun Muſen mit Willbrecht von Flor — Pieta<lb/>und Vanitas mit dem Lieutenant, Ceres und<lb/>mein Mann — —“ murmelte wieder die Juſtiz-<lb/>räthin.<lb/>
+            </p>
+            <p> <lb/>„Aber, liebe Tante —“ ſtaunte der Profeſſor,<lb/>„ich verſtehe in der That nicht —“<lb/>
+            </p>
+            <p> <lb/>„Verzeihen Sie, Auguſt, ich vertheilte nur die<lb/>Tiſchplätze, Sie können vortrefflich bei den Muſen<lb/>ſitzen, einen Frack haben Sie gewiß mitgebracht,<lb/>— es fehlt uns doch an Herren — meine Angelika<lb/>wird ſich ſehr freuen, das liebe Kind!“<lb/>
+            </p>
+            <p> <lb/>„Es thut mir leid, liebe Tante, wenn ich Sie<lb/>ſtöre, ich werde ſogleich in den nächſten Gaſthof<lb/>gehen, zuvor aber möchte ich Sie um einen kur-<lb/>zen Zwieſprach bitten, vielleicht in Ihrem Salon. —“<lb/>
+            </p>
+            <p> <lb/>„O nein, dahinein darf ich nicht, wegen der<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0114" n="104" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=114"/>
+            </p>
+            <p> <lb/>Ueberraſchung, das heißt, ich weiß nicht, was vor-<lb/>geht, aber ich vermuthe, daß heute, zur Vorfeier<lb/>meines morgenden Geburtstages mir von unſerem<lb/>charmanten Hausgenoſſen, Herrn von Flor, eine<lb/>poetiſch-plaſtiſche Ueberraſchung zugedacht iſt, die<lb/>Sache wurde ganz geheim gehalten!“<lb/>
+            </p>
+            <p> <lb/>„In der That? Und darf ich vielleicht meine<lb/>liebenswürdige Couſine Angelika begrüßen?“<lb/>
+            </p>
+            <p> <lb/>„Unmöglich, ich bedauere, die jungen Damen<lb/>ſind ſämmtlich oben zur Probe bei der Studir-<lb/>pathe!“<lb/>
+            </p>
+            <p> <lb/>„Studirpathe! — Sie reden heute wie eine<lb/>Sphinx!“<lb/>
+            </p>
+            <p> <lb/>„Nun, wir nennen das Fräulein von Flor ſo<lb/>— nimm Dich doch in Acht, Johann, Du wirſt<lb/>Alles zertrümmern — weil ſie mit ihrem Neffen<lb/>auf die Univerſität zog, er iſt ihr Erbe! Johann,<lb/>vergiß nicht die Salzfäſſer! — Wollen Sie nicht<lb/>zu meinem Mann hineingehen, lieber Auguſt, er<lb/>wird ſich ſehr freuen.“<lb/>
+            </p>
+            <p> <lb/>„Nur noch ein Wort mit Ihnen!“ rief der<lb/>Profeſſor verzweiflungsvoll und flüſterte dann:<lb/>„Ich brauche bis zum Ende der Ferien eine Frau<lb/>und muß wiſſen, ob Angelika —! —“<lb/>
+            </p>
+            <p> <lb/>„Angelika,“ ſprach die Dame, athemlos und<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0115" n="105" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=115"/>
+            </p>
+            <p> <lb/>ſah ihn erſchrocken an, „Sie denken an An-<lb/>gelika? —“<lb/>
+            </p>
+            <p> <lb/>„Weshalb nicht, Tante, Sie haben neun Kin-<lb/>der und —“<lb/>
+            </p>
+            <p> <lb/>„Angelika iſt ein bedeutendes, ein<hi rendition="#g"> ſehr </hi>be-<lb/>deutendes Mädchen, Vetter — das iſt mehr als<lb/>Reichthum, es wäre möglich, Angelika machte eine<lb/>gute, eine<hi rendition="#g"> ſehr </hi>gute Partie! Ohne ſchön zu ſein,<lb/>iſt Angelika feſſelnd,<hi rendition="#g"> ſehr </hi>feſſelnd! —“ Die<lb/>Juſtizräthin wollte hinausrauſchen, ja ſie rauſchte<lb/>bereits, als andere, mildere Gefühle ſie noch ein-<lb/>mal Kehrt machen ließen und ſie unendlich freund-<lb/>lich ſagte: „Sie ſind uns willkommen, lieber<lb/>Auguſt,<hi rendition="#g"> ſehr </hi>willkommen, in jeder Beziehung<lb/>willkommen, bitte, gehen Sie nicht in's Gaſthaus,<lb/>Sie können oben bei Eberhard, Hans und Fritz<lb/>vortrefflich logiren — wer weiß, vielleicht ver-<lb/>trauen wir Ihnen demnächſt die lieben Wildfänge<lb/>an! Johann, zeig' dem Herrn Profeſſor das Zimmer<lb/>der jungen Herren, und benachrichtige Herrn<lb/>Juſtizrath, daß wir durch einen Gaſt erfreut<lb/>ſind! —“<lb/>
+            </p>
+            <p> <lb/>Der Grund dieſer milden Regung war der,<lb/>daß Frau Juſtizräthin ſich plötzlich erinnerten,<lb/>wie ihre „bedeutende“ Tochter ihr am geſtrigen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0116" n="106" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=116"/>
+            </p>
+            <p> <lb/>Abende anvertraute: „Ich kann aus Willbrecht<lb/>nicht klug werden, liebt er mich, liebt er die Lucie,<lb/>liebt er uns alle neun, ſammt der Ceres und der<lb/>Pieta und Vanitas — ich bin darüber im Un-<lb/>klaren! —“ Der Nachklang dieſer Unterhaltung<lb/>umgab den Profeſſor plötzlich mit einem gewiſſen<lb/>Zauber und bewirkte, daß er dem vielbewegten<lb/>Johann die Stiegen hinauf folgte zum Schlaf-<lb/>zimmer der jungen Reitings. Die ſorgende<lb/>Mutter mochte darin ein gutes Omen erblicken,<lb/>daß ſie ihre Söhne ſchon im zarten Alter lehrte<lb/>hoch zu ſteigen; ſie bewohnten nämlich unter dem<lb/>Dache, im vierten Stocke, eine Dachkammer, welche<lb/>durch ein rundes Fenſter die Ausſicht auf den Him-<lb/>mel hatte und welche mit ſchief getretenen Stiefeln,<lb/>Angelruthen, Büchern und alten Hüten aufgeputzt<lb/>war. Ehe der Profeſſor indeſſen dieſen gaſtlichen<lb/>Hafen erreichte, feſſelte ihn, im Vorbeigehen, eine<lb/>andere Scene im zweiten Stock. Die Thüren eines<lb/>Salons waren geöffnet und in demſelben wogte<lb/>eine plaudernde Damenſchaar umher, deren auf-<lb/>fallendſte Erſcheinung, Angelika Reiting, ihre<lb/>Gefährtinnen um ein Erkleckliches überragte. Wie<lb/>Recht hatte ihre Mutter, ſie eine bedeutende Er-<lb/>ſcheinung zu nennen und wie Recht der Profeſſor,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0117" n="107" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=117"/>
+            </p>
+            <p> <lb/>wenn er vermuthete, ſie würde als Frau Profeſſorin<lb/>ſeinen Koſtgängern ungemein imponiren und mit<lb/>großer Würde an der Spitze des Hausweſens<lb/>ſtehen. Wenn Angelika ſtets bedeutend an Länge<lb/>war, ſo ſchien ſie heute im Muſen-Koſtüme noch<lb/>viel bedeutender, ſie bildete eine wunderbar pla-<lb/>ſtiſche Geſtalt in ihrem Faltenwurf nach griechi-<lb/>ſchem Schnitt und die golbblonden Locken ſowie<lb/>die weißen, langen Arme gaben ihr ein ſtatuen-<lb/>haftes Anſehen, indeß ihre Gefährtinnen einfach<lb/>verkleidet ausſchauten und neben ihrer gebieteri-<lb/>ſchen Ruhe beweglich kicherten und lachten.<lb/>
+            </p>
+            <p> <lb/>Gern hätte der Profeſſor ſich noch länger<lb/>feſſeln laſſen, wenn nicht die Juſtizräthin an der<lb/>Treppe nach Johann gerufen hätte, der ruhig am<lb/>Geländer lehnte und jetzt emporſchnellte, um die<lb/>zwei letzten Stiegen im Sturmſchritt zu nehmen<lb/>und die Manſarde mit den ſchief getretenen Stie-<lb/>feln aufzureißen, als ob es gälte alle Herrlich-<lb/>keiten der Welt zur Schau zu ſtellen. Nachdem<lb/>ſich der Diener, wie ein Wahnſinniger, wieder<lb/>hinab geſtürzt hatte in den Geſichtskreis ſeiner<lb/>Herrin, ſchaute ſich der Profeſſor nach einem<lb/>Platze um, wo er ſeine Toiletten-Gegenſtände<lb/>ausbreiten könne; noch war derſelbe nicht gefun-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0118" n="108" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=118"/>
+            </p>
+            <p> <lb/>den, als, hart an ſeinem Ohre, eine etwas ſcharfe<lb/>Frauenſtimme im unverfälſchten ſächſiſchen Dia-<lb/>lekt ſang:<lb/>
+            </p>
+            <p> <lb/>In Sachſen, in Sachſen —<lb/>Wo die ſchönen Mädchen auf den Bäumen wachſen!<lb/>
+            </p>
+            <p> <lb/>„Na, na, Guſte, fiel ein zweites weibliches<lb/>Organ ein, wenn der junge Herr Dich hörte, er<lb/>würde wieder von „Rohheit“ ſprechen. Herr Du<lb/>meine Güte, man möchte werden wie ein Zwirns-<lb/>faden ſo fein, wenn's nach <hi rendition="#g">de</hi>m ginge!“<lb/>
+            </p>
+            <p> <lb/>„Du hätteſt nur ſehen ſollen, Toni,“ fiel Guſte<lb/>wieder ein, „wie die Fräuleins da unten um ihn<lb/>herum ſcharwenzeln, gleich Pfauentauben. Als<lb/>ich ſoeben das Backwerk präſentirte, aßen ſie nur<lb/>ganz verſtohlen, er findet es nicht „weiblich“,<lb/>wenn ein Frauenzimmer ſeinen geſunden Ap-<lb/>petit hat!“<lb/>
+            </p>
+            <p> <lb/>„Lächerlich —“ lachte Toni, „na, ſo ein Gras-<lb/>hopper könnte <hi rendition="#g">mir</hi> kommen, ich würde ihm die<lb/>Wege weiſen, gebe Gott, daß er eine Frau be-<lb/>kommt, welche einen Stier bei den Hörnern hält,<lb/>wie eine Viehmeierin, ich gönn' ihm eine recht<lb/>derbe für ſein albernes Gethue! Tauſend noch<lb/>einmal, wir ſind doch Mädchen und keine Puppen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0119" n="109" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=119"/>
+            </p>
+            <p> <lb/>„Wenn ihn Fräulein Angelika fängt — —!“<lb/>Ein ſehr kräftiges Räuspern unterbrach Guſte's<lb/>prophetiſche Inſpiration, die erſchreckten Zofen ver-<lb/>hielten ſich mäuschenſtill und der Profeſſor ſaß, mit<lb/>ſeiner Reiſetaſche in der Hand, gedankenſchwer auf<lb/>dem nächſten, beſten Bettrande, obwohl der beſte auch<lb/>noch kein bequemer Sitz zu nennen war. Manchen<lb/>Menſchen kommen in aufregenden Momenten die<lb/>Gedanken gleich einem Heuſchreckenſchwarm, ſo<lb/>daß ſie ganz verwirrt und halb erſtickt davon ſind.<lb/>Bei dem Profeſſor war das anders. Seine Ideen<lb/>verließen ihn bei plötzlichen Gemüthsaffectionen,<lb/>wie die Mäuſe ein ſinkendes Schiff und der bie-<lb/>dere Dallheim mußte einen Sport, eine Art<lb/>Treibjagd anſtellen, um ſeiner Begriffe wieder<lb/>Herr zu werden. So eben erwiſchte er die Aus-<lb/>ſicht, ringen zu müſſen um Angelika in ſeinem<lb/>eigenen und im Namen ſeiner künftigen Koſt-<lb/>gänger, ringen zu müſſen mit dieſem — „Götzen!“<lb/>rief er ganz laut. Der Profeſſor hatte ſtets ein<lb/>vorzugsweiſe lebhaftes Intereſſe für die nordiſche<lb/>Mythologie an den Tag gelegt und ſogar ein<lb/>kleines Werkchen (59 Seiten Octav) über dieſen<lb/>Gegenſtand geſchrieben, aber für moderne Götter<lb/>ging ihm jedes Verſtändniß, zur Ehre ſeiner<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0120" n="110" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=120"/>
+            </p>
+            <p> <lb/>ſtrengen, chriſtlichen Grundſätze ſei's geſagt! —<lb/>ganz und gar ab.<lb/>
+            </p>
+            <p> <lb/>Die verſtummten Zofen dachten nicht anders,<lb/>als der Ausruf des Profeſſors ſtelle irgend eine<lb/>Verurtheilung ihrer Schwatzhaftigkeit vor und<lb/>Guſte rief zornig und weinerlich durch die tren-<lb/>nende Bretterwand: „Was geht denn Sie die<lb/>ganze Geſchichte an, daß Sie ſich darein miſchen,<lb/>möchte ich wiſſen!“<lb/>
+            </p>
+            <p> <lb/>„O, ſehr viel geht ſie mich an — ſie geht<lb/>mich ganz allein an!“ entgegnete der Wandnach-<lb/>bar mit wahrhaft ſchauerlicher Grabesſtimme. Die<lb/>Zofen dachten, da nebenan müſſe eine Art von<lb/>Menſch gewordenem Vampyr hauſen. Toni fing<lb/>an zu beten und Guſte weinte in ihre Schürze —<lb/>ſo viel ſtand feſt, das räuspernde und redende<lb/>Ungeheuer würde ſie verklatſchen und alle Beide<lb/>um den Dienſt bringen. So ſchwarz waren des<lb/>Profeſſors Gedanken nicht, aber doch ſehr finſter,<lb/>denn wo konnte er, mit mangelnder Damenbe-<lb/>kanntſchaft, in den kurzen Ferien eine paſſende<lb/>Frau finden, wenn Angelika ihm verloren war?<lb/>
+            </p>
+            <p> <lb/>„Lieber Herr,“ flüſterte die muthigere Guſte<lb/>an der Bretterwand, „Sie haben ja doch keinen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0121" n="111" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=121"/>
+            </p>
+            <p> <lb/>Grund, uns bei der gnädigen Studirpathe anzu-<lb/>zeigen, gewiß Sie haben keinen Grund!“<lb/>
+            </p>
+            <p> <lb/>Dallheim hatte eben in die Luft gegriffen und<lb/>wieder einen ſeiner flüchtig gewordenen Gedanken<lb/>erwiſcht. Der arretirte Gedanke lautete wörtlich:<lb/>Aber Angelika iſt ja nicht die einzige Muſe! und<lb/>er rief beruhigt: „Neun, Gott Lob, es ſind ihrer<lb/>neun!“<lb/>
+            </p>
+            <p> <lb/>„Iſt das ein verdorbener, ſchadenfroher, bos-<lb/>hafter Menſch!“ ſagte Toni entrüſtet.<lb/>
+            </p>
+            <p> <lb/>Ja, es waren ihrer neun, große, kleine, dicke,<lb/>dünne, braune, blonde und eine ganz ſchwarze.<lb/>Muſen waren ſie alle und Willrich wußte nicht,<lb/>welche ihm am beſten gefiel, er wußte nur, daß<lb/>er den Muſen gefiel, das zeigten ſie ihm zur Ge-<lb/>nüge. Es war auch kein Geheimniß, weshalb<lb/>Willrich als der Liebling der Muſen daſtand; es<lb/>war nicht ſeine herriſche Kraft, die ihn vor an-<lb/>deren Männern auszeichnete, o nein, Willrich war<lb/>ein kleines, blaſſes Figürchen, das decidirt ver-<lb/>wachſen ſein würde, hätte ihn nicht die Studir-<lb/>pathe jahrelang, — es waren die fröhlichen Kna-<lb/>benjahre — auf das Streckbette ſchnallen laſſen;<lb/>es waren nicht Willrich's Talente, denn er ſpielte<lb/>nur etwas Klavier und zeichnete mit Vorliebe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0122" n="112" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=122"/>
+            </p>
+            <p> <lb/>Pferde- und Hundeköpfe, es war nicht Willrichs<lb/>Reichthum, denn die Muſen und Nichtmuſen dach-<lb/>ten viel zu hoch, um ſich durch den Mammon blen-<lb/>den zu laſſen — nein, es war Willrich's Hoch-<lb/>ſchätzung, ja Idealiſirung des Weibes und ſein<lb/>unbegrenzt zartes Auffaſſen des ewig Weiblichen!<lb/>Er war ein zweiter Frauenlob und zwar mit neun-<lb/>fachem Echo, immer Pieta, Vanitas und Ceres<lb/>ſtillſchweigend einbegriffen, denn dieſe Geſtalten<lb/>durften, der Symmetrie wegen, bei den lebenden<lb/>Bildern nicht fehlen. Dieſe Bilder hatte Willrich<lb/>weiß in weiß erdacht, die einzelnen Figuren traten<lb/>halb aus einer weißen mit entſprechenden Ein-<lb/>ſchnitten verſehenen Pappwand hervor und die<lb/>Damen ſollten mit <hi rendition="#aq">poudre de riz</hi> bis zur Mar-<lb/>morweiße eingeſtäubt werden. Die bedeutende An-<lb/>gelika hatte einen ungeheuren Vortheil vor allen<lb/>anderen Göttinnen des Olymps und den irdiſchen<lb/>heirathsluſtigen Mädchen der Stadt. Sie half<lb/>nämlich Willbrecht von Flor ſich über ſeine poe-<lb/>tiſchen Ideen klar werden, und richtete dieſelben<lb/>dem Publikum mit einer poetiſchen Sauce ſehr<lb/>mundgerecht an. Mit ſeltener Autorbeſcheidenheit<lb/>ſetzte ſie ihren Kunſtantheil bis auf das möglichſt<lb/>unſcheinbarſte Maß herunter, um dagegen die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0123" n="113" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=123"/>
+            </p>
+            <p> <lb/>Verdienſte des Mitarbeiters im Brillantfeuer zur<lb/>Schau zu ſtellen. Mitunter freilich, wenn Ange-<lb/>lika, das häusliche, pflichttreue Weſen! längere<lb/>Zeit verhindert wurde, ihrem Theſeus das Ariadne-<lb/>Knäuel zu wickeln, da irrte er hülflos zwiſchen<lb/>ſeinen nach Geſtalt ſeufzenden Plänen umher und<lb/>ſie ließ ihn zappeln, um ſich endlich deſto holder<lb/>zu erbarmen. Noch ein zweites Band einte den<lb/>kleinen Willbrecht der großen Angelika — viel-<lb/>leicht lag ſchon in der ſonderbaren und krankhaften<lb/>Vorliebe ſehr kleiner Männer für ſehr große Da-<lb/>men ein Grund der Zuneigung des Vielumwor-<lb/>benen! — Dieſes zweite Band war: ſie hatten<lb/>gemeinſame Jugenderinnerungen! Nur ein Idea-<lb/>liſt, gleich Herrn von Flor, konnte <hi rendition="#g">gern </hi>bei<hi rendition="#g"> ſol-</hi>
+               <lb/>
+               <hi rendition="#g">chen</hi> Jugenderinnerungen weilen, die ihm ange-<lb/>ſchnallt, hinfällig, von fieberhaftem Lerneifer ge-<lb/>quält und von zahlloſen Kinderkrankheiten ergrif-<lb/>fen, viel eher als Schreckbilder gelten konnten.<lb/>Damals hatte die kleine, jetzt große Angelika<lb/>neben ſeiner Matratze geſpielt und ſie waren zu-<lb/>ſammen unterrichtet worden. Von ihrem zwölften<lb/>Jahre an kannte Angelika ihre Aufgabe, die darin<lb/>beſtand, den bleichen vierzehnjährigen, angeſchnall-<lb/>ten Knaben zu feſſeln, um dereinſt ſeine Gattin zu<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0124" n="114" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=124"/>
+            </p>
+            <p> <lb/>werden. Sie unterzog ſich dieſem Lebensplan in<lb/>muſterhaft korrekter Weiſe und ſpielte ihre jahre-<lb/>lange, ſanft leitende Rolle mit großem Geſchick.<lb/>Willbrecht war zwar gutmüthig, aber durch ſtete<lb/>Verweichlichung und Kränklichkeit dennoch leicht<lb/>empfindlich: bei dem fortwährenden Zuſammen-<lb/>ſein der Kinder trug Angelika dieſelben Feſſeln<lb/>
+               <hi rendition="#g">geiſtig</hi> und empfand <hi rendition="#g">dieſelben</hi> drückenden<lb/>Hemmungen, welche Willbrecht’s armen, ſchwachen<lb/>Körper darnieder hielten und von aller Freude<lb/>und Freiheit ausſchloſſen. Die Aerzte nannten,<lb/>nach drei Jahren der Behandlung, Willbrecht's<lb/>Kur eine <hi rendition="#g">gelungene</hi>, ſeine Geſtalt war dürftig,<lb/>aber nicht gerade abweichend von anderen dürfti-<lb/>gen Figuren mit etwas hochgehobenen Achſeln.<lb/>
+            </p>
+            <p> <lb/>Dieſe Achſeln, neben dem Beſtreben größer und<lb/>behende zu erſcheinen, gaben Herrn von Flor etwas<lb/>Fliegendes in ſeinem Auftreten, er hätte jeden<lb/>Augenblick emporſummen oder flattern dürfen, ohne<lb/>ſehr aus der Rolle zu fallen. Angelika mußte ſich<lb/>geſtehen, daß <hi rendition="#g">ihre</hi> Kur nicht ganz den erwünſchten<lb/>Erfolg auf Willbrecht hatte. Kaum hüpfte er<lb/>wieder in Lackſtiefeln umher, ſo wollte er ſich ver-<lb/>ſuchen und emanzipiren und es gab ein paar ſehr<lb/>ſentimentale Scenen, aus denen die junge Dame<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0125" n="115" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=125"/>
+            </p>
+            <p> <lb/>nicht eben ſiegreich hervor ging. Angelika war<lb/>zu jener Zeit furchtbar, faſt beängſtigend hoch und<lb/>dünn aufgeſchoſſen, hatte rothe Augen und dicke<lb/>Lippen; eine weinerliche Stimmung machte das<lb/>Alles nicht reizender, wohl aber kam es ihr zu<lb/>Statten, daß ſie zu einer Tante auf's Land gethan<lb/>wurde und eine Milchkur gebrauchte, welche ihre<lb/>Proportionen mehr in's Gleichgewicht brachte.<lb/>Milch iſt der Wein der Jugend und Wein die<lb/>Milch des Alters. — Als Angelika in ihrer ganzen<lb/>Milchkur-Lieblichkeit wieder mit dem erkalteten<lb/>Freunde zuſammen traf, ſagte ihr dieſer, was auch<lb/>Angelika <hi rendition="#g">ihm</hi> hätte ſagen können: „Fräulein<lb/>Reiting, wir ſind keine Kinder mehr, wir müſſen<lb/>den Anſchein einer, freilich ſehr erklärlichen Ver-<lb/>traulichkeit, Ihres Rufes wegen, vermeiden. Nichts<lb/>könnte mir weher thun als eine rückſichtsloſe Be-<lb/>merkung über Sie.“<lb/>
+            </p>
+            <p> <lb/>Zum erſten Mal ſeit, noch im Kindesalter,<lb/>Angelika ſeinetwegen aufgehört hatte ein Kind zu<lb/>ſein, bäumte ſich ihr Gemüth gegen ſeine früh-<lb/>reife und kalte Weisheit auf, in ihren gewöhnlich<lb/>etwas matten Augen, flammte ein ſonderbares<lb/>Licht und ihre Hand riß ſich zuckend aus der<lb/>ſeinigen. Sie flog die Treppen hinunter, warf<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0126" n="116" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=126"/>
+            </p>
+            <p> <lb/>ſich in die Arme ihrer korpulenten Mutter und<lb/>ſagte mit raſchen, unruhigen Athemzügen: „Mama<lb/>— er iſt mir in den Tod zuwider!“<lb/>
+            </p>
+            <p> <lb/>„Wie kindiſch, ihm etwas übelzunehmen,“ ſagte<lb/>die treue Mutter. „Das gäbe eine ſchöne Blamage<lb/>in der ganzen Stadt, zudem“ — der mütterliche<lb/>Ton wurde unendlich vorwurfsvoll — „haſt Du<lb/>
+               <hi rendition="#g">acht</hi> Geſchwiſter!“ Angelika ſenkte, von dieſer That-<lb/>ſache gebeugt, ihr blondes, langlockiges Haupt.<lb/>„Dein Leben im Elternhauſe,“ fuhr die Juſtizräthin<lb/>milder und begütigender fort, „kann für Dich, als<lb/>die älteſte Tochter und natürliche Stütze der<lb/>jüngeren Kinder, kein ſehr angenehmes ſein —“<lb/>(hierin urtheilte die Liebe denn mit gutem Grunde<lb/>und völliger Gewißheit) „daher muß eine glänzende<lb/>Verſorgung für Dich Dir und uns doppelt er-<lb/>wünſcht erſcheinen! Sollte ein kleines Faché<lb/>zwiſchen Euch ſtatt gefunden haben, ſo laß Dich<lb/>das nicht kümmern, Ihr ſeid noch beide ſehr jung<lb/>und ſelbſt ältere Leute, z. B. ich und Dein Papa,<lb/>ſind nicht ſtets derſelben Meinung, das ſchadet der<lb/>Liebe nicht. Willbrecht ſoll jetzt ein paar Jahre<lb/>zur Univerſität gehen und inzwiſchen werdet Ihr<lb/>einander wieder etwas Neues!“<lb/>
+            </p>
+            <p> <lb/>Die Juſtizräthin ſprach ganz ohne Ironie,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0127" n="117" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=127"/>
+            </p>
+            <p> <lb/>überhaupt war kein Funke von Humor in der<lb/>ganzen Familie Reiting. Angelika war eine der<lb/>geduldigſten Mitglieder dieſer Familie, aber auch<lb/>eine Taube hat Galle — indeß ſie weiß nicht<lb/>wozu ſie dieſelbe hat, außer um dieſelbe herab zu<lb/>ſchlucken und ſo geduldig zu bleiben — wie vorher.<lb/>
+            </p>
+            <p> <lb/>Willbrecht bezog in der That die Univerſität<lb/>und zwar unter den Flügeln ſeiner irdiſchen Vor-<lb/>ſehung: einer Tante und Pathin, welche dieſem<lb/>Unternehmen die Bezeichnung „Studirpathe“ ver-<lb/>dankt. Armen Leuten paſſirt es ſehr leicht, daß<lb/>ſie gar keine näheren Angehörigen haben, zu den<lb/>Reichen aber findet ſich ſtets eine Verwandtſchaft,<lb/>dieſer alten Erfahrung zum Trotz war Willbrecht,<lb/>als er in frühſter Jugend zur Waiſe wurde, zwar<lb/>Nutznießer eines großen Vermögens aber ohne Fa-<lb/>milienanhang. Nach längerem Forſchen entdeckte<lb/>ſich, daß ein Fräulein von Flor ihn aus der<lb/>Taufe gehoben habe und man trug dieſer Dame<lb/>an, ob ſie ihre Beziehungen zu dem letzten Träger<lb/>ihres Namens aufrecht erhalten wolle oder das<lb/>kränkliche Kind fremder Pflege anheim geben.<lb/>Fräulein von Flor wollte Mutterſtelle vertreten,<lb/>ſie opferte der neuen Pflicht ſofort einen alten<lb/>Anbeter und einen Schooßhund in ſeinen beſten<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0128" n="118" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=128"/>
+            </p>
+            <p> <lb/>Jahren. Die Behandlung des jeweiligen aegyp-<lb/>tiſchen Apis darf redlich eine rückſichtsloſe genannt<lb/>werden, neben der Sorgfalt, welche die Pathe auf<lb/>Willbrecht’s Erziehung und Pflege verwandte. Die<lb/>Tante war keineswegs ohne geiſtige Begabung und<lb/>das war <hi rendition="#g">das</hi> Unglück ihres Pflegeſohnes. Während<lb/>der Arzt ſeinem Magen jede unverdauliche Süßig-<lb/>keit und jedes erregende Getränk verſagte, wurde<lb/>Willbrecht's Seele mit überſpannten Gefühlsaus-<lb/>drücken genährt und ſeine Eitelkeit mit Lob und<lb/>Ehrgeiz getränkt, bis der kleine, arme Körper<lb/>hätte zerſpringen mögen vor Selbſtgefühl und<lb/>Sehnſucht nach Erfolgen. Es hat wohl kaum<lb/>jemals einen Studenten gegeben, der den Ele-<lb/>menten ſo entfremdet wurde als Willbrecht von<lb/>Flor; was nur die Hitze abkühlen und die Kälte<lb/>durchwärmen, die Näſſe bekämpfen und die Trocken-<lb/>heit angenehm durchfeuchten kann — das umgab<lb/>ihn in vielfachen Erfindungen und Abſtufungen.<lb/>Was er vom Studentenleben genoß, war ihm in<lb/>winzigen homöopathiſchen Doſen zugetheilt. Er<lb/>war nicht gar ſo ſchwächlich, daß er nicht einen<lb/>luſtigen Abend leidlich überſtanden haben würde,<lb/>aber er hatte nicht die Gabe mit anderen Män-<lb/>nern, am wenigſten mit <hi rendition="#g">jungen</hi> Männern harm-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0129" n="119" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=129"/>
+            </p>
+            <p> <lb/>los zu verkehren; es fiel ihm nicht ein, <hi rendition="#g">ſich ſelbſt</hi>
+               <lb/>dieſe mißliche Erfahrung zur Laſt zu legen, im<lb/>Gegentheil, er hielt die jugendlichen und manch-<lb/>mal lauten Ausbrüche des Frohſinns und Ueber-<lb/>muthes für Rohheit und fühlte ſich eine Stufe<lb/>höher ſtehen, als dieſe ſtraffen Burſchen mit ihrem<lb/>kindiſchen Singen und Pauken. Wenn Angelika,<lb/>die zu Willbrecht wie zu einem prädeſtinirten<lb/>Fatum aufblickte, vermuthet hatte, er würde ſich<lb/>auf der Univerſität verändern, gleich anderen Stu-<lb/>denten, ſo irrte ſie. Er brachte allerdings einen<lb/>Wuſt von Gelehrſamkeit mit, aber nichts von die-<lb/>ſem Ballaſt war Fleiſch und Bein geworden, es<lb/>blieb ſein Wiſſen eine Schatzkammer, zu welcher<lb/>er allerdings den Schlüſſel beſaß, aber ohne die<lb/>Hoffnung jemals gangbare Münze aus den Barren<lb/>von Gold und Silber zu prägen. Die Flors, Pathin<lb/>und Neffe, wohnten ſeit ihrer Vereinigung als<lb/>Verwandte in dem Hauſe des Juſtizrathes Rei-<lb/>ting zur Miethe, und daſſelbe ſchien Angelika<lb/>ein Hafen der Ruhe, ſo lange die Miether zur<lb/>Univerſität gezogen waren. In der zweiten Etage<lb/>waren Jalouſien und Rouleaux ſorgſam geſchloſſen,<lb/>es kam dem armen Mädchen vor, als ſchliefe die<lb/>ganze Fenſterreihe einen langen, todtenähnlichen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0130" n="120" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=130"/>
+            </p>
+            <p> <lb/>Schlaf. Daß keine Grabesruhe im Hauſe herrſchte,<lb/>und dafür, daß Angelika keine Zeit zu müßigen<lb/>Träumereien habe, ſorgten die acht Geſchwiſter<lb/>zur Genüge, dagegen aber glaubte die Juſtizräthin<lb/>jene mühſelige und anſpruchsvolle Geſelligkeit ruhen<lb/>laſſen zu können, die ſie in letzter Zeit, dem jungen<lb/>Herrn von Flor zu Gefallen, ſo ſehr begünſtigte.<lb/>Als einige Wochen völlige geſellige Ruhe geherrſcht<lb/>hatte, ſtellte ſich ein Gaſt ein, ein Neffe des Juſtiz-<lb/>rathes, Auguſt Dallheim, derſelbe, welcher jetzt als<lb/>Profeſſor in Amt und Würden dieſen Beſuch<lb/>wiederholte. Damals war Dallheim noch Haus-<lb/>lehrer bei den Söhnen eines Gutsbeſitzers und er<lb/>erzählte Angelika manches Anziehende aus dieſer<lb/>Familie, wenn er in ſeiner gleichmüthigen Art<lb/>neben ſeiner Couſine ſaß und durch ſeine blaue<lb/>Brille beobachtete, wie ſie die Strümpfe ihrer<lb/>Brüder ſtopfte. Auch aus ſeinem eigenen Leben,<lb/>das reich an Entbehrungen geweſen war, vertraute<lb/>Auguſt Dallheim dem lauſchenden Mädchen Vieles<lb/>an, das ſie zum Mitleid bewegte und ihr Achtung<lb/>vor dem Sprecher einflößte. Die Juſtizräthin<lb/>fand den jungen Mann ungemein langweilig, da-<lb/>mals, wo er weder eine geſicherte Lebensſtellung<lb/>noch Ausſicht auf dieſelbe hatte, aber Angelika<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0131" n="121" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=131"/>
+            </p>
+            <p> <lb/>nahm ihn mit Wärme in Schutz und gedachte ſeiner<lb/>noch manchmal bis — bis die Flors zurückkehrten<lb/>und ſie an die Unterhaltung Willbrecht's wieder<lb/>alle Kraft ihres Geiſtes ſetzen mußte. Dieſer ewige<lb/>Zwang machte das Mädchen künſtlich und affectirt.<lb/>Um dieſe Zeit hatte das Fräulein Studirpathe<lb/>einen traulichen Zwieſprach mit ihrer Freundin,<lb/>der Frau Juſtizräthin Reiting. „Ich habe mit<lb/>dem letzen Semeſter wieder eine Lebensaufgabe<lb/>vollbracht!“ ſprach Fräulein von Flor, bequem in<lb/>einen Sopha ſinkend. „Machte mir nicht Will-<lb/>brecht meine Verpflichtung ſo unendlich leicht durch<lb/>das Genie, welches er für Alles, was er ergreift,<lb/>an den Tag legt, wirklich, es wäre zu viel für die<lb/>Schultern einer Frau!“ Hier ſeufzte die Tante<lb/>und ſchnupfte heimlich dabei, oder vielmehr, ſie<lb/>ſchnupfte heimlich und ſeufzte dabei, das that ſie<lb/>immer, denn Willbrecht fand das Schnupfen un-<lb/>weiblich, indeß es der Pathe ein kleiner, wehmü-<lb/>thiger Erſatz für ihre geopferte letzte Herzensnei-<lb/>gung ſchien; unter dieſem Opfer verſtand ſie na-<lb/>türlich den alten Verehrer und den Schooßhund.<lb/>In die Kunſt- und Schnupfpauſe fiel die Juſtiz-<lb/>räthin, die wirklich keinen jungen Mann kannte,<lb/>der Alles ſo zumal war als Willbrecht; Muſik,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0132" n="122" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=132"/>
+            </p>
+            <p> <lb/>Poeſie, Literatur, Malerei und Plaſtik — hatte<lb/>er nicht für Alles ein ſo ſchönes, feines Verſtänd-<lb/>niß, daß man ihn ſtundenlang darüber reden hö-<lb/>ren konnte?<lb/>***<lb/>„Ja, ja,“ lächelte die Studirpathe, „ſein langes<lb/>Reden macht mich oft beſorgt, obwohl er eine<lb/>gute Lunge hat, aber er bekam als Knabe eine<lb/>Halsentzündung und der Arzt meinte damals,<lb/>dieſes Uebel repetirte ſo leicht! Aber, was ich<lb/>ſagen wollte, ſtellen Sie ſich vor, liebe Freundin,<lb/>daß man ihm auf der Univerſität in den Kopf<lb/>geſetzt hatte, er müſſe fechten und reiten lernen.<lb/>Ich ſtemmte mich mit meiner ganzen Autorität<lb/>gegen dieſe ſo gefährlichen und ganz unnützen<lb/>Unterhaltungen, aber Sie wiſſen, welch' einen un-<lb/>erſchütterlich feſten Charakter er mitunter hat.<lb/>Er focht und ritt alſo und ich hatte keine ruhige<lb/>Stunde, bis ich denn endlich ſelbſt mit eigenen<lb/>Augen ſah, wie ſtattlich und ſicher das liebe Kind<lb/>zu Pferde ſaß und mich der Stallmeiſter an Eides-<lb/>ſtatt verſicherte, ſein Pferd habe durchaus keine<lb/>Nücken und Tücken! Bei alledem freut mich Will-<lb/>brecht's ritterlicher Muth, liebſte Freundin, man<lb/>hat ſeine ſchwere Sorge, aber auch ſeinen Lohn.<lb/>Nun, ich bin zufrieden, daß ich ihn unverdorben<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0133"/>123<lb/>
+            </p>
+            <p> <lb/>an Leib und Seele von der Univerſität heimbrachte.<lb/>Jetzt bleibt mir noch eine letzte, faſt die ſchwerſte<lb/>Aufgabe zu erfüllen —“ und die Tante ſeufzte<lb/>und ſchnupfte heimlich, indeß die glitzernden Augen<lb/>der Juſtizräthin verſtändnißinnig zu ihr herüber-<lb/>blinzelten.<lb/>
+            </p>
+            <p> <lb/>„Sie treue Seele!“ hauchte Frau Reiting, als<lb/>jene die Tabatière zuklappte.<lb/>
+            </p>
+            <p> <lb/>„Ja, ja!“ bedauerte und bewunderte ſich die<lb/>Pathe, „mein Weg iſt ein ſchwieriger. Wo iſt<lb/>das Glück? Wüßten wir es, wir erkämpfen es für<lb/>unſere Kinder, aber wir können nur glauben,<lb/>hoffen und — — —“<lb/>
+            </p>
+            <p> <lb/>„Und <hi rendition="#g">wagen</hi>!“ fiel die Juſtizräthin deci-<lb/>dirt ein.<lb/>
+            </p>
+            <p> <lb/>„Sie haben gut reden,“ meinte achſelzuckend<lb/>das alte Fräulein, „aber wenn man ſelbſt vor<lb/>der Entſcheidung ſteht, da zagt man — bedenken<lb/>Sie, er bindet ſich für ewig!“<lb/>
+            </p>
+            <p> <lb/>„Nun, das iſt ſo eine Redensart!“ beruhigte<lb/>die Andere. —<lb/>
+            </p>
+            <p> <lb/>„Ach, das klingt — etwas grundſatzlos, Juſtiz-<lb/>räthchen — was wollen Sie damit ſagen?“<lb/>
+            </p>
+            <p> <lb/>„Nun, das liegt doch auf der Hand! Die paar<lb/>Jugendjahre verſtreichen Einem, man weiß nicht<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0134" n="124" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=134"/>
+            </p>
+            <p> <lb/>wie, in der Kinderſtube, auf einmal iſt man alt<lb/>und gleichgültig gegen ſentimentale Gefühle und<lb/>dann ſtirbt man — ich habe noch nichts von dem<lb/>
+               <hi rendition="#g">ewigen</hi> Bande gemerkt!“<lb/>
+            </p>
+            <p> <lb/>„So? Nun ja, das iſt die proſaiſche Seite der<lb/>Sache, aber die exiſtirt ja gar nicht für meinen<lb/>Willbrecht, welcher in dem Weibe nur eine ver-<lb/>körperte, erhabene Idee ſucht — ſehen Sie, das<lb/>erſchwert eine paſſende Wahl, denn ſein Magen<lb/>iſt nicht der ſtärkſte und jeder Diätfehler rächt<lb/>ſich an ihm, ſeine Künftige muß <hi rendition="#g">kochen</hi> können<lb/>und den Haushalt gründlich verſtehen, denn er<lb/>findet in jeder Unordnung eine tödtliche Beleidi-<lb/>gung des äſthetiſchen Bewußtſeins. Die Socken<lb/>und Unterkleider muß ſie ihm auch ſtricken, wenn<lb/>ich todt bin.“<lb/>
+            </p>
+            <p> <lb/>„O, liebe Freundin, wie können Sie ſo etwas<lb/>reden?“<lb/>
+            </p>
+            <p> <lb/>„Wir müſſen Alle ſterben, Liebſte! — denn<lb/>wiſſen Sie, er iſt ſo eigen mit dem Abnehmen<lb/>und der Stärke der Nadeln und dem Garne, wenn<lb/>ich nur die geringſte Aenderung mache, ſo zieht er<lb/>das Stück unter keiner Bedingung an, und ſeine<lb/>Conſtitution fordert gebieteriſch die der Jahres-<lb/>zeit angemeſſenen Tricots!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0135" n="125" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=135"/>
+            </p>
+            <p> <lb/>Ein etwas herbes Lächeln legte ſich über die<lb/>wulſtigen Lippen der Juſtizräthin, war es das<lb/>entzückende Bild, das ſich als Zukunft der dem-<lb/>nächſten Frau von Flor enthüllte, waren es die<lb/>Tricots, welche die Studirpathe der Jahreszeit<lb/>anmaß —? Sie durchſchnitt Alles mit einem gefühl-<lb/>vollen Gemeinplatz: „Nun, die Liebe wird ja die<lb/>Lehrmeiſterin für Willbrecht's junge Frau ſein!“<lb/>
+            </p>
+            <p> <lb/>„O nein, meine Theure“ — widerſprach ent-<lb/>ſchieden die Andere, „wer nicht von Jugend auf<lb/>Stricken lernte, der trifft es ſpäter nicht mehr.<lb/>Herr des Himmels und unterrichtet muß <hi rendition="#g">ſie</hi> ſein,<lb/>gegen jeden wiſſenſchaftlichen Schnitzer iſt Will-<lb/>brecht erbarmungslos. Bei ſeiner Kunſtſchwär-<lb/>merei beanſprucht er natürlich auch Talente, we-<lb/>nigſtens <hi rendition="#g">ein</hi>, bis zur höheren Ausbildung geför-<lb/>dertes Talent. Das liebe Kind iſt ſo delikat in<lb/>Allem, daß er einen wahren Abſcheu vor jeder<lb/>Mittelmäßigkeit empfindet und ſofort die Flucht<lb/>ergreift, wo ſie ſich ihm zeigt!“<lb/>
+            </p>
+            <p> <lb/>Die Juſtizräthin ſpürte jenes vervöſe Kribbeln<lb/>in den Fingern, das ſtets den Maulſchellen vor-<lb/>aus zu gehen pflegte, welche ſie ihren liebens-<lb/>würdigen Knaben dann und wann mit großer Ge-<lb/>wandtheit ertheilte. „Er muß ſich die Töchter des<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0136" n="126" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=136"/>
+            </p>
+            <p> <lb/>Landes anſchauen,“ ſprach ſie bitterſüß, indem ſie<lb/>ſich erhob, „ob eine unter denſelben ſeiner wür-<lb/>dig iſt!“<lb/>
+            </p>
+            <p> <lb/>„Dieſe letzte Sorge iſt wahrlich noch die<lb/>größeſte!“ ſeufzte die Studirpathe mit einer Nai-<lb/>vetät, die, einer heirathsluſtigen Mutter gegenüber,<lb/>ſchon faſt Frechheit war.<lb/>
+            </p>
+            <p> <lb/>Die Töchter des Landes ließen ſich nicht lange<lb/>bitten zur „Schau“ zu kommen, Fräulein von<lb/>Flor erwarb binnen acht Tagen mehr denn ein<lb/>gutes Dutzend lieber junger Freundinnen, deren<lb/>Füßchen früh und ſpät die Stiegen hinauf und<lb/>hernieder hüpften, gleich den Engeln auf der Ja-<lb/>kobs-Leiter. Willbrecht intereſſirte ſich für alle<lb/>und behandelte ſie wie zerbrechliche Marionetten,<lb/>deren Lebensaufgabe ſo feſt umgrenzt in ſeinem<lb/>Sinne vorgezeichnet war, als hätte er ſelbſt die<lb/>edle Weiblichkeit erfunden und womöglich ein Pa-<lb/>tent darauf gelegt, um ſie vor Verfälſchung zu<lb/>bewahren. — Kleine Vorſtellungen mit langen<lb/>Reden, die er ſelbſt hielt, liebte der junge Herr<lb/>über Alles. Nichts konnte weitläufiger und er-<lb/>müdender ſein, als Willbrecht's Vorbereitungen<lb/>zu ſolchen Kunſtleiſtungen. „Er nimmt Alles ſo<lb/>gewiſſenhaft und genau!“ lächelte die Studirpathe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0137" n="127" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=137"/>
+            </p>
+            <p> <lb/>über ihre geheime Priſe hinweg. So war es auch,<lb/>hatte etwa eine Schäferin ein rothes Band ſtatt<lb/>eines gelben, das Willbrecht mit Waſſerfarbe auf<lb/>das Vorbild pinſelte, genommen, ſo mußte das<lb/>renitente Band fallen, hätte es auch der Trägerin<lb/>zum Entzücken geſtanden. Die lieben Kinder ki-<lb/>cherten zwar viel über Willbrecht und ſeine Tante,<lb/>aber ſie kamen doch immer wieder, denn es gab<lb/>bei der Tante immer ſo außerordentlich gutes Back-<lb/>werk zum Thee und zum Kaffee und gegen die<lb/>Bowle, welche Willbrecht mit großer Umſicht und<lb/>Vorſicht braute, war nun einmal nichts einzuwenden.<lb/>
+            </p>
+            <p> <lb/>Als der Geburtstag der Frau Juſtizräthin<lb/>wieder einmal heraufdämmerte, zeigte ſich das<lb/>ſtehende Heer der neun Muſen nicht als ausrei-<lb/>chend die Bretter, welche den Olymp bedeuten,<lb/>zu füllen und Ceres, Pieta und Vanitas verſtärk-<lb/>ten das künſtleriſche Contingent als freiwillige<lb/>Aſpiranten. Die arme geduldige Angelika ſchwitzte<lb/>zwar nicht gerade Blut, aber ſie machte doch wie-<lb/>derum jene Verſe, zu welchen Willbrecht die Ideen<lb/>lieferte, wie ein Schubkarren voll Lehm, aus dem<lb/>ein Modell geknetet werden ſoll. Selbige recht<lb/>artige Verſe pflegte der junge geniale Mann dann<lb/>im entſcheidenden Moment mit ungeheurem Pa-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0138" n="128" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=138"/>
+            </p>
+            <p> <lb/>thos und in der halb ſchwebenden Poſition des<lb/>Merkurs vor dem Vorhange zu reden und nach<lb/>geſchehener That alles Lob und allen Weihrauch<lb/>für ſich allein pflichtſchuldigſt in Empfang zu<lb/>nehmen.<lb/>
+            </p>
+            <p> <lb/>Johann, der Diener, krönte die prophetiſche<lb/>Vorausſage der Juſtizräthin, indem er wirklich<lb/>zwei Gläſer und eine Untertaſſe zerbrach. Er<lb/>meinte, die Obertaſſe ſei noch zu gebrauchen, wo-<lb/>für ihn die Juſtizräthin mit dem Namen eines<lb/>ſehr nützlichen gehörnten Hausthieres belegte.<lb/>
+            </p>
+            <p> <lb/>Als die Gäſte kamen, waren die Gläſer und<lb/>die Untertaſſen auch moraliſch todt und die Haus-<lb/>frau eitel Lächeln. Sie ſtellte mit großer Anmuth<lb/>ihres Mannes Neffen — es herrſchte alſo in die-<lb/>ſer Ehe keine Gütergemeinſchaft — den Profeſſor<lb/>Auguſt Dallheim vor, welcher ſie mit ſeinem Be-<lb/>ſuche erfreut habe. Eine der anweſenden Muſen-<lb/>Mütter ziſchelte der Juſtizräthin ſchelmiſch in die<lb/>Ohren: „Das iſt wohl der zukünftige Herr Schwie-<lb/>gerſohn?“ worauf dieſe lieblich: „Was Sie doch<lb/>immer für närriſche Einfälle haben, Sie liebes<lb/>Herz!“ antwortete.<lb/>
+            </p>
+            <p> <lb/>Der Profeſſor hatte auch einen närriſchen Ein-<lb/>fall, er ſagte während der Vorſtellung ganz laut:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0139" n="129" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=139"/>
+            </p>
+            <p> <lb/>Pieta und Vanitas paßten zu den Muſen wie die<lb/>Fauſt auf's Auge. Willbrecht warf ihm dafür<lb/>einen unbeſchreiblich hochmüthigen Blick zu. Wenn<lb/>Herr von Flor überhaupt keine jungen Männer<lb/>liebte, ſo waren ihm ſolche, welche aus eigener<lb/>Kraft Carriere gemacht hatten, geradezu wider-<lb/>wärtig, und ein ſolcher war der Profeſſor,<lb/>den ſein glattes, raſirtes, weißes Geſicht und<lb/>ſeine lichten Haare noch jugendlicher erſcheinen<lb/>ließen, als er es war. Aus erklärlichen Gründen<lb/>hatte auch der Profeſſor keine blinde Vorliebe für<lb/>Willbrecht, deſſen Anordnungen er überall ge-<lb/>fliſſentlich entgegen trat; unter Anderem zerſtörte<lb/>er das ganze Tiſcharrangement, das die Juſtiz-<lb/>räthin mit Willbrecht ausgearbeitet hatte, indem er<lb/>ſich zwiſchen Angelika und Vanitas ſetzte und dieſen<lb/>Platz hartnäckig behauptete. Während Willbrecht<lb/>rechts von Angelika ſeine langathmige Converſa-<lb/>tion abhaſpelte, fing ſich der kecke Auguſt, links<lb/>von ſeiner Couſine ſitzend, in allerhand Einwürfe<lb/>und ſtörende Behauptungen ein, welche er in das<lb/>Geſpinnſt des jungen Herrn ſo ſtörſam hinüber-<lb/>ſchleuderte, wie dicke Brummfliegen manchmal in<lb/>ein zartes Spinnengewebe fallen. Nach der Bowle<lb/>wurde der Profeſſor gar ſprühend und brachte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0140" n="130" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=140"/>
+            </p>
+            <p> <lb/>einen Toaſt aus auf die <hi rendition="#g">zehnte</hi> Muſe, welche<lb/>Herr von Flor noch ſo ſchmerzlich zu ſuchen ſcheine.<lb/>Willbrecht erblickte in dem allgemeinen Gläſer-<lb/>klingen eine ſchmeichelhafte Aufmerkſamkeit und<lb/>ſagte gnädig zu dem Profeſſor gewendet: „Könn-<lb/>ten Sie mir etwa rathen, wo ich die zehnte Muſe<lb/>finde?“ Der Beſchützer der Muſen machte mit-<lb/>unter, wie eben jetzt, einen ſteifleinenen Scherz,<lb/>auf den er ſich nicht wenig einbildete. Zum all-<lb/>gemeinen Erſtaunen entgegnete Auguſt ohne Be-<lb/>denken: „Ja, das kann ich allerdings und zwar<lb/>mit Vor- und Zunamen ſammt der Hausnummer<lb/>— jener ſagenhafte Held mußte ſeine Erkorene<lb/>ſuchen durch Land und Meer ohne andere Kenn-<lb/>zeichen als eines ihrer goldenen Haare, das eine<lb/>Schwalbe im Schnäbelein daher getragen brachte.<lb/>Ich gebe Ihnen, ſtatt des goldenen Haares Cha-<lb/>rakteriſtik, Portrait und Reiſeroute, nebſt meiner<lb/>Verſicherung, daß die junge Dichterin, von der ich<lb/>rede, das bewundernswertheſte Mädchen iſt, wel-<lb/>ches ich mir zu denken vermag!“<lb/>
+            </p>
+            <p> <lb/>Der Profeſſor redete mit zunehmender Wärme<lb/>und Angelika wechſelte ein oder zwei Mal die<lb/>Farbe, während er ſprach. Auguſt hatte inzwiſchen<lb/>aus ſeiner Bruſttaſche ein zierlich gebundenes Buch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0141" n="131" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=141"/>
+            </p>
+            <p> <lb/>gezogen und reichte daſſelbe Willbrecht hinüber.<lb/>Die Augen der ganzen Geſellſchaft hingen, aus<lb/>verſchiedenen Gründen, an dem Büchlein, als er-<lb/>wartete man, die zehnte Muſe werde ſich aus den<lb/>Blättern deſſelben auf Pſyche-Flügeln emporſchwin-<lb/>gen, ſobald es aufgeſchlagen würde, doch geſchah<lb/>nichts Ungewöhnliches und Willbrecht las: „Her-<lb/>zensgedanken ſeiner Anna Lene, geſammelt von<lb/>ihrem Verlobten.“<lb/>
+            </p>
+            <p> <lb/>„Ah, ſie iſt verlobt,“ riefen ein halb Dutzend<lb/>Muſen.<lb/>
+            </p>
+            <p> <lb/>„Sie war es,“ entgegnete Auguſt ernſt. „Die-<lb/>ſer Verlobte ſtarb drei Tage vor der Hochzeit.“<lb/>
+            </p>
+            <p> <lb/>Willbrecht bedeckte ſeine Augen einen Moment<lb/>mit der Hand und ſprach dann mit Pathos: „Wer<lb/>kann wiſſen, wo und <hi rendition="#g">wann</hi> ihm das Schickſal<lb/>winkt — ich erblicke mein delphiſches Orakel in<lb/>jedem Laute, der mein Herz bewegt, in jedem<lb/>Hauche, der meine Seele erfaßt. Wir, deren Ge-<lb/>müth gleich einer Aeolsharfe beſaitet iſt, empfin-<lb/>den als geheimnißvolle Strömung ſympathetiſche —“<lb/>
+            </p>
+            <p> <lb/>„Herr Gott!“ rief Pieta in die lauſchende<lb/>Stille, „da liegt ja eine Photographie in dem<lb/>Buche!“ und ohne ſonderliche Pietät griff ſie nach<lb/>dem Bildchen, ſah es an und las: „Anna Lene,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0142" n="132" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=142"/>
+            </p>
+            <p> <lb/>Freiin von Pranken, zur freundlichen Erinnerung<lb/>dem treuen Lehrer ihrer Brüder, Herrn Auguſt<lb/>Dallheim.“<lb/>
+            </p>
+            <p> <lb/>„Ja, das hat ſie ſelbſt geſchrieben,“ erläuterte<lb/>der Profeſſor. „Nicht wahr, eine ſchöne, klare<lb/>Schrift? So iſt ihr ganzes Weſen, ſo ſind auch<lb/>die Verſe und Gedanken des Buches, von welchem<lb/>nur zehn Exemplare als Manuſcript gedruckt ſind.“<lb/>
+            </p>
+            <p> <lb/>Eine gute Anzahl ungeduldiger Hände und<lb/>Händchen ſtreckte ſich nach dem Bilde aus, in<lb/>deſſen Anblick Willbrecht ganz verſunken da ſaß.<lb/>Das Bild der Freiin von Pranken war allerdings<lb/>ein beſonderes, eigenthümliches; ein junges blon-<lb/>des Haupt, deſſen Stirn von einer ſchwarzen<lb/>Trauerſchneppe bedeckt war, und unter dieſer<lb/>ſchwarzen Stirnbinde ein paar große, anſchauende,<lb/>eigenthümlich ſtille Augen, Augen, welche nichts<lb/>mehr auf dieſer Erde zu ſuchen ſchienen. Die<lb/>Form des Antlitzes verrieth kräftige Jugendblüthe<lb/>und die Züge waren angenehm zu nennen. In-<lb/>deß Willbrecht mit jener Gier, welche ſeines Glei-<lb/>chen auf neue Eindrücke hat, die Photographie<lb/>anſtarrte, wandte ſich Angelika beinah vorwurfs-<lb/>voll zum Profeſſor und flüſterte: „Alſo Sie lieben<lb/>dieſes Mädchen, dieſe Dichterin, Auguſt? Sie ha-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0143" n="133" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=143"/>
+            </p>
+            <p> <lb/>ben dieſes Geheimniß vor mir verſchwiegen ge-<lb/>halten?“<lb/>
+            </p>
+            <p> <lb/>„Geheimniß —? Theure Angelika, ich konnte<lb/>eben ſo gut verheimlichen, daß ich Mond und<lb/>Sterne liebe, die mir ſo unerreichbar ſind, als<lb/>Anna Lene. Sie kommt mir ſo hoch und ihres<lb/>Weges ſicher vor, daß ich nie einer ſelbſtſüchtigen<lb/>Idee Raum geben konnte.“<lb/>
+            </p>
+            <p> <lb/>Neue geſellige Bewegung. Willbrecht ſteckt<lb/>aller Neugier zum Trotz Buch und Bild in die<lb/>Taſche, erhebt ſich und klopft an's Glas.<lb/>
+            </p>
+            <p> <lb/>„Ich bin Student geweſen!“ hob Herr v. Flor<lb/>an, freilich zu Niemandes beſonderer Ueberraſchung,<lb/>denn dieſe Thatſache brachte er oft und gern an.<lb/>„Ich bin Student geweſen, und aus jenen Tagen,<lb/>wo ich am Born des Wiſſens ſchöpfte, iſt mir die<lb/>erhebende Gewohnheit geblieben, dem Manne, der<lb/>mir ſeelenverwandt iſt, das brüderliche „Du“ an-<lb/>zubieten. Lieber Profeſſor Dallheim, ich kenne<lb/>Sie freilich erſt ſeit wenig Stunden, aber Ihr<lb/>Auge durchblickte verſtändnißvoll den innerſten<lb/>Kern, das Allerheiligſte meines Weſens. Ja, ich<lb/>bin Romantiker, bin Poet, wenn auch nicht im ge-<lb/>wöhnlichen Sinne, aber ich ſuche und ſchmachte nach<lb/>einem Ideal, das Sie, vortrefflicher Profeſſor,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0144" n="134" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=144"/>
+            </p>
+            <p> <lb/>mit großem Scharfſinn die <hi rendition="#g">zehnte</hi> Muſe nen-<lb/>nen. Ja, ich ſuchte Befriedigung bei den<lb/>Künſten und Wiſſenſchaften, ich liebte eine<lb/>jede, aber keine erfüllte meinen Geiſt ganz und<lb/>gar. Sie — Du, Auguſt!“ er war auf den<lb/>Profeſſor losgeſchritten, flog neben ihm auf<lb/>und hakte ſein dünnes Aermchen mit dem gefüll-<lb/>ten Becher durch des Profeſſors Frackärmel, „Du<lb/>haſt mir klar gemacht, was ich zu erfaſſen habe,<lb/>wo mein Heil liegt — ſie leuchtet von dieſer<lb/>Stunde an gleich einer Sonne in meinem Da-<lb/>ſein, die jungfräuliche Witwe, die meinem Geiſte<lb/>ebenbürtige Dichterin — die <hi rendition="#g">zehnte</hi> Muſe!“<lb/>
+            </p>
+            <p> <lb/>Der anweſende Lieutenant neigte ſich zur Pieta<lb/>herüber und flüſterte: „Donnerwetter, iſt der heute<lb/>angeriſſen!“<lb/>
+            </p>
+            <p> <lb/>„O nein,“ erklärte Pieta, „er iſt nicht be-<lb/>trunken, ſo redet er immer, wenn er recht auf<lb/>dem Strumpf iſt!“<lb/>
+            </p>
+            <p> <lb/>„Ah, ah —“ lachte die Studirpathe, ganz ent-<lb/>zückt über die hochromantiſche Anwandlung ihres<lb/>genialen Pflegeſohnes, „verehrter Profeſſor, Sie<lb/>können ſtolz ſein auf Willbrecht’s Anerkennung<lb/>und die junge Perſon, dieſe Lena Anne —“<lb/>
+            </p>
+            <p> <lb/>„Anna Lene! —“ corrigirte der Profeſſor, in-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0145" n="135" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=145"/>
+            </p>
+            <p> <lb/>dem er ſich den Mund nach dem Bruderkuſſe<lb/>wiſchte.<lb/>
+            </p>
+            <p> <lb/>„Das bleibt ſich doch gleich! Nun, wenn dieſes<lb/>Frauenzimmer —“<lb/>
+            </p>
+            <p> <lb/>„Freiin von Pranken auf Prankenbrook, Toch-<lb/>ter eines Rittergutsbeſitzers!“ verbeſſerte Auguſt<lb/>feierlich.<lb/>
+            </p>
+            <p> <lb/>„Hat ſie was, Herr Profeſſor?“ erkundigte ſich<lb/>Terpſichore.<lb/>
+            </p>
+            <p> <lb/>„Jedenfalls kann ſie was — ach, iſt die eine<lb/>Haushälterin, ſolche Kartoffelpuffer als — —“<lb/>
+            </p>
+            <p> <lb/>„Auguſt!“ unterbrach ihn Angelika mit einem<lb/>Ausruf ſchmerzlicher Eiferſucht. Der Profeſſor ver-<lb/>ſtummte, aber hinter der blauen Brille leuchtete<lb/>es eigenthümlich und unter dem damaſtnen Tiſch-<lb/>tuche hielt er die Hand ſeiner Nachbarin feſt und<lb/>innig in der ſeinigen — ſein Herz gab ſich den<lb/>ſchönſten Hoffnungen auf eine große, imponirende<lb/>Profeſſorin und eine Schaar Koſtſchüler hin. —<lb/>Noch kannte Herr Auguſt Dallheim nicht den<lb/>ganzen Erfolg ſeiner heutigen Handlungsweiſe,<lb/>aber am nächſten Morgen wurde ſie ihm fürchter-<lb/>lich klar. Die Juſtizräthin begrüßte ihr Wiegen-<lb/>feſt in wahrhaft menſchenfeindlicher Laune, und als<lb/>Erwiederung auf des Profeſſors vortrefflich ge-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0146" n="136" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=146"/>
+            </p>
+            <p> <lb/>ſetztem Glückwunſche, ſprach ſie biſſig: „Es wäre<lb/>beſſer geweſen, Sie hätten Ihre guten Wünſche<lb/>nicht von vorn herein dadurch aufgehoben, daß<lb/>Sie die geſtrige Feier durch einen Skandal kenn-<lb/>zeichneten, der auffallend, ſehr auffallend alle<lb/>frohe Stimmung herabdrückte!“<lb/>
+            </p>
+            <p> <lb/>Wieder entſchwand Auguſt's Geiſtesgegenwart<lb/>ſo ſehr, daß er nicht fragen konnte, welchen Skandal<lb/>ſie meine, er blickte rathlos zu Angelika, welche<lb/>verweinte Augen hatte, hinüber und dieſe flüſterte<lb/>begütigend: „Mama meint, es würde über Ihren<lb/>Scherz, die zehnte Muſe betreffend, ein Stadt-<lb/>geſpräch entſtehen, welches — —“<lb/>
+            </p>
+            <p> <lb/>Sie vollendete nicht, denn in höchſter Aufregung<lb/>rauſchte die Studirpathe herein, nahm heftig eine<lb/>Priſe und rief dann: „Sie haben mir eine ſchöne<lb/>Suppe eingebrockt, Sie ſauberer Profeſſor. Will-<lb/>brecht iſt wie ausgewechſelt vor Begeiſterung über<lb/>die Verſe Ihrer Anna Lene, ſein Puls iſt ganz<lb/>fieberhaft — er wird mir krank, wenn Sie nicht<lb/>dafür ſorgen, daß er die Perſon zu ſehen bekommt!“<lb/>
+            </p>
+            <p> <lb/>„Die Perſon,“ entgegnete der Profeſſor, nun<lb/>auch ſeiner Seits gereizt, „wird ſich nie dadurch<lb/>herabwürdigen, Ihrem Willbrecht auch nur einen<lb/>
+               <hi rendition="#g">halben</hi> Schritt entgegen zu thun, ſie wird Ihren<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0147" n="137" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=147"/>
+            </p>
+            <p> <lb/>„Götzen“ nicht ſo glimpflich behandeln, als er es<lb/>leider hier gewohnt wurde.“<lb/>
+            </p>
+            <p> <lb/>Ein Chaos von Ausrufen des Staunens, der<lb/>Entrüſtung und des Schmerzes — von Seiten<lb/>Angelika's — wie es nun erfolgte, entzieht ſich<lb/>der Schilderung. Der, bis auf ſein etwas kitz-<lb/>liches Selbſtbewußtſein, ſo harmloſe Profeſſor<lb/>warf ſich förmlich in eine Boxerſtellung und ſchien<lb/>unempfindlich gegen alle milderen Regungen. Aber,<lb/>noch hatte das Schickſal Donnerkeile vorräthig,<lb/>um ſie auf des Schulregenten ſchuldiges Haupt<lb/>zu ſchleudern; wie eine Schaar von Erinnyen,<lb/>Blumenſträuße in der Hand, Gratulationen auf<lb/>den Lippen, Gift im Herzen, Dolche in den Blicken,<lb/>traten die Muſen und Conſorten auf den Kampf-<lb/>platz.<lb/>
+            </p>
+            <p> <lb/>„Liebſte Frau Juſtizräthin,“ begann die Spre-<lb/>cherin, „nur unſere lebhafte Verehrung und große<lb/>Liebe für Sie bewog uns heute Morgen zu Ihnen<lb/>zu gehen, nachdem Ihr Herr Neffe uns ſo gekränkt<lb/>hat, uns alle neune — —“<lb/>
+            </p>
+            <p> <lb/>„Alle neune?“ rief wie ein Kegeljunge der<lb/>furchtbar erſtaunte Profeſſor.<lb/>
+            </p>
+            <p> <lb/>„Natürlich,“ entgegnete die Dame ſpitz, „ſaßen<lb/>unſerer nicht genug da, daß Sie noch eine <hi rendition="#g">zehnte</hi>
+               <lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0148" n="138" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=148"/>
+            </p>
+            <p> <lb/>Muſe ausbrüten mußten? Es iſt mindeſtens nicht<lb/>ſehr höflich, den Anweſenden in's Geſicht zu ſagen:<lb/>Ihr könnt ja keinen billigen Anſprüchen genügen,<lb/>das kann nur eine Anna Lene!“<lb/>
+            </p>
+            <p> <lb/>„Sagte ich das, theure Angelika?“ fragte der<lb/>hartgedrängte Auguſt.<lb/>
+            </p>
+            <p> <lb/>„O nein, er wollte ja Niemanden kränken!“<lb/>begütigte Angelika, und die Liebe redete aus ihren<lb/>Worten, die Liebe, die da Alles glaubt, Alles hofft,<lb/>Alles duldet. Angelika's Rede, ſo viel ſanfter<lb/>und beſcheidener als Willbrecht ſie je von ihr ver-<lb/>nommen, war gleich einem verſchleierten Verlöb-<lb/>nißſchwur zu hören, aber alle, bis auf zwei Ohren,<lb/>waren taub für ihren eigentlichen Sinn; die zwei<lb/>aber faßten ihre ganze Himmels-Muſik.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>„Ich wünſche Extrapoſt nach Prankenbrook!“<lb/>
+            </p>
+            <p> <lb/>„Kann nicht gegeben werden!“<lb/>
+            </p>
+            <p> <lb/>„Nicht gegeben werden? — was heißt das,<lb/>Sie haben das Relais und ſind geſetzlich ver-<lb/>pflichtet — —“<lb/>
+            </p>
+            <p> <lb/>Der große bäueriſche Poſthalter ſah den Rei-<lb/>ſenden, welcher von etwas dürftigem Körperbau<lb/>war und ſo gebieteriſch auftrat, mit gutmüthigem<lb/>Spott an: „Ganz recht, mein lieber Herr, aber<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0149" n="139" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=149"/>
+            </p>
+            <p> <lb/>die Geſetze zwingen meine Pferde nicht durch's<lb/>Waſſer zu ſchwimmen und das müßten ſie, um<lb/>nach Prankenbrook zu kommen, denn leider ſind<lb/>wir mit einer Sommerfluth heimgeſucht!“<lb/>
+            </p>
+            <p> <lb/>„Aber ich <hi rendition="#g">muß</hi> hin!“ rief der kkeine Herr<lb/>und hob ſich, als hielte er einen Verſuch, hin zu<lb/>
+               <hi rendition="#g">fliegen</hi>, eben am Platze. „Wenn man nicht<lb/>hinüber fahren kann im Wagen, ſo geht es doch<lb/>ſicher zu Schiffe!“<lb/>
+            </p>
+            <p> <lb/>Der Andere ſchaute, dieſe Idee erwägend, ſeine<lb/>Frau, ſeine Kinder und die Poſtknechte an, die,<lb/>mit norddeutſchem Phlegma, der Berathung ſchwei-<lb/>gend beiwohnten.<lb/>
+            </p>
+            <p> <lb/>„Ganz recht,“ nahm ein alter Poſtillon, ohne<lb/>ſich im Tabaksrauchen zu unterbrechen, das Wort,<lb/>„man könnte mit Schein ſchiffen, aber man hat<lb/>kein Boot, alle Schiffe ſind bei den Deichen, da<lb/>wird Tag und Nacht gearbeitet, um den Eſch und<lb/>das niedrige Kornland zu ſchützen.“ Der Alte<lb/>faßte den Reiſenden an einem Knopfe ſeines licht-<lb/>grauen, eleganten Paletots und tröſtete ihn grin-<lb/>ſend. „Keine Sorge, Herr, Alles iſt möglich, ich<lb/>fahre Sie bis an's Waſſer, dort ziehen Sie Ihre<lb/>Waſſerſtiefeln an und <hi rendition="#g">gehen</hi> mit einem Boten<lb/>auf den Edelhof. Sie brauchen knapp zehn bis<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0150" n="140" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=150"/>
+            </p>
+            <p> <lb/>fünfzehn Minuten im Waſſer zu marſchiren, der<lb/>Baron geht täglich hindurch, im Frühling oder<lb/>wenn die Fluth kommt!“<lb/>
+            </p>
+            <p> <lb/>Dem Reiſenden, der kein Anderer als Will-<lb/>brecht war, klapperten die Zähne. Zehn bis fünf-<lb/>zehn Minuten im Waſſer waten — wahrlich, ein<lb/>zweiter Argonaut zog er zur Eroberung des gol-<lb/>denen Vließes, ein anderer Ritter St. Georg hatte<lb/>er den Tatzelwurm gräulicher Gefahren zu über-<lb/>winden!<lb/>
+            </p>
+            <p> <lb/>Herr von Flor fühlte ſich gehoben, aber auch<lb/>ſehr kleinmüthig — was hatte er ſchon Alles er-<lb/>duldet, ſeit er den Entſchluß zur Welt brachte,<lb/>die zehnte Muſe, die er unbekannter Weiſe an-<lb/>betete, zu ſeinem ehelichen Weibe zu machen? Der<lb/>Plan, ſie kennen zu lernen und ihr Herz im Sturm<lb/>zu nehmen, war ungemein zart und lieblich. Will-<lb/>brecht wollte der Erwählten ganz incognito nahen,<lb/>nicht gleich Jupiter — als Stier verkleidet, oder<lb/>wie Achilles als Nymphe, nein, er gedachte einher<lb/>zu ſchreiten in dem ſchlichten Gewande eines<lb/>Oekonomie-Lehrlings, am Herzen der Natur wollte<lb/>er ihr Herz gewinnen. Reiche Leute, die nie eine<lb/>mühſame Pflicht auf ſich nahmen, denken ſich alle<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0151" n="141" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=151"/>
+            </p>
+            <p> <lb/>Berufsarten wunderleicht, ſo Willbrecht den eines<lb/>landwirthſchaftlichen Volontairs.<lb/>
+            </p>
+            <p> <lb/>Herzbrechend war der Jammer der Studirpathe,<lb/>als ſie inne wurde, ſie dürfe nicht mitgehen zum<lb/>Volontairſpiel. Wenn der Pflegeſohn zum Tode<lb/>verurtheilt worden wäre, ſie hätte nicht ſicherer<lb/>als jetzt gewußt, er mußte auf irgend eine Art<lb/>ſeinen frühen Tod finden, wenn ihn die Pathe<lb/>nicht ſchützte. Das war das erſte Leid, aber nicht<lb/>das größte. Kaum war nämlich Willbrecht's<lb/>romantiſche Brautfahrt zum Stadtgeſpräch gewor-<lb/>den, als die Mienen ſämmtlicher Olympierinnen<lb/>einen ganz neuen kalten Ausdruck annahmen. Die<lb/>jungen unintereſſirten Freundinnen der Studir-<lb/>pathe hatten keinen Geſchmack mehr an Bowle und<lb/>Theekuchen und die Stiege wurde nur noch von<lb/>den ſchiefgetretenen Stiefeln der jungen Reitings<lb/>frequentirt. Ach und Angelika, die bedeutende<lb/>Angelika, ſie, die ſeit Jahren in geduldigem<lb/>Sclaventhum verharrt hatte — ſie warf die Ketten<lb/>von ſich, ſie ſchüttelte die langen Locken zurück<lb/>und erklärte, ſie ſei entſchloſſen, noch vor Ablauf<lb/>der Ferien Frau Profeſſor Dallheim zu werden.<lb/>Der Juſtizrath, welcher indeſſen nichts zu ſagen<lb/>hatte, gab ſofort ſeinen väterlichen Segen, welcher<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0152" n="142" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=152"/>
+            </p>
+            <p> <lb/>ja auch nichts weiter koſtet, aber die mütterliche<lb/>Juſtizräthin hätte vor Wuth in einen Stock beißen<lb/>mögen, über das Scheitern ihrer langjährigen<lb/>Pläne; ſie nannte Angelika's Verlobung eine<lb/>alberne Liebſchaft und begriff ihre Tochter nicht,<lb/>bis dieſe ihr, im kindlichen Vertrauen, mittheilte:<lb/>„Mir iſt's auch grade nicht angenehm, Mama,<lb/>ſtatt einer reichen Edelfrau eine arme Profeſſorin<lb/>zu werden, aber erſtens habe ich Auguſt gern und<lb/>zweitens hätte mich Willbrecht auch gar nicht ge-<lb/>nommen, — ſo war's beſſer, der Blamage zuvorzu-<lb/>kommen!“ Jetzt verſtand die Mutter, verſtand und<lb/>machte aus der Noth eine Tugend. Willbrecht<lb/>von Flor aber verſtand nicht, wie Angelika etwas<lb/>Anderes denken und lieben könne als ihn; er war<lb/>tief verletzt über den Undank, ihn, für alle ſeine<lb/>Güte gegen ſie, nun ſchnöde zu verlaſſen; die<lb/>Studirpathe war freilich noch entrüſteter darüber<lb/>als er ſelbſt. Einmal kam ihm, Willbrecht, der<lb/>ganz bürgerliche, unpoetiſche Gedanke, Angelika<lb/>dennoch an ſich zu reißen, wenn ſie die Wahl<lb/>hatte, ſie konnte nicht ſchwanken. Er dachte in<lb/>ſeinem eigenen Intereſſe nämlich an das Sprüch-<lb/>lein: „Beſſer einen Sperling in der Hand (An-<lb/>gelika), als eine Taube auf dem Dache (Anna<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0153" n="143" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=153"/>
+            </p>
+            <p> <lb/>Lene)“, aber nein, er war zu Höherem geboren,<lb/>als ſich in ein gemeines Spatzenneſt einzuniſten<lb/>— deshalb trotzte er der Pathe und den Elemen-<lb/>ten und vertraute ſich jetzt dem Ungefähr und<lb/>einem alten Poſtillon an. Als, nach etwa einer<lb/>Stunde, die weite Wieſen-Niederung wie ein<lb/>breiter See vor ihm lag, aus welchem grüne<lb/>Bäume, Büſche und Brücken hervorragten — da<lb/>ſank abermals der Muth und die verzärtelte<lb/>Jugendgewöhnung krallte ſich an ſein Herz, aber<lb/>wenn er jetzt heimkehrte, er, der Sublime, vor der<lb/>Schlacht geſchlagen, vor dem Sturm geſcheitert,<lb/>wenn Auguſt, der daheim das Feld heroiſch be-<lb/>hauptete, ihn höhniſch durch die blauen Brillen<lb/>anblickte — nein, es ging nicht! Er <hi rendition="#g">mußte</hi> Alles<lb/>wagen, um Alles zu gewinnen, um in voller<lb/>Siegerglorie wieder einzuziehen zu ſeinen Thoren<lb/>— und Thörinnen.<lb/>
+            </p>
+            <p> <lb/>Der Poſtillon hielt direct vor dem Waſſer,<lb/>zeigte mit dem Daumen über die Schulter auf<lb/>eine ferne Baumgruppe und ſprach: „Da!“<lb/>
+            </p>
+            <p> <lb/>„Da!“ ſeufzte Willbrecht nach, dort war ſie,<lb/>das Mädchen mit der Witwenhaube, die liebliche<lb/>Scabioſa, dort war ſeine zehnte Muſe, die unend-<lb/>lich weibliche Dichterin Anna Lene.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0154" n="144" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=154"/>
+            </p>
+            <p> <lb/>Ein Bauer, den der Poſtillon Peter nannte,<lb/>kam herangetrabt und bemächtigte ſich des Reiſe-<lb/>ſackes mit dem Gleichmuth jedes Fremdenführers,<lb/>dem es nicht im mindeſten auffällt, daß die Paſ-<lb/>ſagiere ſich muthwillig in Gefahr begeben.<lb/>
+            </p>
+            <p> <lb/>„Treckt You Waterſtebeln an!“ ſprach er.<lb/>
+            </p>
+            <p> <lb/>„Die Waſſerſtiefeln!“ verhochdeutſchte der<lb/>Poſtillon.<lb/>
+            </p>
+            <p> <lb/>„Aber ich habe keine Waſſerſtiefeln!“ rief<lb/>Willbrecht ärgerlich und über die proſaiſche Zu-<lb/>muthung gekränkt.<lb/>
+            </p>
+            <p> <lb/>„Nien Waterſtebeln?“ „Keine Waſſerſtiefeln“<lb/>ſtaunten Beide — „ja aber wie wollen Sie denn<lb/>durchkommen?“ fügte der Schwager beſorgt hinzu.<lb/>
+            </p>
+            <p> <lb/>„Ich gehe hindurch wie ich da bin!“ rief der<lb/>Volontair <hi rendition="#aq">in spe</hi> und ſchritt heroiſch auf das<lb/>Waſſer los.<lb/>
+            </p>
+            <p> <lb/>Wir ſind der Vorſehung nicht dankbar genug<lb/>für den verhüllenden Schleier, den ſie zwiſchen<lb/>uns und unſere fernen Lieben hängt. Der Stu-<lb/>dirpathe wäre das Herz gebrochen, hätte ſie ſehen<lb/>können, wie der genialſte aller Jünglinge bald<lb/>auf einem ſchmalen ſchlüpfrigen Damme zwiſchen<lb/>Scylla und Charibdis einherſchritt, bald bis an's<lb/>Knie im Waſſer watete, wo die Fluth das Gebilde<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0155" n="145" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=155"/>
+            </p>
+            <p> <lb/>der Menſchenhand, in Form einer Flußbrücke,<lb/>unterwühlt und hinweggeriſſen hatte. Peter plät-<lb/>ſcherte ſeelenvergnügt voran und rauchte; um ſei-<lb/>nem Wohlbehagen Ausdruck zu geben, ſagte er die<lb/>mühſam zuſammgeſtellte Phraſe: „Das iſt nichtes<lb/>nicht kalt heute in’s Waſſer zu gehen!“<lb/>
+            </p>
+            <p> <lb/>Vor einer Allee von Roßkaſtanien und Ulmen<lb/>ſchien endlich das Feſtland für den naſſen und<lb/>müden Reiſenden erreicht. Er kam an wie ein<lb/>Schiffbrüchiger; die Umgebung war eigentlich nicht<lb/>die eines Muſentempels, zur Seite ein Dünger-<lb/>haufen und Stallgebäude, im Garten ein an-<lb/>ſpruchsloſes Wohnhaus mit Wein umwachſen,<lb/>aber die weiſe Natur lehrt uns manche Dinge<lb/>lieben, weniger um ihres Werthes willen, als der<lb/>Opfer wegen, welche wir ihrethalben brachten —<lb/>und ſo konnte auch Willbrecht's Illuſion nicht zer-<lb/>ſtört werden. Peter überlieferte einer Stallmagd<lb/>den Reiſeſack nebſt ſeinem Beſitzer und begab ſich<lb/>von Neuem in das nicht kalte Waſſer. Die Stall-<lb/>magd öffnete eine grün angeſtrichene Hausthür<lb/>und rief: „Gnä Frölen, hier iſt Einer —“ auf<lb/>dieſe ſehr unbeſtimmte Meldung hin öffnete ſich<lb/>eine zweite Thür und in derſelben erſchien Anna<lb/>Lene. Sie trug keine Witwenhaube mehr, ſon-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0156" n="146" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=156"/>
+            </p>
+            <p> <lb/>dern die blonden Zöpfe um den Kopf gelegt. Sie<lb/>war ſehr groß, ſo groß wie Angelika, aber ſtark,<lb/>voll, blühend, nichts weniger als ſylphidenhaft,<lb/>überhaupt blieb von dem lieblichen Phantaſiebilde,<lb/>das Willbrecht im Herzen glühte, ſo gut als gar<lb/>nichts, doch ja, die Augen, die klaren, in’s Herz<lb/>blickenden ſtillen Augen, welche jetzt den kleinen,<lb/>dandyhaften, naſſen Gaſt muſterten.<lb/>
+            </p>
+            <p> <lb/>„Ich bin Willbrecht von Flor!“ ſtellte ſich<lb/>dieſer mit anmuthiger Verbeugung niederflatternd<lb/>und wieder auffliegend vor. Sein Herz klopfte,<lb/>ach, er hoffte ſo viel von dem erſten Anblick, der<lb/>die geheimnißvollen Bande der Sympathie plötz-<lb/>lich in ihr erbeben laſſen mußte, o was — was<lb/>würde ihr Dichtermund jetzt nur reden?<lb/>
+            </p>
+            <p> <lb/>Die ſtillen Augen hafteten ernſthaft an ſeinem<lb/>naſſen Piedeſtale und die Dame ſprach: „Haben<lb/>Sie keine Waſſerſtiefeln?“<lb/>
+            </p>
+            <p> <lb/>„Es iſt mein Unglück, keine zu beſitzen,“ ſtieß<lb/>Herr von Flor mühſam hervor.<lb/>
+            </p>
+            <p> <lb/>„So müſſen Sie ſich wenigſtens umkleiden, Ihr<lb/>Zimmer iſt in Ordnung gebracht; Geſche, trage<lb/>den Reiſeſack hinauf!“ Geſche, ein Mädchen in<lb/>Bauerntracht, mit nach der Landesſitte kurz ver-<lb/>ſchnittenen Haaren, kam auf Socken herein, da<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0157" n="147" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=157"/>
+            </p>
+            <p> <lb/>ſie ihre Holzſchuhe vor der Thür höflicher Weiſe<lb/>ſtehen ließ, und ergriff die Taſche.<lb/>
+            </p>
+            <p> <lb/>„Sie treffen keinen guten Moment, Herr —<lb/>Herr von — Flor (ſie mußte ſich auf ſeinen Na-<lb/>men beſinnen); mein Vater, meine Brüder und<lb/>alle Leute bis auf zwei Mägde ſind auf den Dei-<lb/>chen vertheilt, es wird ſcharf gearbeitet, auch ich<lb/>werde ſogleich mit den Mägden davon ſchiffen, um<lb/>den Hausgenoſſen Speiſe und Trank zu bringen,<lb/>zuvor aber werde ich Ihnen eine Taſſe Thee mit<lb/>einem Imbiß beſorgen. Sie ſind durchnäßt und<lb/>ſcheinen nicht eben robuſt zu ſein!“<lb/>
+            </p>
+            <p> <lb/>„Sie ſind ungemein ſcharfſichtig!“ erwiederte<lb/>enttäuſcht und erbittert der Geniale. „Wenn Sie<lb/>mir alſo geſtatten, zuvor meine — <hi rendition="#g">Stiefel</hi> zu<lb/>wechſeln, ſo würde ich bitten, ſich bei der projec-<lb/>tirten Waſſerfahrt unter meinen Schutz zu ſtellen!“<lb/>
+            </p>
+            <p> <lb/>„Ich danke Ihnen, das wird nicht angehen,<lb/>ich beabſichtige zugleich die Deiche zu beſichtigen<lb/>und wir kehren kaum vor Dunkelwerden zurück.<lb/>Sie ſind ſolche Strapazen, wo es gilt, die Hand<lb/>an's Ruder zu legen, ſchwerlich gewöhnt!“<lb/>
+            </p>
+            <p> <lb/>„Ich war Student,“ ſtieß empört Willbrecht<lb/>hervor; „ich habe Reiten und Fechten gelernt und<lb/>wenn ich kein Hüne bin, ſo ſcheint mir darin kein<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0158" n="148" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=158"/>
+            </p>
+            <p> <lb/>Grund zu liegen, mich für einen völlig unbrauch-<lb/>baren Menſchen zu halten, welcher vor dem zu-<lb/>rückſchreckt, was ſich ein zartes Weib, eine Dame,<lb/>zumuthet!“<lb/>
+            </p>
+            <p> <lb/>Die ſtillen Augen muſterten ihn wieder, ohne<lb/>irgend welche Bewegung zu verrathen, dann ent-<lb/>ſchied Anna Lene gelaſſen: „Gut, ſo ziehen Sie<lb/>Waſſerſtiefeln an und begleiten Sie uns — ganz<lb/>recht, ich vergaß, daß Sie keine Waſſerſtiefeln haben,<lb/>Geſche, hole doch ein Paar von des Barons lan-<lb/>gen Schmierſtiefeln.“<lb/>
+            </p>
+            <p> <lb/>Geſche erſchien mit einem Paar Stiefel-Unge-<lb/>heuern, grimmig und verwegen anzuſchauen und<lb/>von einer Größe und Länge, welche die befriedi-<lb/>gendſten Schlüſſe auf den Körperbau des Freiherrn<lb/>ziehen ließen. Aber der Gedanke, Willbrecht hin-<lb/>ein zu ſtecken, wie Däumling in die Siebenmeilen-<lb/>ſtiefel des Rieſen, lockte, bei einem Blick auf<lb/>Beide, doch ein Lächeln auf die ernſten Mienen<lb/>der Dame des Hauſes und ſie entſchied:<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Die</hi> ſind zu weit für den Herrn, bringe meine<lb/>Juchtenſtiefeln — auch <hi rendition="#g">die</hi> werden für Ihren<lb/>zierlichen Fuß noch viel zu groß ſein!“ — fügte<lb/>ſie gütig hinzu. Es lag in der That ein Wohl-<lb/>wollen, eine ruhige Güte über dieſer Frau, die<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0159" n="149" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=159"/>
+            </p>
+            <p> <lb/>ſich mehr und mehr, wie etwa eine erquickende<lb/>Gebirgsluft, demjenigen, der ihr nahe war, fühl-<lb/>bar machte. Willbrecht empfand das durch all'<lb/>ſeinen Groll hindurch, der noch genährt wurde,<lb/>als er in ſeinem kleinen ſauberen Gemach gewahrte,<lb/>wie viel praktiſche Einfachheit das häusliche Leben<lb/>eines Oekonomie-Volontairs vorausſetzt. Ein<lb/>Bett, ein Stiefelzieher, eine rieſige Waſchſchaale<lb/>nebſt Porzellan-Waſſerbecher und mächtigem irdenen<lb/>Waſſerkrug, ein Tiſch, ein Wandſchrank, zwei<lb/>Binſenſtühle und ein Dintenzeug, — und doch war<lb/>der Raum freundlich und über den kurzen Gar-<lb/>dinen bildeten die Weinranken ihre Feſtons. Thee<lb/>und Imbiß, welche Geſche alsbald herbeitrug,<lb/>zeigten daſſelbe Gepräge ſolider Schlichtheit; die<lb/>Portionen waren groß, die Qualität vortrefflich,<lb/>aber ſehr ländlich und ohne jedes Raffinement.<lb/>Willbrecht’s Magen hatte nie Roggenbrot ertragen<lb/>können, aber er war hungrig und aß — ſtürzten<lb/>doch all' ſeine früheren Erfahrungen und Anſichten<lb/>heute über den Haufen. Der Thee war gut, beſſer<lb/>als daheim, vielleicht weil er in dieſer Gegend<lb/>mehr das Nationalgetränk bildet. Willbrecht freute<lb/>ſich, daß er einen ſo logiſchen Einfall über den<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0160" n="150" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=160"/>
+            </p>
+            <p> <lb/>Thee hatte und notirte ihn in ſeine Brieftaſche<lb/>zu fernerer Verwerthung.<lb/>
+            </p>
+            <p> <lb/>Die Juchtenſtiefeln waren wirklich noch zu<lb/>groß, wie mußten erſt die <hi rendition="#g">Pantoffeln</hi> ſein?<lb/>Willbrecht notirte auch dieſen Junggeſellen-Einfall<lb/>in ſeine Brieftaſche. Vielleicht wirkt es inſpirirend,<lb/>fünfzehn Minuten im Waſſer zu waten. Der Volon-<lb/>tair hatte nie ſo viele hübſche, kleine Ideen gehabt.<lb/>Daß jedes Aufraffen zur That, jedes Abſtreifen<lb/>unnatürlicher Lebensbedingungen den Geiſt frei<lb/>macht, fiel ihm noch nicht ein.<lb/>
+            </p>
+            <p> <lb/>„Jetzt ſind wir fertig! —“ meldete Geſche, den<lb/>Kopf in die Thür ſteckend.<lb/>
+            </p>
+            <p> <lb/>Willbrecht folgte dem Schalle ihrer Holzſchuhe<lb/>und gelangte richtig an ein kleines Boot, in wel-<lb/>chem Körbe und Keſſel, ſowie die zwei Mägde<lb/>bereits Platz fanden. Anna Lene ſtreichelte zwei<lb/>große Doggen, die Willbrecht mißtrauiſch anſahen,<lb/>und gebot ihnen das Haus zu bewachen, bis die<lb/>Bewohner heimkehrten, dann ſetzte ſie ſich an's<lb/>Steuer und die Mägde ergriffen die Ruder. Es<lb/>war eine wunderliche Fahrt. Die Gräben, welche<lb/>gleichſam als Wege dienten, und Anna Lene oft,<lb/>ihrer Schmalheit wegen, zwangen mit einer langen<lb/>Stange ſtatt der Ruder zu ſchiffen, waren durch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0161" n="151" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=161"/>
+            </p>
+            <p> <lb/>die grünen Erlenbüſche zu beiden Seiten in Lau-<lb/>bengänge verwandelt, unter denen das ſchlanke<lb/>Boot dahin ſchoß, bis es plötzlich durch eine Lücke<lb/>glitt und nun unter taktgemäßem Ruderſchlag eine<lb/>breite Waſſerfläche durchſchnitt. Plötzlich zeigte<lb/>ſich eine Säulenhalle von alten, prächtigen Eichen-<lb/>ſtämmen. Anna Lene legte die Hand hinter das<lb/>Ohr und die Mägde hoben die Ruder aus: —<lb/>„Da ſind ſie!“ — ſprach die Dame befriedigt,<lb/>bildete mit den Händen einen Schalltrichter vor<lb/>den Lippen und rief klar und ſchmetternd: „To<lb/>Hop!“ durch denſelben hinaus, über das rauſchende,<lb/>rieſelnde Waſſer. „To Hop!“ klang es im näm-<lb/>lichen Tonfall zurück. „Das iſt Junker Fritz,“<lb/>ſagte Geſche; „ſo wird der Baron am Hahnpol<lb/>und Junker Bernhard neben dem tiefen Beel ar-<lb/>beiten!“<lb/>
+            </p>
+            <p> <lb/>Anna Lene nickte und ſagte zu Willbrecht hin-<lb/>über: „Geſche kennt unſern Grund und Boden ſo<lb/>gut als ich ſelbſt; ſie iſt meine Jugendgeſpielin<lb/>und ſeit zehn Jahren im Hauſe; ſie war noch ein<lb/>Kind, als ſie kam, und hat ſeitdem Freud' und Leid<lb/>treulich mit uns getragen!“ Inzwiſchen glitt das<lb/>Boot über niedriges Buſchwerk und eine jugend-<lb/>liche Stimme rief: „Willkommen, liebe Erſehnte!<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0162" n="152" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=162"/>
+            </p>
+            <p> <lb/>Wir ſind hungrig wie die Wölfe, über Durſt<lb/>dürfen wir wohl ehrenhalber, mitten im Waſſer,<lb/>nicht klagen — wen bringſt Du denn da, lieb'<lb/>Schweſter mein?“<lb/>
+            </p>
+            <p> <lb/>„Das iſt der neue Volontair!“<lb/>
+            </p>
+            <p> <lb/>„Unſer neuer Volontair?“ — ſtaunte der<lb/>kräftige Junker, auf Willbrecht hinab ſchauend.<lb/>„Nun, grüß' Sie Gott, willkommen auf Pranken-<lb/>brook, unſere ländliche Einförmigkeit erleidet grade<lb/>eine kleine Unterbrechung!“<lb/>
+            </p>
+            <p> <lb/>Anna Lene reichte den Arbeitsleuten, die mit<lb/>dem Junker waren, mehrere Körbe: „Das iſt für<lb/>Euch hier, Gerd, und mit dieſem Korbe da ſchiffſt<lb/>Du hinüber zum Baron und ſagſt ihm einen<lb/>ſchönen Empfehl. Zu Haus iſt das Waſſer andert-<lb/>halb Daumsbreite gewachſen, ich denke es wird<lb/>gegen Mitternacht zum Stehen kommen, und dann<lb/>haben wir gewonnen. Sei vorſichtig mit der<lb/>Flaſche, Gerd, und wiſche das Glas hübſch aus,<lb/>ehe Du dem Herrn einſchenkſt. Gott befohlen,<lb/>Fritzbruder, wir rudern zum Bernhard hinüber,<lb/>mich wundert, daß Niemand auf dem Norddeich<lb/>iſt, ich mißtraue ihm und werde mal gründlich<lb/>nachſehen!“<lb/>
+            </p>
+            <p> <lb/>— „Nun, was er durchläßt, iſt das gewöhnliche<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0163" n="153" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=163"/>
+            </p>
+            <p> <lb/>Sickerwaſſer,“ meinte Fritz; ,,es wäre allerdings<lb/>eine verfluchte Geſchichte, wenn der Norddeich<lb/>bräche und machte unſere ganze mühſelige Arbeit<lb/>zu Schanden. Sieh', was ich für Schwielen an<lb/>den Händen habe!“<lb/>
+            </p>
+            <p> <lb/>Anna Lene legte ihre roſige Wange in die<lb/>ſchwielige Fauſt ihres Bruders und lächelte: „Du<lb/>arbeiteſt für die Heimathſcholle und für viele Leute,<lb/>die ihr Sommerkorn retten möchten!“<lb/>
+            </p>
+            <p> <lb/>„O, ich klage auch nicht!“ ſagte der Junker<lb/>fröhlich, „wir ſind hier ganz vergnügt auf unſerer<lb/>Cruſoe-Inſel — ah, bringſt Du Enteier, ich danke<lb/>Dir. Süs, (Schweſterchen) Du giebſt ſchon Jedem,<lb/>was ihm das Liebſte iſt.“ Der große Junge um-<lb/>faßte ſeine Schweſter und hob ſie in den Kahn<lb/>zurück, worauf er ſie küßte und das Boot mit un-<lb/>geheurem Schwunge vom Ufer abſtieß.<lb/>
+            </p>
+            <p> <lb/>Willbrecht, der wohlredende, vorlaute Muſen-<lb/>anbeter ſaß ſtumm und beſcheiden da; ſein elaſtiſcher<lb/>Converſationsfaden hatte mit einem Male keinen<lb/>Anknüpfungs-Punkt, und doch konnte er die Schuld<lb/>davon nicht, wie auf der Univerſität, der Rohheit<lb/>der Umgangsformen zuſchreiben; hier ſchien in<lb/>zarteſter Weiſe nur <hi rendition="#g">einer</hi> für den <hi rendition="#g">andern</hi> zu<lb/>ſorgen, ohne Rückſicht auf ſich ſelbſt.<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0164" n="154" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=164"/>
+            </p>
+            <p> <lb/>Die Mägde ruderten brav und Anna Lene<lb/>ſteuerte mit ſolcher Sicherheit, daß wenn ſie „Ruder<lb/>ein!“ commandirte, gewöhnlich die Lücke, durch<lb/>welche der Kahn ſchlüpfte, kaum einen Fuß breiter<lb/>war als das Fahrzeug. Auch als jetzt Bäume,<lb/>Büſche und Fußbrücken aufhörten, ſchien ſie genau<lb/>zu wiſſen, welche Wendungen und Richtung ſie<lb/>auf der weiten Waſſerfläche zu nehmen habe, die<lb/>ihrem Auge nicht pfadlos erſchien. Geredet wurde<lb/>nur das Nothwendige und die Dame nahm nur<lb/>dann und wann Notiz von der Anweſenheit eines<lb/>Fremden, wenn ſie einige Worte über die Oert-<lb/>lichkeit und die Bodenbeſchaffenheit äußerte.<lb/>
+            </p>
+            <p> <lb/>„Dieſe Wieſenfläche gehörte früher ganz und<lb/>gar zu Prankenbrook,“ erklärte ſie, „aber im Laufe<lb/>der Zeit iſt das Beſitzthum ſehr zuſammenge-<lb/>ſchmolzen — die Nachkommen ernten, ganz wie<lb/>es in der Bibel ſteht, bis in’s dritte und vierte<lb/>Glied, ja noch weiter hinaus, was die Vorfahren<lb/>ſäeten. Die unſrigen waren nun zwar recht<lb/>ſchlechte Rechenmeiſter, aber dafür wahrten ſie<lb/>unter ihrem Dache einen ehrlichen Sinn und<lb/>ſtrenge Zucht. Nun habe ich immer gefunden,<lb/>daß in einfachen biederen Familien ohne Glücks-<lb/>güter kräftige, arbeitstüchtige Geſtalten beſonders<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0165" n="155" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=165"/>
+            </p>
+            <p> <lb/>gut gedeihen. So geht es unſerem Hauſe, wir<lb/>ſind geſund und thätig — ſo hilft der da droben<lb/>weiter!“<lb/>
+            </p>
+            <p> <lb/>Wollte die Freiin von Pranken andeuten, die<lb/>reichen Familienſproſſen ſchrumpften körperlich zu-<lb/>ſammen wie — etwa Willbrecht —? O nein, ſie<lb/>dachte gar nicht an ihn, ſchon während ſie die<lb/>letzten Worte ſprach, ſondern beſchattete die Augen<lb/>mit der Hand und lugte nach einem ſchmalen<lb/>ſchwarzen Strich hinaus, welcher gleichſam auf<lb/>dem Waſſer zu ſchweben ſchien. Willbrecht war<lb/>überzeugt, hätte er ſich jetzt erhoben und geſagt:<lb/>„Meine Gnädige, ich gebiete über eine halbe Mil-<lb/>lion!“ ſie würde doch den Nord-Deich beob-<lb/>achtet, und höchſtens, höflichkeitshalber, erwi-<lb/>dert haben: „Ich gratulire!“ und doch war dies<lb/>Mädchen nicht reich, vielleicht — <hi rendition="#g">wahrſchein-</hi>
+               <lb/>
+               <hi rendition="#g">lich</hi> ſogar, für ihren Stand arm. Wie war das<lb/>Alles zu enträthſeln? Des jungen Mannes Ideen<lb/>umwogten ihn wie die Sommerfluth das Boot,<lb/>aber ihm fehlte jener moraliſche Compaß, welcher<lb/>Anna Lene ſo haarſcharf anzeigte, was ſie zu thun<lb/>und wie ſie zu urtheilen habe.<lb/>
+            </p>
+            <p> <lb/>„Ich will auf den Deich entlang gehen, Geſche,<lb/>beim Zutreten merkt man ſicherer, wie das Erd-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0166" n="156" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=166"/>
+            </p>
+            <p> <lb/>reich unterwärts beſchaffen iſt, nimm das Ruder<lb/>und „fricke“, damit Ihr neben mir bleibt!“<lb/>
+            </p>
+            <p> <lb/>Geſche hob das Steuer aus und legte das Ru-<lb/>der ein, welches ſie in zierlichen und doch kräftigen<lb/>Stößen hin und her bewegte. Anna Lene ging<lb/>auf dem Deiche, als ob ihre impoſante Geſtalt<lb/>auf den Fluthen wandelte.<lb/>
+            </p>
+            <p> <lb/>„Sehen Sie, Herr von Flor,“ wandte ſie ſich<lb/>an dieſen, „in meiner Jugend waren an der an-<lb/>dern Seite des Deiches Wieſen und Ländereien,<lb/>ein einziger Deichbruch hat ſie zu Kölken und<lb/>Moräſten umgeſtaltet und den unfruchtbaren<lb/>Flußſand auf die Aecker geſchwemmt. Es war<lb/>ein ſchrecklicher Anblick, der Deich ſchien vor dem<lb/>ungeheuren Waſſerdruck zu wanken und zu beben,<lb/>Strecken von Manneslänge und darüber ſtürzten<lb/>plötzlich landeinwärts und das Waſſer ſchäumte,<lb/>wie Schnee ſo weiß vor innerer Bewegung, hin-<lb/>terdrein. Sie machen ſich keinen Begriff von der<lb/>Gewalt der ſiegreichen Fluth, Steine von 10—13<lb/>Pfund ſchienen gleichſam auf den Wellen zu<lb/>ſchwimmen, bis ſie ihre Breſche vergrößerten und<lb/>faſt den ganzen Deich niederwuſchen. Mein armer<lb/>Vater hatte furchtbaren Schaden und große Un-<lb/>koſten davon; die Kölke dort zu meiner Rechten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0167" n="157" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=167"/>
+            </p>
+            <p> <lb/>bitte ſchauen Sie nur jenſeits des Deiches, ſind<lb/>ſo tief, daß wir dort im trockenſten Hochſommer<lb/>fiſchen, alſo kein Gedanke daran, ſie jemals wie-<lb/>der auszufüllen. Gott verhüte nur, daß —“ Anna<lb/>Lene zog den fortſchreitenden Fuß zurück, als hätte<lb/>ſie auf eine Natter getreten, ihr Geſicht ward<lb/>leichenbleich, ſie faltete die Hände in einander und<lb/>flüſterte: „Geſche — es war mir, als gäbe der<lb/>Boden hier nach — nimm die Stange und unter-<lb/>ſuche da — weiter nach links — ſo dort —!“<lb/>
+            </p>
+            <p> <lb/>Geſche unterſuchte, vorſichtig, Handbreit für<lb/>Handbreit, nicht mit weibiſcher Haſt, ſondern ent-<lb/>ſchloſſen und gründlich: „<hi rendition="#g">Es iſt ſo</hi>!“ ſagte ſie<lb/>dann.<lb/>
+            </p>
+            <p> <lb/>„Gott — Gott!“ rief Anna Lene, wie ein<lb/>trauriges Kind zum Himmel emporſchauend, aber<lb/>der zweite Blick auf das drohende Unheil zu ihren<lb/>Füßen erweckte auch ihre Thatkraft: „Wir müſſen<lb/>hoffen, daß wir ihn noch halten! Geſche ſteig aus,<lb/>die Trine wird mit dem Herrn von Flor, ſo raſch<lb/>ſie kann, zu Junker Bernhard hinüber rudern,<lb/>er ſoll ſtracks mit ſeinen Leuten kommen und<lb/>Buſch und Soden mitbringen, er kann auch einen<lb/>Mann zum Nachbar ſchicken, um eine Ladung<lb/>Dünger zu holen! Leg' Dich in die Riemen (Ru-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0168" n="158" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=168"/>
+            </p>
+            <p> <lb/>der), Trine, heute gilt es — Adieu, Herr v. Flor,<lb/>nein, halt, Trine, Geſche wird Dich begleiten, es<lb/>geht dann ſchneller!“<lb/>
+            </p>
+            <p> <lb/>„Nein, gnä Frölen, ich gehe nicht und laſſe<lb/>Sie hier allein umkommen — fort, fort, Trine!“<lb/>
+            </p>
+            <p> <lb/>„Geſche, bedenke, Du haſt einen Bräutigam,<lb/>wenn Dir ein Unglück geſchähe — —“<lb/>
+            </p>
+            <p> <lb/>„Dann iſt es Gottes Wille, greif' aus, Trine!“<lb/>Das Boot wandte ſich, aber zu Anna Lene's un-<lb/>ſagbarem Staunen ſtand plötzlich Willbrecht an<lb/>ihrer Seite.<lb/>
+            </p>
+            <p> <lb/>„Sie hätten nicht bleiben ſollen, Sie ſind an<lb/>dergleichen Ereigniſſe nicht gewöhnt, ich bitte Sie<lb/>jeden Falls zwanzig Schritt zurück zu gehen. Dort<lb/>wo die Diſtel ſteht, zieht ſich ein Sandrücken an<lb/>den Deich und wird die Strömung geringer ſein!“<lb/>
+            </p>
+            <p> <lb/>„Und Sie, was wollen Sie thun, wozu der<lb/>Strick?“ fragte Flor.<lb/>
+            </p>
+            <p> <lb/>„Ich werde mich mit Geſche auf die bedrohte<lb/>Stelle des Deiches ſetzen, jedenfalls repräſentiren<lb/>wir ein Gewicht von zwei bis drei Centnern; der<lb/>Strick dient dazu, uns an einander zu binden —<lb/>ah, die Sonne will ſchon untergehen!“<lb/>
+            </p>
+            <p> <lb/>„Um Gottes Willen, Baroneſſe, verſprechen<lb/>Sie ſich Erfolg von dieſem Wagſtücke?“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0169" n="159" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=169"/>
+            </p>
+            <p> <lb/>„Der Erfolg liegt in höherer Hand. Es ſteht<lb/>hiſtoriſch feſt, daß in alten Zeiten die Frauen des<lb/>Schifferdorfes Haaren an der Ems den ganzen<lb/>Ort retteten, indem ſie mit ihrem Körper den<lb/>Deich ſchützten, bis Hülfe kam!“<lb/>
+            </p>
+            <p> <lb/>„Ich kann mich freilich nicht ſchwerer machen,<lb/>als ich bin,“ ſprach Willbrecht freundlich, „aber<lb/>jeden Falls kann ich mich neben Sie ſetzen!“<lb/>
+            </p>
+            <p> <lb/>Anna Lene blickte ihn gütig an und reichte<lb/>ihm die Hand: „Wenn es Ihnen ſo um's Herz<lb/>iſt, als müßten Sie Alles, ſelbſt das Leben, für<lb/>Ihre Mitmenſchen freudig einſetzen, ſo thun Sie<lb/>das in Gottes Namen. Sie können ja nichts ver-<lb/>lieren, was dem Gewinne gleich käme, ſich ſelbſt<lb/>freudig zum Opfer zu bieten. So, binden Sie<lb/>ſich das Tau um die Taille. Solch' ein Strick iſt in<lb/>manchen Lebenslagen von Nutzen —!“ Sie lächelte<lb/>wehmüthig und ſchaute über die Waſſerfläche. Nach<lb/>der inneren Seite ſtand der Deich um 4—5 Fuß<lb/>über der Fluth und die Frauen beobachteten ihn<lb/>aufmerkſam. Die Gefahr traf vorzugsweiſe die<lb/>obere, bedeutend ſchmalere Kante, auf welcher ſie<lb/>ſaßen.<lb/>
+            </p>
+            <p> <lb/>„O, Baroneſſe,“ rief Willbrecht, „ich bringe<lb/>ja gar kein Opfer, ich bin ein Menſch, der noch<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0170" n="160" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=170"/>
+            </p>
+            <p> <lb/>nie etwas in der Welt geleiſtet hat und verdiene<lb/>gar nicht an Ihrer Seite zu ſitzen!“ Vielleicht<lb/>hatte er es nie ſo verdient zu einer muthigen<lb/>That berufen zu werden als eben jetzt, wo er zum<lb/>erſten Mal die Hohlheit ſeiner Exiſtenz in's Auge<lb/>faßte.<lb/>
+            </p>
+            <p> <lb/>„Sie denken zu hoch von mir, Herr von Flor,<lb/>ich habe kein Verdienſt, ich thue nur einfach und<lb/>ſo gut wie ich's verſtehe, meine Pflicht, und Gott<lb/>half mir das Kreuz tragen, welches er mir auf-<lb/>erlegte.“<lb/>
+            </p>
+            <p> <lb/>„Sie verloren Ihren — Ihren Verlobten —?“<lb/>
+            </p>
+            <p> <lb/>„Ja, er ſtarb drei Tage vor unſerer Hochzeit,“<lb/>erwiderte Anna Lene in ihrer ergebenen klaren<lb/>Art; „ich gab ihm Brautſchleier und Myrthenkrone<lb/>zu ewigem Gewahrſam mit in den Sarg und ſetzte<lb/>die Witwenhaube auf's Haupt — die Krepphaube<lb/>legte ich ab, aber die unſichtbare Witwentrauer blieb!“<lb/>
+            </p>
+            <p> <lb/>„Es muß furchtbar ſein, das Theuerſte zu be-<lb/>graben!“<lb/>
+            </p>
+            <p> <lb/>„Er, mein Verlobter, iſt mir ſchon wieder auf-<lb/>erſtanden, er war ein ſo treuer Chriſt, daß ich<lb/>mir ihn nicht im Grabe, ſondern immer da oben<lb/>bei den verklärten Geiſtern denke, welche des Herrn<lb/>Herrlichkeit ſchauen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0171" n="161" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=171"/>
+            </p>
+            <p> <lb/>„O, gnä Frölen,“ ſchluchzte Geſche und um-<lb/>faßte ihre Herrin, „noch nichts von der Hülfe zu<lb/>ſehen und — und Herr des Himmels, der Riß<lb/>wird immer größer, wir kommen um!“<lb/>
+            </p>
+            <p> <lb/>„So wollen wir beten!“ Sie betete laut und<lb/>die Anderen ſprachen ihre Worte nach. Willbrecht<lb/>hatte bisher mit der Andacht geſpielt, wie mit<lb/>allen anderen Gefühlen. Heute glühte ſie ihm<lb/>in’s Herz. Anna Lene dankte für Gottes Wohl-<lb/>thaten, bat um Verzeihung für alle Sünde und<lb/>alles Ungöttliche in ihrem Leben und bat um<lb/>Barmherzigkeit für die Seelen, die der Herr hin-<lb/>auf riefe.<lb/>
+            </p>
+            <p> <lb/>„Ich ſehe noch nichts!“ ſprach Geſche leiſe nach<lb/>dem Amen.<lb/>
+            </p>
+            <p> <lb/>„Ich danke Dir, Geſche, und danke Ihnen,<lb/>Herr von Flor, daß Sie mir ſo treulich und un-<lb/>verzagt zur Seite ſtehen. Ihnen muß ich Abbitte<lb/>thun, ich habe Ihnen nicht den Muth und die<lb/>Seelengröße zugetraut, welche Sie beweiſen.“ —<lb/>
+            </p>
+            <p> <lb/>„Sie thaten recht daran, ſie mir nicht zuzu-<lb/>trauen,“ entgegnete Willbrecht beſchämt — „ich<lb/>hatte ſie auch nicht, aber wenn ich Sie anſehe, da<lb/>iſt mir's, als fragte ich nichts nach dem feuchten<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0172" n="162" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=172"/>
+            </p>
+            <p> <lb/>Grabe und meine Seele würde unter dem Schutze<lb/>der Ihrigen freudig emporſchweben.“<lb/>
+            </p>
+            <p> <lb/>„Mir iſt der Tod wie ein Freund, aber ach<lb/>mein Vater, mein lieber, rechtſchaffener, alter Va-<lb/>ter, <hi rendition="#g">der</hi> Schlag wird ein furchtbarer ſein. Wir<lb/>waren noch Kinder, da ſtarb die Mutter, ſchwere<lb/>Unglücksfälle, Mißerndten und Viehſeuchen droh-<lb/>ten uns von unſerem Erbtheil zu vertreiben.<lb/>Seit meinem ſechszehnten Jahre vertrat ich die<lb/>Stelle der Hausfrau und erzog meine jüngeren<lb/>Brüder, ich ſuchte ſie zu rüſten für den Kampf<lb/>des Lebens, wie unſere Vorfahrinnen auch den<lb/>Knappen Schwert und Schild reichten. Das<lb/>Schwert, was ich meine, war verſtändige Thätig-<lb/>keit, der Schild heißt: Glaube. — Wir waren ge-<lb/>troſt und fröhlich mit einander, da klopfte das<lb/>Glück an die Pforten, ein reicher Mann warb um<lb/>mich, reich an Gemüth, reich an irdiſchen Gütern.<lb/>Ich war eine überſelige Braut, mein Vater wußte,<lb/>daß nun auch ſeinen Söhnen geholfen werde und<lb/>daß ich, als reiche Frau, mein armes Vaterhaus<lb/>nicht einſtürzen laſſen würde, da — Geſche, ſiehſt<lb/>Du noch nichts? ich fürchte, unſere Minuten ſind<lb/>gemeſſen, arme, liebe Geſche, armer, braver Freund!<lb/>Ich möchte doch leben können, um Ihnen noch ſo<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0173" n="163" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=173"/>
+            </p>
+            <p> <lb/>recht zu danken, daß Sie mir mit ſo muthigem<lb/>Beiſpiel vorangehen — der Riß im Deiche läßt<lb/>ſchon ein ganzes Bächlein durch, wenn wir auf-<lb/>ſtänden, würde das Waſſer hinter unſerem letzten<lb/>Schritte die gelockerte Grasdecke abwerfen und ſich<lb/>ein breites Thor öffnen. Nun, wie Gott will,<lb/>gebt mir Beide die Hand — weine nicht ſo, Geſche,<lb/>Du wirſt dahin gerufen, wo keine Thränen mehr<lb/>fließen!“<lb/>
+            </p>
+            <p> <lb/>Niemals konnte ein Mann einer Todesgefahr<lb/>mit herrlicherem Anſtande in's Auge blicken als<lb/>Willbrecht es that; eines Theils kannte er die Art<lb/>des drohenden Unglücks doch zu wenig, um ernſt-<lb/>lich zu vermuthen, die Wellen leckten bereits nach<lb/>ſeinem Daſein wie hungrige Wölfe, andern Theils<lb/>war er wie gebannt im Anſchauen Lene's und ihr<lb/>Antlitz verrieth nichts von jener Art der Furcht<lb/>und des Schreckens, die anſteckend auf erregbare<lb/>Nerven wirkt, endlich, er hatte gebetet, es war<lb/>etwas Neues, Erhabenes über ihn gekommen,<lb/>er dachte nicht an die Gefahr, ſondern war eifrig<lb/>bemüht, die neuen Ideen in ſich zu ordnen. Zu-<lb/>dem — es iſt ja ſo leicht neben edlen Menſchen<lb/>groß zu denken. — Auf einmal ſchütterte die Erde<lb/>wie von einem Erdſtoß. Geſche ſchrie auf. Will-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0174" n="164" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=174"/>
+            </p>
+            <p> <lb/>brecht zog ſeine Brieftaſche heraus, ſchrieb einige<lb/>Worte hinein und legte dann das Buch in ſeinen<lb/>waſſerdichten Reiſehut, indem er ſein Taſchentuch<lb/>darüber knotete.<lb/>
+            </p>
+            <p> <lb/>„Was beabſichtigen Sie?“<lb/>
+            </p>
+            <p> <lb/>„Der Hut wird ſchwimmen wie ein Kahn, ich<lb/>habe mein Teſtament hinein gelegt.“<lb/>
+            </p>
+            <p> <lb/>„Die Abfaſſung war kurz genug!“<lb/>
+            </p>
+            <p> <lb/>„Es galt zwei Herzens-Pflichten zu erfüllen,<lb/>eine alte und eine neue, will's Gott, ſo wirkt mein<lb/>Tod mehr Gutes als mein ganzes Leben. Ohne<lb/>es zu wiſſen haben Sie auch mich ausgerüſtet für<lb/>den letzten, großen Schritt, ich ſterbe mit Ihrem<lb/>Bilde in und auf dem Herzen, mit Ihren Herzens-<lb/>gedanken auf der Bruſt!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ich ſchenkte beides an Dallheim, der mir<lb/>in meinem Leide ein treuer Freund war. Gott<lb/>ſchütze ihn!“<lb/>
+            </p>
+            <p> <lb/>Eine neue Bewegung, der Deich ſank merklich<lb/>nach Geſche ihrer Seite und ſie ſeufzte: „Ich<lb/>muß zuerſt daran.“ Anna Lene rückte nahe an<lb/>ſie heran und umfaßte das Mädchen. „Denk an<lb/>Gott, Kind!“ Geſche weinte leiſe. Die Sonne<lb/>war jetzt halb unter den Horizont geſunken: „Ich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0175" n="165" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=175"/>
+            </p>
+            <p> <lb/>möchte hingehn wie das Abendroth,“ flüſterte Anna<lb/>Lene halb ſinnend.<lb/>
+            </p>
+            <p> <lb/>„Und ſterben wie ein ſingender Schwan!“ fügte<lb/>Willbrecht hinzu.<lb/>
+            </p>
+            <p> <lb/>„Der Heiland winkt aus den Wolken!“ flüſterte<lb/>die Dame träumeriſch weiter — „Tod, wo iſt dein<lb/>Stachel? Hölle wo iſt dein Sieg?“<lb/>
+            </p>
+            <p> <lb/>„Gott Lob, daß ich mit Ihnen ſterben darf!“<lb/>rief Willbrecht und ſchleuderte ſeinen Hutkahn in's<lb/>Waſſer hinaus, denn die losgeweichten Erdmaſſen<lb/>fielen ſchon in ganzen Schollen herunter.<lb/>
+            </p>
+            <p> <lb/>„To Hop!“ klang es von Ferne.“ „To Hop!“<lb/>ſchmetterten Geſche und Anna Lene wie aus einem<lb/>Munde, zu neuer Lebenshoffnung erwachend.<lb/>
+            </p>
+            <p> <lb/>Und „To Hop, To Hop“ immer näher kam die<lb/>Antwort.<lb/>
+            </p>
+            <p> <lb/>„Nur noch drei Minuten!“ murmelte die Dame,<lb/>ihre durchnäßten Kleider aufraffend.<lb/>
+            </p>
+            <p> <lb/>Jetzt legte das rettende Boot hinter den armen<lb/>Hartbedrängten an und Junker Bernhard, welcher<lb/>noch größer war als ſein jüngerer Bruder, rief:<lb/>„Gott ſei gelobt und geprieſen, daß wir da ſind,<lb/>— o, Anna Lene, wie konnteſt Du Dich ſolcher<lb/>Gefahr ausſetzen, Dich und die anderen! Ich bitte<lb/>Euch, rührt Euch nicht, noch ein paar Minuten,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0176" n="166" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=176"/>
+            </p>
+            <p> <lb/>ſo ſeid Ihr erlöſt, wir bringen tüchtiges Material<lb/>mit und es iſt noch hell genug, um den Schaden<lb/>zu unterſuchen. Hierher, hierher den Reiſig,<lb/>Herm, Anton, ſo rammt die Pfähle ein, bei Gott,<lb/>ohne Euch wäre der Deich zum Teufel gegangen<lb/>— und doch „Lene“ es war Unrecht, wir hätten<lb/>weit lieber Alles verloren als Dich!“<lb/>
+            </p>
+            <p> <lb/>Junker Bernhard drückte, nachdem die erſten<lb/>Sicherheitsmaßregeln getroffen waren, mit feuchtem<lb/>Blicke ſeine Schweſter an's Herz und zog dann<lb/>wie ein Löwe, welcher mit einem Hündchen ſpielt,<lb/>den durchfeuchteten, beſchmutzten kleinen Willbrecht<lb/>in die muskelſtarken Arme, — natürlich flatterte<lb/>der letztere hochbeſeligt an ihm empor.<lb/>
+            </p>
+            <p> <lb/>„Beſter Freund, wo haben Sie Ihren Hut ge-<lb/>laſſen?“<lb/>
+            </p>
+            <p> <lb/>„Der ſchwimmt mit meinem Teſtamente der<lb/>Nordſee zu, ich werde ein neues ſchreiben müſſen!“<lb/>
+            </p>
+            <p> <lb/>„Ah — ah, Sie ſind ja ein verfluchter kleiner<lb/>Kerl! Wie mich das freut, daß Sie in unſere<lb/>Einſamkeit verſchlagen ſind, nun haben wir gute<lb/>Unterhaltung mit einander, und wie wird Vater<lb/>Ihnen und der braven Geſche danken, daß Sie<lb/>mit unſrer Lene ausharrten. Weißt Du, Geſche,<lb/>auf Deiner Hochzeit will ich dafür Dein Braut-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0177" n="167" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=177"/>
+            </p>
+            <p> <lb/>führer ſein und Du ſollſt das ſchönſte Gebetbuch<lb/>im ganzen Kirchſpiel von mir haben, damit Du,<lb/>wenn Du alt biſt, Deinen Kindern die heutige<lb/>Geſchichte mit dem richtigen Schluß erzählen kannſt.<lb/>Gott ſei tauſend Mal gelobt, daß Ihr nicht da<lb/>unten liegt und ich Euch herausfiſchen muß —!“<lb/>Er fuhr mit dem Taſchentuch über Stirn und<lb/>Augen.<lb/>
+            </p>
+            <p> <lb/>„O Du böſer Junge,“ lächelte Anna Lene, und<lb/>ſtrich ihm das wirre blonde Haar aus der offnen<lb/>Stirn, „und dafür feierſt Du unſer Wiederſehen<lb/>durch kindiſche Scherze und Flüche, Du machſt<lb/>meiner Erziehung wenig Ehre, Bub'!“<lb/>
+            </p>
+            <p> <lb/>„Sehen Sie die Tyrannin — wie heißen Sie<lb/>doch, Herr — Ich heiße Bernhard!“<lb/>
+            </p>
+            <p> <lb/>„Willbrecht!“<lb/>
+            </p>
+            <p> <lb/>„Ja, hüten Sie ſich vor ihr, Willbrecht, wie<lb/>eigenwillig und ungeleckt man auch ſein mag, ſie<lb/>bekommt Einen doch herum!“<lb/>
+            </p>
+            <p> <lb/>„Willſt Du ſagen, Bruder, Herr von Flor<lb/>wäre ungeleckt?“<lb/>
+            </p>
+            <p> <lb/>„O nein, bewahre mich der Himmel, verzeihen<lb/>Sie, ich redete von mir ſelbſt!“<lb/>
+            </p>
+            <p> <lb/>„Leider bin ich zu der Ueberzeugung gekom-<lb/>men, daß ich noch <hi rendition="#g">mehr</hi> zu lernen habe und grö-<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0178" n="168" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=178"/>
+            </p>
+            <p> <lb/>ßerer Nachſicht bedarf, als irgend Jemand ſonſt,<lb/>verlieren Sie nur die Geduld nicht!“<lb/>
+            </p>
+            <p> <lb/>„I bewahre!“ rief Bernhard, an welchen die<lb/>Rede gar nicht gerichtet war, „ich zeige Ihnen<lb/>Alles, angeln, pflügen, oculiren, Hundedreſſur —<lb/>Alles, ich ſchmiede und zimmere auch nicht übel<lb/>und bin — —“<lb/>
+            </p>
+            <p> <lb/>„Ein ſchrecklicher Schwätzer!“ fiel die Schwe-<lb/>ſter ein.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>Angelika's Hochzeit ſollte noch in den Ferien<lb/>ſtattfinden, und daher wurde mit aller Kraft an<lb/>der Ausſteuer gearbeitet. Die acht Muſen, welche<lb/>Angelika's vertrauteſte Buſenfreundinnen waren,<lb/>ſtichelten und ſchnitten unermüdlich in der Lein-<lb/>wand umher, denn die Reitings wohnten in einer<lb/>Provinzialſtadt, wo die jungen Damen noch nicht<lb/>genug „große Welt“ kannten, um völlig unpraktiſch<lb/>zu ſein. Da grade ein Herbſtmanöver in der Nähe<lb/>abgehalten wurde, ſo ſchien der arme Willbrecht<lb/>bereits von denen vergeſſen, die er einſt gewöhnt<lb/>war, nur als Schatten ſeines Lichtes zu betrach-<lb/>ten. Die Damen unterhielten ſich ſehr intereſſant<lb/>während der Arbeit, es war von dem Barte eines<lb/>Cadetten und dem Pferde eines Majors die Rede,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0179" n="169" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=179"/>
+            </p>
+            <p> <lb/>bis dann die Lieutenants ein buntes, ſtürmiſches<lb/>Durcheinander verurſachten, indem jede dann über<lb/>einen beſonderen Lieutenant etwas zu ſagen wußte.<lb/>Mitten in dieſes Gezwitſcher trat die Studirpathe,<lb/>in der Rechten eine offene Zeitung, in der Linken<lb/>einen offenen Brief. Darauf achtete indeß Nie-<lb/>mand, denn ihr Ausſehen hatte etwas Geſpenſti-<lb/>ſches, Vampyrhaftes. Sie wankte bis zum Tiſche<lb/>und ſank in den Sopha.<lb/>
+            </p>
+            <p> <lb/>„Was iſt geſchehen?“ riefen die Muſen.<lb/>
+            </p>
+            <p> <lb/>„Leſ’t!“ hauchte das alte Fräulein und reichte<lb/>ihnen das Zeitungsblatt. Die Nummer brachte die<lb/>Beſchreibung jener verhängnißvollen Deichcata-<lb/>ſtrophe in Prankenbrook. Der Schulmeiſter des<lb/>benachbarten Kirchdorfes hatte, mit dem ganzen<lb/>ſchwunghaften Pathos ſeiner Kaſte, den Hergang,<lb/>nach der Schilderung glaubwürdiger Augen- und<lb/>Ohrenzeugen (dieſe Paſſage bezog ſich auf Geſche)<lb/>dargeſtellt. Es lag nicht im Intereſſe des dorf-<lb/>ſchulmeiſterlichen Autors, mit Farben und Effecten<lb/>zu ſparen, im Gegentheil ſagte er ſich mit großem<lb/>Rechte, ein ſolcher Vorfall dürfte ſich, ſo lange er<lb/>lebe, nicht wieder ereignen, und ſuchte das „ſchätz-<lb/>bare Material“ nach Kräften auszubeuten. Die<lb/>Muſen laſen ſchaudernd, aber nicht ganz ohne<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0180" n="170" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=180"/>
+            </p>
+            <p> <lb/>Mißtrauen gegen die Augen- und Ohrenzeugen,<lb/>es war zu undenkbar, der verwöhnte Willbrecht<lb/>ſolle dergleichen ausgeführt haben.<lb/>
+            </p>
+            <p> <lb/>„Nun, er iſt ja noch einmal davon gekommen!“<lb/>bemerkte Melpomene, nachdem man ſich in Stau-<lb/>nen erſchöpft hatte, tröſtend.<lb/>
+            </p>
+            <p> <lb/>„Davon gekommen —?“ wiederholte die Tante<lb/>bitter. „Ach, es wäre mir faſt lieber, dieſe meuchel-<lb/>mörderiſchen, hartherzigen Prankens hätten mein<lb/>armes, zartes Kind gleich am erſten Tage in die<lb/>Fluthen begraben! Sie tödten ihn zollweiſe, dieſe<lb/>Cannibalen, und er verrichtet Sclavendienſte in<lb/>Crocodilſtiefeln — o ich unglückliche Frau!“<lb/>
+            </p>
+            <p> <lb/>„Crocodilſtiefel —?“ ſchrieen die Muſen und<lb/>wurden faſt drohend vor Neugier.<lb/>
+            </p>
+            <p> <lb/>„Ja, ich ſagte ſo — Crocodilſtiefeln! Wartet,<lb/>ich werde Euch ſeinen Brief vorleſen, ſeine ſchnö-<lb/>den, undankbaren Worte, welche die Erwiderung<lb/>auf mein drei Bogen langes Flehen, er möge<lb/>heimkehren, vorſtellen!“ Fräulein von Flor ſeufzte<lb/>und ſchnupfte heimlich. „Wo iſt denn meine Brille —<lb/>weiß Gott, daß ich ſie immer in die unrechte Taſche<lb/>ſtecke. So, da: Theuere Pathe! (ach, das arme,<lb/>verblendete Kind!) Ich habe mich nie wohler be-<lb/>funden, als jetzt, wo ich ſaures Roggenbrot eſſe<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0181" n="171" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=181"/>
+            </p>
+            <p> <lb/>und dazu eine Suppe von gekochter Buttermilch<lb/>nehme, oder einen Pfannkuchen aus Buchweizen-<lb/>mehl in Oel gebacken — (o, das iſt zum Herz-<lb/>brechen, und ich behaupte, der muß teigig ſein,<lb/>und wenn auch die Weiſen aus dem Morgenlande<lb/>mir in Perſon das Gegentheil beſchwören). Es<lb/>bekommt mir Alles gut; wir haben uns wohl<lb/>geirrt, als wir glaubten, ich ſei kränklich und müſſe<lb/>geſtärkt werden. Abends eine Portion Kartoffeln<lb/>mit ſaurer Speckſauce — (Kinder, Kinder, dieſe<lb/>Speckſauce wird mich bis in meine Träume ver-<lb/>folgen und mich um alle Ruhe bringen!) mundet<lb/>trefflich, wenn man von vier Uhr in der Frühe<lb/>auf den Beinen war. Du kannſt ſchon glauben,<lb/>dieſe Arbeiten find ſchwer und ermüdend, nament-<lb/>lich das Pflügen. Ich ziehe jetzt ſchon eine ziem-<lb/>lich gerade Furche, und Bernhard meint, ich würde<lb/>ſchon dahinter kommen; Bernhard iſt nämlich<lb/>mein Lehrmeiſter!“<lb/>
+            </p>
+            <p> <lb/>Die Pathe ſah ſich ſtumm ringsum und die<lb/>Muſen wiederholten ganz überwältigt: „Sein<lb/>Lehrmeiſter!“<lb/>
+            </p>
+            <p> <lb/>Kopfſchüttelnd fuhr das Fräulein fort: „End-<lb/>lich habe ich auch ein paar richtige Waſſerſtiefeln<lb/>erlangt, die, welche Du, liebe Pathe, ſchenkteſt,<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0182" n="172" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=182"/>
+            </p>
+            <p> <lb/>waren viel zu leicht und zierlich; dieſe ließ ich<lb/>aus Hamburg kommen, ſie ſind aus Crocodils-<lb/>leder und machen hier viel Aufſehen. Zum Leſen<lb/>und Schreiben bleibt mir natürlich keine Zeit,<lb/>aber das ſind im Grunde ja auch keine <hi rendition="#g">noth-</hi>
+               <lb/>
+               <hi rendition="#g">wendigen</hi> Dinge, und man treibt ſie nur zum<lb/>Vergnügen oder in den Wintertagen, wo wir Land-<lb/>leute mehr Muße haben!“<lb/>
+            </p>
+            <p> <lb/>„<hi rendition="#g">Wir</hi> Landleute!“ fiel der neunſtimmige<lb/>Chor ein.<lb/>
+            </p>
+            <p> <lb/>„Ach, liebe Pathe, ich würde der glücklichſte<lb/>Menſch ſein, wenn mich Fräulein Anna Lene ein<lb/>klein wenig lieben könnte, aber ich bin ein ſo un-<lb/>bedeutender Menſch, ich wage das nicht zu hoffen!“<lb/>
+            </p>
+            <p> <lb/>„Das ſteht <hi rendition="#g">nicht</hi> da, <hi rendition="#g">kann</hi> nicht daſtehen!“<lb/>unterbrachen ſtürmiſch die Muſen.<lb/>
+            </p>
+            <p> <lb/>„Seine Handſchrift iſt es,“ meinte die Pathe<lb/>unſicher, „aber mir iſt auch ſchon der Gedanke<lb/>gekommen, ob er nicht durch ein hitziges Fieber<lb/>über ſich hinaus gebracht, in einem unzurechnungs-<lb/>fähigen Zuſtande ſchrieb!“<lb/>
+            </p>
+            <p> <lb/>„Das iſt ſehr wahrſcheinlich,“ entſchied die be-<lb/>deutende Angelika, „Fräulein Pathe, Sie müſſen<lb/>zu ihm, Sie müſſen augenblicklich abreiſen!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ich muß zu ihm — er ſoll in meinen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0183" n="173" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=183"/>
+            </p>
+            <p> <lb/>Armen ſterben! Ach, wenn nur nichts Schlim-<lb/>meres zu fürchten iſt!“ Die beleidigten Muſen<lb/>wurden vor Theilnahme ganz bewegt und hüpften<lb/>hinter der Studirpathe die Stiege hinauf, um ihr<lb/>einige ſchwarze Kleider einpacken zu helfen. Auch<lb/>die Juſtizräthin kam halb gerührt, halb ſchadenfroh<lb/>zum Abſchied und fand die Sache bedenklich, <hi rendition="#g">ſehr</hi>
+               <lb/>bedenklich.<lb/>
+            </p>
+            <p> <lb/>—————<lb/>
+            </p>
+            <p> <lb/>Armer kleiner Willbrecht, er ahnte nicht, daß<lb/>ihn ſeine Jugendbekannten für verrückt hielten,<lb/>weil er zum erſten Mal, ſeit er urtheilen konnte,<lb/>
+               <hi rendition="#g">natürlich</hi> urtheilte. Die ſchüchterne Demuth,<lb/>welche Tauſende als Maske vornehmen und ent-<lb/>weihen, war den Bewohnern der Heimath etwas<lb/>ſo Ungewohntes an dem aufgeblaſenen kleinen<lb/>Burſchen, daß ſie alle möglichen Erklärungen<lb/>wagten, nur die eine zutreffende fand Niemand:<lb/>
+               <hi rendition="#g">Willbrecht liebte wahr und innig</hi>!<lb/>
+            </p>
+            <p> <lb/>Ob Anna Lene ahnte, daß ſie geliebt würde?<lb/>Die Arme war oft recht ſorgenvoll und ſagte im<lb/>herzlichen Vertrauen, ſie ſei deshalb traurig, weil<lb/>Vater wieder eine Zahlung habe und das Geld<lb/>ſo rar ſei. Willbrecht hätte gern ausgerufen: O<lb/>nehmt das meine, was nutzt es mir denn bis Ihr<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0184" n="174" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=184"/>
+            </p>
+            <p> <lb/>mich in Euren Kreis wie einen Bruder aufnehmt?<lb/>aber er ſchwieg, denn nach dieſem Anerbieten wür-<lb/>den ſie ihn ausgeſtoßen haben.<lb/>
+            </p>
+            <p> <lb/>Eines Abends kam der alte Freiherr ziemlich<lb/>ſpät heim und rief den Seinen zu: „Nun ſeht<lb/>einmal, was ich da gefunden habe? Nicht wahr,<lb/>Willbrecht, ich gehöre zu den <hi rendition="#g">ehrlichen</hi> Fin-<lb/>dern? Da iſt ein vergilbtes Sacktuch mit Ihrem<lb/>Namen um einen Hut geknotet, ich fand beides<lb/>drüben am Hülsbuſch!“<lb/>
+            </p>
+            <p> <lb/>„Meine Brieftaſche!“ ſprach Willbrecht halb<lb/>verlegen.<lb/>
+            </p>
+            <p> <lb/>„Mit dem Teſtament!“ fügte Anna Lene hinzu.<lb/>
+            </p>
+            <p> <lb/>„O, das Teſtament müſſen wir ſehen!“ rief<lb/>vorlaut Junker Bernhard.<lb/>
+            </p>
+            <p> <lb/>„Nein, mein Freund,“ vertheidigte Willbrecht<lb/>ſein Eigenthum, „laß die längſt vergeſſenen Be-<lb/>ſtimmungen ruhen!“<lb/>
+            </p>
+            <p> <lb/>„O, o, der Schäker, er wird verlegen, gewiß<lb/>ein Liebesgeheimniß.“<lb/>
+            </p>
+            <p> <lb/>„Er wird roth, er iſt ertappt!“ fügte der jün-<lb/>gere Bruder triumphirend hinzu.<lb/>
+            </p>
+            <p> <lb/>„Ja,“ brachte Willbrecht mit Anſtrenung her-<lb/>vor, „es iſt eine Herzensangelegenheit, wenn ich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0185" n="175" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=185"/>
+            </p>
+            <p> <lb/>mich ihrer auch nicht zu ſchämen habe, ſo bitte ich<lb/>doch, nicht weiter in mich zu dringen!“<lb/>
+            </p>
+            <p> <lb/>„Nichts da!“ ſchrieen die etwas ungeleckten<lb/>Junker.<lb/>
+            </p>
+            <p> <lb/>„Dutzfreunde dürfen keine Geheimniſſe vor<lb/>einander haben!“ und ehe Anna Lene es verhin-<lb/>dern konnte, hatten ſie ſich der Brieftaſche, deren<lb/>Lederdeckel die Feuchtigkeit vom Papiere abgehal-<lb/>ten hatte, bemächtigt.<lb/>
+            </p>
+            <p> <lb/>Beide laſen zugleich, ſtießen einen unartiku-<lb/>lirten Laut aus, blickten einander wie rathlos an<lb/>und reichten dann das offene Buch ihrer Schweſter,<lb/>ohne ein Wort zu reden. Anna Lene las:<lb/>
+            </p>
+            <p> <lb/>„Ich vermache mein Vermögen von beiläufig<lb/>fünfhunderttauſend Thalern der Familie von<lb/>Pranken, mit Abzug eines Legates von fünfzehn-<lb/>tauſend Thalern für Angelika Reiting. Die Fa-<lb/>milie von Pranken erfüllt mir dagegen den Wunſch,<lb/>neben Baroneſſe Anna Lene begraben zu werden.<lb/>
+            </p>
+            <p> <lb/>Willbrecht von Flor.“<lb/>
+            </p>
+            <p> <lb/>„Verzeihen Sie, Anna Lene, daß ich es wagte,<lb/>meine Blicke zu Ihnen zu erheben, ich ſchrieb An-<lb/>geſichts des Todes —! Als wir wieder dem Le-<lb/>ben gehörten, fühlte ich, es ſei mein Loos, zu<lb/>ſchweigen!“<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0186" n="176" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=186"/>
+            </p>
+            <p> <lb/>Große Thränen perlten langſam aus den ge-<lb/>ſenkten Wimpern der zehnten Muſe: „O Will-<lb/>brecht,“ ſprach ſie, ihm ihre Hand entgegen ſtreckend,<lb/>„wie dürfte ich zaudern, Ihnen zu gewähren, was<lb/>die Vorſehung, Auge im Auge mit dem Tode, be-<lb/>ſiegelte. Was an Leben und Lieben mein iſt —<lb/>Du haſt es Dir erkauft!“<lb/>
+            </p>
+            <p> <lb/>Niemand ahnte, daß, während die Prankens<lb/>eine ernſte Verlobung feierten, die für alle Theile<lb/>ſo glückverheißend ſchien, die Studirpathe unter dem<lb/>Schutze deſſelben alten Poſtillons, welcher Will-<lb/>brecht herbrachte, demſelben Ziele entgegenraſſelte,<lb/>im Koffer die ſchwarzen Kleider, im Kopfe die<lb/>ſchwarzen Gedanken. „Wenn er nur nicht tobſüch-<lb/>tig iſt,“ murmelte ſie, „eigentlich ſind ſeine Briefe<lb/>nicht gerade ſinnlos, aber doch auch nicht ver-<lb/>nünftig. Daß er die Juſtizräthin bat, der Angelika<lb/>ihr Neſt einrichten zu dürfen, als brüderlicher<lb/>Freund und dazu fünftauſend Thaler anwies — na,<lb/>das iſt erklärlich, aber ſich in einer ſolchen Wirthſchaft<lb/>glücklich zu fühlen — —“ Der Wagen erhielt ei-<lb/>nen furchtbaren Stoß, dann noch mehrere, dann<lb/>gings nach rechts ſchief, dann nach links, end-<lb/>lich haspelten Wagen und Pferde in eine Art<lb/>Grube hinein und heraus — Ueberſchwemmungen<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0187" n="177" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=187"/>
+            </p>
+            <p> <lb/>ſind keine Verbeſſerungen für Sanddämme. Die<lb/>Pathe ſah wohl, daß dieſe Scholle die Leiber der<lb/>beiden letzten Träger des Namens von Flor gebie-<lb/>teriſch verlange, ſie faltete alſo die Hände und<lb/>bereitete ſich zum Tode, indem ſie nichts mehr<lb/>dachte. Eben als der letzte Augenblick gekommen<lb/>war, hielt der Wagen vor einem erleuchteten Hauſe<lb/>und mehrere Stimmen fragten in den Schlund<lb/>des dunklen Fuhrwerks hinein, wer drinnen ſei?<lb/>
+            </p>
+            <p> <lb/>„Ich, die Studirpathe — lebt er noch, tobt<lb/>er nicht?“<lb/>
+            </p>
+            <p> <lb/>„Er tobt nur ein wenig!“ beruhigte ſie Junker<lb/>Bernhard, der glaubte, es handle ſich um einen<lb/>Scherz und hob die alte Dame ſänftiglich und<lb/>wie ein Kind aus dem Wagen. Er ſetzte ſie aber<lb/>nicht etwa zu Boden, ſondern trug die kleine Alte<lb/>ſofort in die Stube, wo er ſie vor Willbrecht ſtellte<lb/>und ſagte: „Da haſt Du ſie, nun fehlt nichts mehr!“<lb/>
+            </p>
+            <p> <lb/>„Pathe, Herzenspathe — ſie iſt meine Braut!“<lb/>jubelte Willbrecht.<lb/>
+            </p>
+            <p> <lb/>„O, mein Sohn,“ klagte die Dame, „weshalb<lb/>haſt Du Dein Ideal verlaſſen?“<lb/>
+            </p>
+            <p> <lb/>„Es hat mich verlaſſen, Pathe, wie die Lichter<lb/>verbleichen, wenn die Sonne aufgeht!“<lb/>
+            </p>
+            <p> <lb/>„Aber Du mit Deinem Kunſt-Enthuſiasmus<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0188" n="178" corresp="http://opacplus.bsb-muenchen.de/title/BV020662973/ft/bsb11162730?page=188"/>
+            </p>
+            <p> <lb/>in Krokodilsſtiefeln hinter dem Pfluge! — o — o<lb/>das endet nicht gut!“<lb/>
+            </p>
+            <p> <lb/>„Liebſte Pathe, mein Kunſt-Enthuſiasmus hat<lb/>ſich der edelſten Natur in ihrer Vollendung zuge-<lb/>wendet. Die Muſen waren keine Schauſpielerinnen,<lb/>Balletteuſen und Harfeniſtinnen — ſie waren<lb/>ſymboliſirte Ideen, dieſe meine <hi rendition="#g">zehnte</hi> Muſe<lb/>iſt ein chriſtlicher Gedanke, der alles Erhabene in<lb/>ſich begreift, aber nicht mit Kunſtkritik ſondern<lb/>mit lauterem Frauenherzen, nicht für weltberühmte<lb/>Muſeen, ſondern für das ſtille, friedenvolle Haus!“<lb/>
+            </p>
+            <p> <lb/>„Ja, ja —“ meinte die Tante, „ſie ſieht aus<lb/>als müßte ſie beglücken, wen ſie liebt!“<lb/>
+            </p>
+            <p> <lb/>„O, liebe Pathe, erbauen Sie unſer neues<lb/>Haus mit Ihrem Segen!“ bat Anna Lene.<lb/>
+            </p>
+            <p> <lb/>„Kinder — ich ſegne Euch von Herzen!“ ſagte<lb/>die Studirpathe und dann ſetzte ſie ſich und weinte<lb/>bis ſie nicht mehr konnte, worauf ſie ganz fröhlich<lb/>wurde und beim Schlafengehen verſicherte: „Dieſe<lb/>Prankens haben mir eine ordentliche Schwärmerei<lb/>für die Cannibalen beigebracht.“<lb/>
+            </p>
+            <p/>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ein Frühlingsbrief aus Venedig</title>
+            <author>
+               <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
+            </author>
+            
+            <respStmt>
+               <persName ref="http://d-nb.info/gnd/1204665788">
+                  <surname>Hug</surname>
+                  <forename>Marius</forename>
+               </persName>
+               <persName>
+                  <surname>Wiegand</surname>
+                  <forename>Frank</forename>
+               </persName>
+               <orgName ref="https://www.bbaw.de">BBAW</orgName>
+               <resp>
+                  <note type="remarkResponsibility">Text+: Konversion und Kuration der Textsammlung. Langfristige Bereitstellung der DTA-Ausgabe.</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Hungeling</surname>
+                  <forename>Andreas</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+                  <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+                  <ref target="http://www.stimm-los.de/"/>
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent/>
+         <publicationStmt>
+            <publisher xml:id="DTACorpusPublisher">
+               <orgName>Deutsches Textarchiv</orgName>
+               <orgName role="hostingInstitution" xml:lang="eng">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+               <orgName role="hostingInstitution" xml:lang="deu">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <email>dta@bbaw.de</email>
+               <address>
+                  <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+               </address>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023-07-05T15:17:44Z</date>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
+            <idno>
+               <idno type="DTADirName">dincklage_fruehlingsbrief_1874</idno>
+            </idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="DM">Dincklage: Ein Frühlingsbrief aus Venedig, 1874.</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title level="a" type="main">Ein Frühlingsbrief aus Venedig</title>
+                  <title type="volume"/>
+                  <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
+               </titleStmt>
+               <editionStmt>
+                  <edition/>
+               </editionStmt>
+               <publicationStmt>
+                  <publisher><name>A. H. Payne</name></publisher>
+                  <date>1874</date>
+                  <pubPlace>Leipzig</pubPlace>
+               </publicationStmt>
+               <seriesStmt><title level="m" type="main">Der Salon für Literatur, Kunst und Gesellschaft</title><biblScope unit="volume">2</biblScope><biblScope unit="pages">S. 1213–1218</biblScope></seriesStmt>
+            </biblFull>
+            <msDesc>
+               <msIdentifier>
+                  <repository>München BSB</repository>
+                  <idno>
+                     <idno type="URLCatalogue">http://opacplus.bsb-muenchen.de/title/6700777/ft/bsb11189640</idno><idno type="shelfmark">Shelfmark: Per. 177 l-1874,2</idno>
+                  </idno>
+               </msIdentifier>
+               <physDesc/>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Der Text ist in Anlehnung an das <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref> kodiert.</p>
+         <editorialDecl>
+            <p>Bogensignaturen: nicht übernommen; Druckfehler: dokumentiert; fremdsprachliches Material: gekennzeichnet; Geminations-/Abkürzungsstriche: keine Angabe; Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): gekennzeichnet; I/J in Fraktur: nicht übernommen; i/j in Fraktur: keine Angabe; Kolumnentitel: nicht übernommen; Kustoden: keine Angabe; langes s (ſ): wie Vorlage; Normalisierungen: nicht dokumentiert; rundes r (ꝛ): wie Vorlage; Seitenumbrüche markiert: ja; Silbentrennung: wie Vorlage; u/v bzw. U/V: keine Angabe; Vokale mit übergest. e: keine Angabe; Vollständigkeit: vollständig erfasst; Zeichensetzung: DTABf-getreu; Zeilenumbrüche markiert: ja;</p>
+            
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="deu"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">stimmlos</classCode>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <docTitle>
+            <titlePart type="main">Ein Frühlingsbrief aus Venedig</titlePart>
+         </docTitle>
+         <docAuthor>Dincklage, Emmy von</docAuthor>
+      </front>
+      <body>
+         <div>
+            <p>
+               <pb facs="#0507" n="1213" corresp="http://opacplus.bsb-muenchen.de/title/6700777/ft/bsb11189640?page=507"/>
+            </p>
+            <p> <lb/>
+            </p>
+         </div>
+         <div>
+            <p>
+               
+                  <hi rendition="#c #larger">Ein Frühlingsbrief aus Venedig.</hi>
+               
+               <lb/>
+            </p>
+            <p> <lb/>An den Herausgeber des „Salon“.<lb/>
+            </p>
+            <p> <lb/>Von <hi rendition="#g">E. von Dincklage</hi>.<lb/>
+            </p>
+            <p> <lb/>Der Vorſatz, Ihnen und den Leſern Ihrer Zeitſchrift, ehe ich Venedig<lb/>und Platen's „harmlos Völkchen luſt'ger Müſſiggänger“ verlaſſe, von meinem<lb/>Winteraufenthalt in der Lagunenſtadt zu erzählen, wurde bislang nicht ver-<lb/>wirklicht, weil ich mir geſtand, es ſei zu wenig Neues zu berichten! Heute<lb/>Morgen, halb neun Uhr, beſtimmte mich indeſſen die gelbe Dienerin des<lb/>Hauſes, Angela, als ſie mit ihren ſchwarzen, zerzauſten Haaren vor meinem<lb/>Bette ſtand, zu glauben, es werde der Reiz des Charakteriſtiſchen einiger-<lb/>maßen den Mangel des Ueberraſchenden erſetzen. Angela hat ihr Gemüth<lb/>nie durch ſchlechte Lectüre vergiftet, ſie lernte weder leſen noch ſchreiben und<lb/>redet nichts als den weichen venezianiſchen Volksdialekt, ſie überläßt ſich da-<lb/>gegen unverkürzt ihren Affecten und ich kenne „all' ihres Daſeins Freud'<lb/>und Leid!“ Sie ſtand alſo mit dem üblichen; <hi rendition="#aq">Come sta</hi>? vor mir und ich<lb/>erwiederte, ich habe die Nacht einen böſen Traum gehabt. „Einen Traum?“<lb/>rief ſie erregt. – „Ja, mir träumte ich würde erſchoſſen!“ – „<hi rendition="#aq">Dio mio</hi>, da<lb/>müſſen Sie in's Lotto ſetzen, Angſt und Furcht iſt Neunzig – mit einem Ge-<lb/>wehr erſchoſſen?“ – „Nein mit einer Piſtole!“ – „Ich werd' gleich das<lb/>Traumbuch bringen, um zu ſehen welche Nummer die Piſtole bedeutet; waren<lb/>mehrere Perſonen da, war es im Zimmer?“ – „Nein, draußen, ich ſah nur<lb/>den Mann, der ſchoß!“ – „<hi rendition="#aq">Va bene</hi>, das bedeutet Zwei; nannten Sie keine<lb/>Zahl?“ – Ich beſann mich und lachte dann, denn ich erinnerte mich, daß<lb/>ich, die Kugel in der Bruſt, ſagte: „Der arme Schiller ſtarb auch mit neun-<lb/>zehn Jahren!“ Der Angela verheimlichte ich indeß meinen literariſchen<lb/>Traumſchnitzer und nannte nur die neunzehn. Angela empfing leuchtenden<lb/>Blickes die Nummern und einen Franc.<lb/>
+            </p>
+            <p> <lb/>„Wenn ich eine Quaterne gewinne“, ſagte ich, „ſo ſoll es Dein Schaden<lb/>nicht ſein!“ – „Dann, dann“, rief ſie und warf die Arme mit den zerſchab-<lb/>ten Aermeln in die Luft, „dann <hi rendition="#aq">Viva l'Italia</hi>!“<lb/>
+            </p>
+            <p> <lb/>Der intereſſante Traum, deſſen ſchöne Folgen ſich morgen entwickeln<lb/>werden, wo wieder Ziehung iſt, hatte Angela von einer wichtigen Mitthei-<lb/>lung abgehalten; einige „Ladri“ verſuchten nämlich dieſe Nacht in unſere<lb/>Wohnung einzubrechen, und zwar waren dieſe Böſewichter Piraten, denn ſie<lb/>kamen in der Barke; hier bettelt und ſtiehlt man <hi rendition="#aq">per barca</hi>, der Täufling<lb/>und die Leiche, ſie ziehen dahin „<hi rendition="#aq">in gondola</hi>“, das Waſſer iſt hier der Weg<lb/>alles Fleiſches. Ich glaube es war im Januar, wo ich am Fenſter ſtand und<lb/>das prächtige Rundbild der Riva degli Schiavoni, der Inſeln und der<lb/>Laguna überblickte, als aus dem Canale grande ein Schwarm von Gondeln<lb/>– ich zählte hundertvierzig – wie eine Flucht Raben oder beſſer ein Zug<lb/>ſchwarzer Schwäne hervorbrach, ſie umſchifften einen großen engliſchen<lb/>Dampfer, der keuchend und dunkle Rauchwolken ausſtoßend in ihrem Wege<lb/>lag, und zogen vor meinem Fenſter vorüber. Inmitten der Flotille bewegte<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0508" n="1214" corresp="http://opacplus.bsb-muenchen.de/title/6700777/ft/bsb11189640?page=508"/>
+            </p>
+            <p> <lb/>ſich eine offene Barke, in welcher ein mit Fackeln umgebener Sarg ſtand; es<lb/>war das Leichenbegängniß eines berühmten jüdiſchen Arztes, des Profeſſor<lb/>Anamias. Der israelitiſche Friedhof iſt auf dem Feſt- und Vorlande<lb/>Venedigs, auf dem Lido. Uebrigens habe ich außer dieſem nur ein Leichen-<lb/>begängniß geſehen. Man wird hier wenig an den Tod erinnert, wenn nicht<lb/>durch die Trauergewänder, die den Venezianerinnen außerordentlich gut<lb/>ſtehen; ihr eigenthümlich mattgelber Teint, die Zierlichkeit ihrer Geſtalten<lb/>heben ſich ungemein, auch iſt die Trauertracht, „<hi rendition="#aq">il Lutto</hi> – <hi rendition="#aq">Bruno</hi> –<lb/>
+               <hi rendition="#aq">Corrotto</hi> –“ eine althergebrachte; dieſelbe zeigt ſich ſchon beim Begräbniß<lb/>des Dogen Dolfino im Jahre 1361 und das Schwarz blieb ſo ſehr eine<lb/>Farbe der Nobile, daß auf einem alten Gemälde in der Sammlung Guarini<lb/>eine ganze Hochzeitsgeſellſchaft in Schwarz gekleidet erſcheint, nur die Braut,<lb/>welche eben aus der Gondel ſteigt, iſt in Weiß. Man greift hier immer in<lb/>die Vergangenheit zurück und, abgeſehen von dem verblichenen Glanze der<lb/>ſtolzen Zeit, ſollte man doch ſehr froh ſein, daß die Krallen des veneziani-<lb/>ſchen Löwen, die ſich ſo oft in dem Herzblute der treueſten Söhne der<lb/>Republik badeten, ihm bis zur Unſchädlichkeit beſchnitten wurden. Und<lb/>dennoch kann ſich die Phantaſie nicht von den alten Bräuchen losreißen. Als<lb/>der letzte Januar gekommen war, blickte ich geſpannt die Gaſſe hernieder,<lb/>welche an der Riva degli Schiavoni entlang zum Caſtello führt. Sollten ſie<lb/>heute ausbleiben, die venetianiſchen Jungfrauen, die züchtig gekleidet, in der<lb/>Hand die Arcella, eine kleine Kaſſette, welche ihre Mitgift enthält, zur Kirche<lb/>von S. Pietro wandeln, wo allbereits die heirathsluſtigen Jünglinge harren,<lb/>ihre Wahl treffen, den kirchlichen Segen empfangen und die junge Gattin<lb/>in's Vaterhaus, frohen Feſttagen entgegen führen?<lb/>
+            </p>
+            <p> <lb/>So war es -- ſo war es dermaleinſt! An einem ſolchen Tage brachen<lb/>auch, wie die Chronika erzählt, in all' das jungfräuliche Herzklopfen und<lb/>das männliche Wählen und Zählen (der Mitgift nämlich!) eine Schaar<lb/>Piraten herein und raubten ſämmtliche Bräute nebſt ſämmtlicher Ausſteuer.<lb/>Die modernen Sabinerinnen wurden in einer Schlucht an der Küſte des<lb/>Adriatiſchen Meeres gefangen gehalten und ſpäter befreit. Die Töchter<lb/>Venedigs, welche einſt Königen ebenbürtig waren und die, wenn ſie Söhne<lb/>hatten, immerhin hoffen konnten eines Tags Mütter gekrönter Fürſten zu<lb/>ſein, ſie ziehen nicht mehr nach S. Pietro, um gewählt zu werden; jeder Ort<lb/>iſt ihnen recht zum Kriegsſchauplatz ihrer gefährlichen Blicke, Kirche und<lb/>Theater, Gondel und Volksgarten; ſie ſind reizend cokett, tragen rieſenhafte<lb/>Friſuren, auffallende Farben, viel Schmuck, lichte Stiefel und ſtäuben Haar<lb/>und Wangen ſtark mit Puder (Cipro), daß ſie wie die Müller ausſehen und<lb/>die nixenhafte grüngelbe Bläſſe ihres Teints auch noch den letzten Hauch<lb/>von Wärme verliert; um ſo feuriger aber blicken die Augen, die einen müden,<lb/>langſamen Aufſchlag haben, wenn nicht eine beſondere Anregung ſie auf-<lb/>ſprühen macht. Gegen durchreiſende Barbaren beſtehen ihrerſeits keinerlei<lb/>trennende Vorurtheile und die Söhne des rauhen Nordens fühlen ſich,<lb/>wenigſtens in dieſer einen Beziehung, in ein durchaus ſüdliches Klima ver-<lb/>ſetzt. Was im Uebrigen die Temperatur dieſes Winters und Frühlings an-<lb/>langt, ſo glaubten wir kränklichen Lufttrinker uns zu vielfachen Klagen be-<lb/>rechtigt; bald durchkältete uns der Hauch jener weißen Alpenhäupter, welche<lb/>wie eine Schulter an Schulter gereihte Wächterſchaar auf die Meeresblume<lb/>Venedig hernieder blicken, bald kam jener feuchte, erſchlaffende Luftdruck über<lb/>uns, den das Volk der Kürze wegen „Scirocco“ – nennt in Neapel iſt freilich<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0509" n="1215" corresp="http://opacplus.bsb-muenchen.de/title/6700777/ft/bsb11189640?page=509"/>
+            </p>
+            <p> <lb/>ſelbiger Scirocco ein ganz anderer ernſter Geſelle! Gott weiß wie viele<lb/>tauſend Hunde und Hündchen in dieſem Winter an unſeren Lagunen er-<lb/>froren ſind; ich ſehe ſie noch überall auf den Gaſſen, in den Läden krebsroth<lb/>mit Wunden überdeckt. Aber der Südländer erträgt das mit ſtoiſcher Ruhe;<lb/>meine ſpaniſchen Zimmernachbarn haben den ganzen Winter nicht geheizt,<lb/>während ich dreimal täglich ein Feuer anzündete, das beinahe ſo koſtbar war<lb/>wie jene Fugger'ſche Zimmetheizung zu Ehren des kaiſerlichen Gaſtes, nur<lb/>mit dem Unterſchied, daß ich mein eben ſo naſſes und ſchlechtes, als koſt-<lb/>ſpieliges Heizmaterial nicht mit Schuldſcheinen anzündete, ſondern mit den<lb/>Briefen lieber Verwandten und Freunde, welche mir alſo Leib und Seele zu-<lb/>gleich erwärmten. Meine hieſigen deutſchen mitfühlenden und mitfrierenden<lb/>Bekannten wußten es mir wenig Dank, daß ich Ihnen mittheilte: Venedig<lb/>habe ſchon weit, weit kältere Winter erlebt und ich wurde mitſammt den<lb/>Chroniken, die ich in einer der Bibliotheken aufgeſtöbert hatte, ab und zur<lb/>Ruhe verwieſen – die Lebenden behalten ja immer Recht und Diejenigen,<lb/>welche, meinen authentiſchen Nachrichten nach, damals mörderlich gefroren<lb/>haben, wandeln jetzt lange im ewigen Lichte oder braten in der Hölle ihres<lb/>berühmten Landsmannes Dante. In den Jahren 868–1118–1122 trug<lb/>das Eis in den Lagunen Pferde; freilich folgte dieſen harten Wintern auch<lb/>die entſetzliche Peſtepidemie zu wiederholten Malen; 1234 ging man zu<lb/>Fuß zum Feſtlande, 1431 wurde die Ausſtattung einer jungen Frau aus<lb/>Meſtre vermittelſt eines Pferdekarrens nach Venedig gebracht, 1442 ſchneite<lb/>es acht Tage und fror dann ſo, daß man zu Fuß von Meſtre nach der<lb/>ziemlich entfernten Inſel Murano ging, eben ſo 1475–76–1490 u. ſ. w.<lb/>Wir wiſſen Alle daß Kopenhagen vom Eiſe aus belagert wurde; wie<lb/>Schade, daß man die gute Gelegenheit in Venedig nicht benutzte.<lb/>
+            </p>
+            <p> <lb/>Wir laſen mit ſchaudernder Bewunderung, wie Schiffe am Nordpol<lb/>einfrieren; wohlan, an unſerm Lido, an der Küſte der grünen Adria, fror im<lb/>Jahre 1548 auch ein Schiff dermaßen ein, daß die Mannſchaft nur mit<lb/>Mühe gerettet wurde. Leider habe ich das Wie? dieſer Gefahr nie ſo recht<lb/>ermitteln können, weil es damals noch keine illuſtrirte Zeitung gab, die ſich<lb/>in Krater und Eisberge, in Bergwerke und Luftballons begiebt, um den<lb/>Hergang aller abnormen Begebenheiten abzubilden. Uebrigens fehlte es<lb/>Venedig keineswegs an weitſchweifigen Berichterſtattern und die verſchiedenen<lb/>Bibliotheken und Archive bergen noch unbekannte Schätze. Kein Wunder,<lb/>daß die Gelehrten aller Länder wie die Trüffelhunde dieſer Witterung fol-<lb/>gen; ich beobachtete mit Intereſſe einen jungen Münchener, der den Codex des<lb/>Chroniſten Dandolo zerſetzte, kritiſirte, an ſeinem Actenſtaube botaniſirte,<lb/>ſeine Ausſagen filtrirte und deſtillirte – kurzum, einmal und endlich die Ver-<lb/>gangenheit gründlich in Ordnung brachte. Wehe Dir, Dandolo, wenn Du auf<lb/>einem faulen Pferde ertappt wirſt! Der Chroniſt Dandolo iſt aber nicht<lb/>jener große Doge Enrico, der im zwölften Jahrhundert lebte und neunzig-<lb/>jährig und blind hinausſchiffte, Conſtantinopel zu erobern. Zum Danke<lb/>lebt ſein Andenken noch beſonders geehrt im Volksgedächtniß, das hier gar ſo<lb/>treu iſt auf die entſchwundene Größe; ich ſah kürzlich unter Muſik und mit<lb/>wehenden Flaggen ein ſchönes Kauffartheiſchiff vom Stapel laufen, das<lb/>Enrico Dandolo hieß. Ich ſah noch mehr – den Nachkommen des großen Mannes,<lb/>auch ein Enrico Dandolo, und derſelbe bat um eine Unterſtützung – weil er kein<lb/>Hemd beſaß! Als ich ihn fragte, ob er ein Mitglied des großen Stammes ſei,<lb/>füllten ſich ſeine Augen mit Thränen, ich aber murmelte Platen's Verſe:<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0510" n="1216" corresp="http://opacplus.bsb-muenchen.de/title/6700777/ft/bsb11189640?page=510"/>
+            </p>
+            <p> <lb/>„Wo iſt das Volk von Königen geblieben,<lb/>Das dieſe Marmorhäuſer durfte bauen,<lb/>Die nun verfallen und gemach zerſtieben?<lb/>Nur ſelten finden auf des Enkels Brauen<lb/>Der Ahnen große Züge ſich geſchrieben,<lb/>An Dogengräbern in den Stein gehauen!“<lb/>
+            </p>
+            <p> <lb/>Um allen chroniſtiſchen Verfinſterungen bis in die fernſten Jahrhunderte<lb/>vorzubauen, ſei hier inzwiſchen bemerkt, daß ich, für meine Perſon, nicht in<lb/>Marmorhäuſern lebe, obwohl mein Zimmer eine wahrhaft himmliſche Rund-<lb/>ſchau bietet. Meine Wohnung iſt weniger Palaſt als eine Art von moder-<lb/>nem babyloniſchen Thurm; neben mir, wie geſagt, Spanier; dito auf gleicher,<lb/>nicht unbedeutender Höhe ein ungariſcher Maler und ein öſterreichiſcher<lb/>Hauptmann, unter meinen Füßen zwei Polinnen von reinſtem Waſſer:<lb/>
+               <hi rendition="#aq">Parole de Polonaise</hi>! – Mein Zimmer iſt mit der Nachbarſtube in einer<lb/>ſo trefflichen acuſtiſchen Verbindung, daß der liebe Nächſte jeden Athemzug,<lb/>jede Silbe genauer vernimmt als man ſelbſt, weshalb ich auch das Beileid<lb/>meiner Bekannten für den „ſpaniſchen Huſten“ des Nachbars beanſpruchte<lb/>und recht gute Fortſchritte in der Sprache des Calderon mache. Ich habe<lb/>zwar nie mit den Spaniern geredet, dennoch fürchte ich ſie werden keinen<lb/>beſonders guten Begriff von meinem Geſchmack haben; in lichten Morgen-<lb/>ſtunden nämlich hören ſie mich italieniſche Gaſſenhauer ſingen, mit einer<lb/>Ausdauer, die eines beſſern Gegenſtandes würdig wäre – ach, ich ſinge, ein<lb/>Opfer der volksthümlichen Wißbegier, was ich den Canaglien – den Canal-<lb/>bummlern – und den Pittore abgelauſcht. Dieſe ſingenden Maler erbten<lb/>aber nicht etwa die nachgelaſſenen Pinſel der Bellini's, des alten Tizian, des<lb/>Giorgione, des Veroneſe, des ältern und jüngern Palma oder Tintoretto –<lb/>kurzum, ſie pinſeln nicht in des Wortes verwegenſter Bedeutung, ſondern ſie<lb/>ſtreichen die Schiffe an und waren in der guten alten Zeit, namentlich in<lb/>dem jetzt ziemlich verödeten Arſenal, zahlreich vertreten. Das Arſenal iſt,<lb/>nebenbei bemerkt, nicht etwa ein Gebäude, ſondern eine Stadt in der Stadt,<lb/>man ſagt, es nehme dieſelbe Grundfläche wie ganz Treviſo ein. Von<lb/>Venedigs Ruhm kann man mindeſtens nicht ſagen: da geht er hin und<lb/>ſingt nicht mehr! Denn geſungen wird hier immer und zwar aus Herzens-<lb/>luſt, den Charfreitag nicht ausgenommen. Die Pittore aber ſingen in ver-<lb/>ſchiedenen Vereinen Serenaden unter den Fenſtern der Reichen und der<lb/>Fremden; die Kunſt geht nach Brod. Zumeiſt kommen die Sänger, geringe<lb/>Leute jedes oder gar keines Handwerkes, in erleuchteten Gondeln und von<lb/>Zeit zu Zeit blitzen bengaliſche Flammen auf; am herrlichſten klingt dieſer<lb/>prächtige Männergeſang unter dem weitgeſpannten Marmorbogen der Rialto-<lb/>brücke, die ein ſchönes Echo beſitzt. Sehr beliebt ſind die Lieder, in deren<lb/>dramatiſchen Verlauf die Stimme einer zahnloſen Alten einfällt, etwa die<lb/>Mutter des luſt'gen Gondoliers, die ihm Vorwürfe macht, daß er ſein Geld<lb/>vertrinkt, oder eine Vecchia, die nie Eis geſehen hat – mithin auch meine<lb/>Chronik nicht geleſen, denn ſie wundert ſich zum Höchſten über ein Stück<lb/>erſtarrten Waſſers. Dieſe Geſellſchaft hat auch ihre Dichter und Componi-<lb/>ſten; kaum war, um Neujahr, der Freihafen aufgehoben, als man die ver-<lb/>lorenen Vortheile des Porto-franco vierſtimmig beklagte.<lb/>
+            </p>
+            <p> <lb/>Daß die Sänger keine Noten kennen thut dem Vortrage keinen Schaden;<lb/>vor anderhalbhundert Jahren wurden hier ganze Opern von Künſtlern, die<lb/>eben ſo wenig Noten kannten als die Nachtigallen, aufgeführt und da ich, zum<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0511" n="1217" corresp="http://opacplus.bsb-muenchen.de/title/6700777/ft/bsb11189640?page=511"/>
+            </p>
+            <p> <lb/>Schrecken meiner Leſer! auch die muſikaliſche Vergangenheit Venedigs ein-<lb/>gehend ſtudirte, ſo kann ich den wörtlichen Bericht des Zeitgenoſſen wieder-<lb/>holen. „Ein Imre (ungariſcher Name), Genueſer und das Haupt der <hi rendition="#aq">turma</hi>
+               <lb/>
+               <hi rendition="#aq">comica</hi>, kurz, dick, ohne Hals und mit einer Stulpnaſe, aber ſehr geiſtvoll<lb/>und mit einer guten Stimme begabt, Zanetta Caſanova und Agneſa<lb/>Amurat, die wunderſchöne Stimmen hatten und die Muſik vollkommen aus-<lb/>führten <hi rendition="#b">ohne eine Note</hi> zu kennen, unterhielten das Publicum ſehr und<lb/>erfreuten ſich des lebhafteſten Applauſes.“ Sie führten die erſten Dichtungen<lb/>Carlo Goldoni's im Thetaro Grimani auf, nämlich Beliſario und ein ein-<lb/>geſchobenes kleineres Stück „<hi rendition="#aq">La pupilla</hi>“.<lb/>
+            </p>
+            <p> <lb/>Zu jener Zeit, 1730, exiſtirten bereits fünf bis ſechs Theater und<lb/>ein ſtehendes Balletcorps in Venedig; damals verſchmähten die erſten Büh-<lb/>nen den Theaterflitter und die Künſtler traten in den prachtvollſten und<lb/>koſtbarſten Stoffen auf. Aber die Zuſchauer, namentlich mein Berichterſtatter,<lb/>ließen ſich auch täuſchen; ihm ſchauderte vor einem Decorationsungeheuer,<lb/>das alle Lind- und Tatzelwürmer, alle Drachen und Harpyen in ſich vereinte<lb/>und eine unmögliche Ausgeburt der Theaterregie war. Jetzt wird kaum das<lb/>Mögliche möglich gemacht, Cola Rienzi iſt in dieſer Saiſon als Infanteriſt<lb/>aufgetreten, die ſteifen Roſinanten des Giardino publico, ſo wie die Bronce-<lb/>hengſte des Nero über dem Portal don San Marco verſchmähend. Der<lb/>Tribun hatte indeß nicht verſchmäht, ſeine Erſcheinung und ſeine Logenpreiſe<lb/>durch eine wohlgemeinte Fabel zu erhöhen; es hieß nämlich, der König von<lb/>Bayern würde vor der Aufführung eintreffen und gleich nach Theaterſchluß<lb/>abreiſen. Da in dieſem Thränenthal das Wunderbare des Glaubens liebſtes<lb/>Kind iſt, ſo war man fieberhaft auf Cola und Ludwig geſpannt, der<lb/>letztere kam nicht und der erſtere ſank im Preiſe; bereits richten ſich die<lb/>muſikaliſchen Ohren den „Goti“ des jungen Componiſten Gobatti zu, welche<lb/>im nächſten Carneval vermuthlich den braven Wilhelm Tell verdrängen<lb/>werden, der Tag um Tag, Woche um Woche gegeben wurde. Der Carneval<lb/>in Venedig gleicht dem Carneval in Rom wie eine Granate der andern, d. h.<lb/>jener röthliche Granatapfel dem tödlichen Geſchoß; der erſtere iſt etwas<lb/>fade, der andere aber geradezu gewaltthätig und anmuthlos. Hier auf dem<lb/>Platze von San Marco, der Abends taghell erleuchtet iſt durch Alleen von<lb/>hohen Gascandelabern, durchfluthet von einer maskirten und unmaskirten<lb/>Menge, die ſich verhältnißmäßig geräuſchlos durcheinander ſchiebt, Alles um-<lb/>rahmt von der wunderbaren Architektur des Platzes, aus dem ſich, ein<lb/>ſteinerner Gigant, der Campanile zu dem tiefblauen, ſternbeſäeten Himmel<lb/>erhebt – hier ſchwankt man, ſoll man ſich in ein Märchen verſetzt glauben,<lb/>oder ſoll man dieſen Mummenſchanz des urvenetiantiſchen Pantalone und<lb/>der Griſette im Pagencoſtüm geradezu kindiſch finden? Doch wieder auch<lb/>nicht kindiſch, denn ſelbſt die gemiſchteſten Ridottobälle laſſen ſich vollkommen<lb/>wohlanſtändig anſchauen; man möchte in der That beinah' etwas mehr laute<lb/>Freude zwiſchen den tauſend Larven bemerken. Meine fühlende Bruſt – ich<lb/>weiß nicht, ob es die einzige? – athmete nämlich inmitten der Ridotto-<lb/>Scylla-Charibdis, ich trug eine violette Atlasmaske, hinter welcher es ſchreck-<lb/>lich warm war. Selbſt der Tanz iſt weit weniger ſtürmiſch als bei uns<lb/>daheim und darauf berechnet, daß ſich alle Paare, ſo lange geſpielt wird,<lb/>permanent auf den Marmorplatten des Fußbodens bewegen. Trotz meiner<lb/>Verhüllung, die nichts von meiner ſterblichen Hülle ahnen, geſchweige denn<lb/>ſehen ließ, wußte ſofort die ganze Geſellſchaft, meine Begleiter und ich ſeien<lb/>
+            </p>
+            <p> <lb/>
+               <pb facs="#0512" n="1218" corresp="http://opacplus.bsb-muenchen.de/title/6700777/ft/bsb11189640?page=512"/>
+            </p>
+            <p> <lb/>Fremde. Die tanzenden Herren, welche ſich einiger franzöſiſchen Worte rühmen<lb/>konnten, beeilten ſich daher mich zum Tanze aufzufordern, und wie ich nicht<lb/>tanzen wollte, galt es als ſehr feiner Ton, eine franzöſiſche Unterhaltung<lb/>mit mir anzuknüpfen. Sie ſind wie die Kinder, dieſe Venetianer. Für Den-<lb/>jenigen, der auf die Dienſtleiſtungen der Eingeborenen angewieſen iſt, wird<lb/>der Carneval mit ſeinen ewigen Illuminationen, Theatern, Bällen und<lb/>Straßenſchwärmereien ſehr läſtig.<lb/>
+            </p>
+            <p> <lb/>Meinen Diener ſah ich faſt gar nicht mehr, und wenn ich nach ihm<lb/>fragte, ſagte das Mädchen wie ſelbſtverſtändlich: „<hi rendition="#aq">Ma, dorme, Signora</hi>“; falls<lb/>er wirklich unter Dach war. Durch die „Combinazione“ des Carnevals ge-<lb/>ſchah Alles ſchlecht und vernachläſſigt und doch ſtand dieſe Combination ſo<lb/>unantaſtbar feſt wie ein Dogma.<lb/>
+            </p>
+            <p> <lb/>Die ſtille Woche ging inzwiſchen auch mit großer Heiterkeit, Muſik und Ge-<lb/>ſang vorüber; man lief in die Kirchen, drängte ſich umher, begrüßte ſeine<lb/>Freunde und ſtieg in die mit Lichtern und Blumenduft erfüllten Souterrains<lb/>der Dome hinunter. Zum Oſterfeſt brannte in San Marco jener alte<lb/>Kronleuchter, der von allen Seiten geſehen immer ein flammendes Kreuz<lb/>bildet, es wurde eine ſehr ſchöne Muſik aufgeführt und dann beſtieg der alte<lb/>Patriarch, er feierte vor Kurzem mit großem Pomp ſein fünfzigjähriges<lb/>Prieſterjubiläum, mit einem Gefolge von Mitren die geräumige Kanzel, ſetzte<lb/>ſich auf einen vergoldeten Seſſel, legte den Hirtenſtab in andere Hände und<lb/>hielt ſeinen Schafen eine lange Predigt, indem er ſich dann und wann<lb/>unterbrach, um Zuckerwaſſer zu trinken. Da er ſehr corpulent iſt, transpirirte<lb/>er unglaublich; ſchließlich erfolgte der päpſtliche Segen, welchen die kirchlichen<lb/>Würdenträger entblößten Hauptes empfingen.<lb/>
+            </p>
+            <p> <lb/>Mir wird dieſe Oſterfeier um ſo unvergeßlicher ſein als ſie zugleich<lb/>meine Abſchiedsfeier von Venedig und meinen lieben italieniſchen und deut-<lb/>ſchen Freunden iſt. Italieniſche Freunde? ſtaunen und zweifeln Diejenigen,<lb/>welche die Eigenthümlichkeiten der vulcaniſchen Erde genauer kennen – den-<lb/>noch mein guter Stern führte mich in einen alten Palazzo, wo ich ſtets<lb/>freundlichen Empfang, ſtets trefflichen ruſſiſchen Thee, ſtets die Neuigkeiten<lb/>des Tages und die mir wünſchenswerthen Druck- und Schriftwerke über die<lb/>Vergangenheit fand; ich bin in meiner Abſchiedsſtunde keine Fremde in<lb/>Venedig, nur eine Reiſende, welche in der Vorausſetzung geht – wieder zu<lb/>kommen! Auch das öſterreichiſche Geſandtſchaftshotel hat ſich mir freundlich<lb/>erſchloſſen; wohin ich mich wende, ſtets führt eine der ſchmalen Verbindungs-<lb/>ſtraßen mich zu irgend einem trauten Boudoir oder Atelier, nachdem ich die<lb/>breiten Steintreppen der Palazzi erſtiegen.<lb/>
+            </p>
+            <p> <lb/>„O Venezia benedetta<lb/>Non ti voglio piu lasciar!“<lb/>
+            </p>
+            <p> <lb/>Druckfehler:<lb/>Seite 1213<lb/>üblichen; Come sta? —&gt; üblichen: Come sta?<lb/>
+            </p>
+            <p> <lb/>Seite 1214<lb/>– nennt in Neapel —&gt; nennt — in Neapel<lb/>
+            </p>
+            <p> <lb/>Seite 1215<lb/>Wir wiſſen Alle daß —&gt; Wir wiſſen Alle, daß<lb/>
+            </p>
+            <p> <lb/>Seite 1216<lb/>Noten kennen thut —&gt; Noten kennen, thut<lb/>
+            </p>
+            <p> <lb/>Seite 1217<lb/>Thetaro Grimani —&gt; Theatro Grimani<lb/>Portal don —&gt; Portal von<lb/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
