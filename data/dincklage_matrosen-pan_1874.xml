@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Matroſen-Pan</title>
+            <title type="main">Matrosen-Pan</title>
             <author>
                <persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName>
             </author>
@@ -55,10 +55,10 @@
             </idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="DM">Dincklage: Matroſen-Pan, 1874.</bibl>
+            <bibl type="DM">Dincklage, Emmy von: Matrosen-Pan. Leipzig, 1874.</bibl>
             <biblFull>
                <titleStmt>
-                  <title level="a" type="main">Matroſen-Pan</title>
+                  <title level="a" type="main">Matrosen-Pan</title>
                   <title type="volume"/>
                   <author><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></author>
                </titleStmt>
