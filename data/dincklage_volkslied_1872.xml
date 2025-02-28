@@ -90,7 +90,7 @@
             <p><choice corresp="375" cert="low"><sic>unglücklicheu</sic><corr>unglücklichen</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

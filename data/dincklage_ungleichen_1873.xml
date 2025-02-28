@@ -90,7 +90,7 @@
             <p><choice corresp="80" cert="high"><sic>chmales</sic><corr>ſchmales</corr></choice><choice corresp="102" cert="high"><sic>Seine ſensitives</sic><corr>Sein ſensitives</corr></choice><choice corresp="107" cert="high"><sic>der, Ihnen</sic><corr>der Ihnen</corr></choice><choice corresp="130" cert="high"><sic>Küche gehen!</sic><corr>Küche gehen!“</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

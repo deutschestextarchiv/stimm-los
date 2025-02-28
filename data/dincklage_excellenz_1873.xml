@@ -90,7 +90,7 @@
             <p><choice corresp="24" cert="high"><sic>Füſſen</sic><corr>Füßen</corr></choice><choice corresp="72" cert="high"><sic>General; wenn</sic><corr>General; „wenn</corr></choice><choice corresp="73" cert="high"><sic>Mein Mann bezog</sic><corr>„Mein Mann bezog</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

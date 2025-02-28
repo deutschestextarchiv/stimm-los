@@ -90,7 +90,7 @@
             <p><choice corresp="107"><sic>nnd</sic><corr>und</corr></choice><choice corresp="124"><sic>ſiciers in</sic><corr>ficiers in</corr></choice><choice corresp="136"><sic>„Die Schildwach</sic><corr>Die Schildwach</corr></choice><choice corresp="159"><sic>„Der Oeſtreicher</sic><corr>Der Oeſtreicher</corr></choice><choice corresp="189"><sic>zu ſammeln.“</sic><corr>zu ſammeln.““</corr></choice><choice corresp="193"><sic>werden?“ — Kein</sic><corr>werden?“ — „Kein</corr></choice><choice corresp="196"><sic>es iſt wieder aus.</sic><corr>es iſt wieder aus.“</corr></choice><choice corresp="199"><sic>jnn</sic><corr>jun</corr></choice><choice corresp="203"><sic>fragte: Woher</sic><corr>fragte: „Woher</corr></choice><choice corresp="205"><sic>habe ich ihn gerettet.</sic><corr>habe ich ihn gerettet.“</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="m"><persName ref="http://d-nb.info/gnd/118648071"><surname>Alexis</surname><forename>Willibald</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

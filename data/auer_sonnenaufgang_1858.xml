@@ -90,7 +90,7 @@
             <p><choice corresp="10" cert="high"><sic>ehrfurchsvoll</sic><corr>ehrfurchtsvoll</corr></choice><choice corresp="12" cert="high"><sic>alte Frau ſei, ſchienen</sic><corr>alte Frau ſei, ſchien</corr></choice><choice corresp="14" cert="high"><sic>Liebe, nicht</sic><corr>Liebe nicht</corr></choice><choice corresp="22" cert="high"><sic>anklagen daß</sic><corr>anklagen, daß</corr></choice><choice corresp="22" cert="high"><sic>beſaß nach</sic><corr>beſaß, nach</corr></choice><choice corresp="24" cert="low"><sic>ſeiner Frau erwähnte</sic><corr>ſeine Frau erwähnte</corr></choice><choice corresp="25" cert="low"><sic>M.,</sic><corr>M...,</corr></choice><choice corresp="28" cert="high"><sic>zn</sic><corr>zu</corr></choice><choice corresp="28" cert="high"><sic>zn</sic><corr>zu</corr></choice><choice corresp="29" cert="high"><sic>Verzweifluug</sic><corr>Verzweiflung</corr></choice><choice corresp="29" cert="high"><sic>Verzweifluug</sic><corr>Verzweiflung</corr></choice><choice corresp="36" cert="high"><sic>Umtergebenen</sic><corr>Untergebenen</corr></choice><choice corresp="36" cert="high"><sic>Umtergebenen</sic><corr>Untergebenen</corr></choice><choice corresp="36" cert="high"><sic>mit einem Morde</sic><corr>mit einem Morde auf</corr></choice><choice corresp="44" cert="high"><sic>zn</sic><corr>zu</corr></choice><choice corresp="44" cert="high"><sic>kommen aber</sic><corr>kommen, aber</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

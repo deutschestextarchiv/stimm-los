@@ -90,7 +90,7 @@
             <p><choice corresp="1410" cert="low"><sic>Raiſonnemens</sic><corr>Raiſonnements</corr></choice><choice corresp="1411"><sic>Fenſterbreter</sic><corr>Fenſterbretter</corr></choice><choice corresp="1416"><sic>Erſchütteruug</sic><corr>Erſchütterung</corr></choice><choice corresp="1426"><sic>Eigennutz liegt klar</sic><corr>Eigennutz liegen klar</corr></choice><choice corresp="1426" cert="low"><sic>Hartwig’s Falſchheit</sic><corr>Heinrich’s Falſchheit</corr></choice><choice corresp="1426" cert="low"><sic>Hartwig’s Entſchlüſſen</sic><corr>Heinrich’s Entſchlüſſen</corr></choice><choice corresp="1427" cert="low"><sic>Hartwig hat</sic><corr>Heinrich hat</corr></choice><choice corresp="1427" cert="low"><sic>O, lieben Kinder,</sic><corr>O, liebe Kinder,</corr></choice><choice corresp="1430"><sic>erwuchs ſie"</sic><corr>erwuchs ſie.“</corr></choice><choice corresp="1431"><sic>damas</sic><corr>damals</corr></choice><choice corresp="1432"><sic>führen Daß</sic><corr>führen. Daß</corr></choice><choice corresp="1432"><sic>es gemußt</sic><corr>es gewußt</corr></choice><choice corresp="1437" cert="low"><sic>träumte ſie!</sic><corr>träumte ſie?</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/113665946"><surname>Auer</surname><forename>Adelheid von</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

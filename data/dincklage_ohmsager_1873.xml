@@ -90,7 +90,7 @@
             <p><choice corresp="319" cert="low"><sic>Raſſirmeſſer</sic><corr>Raſirmeſſer</corr></choice><choice corresp="323" cert="low"><sic>Emsländers wurde plötzlich</sic><corr>Emsländers wurden plötzlich</corr></choice><choice corresp="345" cert="low"><sic>nnd</sic><corr>und</corr></choice><choice corresp="353" cert="low"><sic>leichtfinnigen</sic><corr>leichtſinnigen</corr></choice><choice corresp="354" cert="low"><sic>ihr wenigen Kleider</sic><corr>ihre wenigen Kleider</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

@@ -90,7 +90,7 @@
             
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/11732065X"><surname>Westkirch</surname><forename>Luise</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

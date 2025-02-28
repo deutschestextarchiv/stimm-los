@@ -90,7 +90,7 @@
             <p><choice corresp="828"><sic>eintrat Die</sic><corr>eintrat. Die</corr></choice><choice corresp="829"><sic>feierlich, ob</sic><corr>feierlich, „ob</corr></choice><choice corresp="832"><sic>unvollkommeneu</sic><corr>unvollkommenen</corr></choice><choice corresp="833"><sic>ſein. Die Eiferſucht,</sic><corr>ſein.“ Die Eiferſucht,</corr></choice><choice corresp="842"><sic>Bienen korbhauſe</sic><corr>Bienenkorbhauſe</corr></choice><choice corresp="842"><sic>kald</sic><corr>kalt</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="f"><persName ref="http://d-nb.info/gnd/116137312"><surname>Dincklage</surname><forename>Emmy von</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>

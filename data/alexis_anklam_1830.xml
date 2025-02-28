@@ -90,7 +90,7 @@
             <p><choice corresp="224"><sic>ſichwieder</sic><corr>ſich wieder</corr></choice><choice corresp="226"><sic>Knebelbart Dann</sic><corr>Knebelbart. Dann</corr></choice><choice corresp="227" cert="low"><sic>Pferd Thränen</sic><corr>Pferd — Thränen</corr></choice></p>
          </editorialDecl>
       </encodingDesc>
-      <profileDesc>
+      <profileDesc><particDesc><person sex="m"><persName ref="http://d-nb.info/gnd/118648071"><surname>Alexis</surname><forename>Willibald</forename></persName></person></particDesc>
          <langUsage>
             <language ident="deu"/>
          </langUsage>
